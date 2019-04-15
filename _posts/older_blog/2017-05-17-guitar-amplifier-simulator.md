@@ -1,6 +1,5 @@
 ---
 title: "Guitar Amplifier Simulator"
-date: 05/17/2017
 ---
 # Guitar amplifier Simulator
 

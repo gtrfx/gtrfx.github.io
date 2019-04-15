@@ -1,6 +1,5 @@
 ---
 title: "General idea"
-date: 05/17/2017
 ---
 
 ## 들어가며

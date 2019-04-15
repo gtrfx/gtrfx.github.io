@@ -1,6 +1,5 @@
 ---
 title: "blog server open!"
-date: 05/17/2017
 ---
 # 블로그 개설합니다.
 

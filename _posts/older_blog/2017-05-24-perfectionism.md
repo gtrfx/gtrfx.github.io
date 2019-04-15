@@ -1,6 +1,5 @@
 ---
 title: "Perfectionism"
-date: 05/24/2017
 tags: [perfectionism, anxiety]
 ---
 # 완벽주의라는 것..
