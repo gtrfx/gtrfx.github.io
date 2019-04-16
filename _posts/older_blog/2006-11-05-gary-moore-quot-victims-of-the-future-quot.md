@@ -28,7 +28,7 @@ Gary Moore가 참여했던 각종 앨범이 모두 수록되어있었지만
 Epiphone LP Standard (DW...)
 Toneport UX1 (JCM800 Model)
 Squire Jazz Bass
-![audio](/assets/images/64ad7e5134be366d2b3c39a84d17b6c4.mp3)
+<audio src="/assets/images/64ad7e5134be366d2b3c39a84d17b6c4.mp3" controls preload></audio>
 
 
 

@@ -22,7 +22,7 @@ title: "Piezo pickup test #1"
 샘플을 들어보시라..프리앰프가 없어 음질은 엉망이다만 기대했던 것 보다 쓸만한 소리가 난다.
 (물론 이펙트는 하나도 안 걸었다. 그대로 바이패스해서 녹음했다)
 
-![audio](/assets/images/f06019928ecec2788880c858fb8832b2.mp3)
+<audio src="/assets/images/f06019928ecec2788880c858fb8832b2.mp3" controls preload></audio>
 
 아래는 Parker Fly의 Piezo pickup으로 녹음한 샘플들이 제공되는 링크이다. 접속해서 확인해보면 지금의 허접 피에조 픽업도 프리앰프로 적절히 음손실을 보강하면 십여만원의 픽업/프리앰프와 차이가 없을 것이다.
 

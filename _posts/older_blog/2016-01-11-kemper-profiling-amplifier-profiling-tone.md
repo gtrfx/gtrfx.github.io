@@ -17,7 +17,7 @@ title: "Kemper Profiling Amplifier: Profiling tone"
 
 
 
-![audio](/assets/images/c1d200a26167f57fcff8c75a4c824f88.mp3)
+<audio src="/assets/images/c1d200a26167f57fcff8c75a4c824f88.mp3" controls preload></audio>
 
 
 
@@ -59,7 +59,7 @@ title: "Kemper Profiling Amplifier: Profiling tone"
 
 
 
-![audio](/assets/images/1b24bcce5dbe5d464bd41872033f4bd2.mp3)
+<audio src="/assets/images/1b24bcce5dbe5d464bd41872033f4bd2.mp3" controls preload></audio>
 
 
 

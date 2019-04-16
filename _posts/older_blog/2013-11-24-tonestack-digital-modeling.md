@@ -35,11 +35,11 @@ Treble/Middle/Bass = (0,0,1)
 Treble/Middle/Bass = (.5,.1,.7)
 
 
-![audio](/assets/images/8aedc82e9e9c653894ef6c6ff5980d9a.mp3)
-![audio](/assets/images/7a6b7744f4772ac2570068dd9acc373d.mp3)
-![audio](/assets/images/cfb4e37c873324c9cc67e7119ea7efc4.mp3)
-![audio](/assets/images/18b2a114e6885e96119b81fd8446d653.mp3)
-![audio](/assets/images/b5c41db3d5d99bd085b3a55402735a44.mp3)
+<audio src="/assets/images/8aedc82e9e9c653894ef6c6ff5980d9a.mp3" controls preload></audio>
+<audio src="/assets/images/7a6b7744f4772ac2570068dd9acc373d.mp3" controls preload></audio>
+<audio src="/assets/images/cfb4e37c873324c9cc67e7119ea7efc4.mp3" controls preload></audio>
+<audio src="/assets/images/18b2a114e6885e96119b81fd8446d653.mp3" controls preload></audio>
+<audio src="/assets/images/b5c41db3d5d99bd085b3a55402735a44.mp3" controls preload></audio>
 
 
 
@@ -60,11 +60,11 @@ Treble/Middle/Bass = (0,0,1)
 
 Treble/Middle/Bass = (.5,.1,.7)
 
-![audio](/assets/images/ffa561c8413976a24cb2bf011e313e4c.mp3)
-![audio](/assets/images/f6fea6a119790c0c1a18d78b51d8f93c.mp3)
-![audio](/assets/images/df4710b26acc825ced360f2632abd709.mp3)
-![audio](/assets/images/a3ff07c5119ef96033e0af76c8156f1a.mp3)
-![audio](/assets/images/713e14379ac28d4b5404c15f7e2b8e69.mp3)
+<audio src="/assets/images/ffa561c8413976a24cb2bf011e313e4c.mp3" controls preload></audio>
+<audio src="/assets/images/f6fea6a119790c0c1a18d78b51d8f93c.mp3" controls preload></audio>
+<audio src="/assets/images/df4710b26acc825ced360f2632abd709.mp3" controls preload></audio>
+<audio src="/assets/images/a3ff07c5119ef96033e0af76c8156f1a.mp3" controls preload></audio>
+<audio src="/assets/images/713e14379ac28d4b5404c15f7e2b8e69.mp3" controls preload></audio>
 
 
 

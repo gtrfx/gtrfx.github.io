@@ -15,6 +15,6 @@ title: "Soldano SLO Module Sample.."
 
 Soldano SLO module + Reedoox Custom
 
-![audio](/assets/images/878684cc9f351e2e7b3046b53f0ee530.mp3)
+<audio src="/assets/images/878684cc9f351e2e7b3046b53f0ee530.mp3" controls preload></audio>
 
 

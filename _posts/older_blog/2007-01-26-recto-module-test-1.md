@@ -10,7 +10,7 @@ Recto+Fender 모듈을 시도했으나 하울링이 심해서 Fender sub-part는
 
 cap을 꽤 많이 달았음에도 워낙 하이게인이라 험을 막을 수는 없었음..
 
-![audio](/assets/images/7a36b165149eab4981b0576178e50824.mp3)
+<audio src="/assets/images/7a36b165149eab4981b0576178e50824.mp3" controls preload></audio>
 
 
 

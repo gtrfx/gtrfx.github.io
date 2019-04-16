@@ -10,10 +10,10 @@ title: "Experiment on Speaker Simulation..(1)"
 아래 두 개의 샘플을 들어보시라.. 물론 이들은 12인치의 스피커를 가정한 두 가지 경우를 시뮬레이트한 것이다.
 
 Closed Cab (4X12) type #1
-![audio](/assets/images/01a15ced8dd4fe3bd86d724bfa56df54.mp3)
+<audio src="/assets/images/01a15ced8dd4fe3bd86d724bfa56df54.mp3" controls preload></audio>
 
 Closed Cab (4X12) type #2
-![audio](/assets/images/f7ec12e9bf6d0beeb85fbc4bb3f98382.mp3)
+<audio src="/assets/images/f7ec12e9bf6d0beeb85fbc4bb3f98382.mp3" controls preload></audio>
 
 
 

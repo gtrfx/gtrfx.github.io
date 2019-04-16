@@ -24,7 +24,7 @@ Jem7dbk에 비교하면 다소 날이 많이 무딘 느낌이고 섬세하다거
 
 아래는 10분작업..-_-;
 
-![audio](/assets/images/7d516841282148bcba68050a7b66a32b.mp3)
+<audio src="/assets/images/7d516841282148bcba68050a7b66a32b.mp3" controls preload></audio>
 
 
 

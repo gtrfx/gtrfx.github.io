@@ -16,7 +16,7 @@ Pantera의 Mouth for War를 카피해봤다..
 답답..
 
 
- ![audio](/assets/images/1260a17c8c7cc40829269f91e3186907.mp3)
+ <audio src="/assets/images/1260a17c8c7cc40829269f91e3186907.mp3" controls preload></audio>
 
 
 

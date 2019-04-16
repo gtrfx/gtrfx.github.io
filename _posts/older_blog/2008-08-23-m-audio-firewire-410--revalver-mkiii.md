@@ -17,7 +17,7 @@ Revalver는 개인적으로 느끼기에 아직 20%정도 모자른 감이 없�
 
 아래는 Revalver mkIII의 스피커 시뮬 + JCM800 프리앰프 모듈(실물) + Ibanez S2020X
 
-![audio](/assets/images/f0c0423ad0647e9802b27aa6459fc812.mp3)
+<audio src="/assets/images/f0c0423ad0647e9802b27aa6459fc812.mp3" controls preload></audio>
 
 
 

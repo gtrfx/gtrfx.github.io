@@ -98,7 +98,7 @@ Haas Effect로 좌우 패닝
 일반 Panner로 좌우 패닝
 
 
-![audio](/assets/images/c68b0176981b2a879d8ee2e2dc78a754.mp3)
+<audio src="/assets/images/c68b0176981b2a879d8ee2e2dc78a754.mp3" controls preload></audio>
 
 
 

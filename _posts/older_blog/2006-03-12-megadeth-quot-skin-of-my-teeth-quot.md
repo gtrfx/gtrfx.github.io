@@ -13,6 +13,6 @@ Drum: DFH2
 
 찌그러지긴 잘 찌그러지지만 이상하게도 몹시 안 날카로운 느낌이 마구 든다..
 
-![audio](/assets/images/d41d8cd98f00b204e9800998ecf8427e.mp3)
+<audio src="/assets/images/d41d8cd98f00b204e9800998ecf8427e.mp3" controls preload></audio>
 
 

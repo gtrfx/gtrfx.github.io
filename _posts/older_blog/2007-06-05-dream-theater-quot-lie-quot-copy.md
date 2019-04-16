@@ -10,7 +10,7 @@ title: "Dream Theater &quot;Lie&quot; Copy"
 
 RG7321 + Soldano SLO Module
 
-![audio](/assets/images/2ac414a4a151a887992ee66d8bd07f3e.mp3)
+<audio src="/assets/images/2ac414a4a151a887992ee66d8bd07f3e.mp3" controls preload></audio>
 
 
 

@@ -12,7 +12,7 @@ Backing: Ibanez RG7321
 Amplifier: TB2 (Brown Module)
 
 
-![audio](/assets/images/90ddc4b656506fad730a35d963411816.mp3)
+<audio src="/assets/images/90ddc4b656506fad730a35d963411816.mp3" controls preload></audio>
 
 
 

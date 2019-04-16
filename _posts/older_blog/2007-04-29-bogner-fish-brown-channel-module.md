@@ -16,10 +16,10 @@ JCM800 모듈을 만들어 볼까 SLO 모듈을 만들어 볼까 하다가 Bogne
 
 아래는 샘플..(Brown channel을 EVH tone을 targeting 했다는 설이 있기에..실제로 잘 들어맞는 것 같다).
 
-![audio](/assets/images/ef22815ab22fc909025d8bed3ba8c326.mp3)
+<audio src="/assets/images/ef22815ab22fc909025d8bed3ba8c326.mp3" controls preload></audio>
 
 아래는 5150을 쳐본 것이다..
-![audio](/assets/images/69ba3782518cd1e561cb435a148a4892.mp3)
+<audio src="/assets/images/69ba3782518cd1e561cb435a148a4892.mp3" controls preload></audio>
 
 
 

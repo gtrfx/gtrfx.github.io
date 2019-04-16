@@ -38,7 +38,7 @@ title: "Piezo pickup + Preamp test #3"
 
 아래는 2차 실험 결과 샘플이다. 지금까지 설명한 내용이 무슨 의미인지 감이 올 것이다.
 
-![audio](/assets/images/53529858ac210dda88601d724700e919.mp3)
+<audio src="/assets/images/53529858ac210dda88601d724700e919.mp3" controls preload></audio>
 
 
 

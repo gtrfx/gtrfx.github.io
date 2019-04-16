@@ -20,7 +20,7 @@ SLO의 회로는 사실상 몇 부분만 빼곤 rectifier와 꼭 같아서 아�
 
 ![image](/assets/images/8639b879fa98afcced9cc7cc1d2282f5.png)
 아래에 만든 FISH preamp와의 비교를 위해 5150을 쳐넣었다..비교가 될른지..
-![audio](/assets/images/40515c9b60c60769990fbe1a71840213.mp3)
+<audio src="/assets/images/40515c9b60c60769990fbe1a71840213.mp3" controls preload></audio>
 
 
 

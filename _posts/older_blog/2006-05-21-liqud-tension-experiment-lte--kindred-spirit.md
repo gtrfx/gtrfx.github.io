@@ -11,7 +11,7 @@ Guitar: Ibanez RG450MH (Seymour Duncan 59/JB)
 Amp Sim.: Line6 Toneport
 
 
-![audio](/assets/images/160bade21e82a65354f968e91ef4c048.mp3)
+<audio src="/assets/images/160bade21e82a65354f968e91ef4c048.mp3" controls preload></audio>
 
 
 

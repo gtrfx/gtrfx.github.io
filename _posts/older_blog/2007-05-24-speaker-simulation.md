@@ -19,13 +19,13 @@ MATLAB이 FFT하는데 도움을 주었다..
 
 아래는 Axetrak의 Peavey Triple X 샘플..
 
-![audio](/assets/images/5c4d59b29172b9ff93223584b325f374.mp3)
+<audio src="/assets/images/5c4d59b29172b9ff93223584b325f374.mp3" controls preload></audio>
 
 아래는 프리앰프 출력 샘플..
-![audio](/assets/images/371b15b0a4aaf6d5dd8d7426814e04ae.mp3)
+<audio src="/assets/images/371b15b0a4aaf6d5dd8d7426814e04ae.mp3" controls preload></audio>
 
 아래는 흉내내기 꽁수의 결과..
-![audio](/assets/images/0374f3eba31975e306b4ffb9c6b360b9.mp3)
+<audio src="/assets/images/0374f3eba31975e306b4ffb9c6b360b9.mp3" controls preload></audio>
 
 
 

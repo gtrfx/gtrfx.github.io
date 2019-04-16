@@ -16,7 +16,7 @@ title: "Drumkit From Hell..Superior"
 
 또 빼먹은 게 있는데, 별도로 드럼맵을 사용해서 잘 매핑해줘야 하는 점이 있긴 하다. 누가 만들어 놓은 GM 미디 시퀀스로 작업한다면, 소릴 잘 들어가며 노트를 바꿔주어야 한다. 요거 또 굉장한 노가다가 아닐 수 없다. 그렇다 세상에 공짜가 어딨냐..광고용 샘플만 듣고 뭐든 할 수 있겠다 생각했다면, 엄청난 노가다가 뒤따른다는 것을 잊지말라.
 
-![audio](/assets/images/e2981dc290c97a00f0e0952d6c88e938.mp3)
+<audio src="/assets/images/e2981dc290c97a00f0e0952d6c88e938.mp3" controls preload></audio>
 
 
 

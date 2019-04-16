@@ -12,6 +12,6 @@ Marc Bonilla의 1992년작 EE Ticket이다. 이 앨범도 어떻게 구해보려
 
 즐감하시라..
 
-![audio](/assets/images/4d6a29db0447fca5331c3dea29ccc316.mp3)
+<audio src="/assets/images/4d6a29db0447fca5331c3dea29ccc316.mp3" controls preload></audio>
 
 

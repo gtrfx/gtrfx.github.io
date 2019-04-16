@@ -12,7 +12,7 @@ Ozone5는 역시나 좀 너무 과한 듯 싶다.
 Logic Pro 9.2 (Ozone 5)
 Ibanez RGR450M
 Recto Module
-![audio](/assets/images/e4eec9aab58ef45e85831ce2611d86cc.mp3)
+<audio src="/assets/images/e4eec9aab58ef45e85831ce2611d86cc.mp3" controls preload></audio>
 
 
 

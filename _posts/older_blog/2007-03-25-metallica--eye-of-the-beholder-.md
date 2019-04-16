@@ -13,7 +13,7 @@ title: "Metallica - Eye of the Beholder..."
 
 Ibanez RG450MH
 
-![audio](/assets/images/56167c8c70757d353cdda61cb0ff3388.mp3)
+<audio src="/assets/images/56167c8c70757d353cdda61cb0ff3388.mp3" controls preload></audio>
 
 
 

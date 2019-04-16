@@ -12,6 +12,6 @@ Toneport, Epiphone LesPaul Standard(Seymour Duncan 59/JB)
 
 여러가지 픽업 포지션을 적당히 사용하는 듯하나 귀찮음으로 리어만 썼다..
 
-![audio](/assets/images/94d47035f05b1fd3508ba1395e8876ec.mp3)
+<audio src="/assets/images/94d47035f05b1fd3508ba1395e8876ec.mp3" controls preload></audio>
 
 
