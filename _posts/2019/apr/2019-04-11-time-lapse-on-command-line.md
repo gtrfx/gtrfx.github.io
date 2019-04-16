@@ -15,6 +15,12 @@ ffmpeg을 설치하자. Mac이면 homebrew를 이용하면 된다. 그리고 Han
 
 다음은 내가 사용하는 일괄 편집 perl script이다. 참조하기 바란다. 외장 USB reader라든가 HDD로 붙은 것에서 JPG를 모조리 찾아내서 그것들을 ffmpeg으로 무손실로 전부 이어붙인 파일을 만들고 그것을 h.265로 인코딩한다. 인코딩 품질은 4k를 고려해서 10Mbps이다. 최종 결과물은 대략 이어붙인 파일의 2% 정도 크기로 줄어든다. 
 
+ffmpeg으로만 해도 되는 일을 왜 handbrake까지 거들게 하냐 라는 말을 할 수 있을텐데, 솔직히 time lapse clip 하나만 있는 경우에는 뭘로 해도 별로 상관이 없다. 그런데, time lapse clip과 일반적인 movie clip을 ffmpeg으로 이어붙이려고 보면 미묘한 차이에 의해서 뒤에 붙은 영상들이 다 날아가는 일이 있어서다. 
+
+별다른 영상 편집 소프트웨어로 작업할 게 아니라면 frame rate과 resolution은 전부 하나로 통일해서 이어붙이고 작업하는 게 좋다. 
+
+60fps로 작업하는 이들도 많은 것 같은데, 중요한 영상이 아니라면 4k 24fps가 적당하다고 보여진다. FHD는 요새 화면에서는 이해하긴 어렵지만 blurry한 결과물을 준다. 
+
 ```perl
 
 #!/usr/bin/env perl
@@ -46,7 +52,7 @@ sub get_jpg
                 my $davi=$data.".avi";
                 my $dmp4=$data.".mp4";
                 `ffmpeg -pattern_type glob -i '$_[0]/*.JPG' -vcodec copy $cwd/$davi`;
-                `HandBrakeCLI -i $cwd/$davi -o $cwd/$dmp4 -e vt_h265 -b 10000 --no-decomb --no-comb-detect --no-unsharp $rot`;
+                `HandBrakeCLI -i $cwd/$davi -o $cwd/$dmp4 -e vt_h265 -r 24 -b 10000 --no-decomb --no-comb-detect --no-unsharp $rot`;
                 `rm $cwd/$davi`;
                 last;
             }
