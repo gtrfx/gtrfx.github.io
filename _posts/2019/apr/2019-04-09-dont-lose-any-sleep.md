@@ -1,5 +1,5 @@
 ---
-title: "80년대 pop 따기: Don't lose any sleep"
+title: "80년대 pop 따라하기: Don't lose any sleep"
 tags: [starship, 80s]
 ---
 
@@ -24,3 +24,5 @@ Chorus는 G-C-Am-D로 간다.
 별 대단한 소릴 찾는 것도 아니고 Brass와 String이다. EP는 Dexed + Yamaha DX7 cartrige set만 있으면 80년대 소린 다 해결 된다. Synth Bass도 소린 참 많은 데 '이거다!' 싶은 걸 찾다가 시간 다 보낸다. 
 
 결국 아무거나 대충 얻어걸리는 것으로 따고 나중에 바꾸는 식으로 가는 게 맞는데, 아무래도 이런 빈티지한 소리 (라고 해봐야 그 이후로 더 좋은 소리가 나온 게 없다 솔직히)를 잘 내는 신디 몇 개를 찾아서 그것만 찍어서 쓰는 게 맞다고 본다.
+
+<iframe width="420" height="315" src="https://soundcloud.com/user-157729569/80s-pop-training-01" frameborder="0" allowfullscreen></iframe>
