@@ -1,5 +1,5 @@
 ---
-title: "80년대 pop 따기: We built this city"
+title: "80년대 pop 따라하기: We built this city"
 tags: [starship, 80s]
 ---
 
