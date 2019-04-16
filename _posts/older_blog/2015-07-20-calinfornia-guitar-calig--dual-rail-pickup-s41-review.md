@@ -9,7 +9,7 @@ title: "Calinfornia Guitar(CALIG): Dual Rail Pickup S41 Review"
 
 
 
-![image](ff7ffa4e1865b232f3a3bf977d4d5e75.png)
+![image](/assets/images/ff7ffa4e1865b232f3a3bf977d4d5e75.png)
 
 
 
@@ -23,7 +23,7 @@ Anaheim의 어느 곳으로부터 발송된 이 물건은 내가 살고 있는 �
 
 
 
-![image](a6d5ba3dcafc8ad9fd741c74d2e837dc.jpg)
+![image](/assets/images/a6d5ba3dcafc8ad9fd741c74d2e837dc.jpg)
 
 
 
@@ -35,7 +35,7 @@ Anaheim의 어느 곳으로부터 발송된 이 물건은 내가 살고 있는 �
 
 
 
-![image](ba2f22880c7e84e0624b3c0dc14d006d.jpg)
+![image](/assets/images/ba2f22880c7e84e0624b3c0dc14d006d.jpg)
 
 
 

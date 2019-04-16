@@ -11,16 +11,16 @@ title: "HiWatt Preamp Module..?"
 
 아래는 회로도의 일부이다.
 
-![image](8411c52c1315d5a4ce5f283b9c7e9d07.jpg)
+![image](/assets/images/8411c52c1315d5a4ce5f283b9c7e9d07.jpg)
 
 
 이 회로는 70년대 초반의 프리앰프 회로인데, 그림에서 보는 것과 같이 마스터 볼륨 이후에도 두 개의 증폭단이 더 있고, phase splitter까지 붙어있다. phase splitter와 그 직전의 증폭단은 다른 기타 앰프들에 비해 색다른 구성을 취하고 있는데, 이 부분은 아무래도 시뮬레이션을 통해서 그 특성을 파악해야 좋을 것 같다. 이것은 일단 다음으로 미뤄두고, 또 한가지 특이한 부분인 EQ 회로의 특성을 파악할 필요가 있다. 회로의 cap 값이나 구성을 볼 때, fender style의 tone stack과 유사한 것 같은데, 간단히 simulation으로 비교해 보았다.
 
-![image](7560aa14a02b582292fb8683861ecb13.jpg)
+![image](/assets/images/7560aa14a02b582292fb8683861ecb13.jpg)
 
 비교에 사용한 회로는 위와 같다. 위와 같은 구성일 때, 주파수 특성을 비교해보면 아래와 같다.
 
-![image](bb34a249098cb63211205d75691c2e78.jpg)
+![image](/assets/images/bb34a249098cb63211205d75691c2e78.jpg)
 
 그래프에서 보는 바와 같이 EQ의 scooped 된 주파수는 좀 다르긴 하지만, 대체적인 특성은 유사한 것을 알 수 있다.
 

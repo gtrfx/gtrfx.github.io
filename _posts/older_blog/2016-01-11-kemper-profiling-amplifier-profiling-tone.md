@@ -17,7 +17,7 @@ title: "Kemper Profiling Amplifier: Profiling tone"
 
 
 
-![audio](c1d200a26167f57fcff8c75a4c824f88.mp3)
+![audio](/assets/images/c1d200a26167f57fcff8c75a4c824f88.mp3)
 
 
 
@@ -35,11 +35,11 @@ title: "Kemper Profiling Amplifier: Profiling tone"
 
 
 
-![image](920dea7c8f79a6ed32d4bbc9241e6a2a.png)
+![image](/assets/images/920dea7c8f79a6ed32d4bbc9241e6a2a.png)
 
 입력신호의 진폭은 다음과 같이 그려볼 수 있었다. 크게 4부분으로 쪼개지는데, 첫번째는 중간 음역대의 chirped signal, 두번째는 impulse, 그 다음은 white noise, 세번째는 저음역대의 chirped signal인 것으로 보여진다. 음량의 크기로 볼 때 네번째 부분의 소리가 가장 큰 음량임을 알 수 있다. 
 
-![image](d6d6301278b349289d534c3f7b0f0c1c.png)
+![image](/assets/images/d6d6301278b349289d534c3f7b0f0c1c.png)
 
 첫번째 테스트 톤이다. 그래프는 spectrogram으로 시간에 따른 주파수 스펙트럼의 변화를 나타낸 것이다. 진폭은 색깔로 나타나게 된다. 나중에 파워를 나타내서 보겠지만 생각보다 음의 진폭이 크지 않다. 이 테스트의 목적은 앰프가 어디서 saturate하는지를 확인하기 위함으로 보여진다. 입력 신호는 그림에서 보다시피 chirped signal (주파수가 시간에 따라 변화하는)인데 주파수의 변동폭이 그리 크지 않다. 시간이 갈 수록 진폭을 키우다보니 앰프에서 일어나는 찌그러짐 때문에 하모닉이 점점 더 늘어나고 있음을 알 수 있다. 이 과정을 통해서 profiler는 앰프가 어디에서 신호를 찌그러뜨리지 알 수 있다. harmonic 성분은 어느 주파수 이상으로는 늘어나지 않는데, 그 이유는 스피커 + 마이크의 주파수 응답의 한계가 있기 때문이다. 대략 10kHz 미만의 신호만이 스피커를 통해 나오게 된다.
 
@@ -59,7 +59,7 @@ title: "Kemper Profiling Amplifier: Profiling tone"
 
 
 
-![audio](1b24bcce5dbe5d464bd41872033f4bd2.mp3)
+![audio](/assets/images/1b24bcce5dbe5d464bd41872033f4bd2.mp3)
 
 
 
@@ -70,7 +70,7 @@ title: "Kemper Profiling Amplifier: Profiling tone"
 
 
 
-![image](a849001bb0b3b2af15ffc8b17e0fb5df.png)
+![image](/assets/images/a849001bb0b3b2af15ffc8b17e0fb5df.png)
 
 
 
@@ -80,7 +80,7 @@ title: "Kemper Profiling Amplifier: Profiling tone"
 
 
 
-![image](4c0b58060efadf84ee9ade330a147e84.png)
+![image](/assets/images/4c0b58060efadf84ee9ade330a147e84.png)
 
 그 다음은 white noise가 입력된다. 귀로 듣기에 완벽하게 white noise로 들리지 않고 키질하는 소리처럼 들리는 것은 위 그래프에서 보는 바와 같이 진폭의 변화가 같은 패턴으로 주기적으로 반복되고 있어서 그렇다. 
 
@@ -88,7 +88,7 @@ title: "Kemper Profiling Amplifier: Profiling tone"
 
 
 white noise의 음량이 비교적 크고 (chirped signal의 음량보다 큼) 그 큰 음량때문에 대부분 찌그러진 신호가 되는데, 앰프 내부에서 EQ에 의하여 여러 가지로 주파수 특성의 변형이 있었을 것이므로, 스피커의 주파수 특성을 제외하더라도 완벽하게 white하다고는 볼 수 없다. 그러나, 그렇다고 가정하는 경우에는 이 신호들을 이용하여 스피커 IR을 측정할 수는 있을 것이다.
-![image](202c90ecbd225aba709c7ba74703b498.png)
+![image](/assets/images/202c90ecbd225aba709c7ba74703b498.png)
 
 마지막으로 또 한번의 chirped signal인데, 그림으로는 다소 분간하기 어렵지만 음량이 대음량이고, 그림에서 보다시피 0-400Hz(?)구간에서 swing하고 있는데, 앞서 관찰했던 구간을 되짚어보자면 기타 앰프의 초저음 영역 (스피커의 임피던스+댐핑 관련 부분)을 측정하고자 함이 아니었을까 추측하게 된다. 핵심 주파수 영역은 반드시 80Hz 근방을 포함해야 되는데, 소리를 들어볼 때는 매우 낮은 주파수에서 sweeping이 일어나는 것처럼 들리는데, 찌그러졌기 때문에 정확히 어디서 어디까지 스윙하고 있는지는 잘 들리지 않는다. 
 

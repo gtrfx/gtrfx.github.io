@@ -37,7 +37,7 @@ title: "Vacuum Tubes"
 
 ### 3극관 (Triode)
 
-![triode](triode.png) ![triode](triode.jpg)
+![triode](/assets/images/triode.png) ![triode](triode.jpg)
 
 3극관은 transistor와 사실상 같은데, 차이점을 들라면 음극관(cathode)에서 양극관(plate)로 이동하는 전자의 흐름을 방해하는 전극(grid)로 흘러들어가는 전류의 양이 지극히 작다는 이점이 있다. 즉 grid 전극의 전압 변화로만 P->C로 흐르는 전류의 양을 제어할 수 있어서 입력 임피던스가 매우 큰 증폭기를 만들 수 있다. 이 얘기는 무슨 말이냐면 triode가 들어간 증폭기의 입력으로부터 거의 아무런 전류도 끌어오지 않아서 입력에 미치는 영향이 거의 없다는 장점이 있다는 밀이다. 
 
@@ -45,6 +45,6 @@ title: "Vacuum Tubes"
 
 ### 4극관/5극관 (Tetrode/Pentode)
 
-![pentode](pentode.png)
+![pentode](/assets/images/pentode.png)
 
 3극관과의 차이점은 P->C로의 전류 흐름을 제어하는 grid 전극이 많다는 것이고 전류의 흐름을 많이 가져갈 수 있어서 전력 증폭에 용이하다는 이점이 있다. 

@@ -16,7 +16,7 @@ Line6의 제품과 같이 모든 이펙트를 DSP에 전적으로 의존하지 �
 다시 말하자면 Vox의 Valvetronix라는 것은 Korg의 앰프 시뮬 DSP 기술 + Valve reactor + Vox의 아날로그 도메인에서 쌓은 이미지가 결합된 것이라고 볼 수 있다. Korg에 Toneworks라는 이미지로는 아날로그를 고집하는 고객들에게 어필하는데 한계가 있다고 생각했기 때문이리라..
 
 아래의 도면은 Valvetronix라 불리우는 기술의 경쟁력 포인트로서 쉽게 말하자면 다양한 세팅의 파워앰프를 흉내내는 회로부를 나타낸 것이다.
-![image](f7c5c6a4a07457629db4ec1696eb23cb.jpg)Valve Reactor 관련 특허의 도면
+![image](/assets/images/f7c5c6a4a07457629db4ec1696eb23cb.jpg)Valve Reactor 관련 특허의 도면
 
 
 그림을 보면 10번에 해당하는 블록이 phase splitter에 해당하고, 12번 블록이 power amp에 해당하는 부분 되겠다. 13번 블록은 피드백 네트웍으로서 일반적으로 앰프의 presence, 저/고음 특성등을 결정하는 부분이 된다.

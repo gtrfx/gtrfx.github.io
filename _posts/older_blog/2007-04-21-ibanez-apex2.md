@@ -16,5 +16,5 @@ Mahogani Body
 Tone-pros 7 bridge
 PAF-7 Pickups (Front/Rear)
 
-![image](7086da6d15687855e5e028e37088d02e.png)
+![image](/assets/images/7086da6d15687855e5e028e37088d02e.png)
 

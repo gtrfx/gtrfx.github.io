@@ -16,6 +16,6 @@ Ibanez RG450MH
 
 풀게인, 풀 마스터볼륨..
 
-![audio](a69c3b928b1df803ebf22cf81aa8d40e.mp3)
+![audio](/assets/images/a69c3b928b1df803ebf22cf81aa8d40e.mp3)
 
 

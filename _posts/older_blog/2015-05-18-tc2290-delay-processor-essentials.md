@@ -57,11 +57,11 @@ title: "TC2290 Delay Processor: Essentials"
 
 
 
-![image](f2f6a6315fbe88286b367b5d8fa48890.png)
+![image](/assets/images/f2f6a6315fbe88286b367b5d8fa48890.png)
 
 
 
-![image](5d3ecea9b2ce8d8142cbac3feb34c200.png)
+![image](/assets/images/5d3ecea9b2ce8d8142cbac3feb34c200.png)
 
 
 
@@ -73,7 +73,7 @@ title: "TC2290 Delay Processor: Essentials"
 
 
 
-![image](d874d3fa2680f0aa16f16862472ad3bb.png)
+![image](/assets/images/d874d3fa2680f0aa16f16862472ad3bb.png)
 
 
 

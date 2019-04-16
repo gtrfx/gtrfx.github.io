@@ -25,7 +25,7 @@ Valve state라는 것은 마샬에서 나온 상품명이었던 것 같은데, �
 
 
 
-![image](a4663df63045ea68f3daae173d863c8d.png)Marshall Valve State: Preamp 일부분
+![image](/assets/images/a4663df63045ea68f3daae173d863c8d.png)Marshall Valve State: Preamp 일부분
 
 
 

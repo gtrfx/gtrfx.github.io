@@ -12,14 +12,14 @@ title: "Guitar Survey.."
 브릿지가 플로이드로즈 오리지날이 아니면 어떠냐..앨더 바디에 메이플 지판, 그리고 던컨 SH4..
 
 
-![image](776815d43d925aaf7664ef38e2d21554.gif)
+![image](/assets/images/776815d43d925aaf7664ef38e2d21554.gif)
 그리고 Ibanez RGT320Z 이거나..
 
-![image](7c5038daa5c1870b7e589d7833a26699.gif)
+![image](/assets/images/7c5038daa5c1870b7e589d7833a26699.gif)
 
 아니면 RGT3520Z이거나..
 
-![image](c70b88d77e9a917ff3ce1fa5c06b79cf.gif)
+![image](/assets/images/c70b88d77e9a917ff3ce1fa5c06b79cf.gif)
 
 
 

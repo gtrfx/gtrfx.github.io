@@ -7,7 +7,7 @@ title: "Nessun Dorma.."
 
 내 비록 공주는 아니지만 Nessun Dorma를 듣고 있다.
 
-![audio](12f895bacbe01459e6d09bcf3e30e05b.mp3)
+![audio](/assets/images/12f895bacbe01459e6d09bcf3e30e05b.mp3)
 
 
 뭐 태어나서 그렇게 많은 Nessun Dorma를 들어본 것은 아니지만 역시 구관이 명관이라고, 첨 들었던 파..씨의 Nessun Dorma가 개인적으로 젤 맘에든다. 뭐 네쑨 도르마 뿐인가 나폴리 민요도 그렇고 다른 오페라의 아리아들도 모두 마찬가지다..엄청난 파워에 가슴 가득한 후련함과 시원함을 주는 연주자는 나에겐 오직 파...씨 뿐이다..

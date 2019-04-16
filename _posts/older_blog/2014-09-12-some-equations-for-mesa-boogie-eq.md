@@ -26,7 +26,7 @@ subscript k는 band 번호를 의미하는 값이니 알아서 이용하면 되�
 
 
 
-![image](977c451c9571bae859d6bdb75f434174.png)
+![image](/assets/images/977c451c9571bae859d6bdb75f434174.png)
 
 
 

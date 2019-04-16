@@ -3,7 +3,7 @@ title: "Extra-Terrestrial..(1982)"
 ---
 # Extra-Terrestrial..(1982)
 
-![image](eb2a1ae3cada5164ef2ac6b2c1869478.jpg)
+![image](/assets/images/eb2a1ae3cada5164ef2ac6b2c1869478.jpg)
 
 30년이나 된 상당히 오래된 영화를 봤다. 밤에 심심해서 불꺼놓고..
 영화를 보다가 놀라웠던 사실은 자막없이도 아무 문제 없이 볼 수 있었다는 것이다. 생각보다 대화가 없다. ㅎㅎ

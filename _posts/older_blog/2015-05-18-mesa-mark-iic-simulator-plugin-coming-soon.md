@@ -13,7 +13,7 @@ title: "Mesa Mark IIc+ Simulator Plugin: Coming soon!"
 
 
 
-![image](ce319091ef778f74a1996b0273b8b336.png)
+![image](/assets/images/ce319091ef778f74a1996b0273b8b336.png)
 
 
 

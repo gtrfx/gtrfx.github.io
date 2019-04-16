@@ -17,6 +17,6 @@ title: "ESP Snapper CTM.."
 튜닝도 매우 안정적이고 fulcrum action이란 게 이런 거구나 싶게
 너무 부드럽다..
 
-![image](f21293caa7c08c41faecb4ea619f5d90.png)
+![image](/assets/images/f21293caa7c08c41faecb4ea619f5d90.png)
 
 

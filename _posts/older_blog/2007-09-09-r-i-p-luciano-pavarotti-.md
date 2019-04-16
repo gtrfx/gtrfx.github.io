@@ -3,7 +3,7 @@ title: "R.I.P. Luciano Pavarotti..."
 ---
 # R.I.P. Luciano Pavarotti...
 
-![image](10f1061b3cac0f47ebe923a2ca7aca88.png)2주전쯤부터 Pavarotti가 부른 노래들이 듣고 싶어 이래저래 찾아듣고 있었는데..
+![image](/assets/images/10f1061b3cac0f47ebe923a2ca7aca88.png)2주전쯤부터 Pavarotti가 부른 노래들이 듣고 싶어 이래저래 찾아듣고 있었는데..
 
 얼마지나지 않아 CNN 뉴스 화면에 그가 췌장암으로 죽었다는 화면을 보게 될 줄이야..
 

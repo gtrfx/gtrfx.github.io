@@ -6,7 +6,7 @@ title: "Jackson &quot;Jenna Jameson&quot; King V.."
 
 
 
-![image](27b657ab017269f207df955593260f2c.jpg)
+![image](/assets/images/27b657ab017269f207df955593260f2c.jpg)
 
 
 

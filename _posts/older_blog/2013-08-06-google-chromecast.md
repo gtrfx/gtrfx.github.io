@@ -31,7 +31,7 @@ Google의 Chromecast가 얼마전에 발표되었다. 아마존에 $35에 떠올
 
 
 
-![image](e784d4180bac82460341e823a11df2ad.png)
+![image](/assets/images/e784d4180bac82460341e823a11df2ad.png)
 
 
 

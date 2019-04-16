@@ -11,7 +11,7 @@ Tetrode/Pentode는 triode에 전류의 흐름을 제어하는 단자가 한개 �
 
 
 
-![image](1b96f47cebe6729956ad00eac0804214.PNG)
+![image](/assets/images/1b96f47cebe6729956ad00eac0804214.PNG)
 
 
 

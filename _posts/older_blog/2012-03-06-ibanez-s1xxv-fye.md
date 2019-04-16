@@ -3,7 +3,7 @@ title: "Ibanez S1XXV FYE.."
 ---
 # Ibanez S1XXV FYE..
 
-![image](84b552cd78b3858669956e1596547c44.jpg)
+![image](/assets/images/84b552cd78b3858669956e1596547c44.jpg)
 Ibanez에서 금년에 발매한 S series되시겠다. 보다시피 붙어있는 부품들은 그다지 좋은 것이 아닌데다 픽업을 보면 저가 모델에 붙어있는 INF 픽업이 붙어있다. 국내 쇼핑몰 가격은 과거 RG prestige 가격인데, 인도네시아산 되시겠다.
 
 불행히도 몹시나 끌리는 것이 이 물건이 24 프렛에다 형광 페인트를 썼다는 것이다. 어둠에서 빛을 발한다.

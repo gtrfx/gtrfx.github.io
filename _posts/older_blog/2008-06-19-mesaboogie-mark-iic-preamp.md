@@ -10,7 +10,7 @@ title: "MesaBoogie Mark IIc+ preamp"
 아래 그림에서 보이듯 좀 지저분하다. 윗쪽에 2개의 triode로 된 회로가 lead 회로단이다. 쉽게 말해, 팬더 앰프의 프리앰프 뒤에 이어붙인 추가 게인단 되겠다. 이것만으로 산타나가 'Boogie'라고 했던 Mark I이 된다. 
 Mark II에서는 이것만으로 부족해 5단 그래픽 EQ가 붙는다.
 
-![image](5e92a5ae049ad138703dd27fe7f0db12.jpg)
+![image](/assets/images/5e92a5ae049ad138703dd27fe7f0db12.jpg)
 
 여기서 switch를 좀 더 붙여서 모드를 다양하게 만든 것이 mark III, EQ를 2계통으로 만들고 스위치를 더 많이 달아놓은 것을 MarkIV라고 할 수 있겠다. 스위치라 함은 볼륨에 푸쉬풀 스위치를 같이 달아놓은 것이라든지 LDR이라든지 릴레이를 이용해서 하나의 회로를 다양하게 이용해서 톤을 바꿀 수 있도록 해놓았단 얘기다.
 

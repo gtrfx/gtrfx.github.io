@@ -26,7 +26,7 @@ title: "Cathode Follower"
 
 
 
-![image](53d6b1de3b82f1f17e1791bb2bea6e8f.png)
+![image](/assets/images/53d6b1de3b82f1f17e1791bb2bea6e8f.png)
 
 
 

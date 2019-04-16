@@ -24,6 +24,6 @@ Epiphone Les Paul Standard
 - Tuner: Glover(?)
 - Bridge: TOM
 
-![image](a1d9092569b5eeff9d6569b614f1fdcc.png)![image](e92f24528c31d95142ed161bc1b8a57b.png)
+![image](/assets/images/a1d9092569b5eeff9d6569b614f1fdcc.png)![image](e92f24528c31d95142ed161bc1b8a57b.png)
 
 

@@ -14,5 +14,5 @@ Basswood body에 Dimarzio Blaze-II 픽업으로 무장하고 있다.
 Fixed Bridge + Mahogany body들은 관세 물고 들여오면 훨씬 비싼 가격인데다가, 막상 중고로 내놓으면 팔릴 확률이 낮기 때문이다..
 
 
-![image](b2976adc45cdfe0e6b1f3b5245d8bde1.jpg)
+![image](/assets/images/b2976adc45cdfe0e6b1f3b5245d8bde1.jpg)
 

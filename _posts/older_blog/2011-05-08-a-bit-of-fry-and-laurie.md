@@ -14,7 +14,7 @@ title: "A Bit of Fry and Laurie.."
 
 뭐 어찌되었든 영어라는 원죄로 말미암아 이 엄청난 즐거움을험난한 길을 헤쳐가듯 겪어내야만 하는 것이 괴로울 따름이다.
 
-![image](d59ad9f3e1c95bf282417855d028b17c.png)
+![image](/assets/images/d59ad9f3e1c95bf282417855d028b17c.png)
 
 
 

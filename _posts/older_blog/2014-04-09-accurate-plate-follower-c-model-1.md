@@ -108,15 +108,15 @@ Rg=68k, 33k, 10k로 변화시키고 Rp=100k, Rk=1.8k로 놓았을 때의 Vg, Vp,
 
 
 
-![image](9cd32422000fd187fe29c03367564012.png)
+![image](/assets/images/9cd32422000fd187fe29c03367564012.png)
 
 
 
-![image](78ec3ff81606c57f753482a00198cdcb.png)
+![image](/assets/images/78ec3ff81606c57f753482a00198cdcb.png)
 
 
 
-![image](6a2e701989cbc6f28d3da8c248861d1c.png)
+![image](/assets/images/6a2e701989cbc6f28d3da8c248861d1c.png)
 
 
 
@@ -128,15 +128,15 @@ Rg=68k, 33k, 10k로 변화시키고 Rp=100k, Rk=1.8k로 놓았을 때의 Vg, Vp,
 
 
 
-![image](ed30da8e38810435229dc086658076b7.png)
+![image](/assets/images/ed30da8e38810435229dc086658076b7.png)
 
 
 
-![image](da1bfcf4f3f84e43db47fde8faff3d8f.png)
+![image](/assets/images/da1bfcf4f3f84e43db47fde8faff3d8f.png)
 
 
 
-![image](17ede2bb7813d4bcb68861ece323e9c5.png)
+![image](/assets/images/17ede2bb7813d4bcb68861ece323e9c5.png)
 
 다음은 Rk=1.8k, 1k, 0k로 바꿔 가며 실험한 결과이다.
 
@@ -145,15 +145,15 @@ Rg=68k, 33k, 10k로 변화시키고 Rp=100k, Rk=1.8k로 놓았을 때의 Vg, Vp,
 
 
 
-![image](aad4e44700bb73612fe7c2b15827fc9f.png)
+![image](/assets/images/aad4e44700bb73612fe7c2b15827fc9f.png)
 
 
 
-![image](b53d256ac1d931444ca7a216897e6157.png)
+![image](/assets/images/b53d256ac1d931444ca7a216897e6157.png)
 
 
 
-![image](ebecf44eac42e96314809078f110fb51.png)
+![image](/assets/images/ebecf44eac42e96314809078f110fb51.png)
 
 C를 통해 간단히 시뮬레이션 한 것이지만 사실상 Spice를 써서 얻은 결과와 같다고 볼 수 있다.
 

@@ -14,7 +14,7 @@ title: "The Coolangatta Gold.."
 국내 개봉시에 '위너스 (Winners)'란 제목으로 상영되었던 84년작 호주 영화인데, 원제는 'The Coolangatta Gold'라고 한다. 국내 개봉은 86년 6월쯤 되었던 것 같다 (아마도 중간고사를 보고 보러 갔었을테니까 7월쯤 보러갔을 것 같다).
 
 안타깝게도 그 청순한 여 주인공(Josephine Smulders)은 이 영화 이후 출연한 영화가 거의 없었던 것 같다. 
-![image](9fa4cef96f1fa5c0a828c543a43a10a4.png)
+![image](/assets/images/9fa4cef96f1fa5c0a828c543a43a10a4.png)
 
 음악은 '록키' 씨리즈와 '가라데 키드'의 음악으로 유명한 Bill Conti가 담당했다. 영화 중에 나오는 밴드가 부르는 노래들도 좋았던 것 같은데, 불행히도 구할 방법이 없다. 아래 음악을 들어보면 Bill Conti가 작곡했던 다른 음악들 ('남과 북')도 동시에 떠오르게 된다..
 

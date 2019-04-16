@@ -28,7 +28,7 @@ Plate follower의 경우는 여기에 plate resistor를 이용하여 load line�
 
 
 
-![image](8a916c77c0a76402bf22655a065f10e3.jpg)
+![image](/assets/images/8a916c77c0a76402bf22655a065f10e3.jpg)
 
 
 
@@ -40,7 +40,7 @@ Plate follower의 경우는 여기에 plate resistor를 이용하여 load line�
  
 
 
-![image](db1f9a122de9335556a1ec94632bccf0.jpg)
+![image](/assets/images/db1f9a122de9335556a1ec94632bccf0.jpg)
 
 
 

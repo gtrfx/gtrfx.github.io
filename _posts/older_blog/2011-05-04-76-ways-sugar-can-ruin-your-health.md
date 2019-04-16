@@ -4,7 +4,7 @@ title: "76 Ways Sugar Can Ruin Your Health"
 # 76 Ways Sugar Can Ruin Your Health
 
 76 Ways Sugar Can Ruin Your Health
-Contributed by Nancy Appleton, Ph.D Author of the book Lick the Sugar Habit![image](a50a833f9ed2a41592852ed502494743.jpg)
+Contributed by Nancy Appleton, Ph.D Author of the book Lick the Sugar Habit![image](/assets/images/a50a833f9ed2a41592852ed502494743.jpg)
 
 In addition to throwing off the body's homeostasis, excess sugar may result in a number of other significant consequences. The following is a listing of some of sugar's metabolic consequences from a variety of medical journals and other scientific publications.
 

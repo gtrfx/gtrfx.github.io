@@ -11,7 +11,7 @@ title: "Piezo pickup..."
 
 
 
-![image](fc8bdaeb52c13d4e6a5ce0e0ac9b2217.png)
+![image](/assets/images/fc8bdaeb52c13d4e6a5ce0e0ac9b2217.png)
 
 
 
@@ -28,7 +28,7 @@ title: "Piezo pickup..."
 
 
 
-![image](595524f9d5275eb10b9e26c48e10ac99.jpg)
+![image](/assets/images/595524f9d5275eb10b9e26c48e10ac99.jpg)
 
 
 
@@ -47,7 +47,7 @@ title: "Piezo pickup..."
 
 
 
-![image](a2acf6c5b96999123525232d5e06c785.png)
+![image](/assets/images/a2acf6c5b96999123525232d5e06c785.png)
 
 
 

@@ -19,7 +19,7 @@ Jeff Beck의 "There and Back"이란 앨범의 수록곡 "El-Becko"를 커버도 
 
 
 
-![image](002fecece0b36a5bd9580d1eb7b89c0e.jpg)
+![image](/assets/images/002fecece0b36a5bd9580d1eb7b89c0e.jpg)
 
 
 
@@ -36,7 +36,7 @@ Jeff Beck의 "There and Back"이란 앨범의 수록곡 "El-Becko"를 커버도 
 
 
 
-![image](1c0878f55c68a64fbec1c562ecfa3350.jpg)
+![image](/assets/images/1c0878f55c68a64fbec1c562ecfa3350.jpg)
 
 
 

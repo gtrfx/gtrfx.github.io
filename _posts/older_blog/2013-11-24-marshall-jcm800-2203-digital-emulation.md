@@ -16,7 +16,7 @@ title: "Marshall JCM800 2203 Digital Emulation"
 
 Front pickup
 
-![audio](7ccedc62ed4c5f93c96394c2b6dbdd8f.mp3)
+![audio](/assets/images/7ccedc62ed4c5f93c96394c2b6dbdd8f.mp3)
 
 
 
@@ -27,7 +27,7 @@ Front pickup
 
 Rear pickup
 
-![audio](ef1d97693245879cecab91817646ad58.mp3)
+![audio](/assets/images/ef1d97693245879cecab91817646ad58.mp3)
 
 
 

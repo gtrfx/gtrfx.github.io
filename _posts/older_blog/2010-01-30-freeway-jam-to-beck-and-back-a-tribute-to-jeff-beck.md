@@ -3,7 +3,7 @@ title: "Freeway Jam to Beck and Back: A Tribute to Jeff Beck"
 ---
 # Freeway Jam to Beck and Back: A Tribute to Jeff Beck
 
-![image](36d0623c3bbd3533a2d6064a2f3ae327.jpg)
+![image](/assets/images/36d0623c3bbd3533a2d6064a2f3ae327.jpg)
 Jeff Beck이 3월에 내한 공연을 한다는데, 나에겐 남의 일이나 다름 없는 상황이 되었고..
 아쉬운 마음을 음악으로 달래고 있다. 
 음..이거 뭐 어떤 자세로 받아들여야 할지 모르는 다소 쌈티 질질 흐르는 표지의 음반이다.

@@ -15,7 +15,7 @@ title: "Bogner Uberschall...Schematic??"
 
 샤시 위에 바로 배선되어있는 4개의 소켓이 출력관(EL34)을 위한 것으로 보여진다.
 
-![image](1c605759e30080aa98903b5ca23703cb.png)
+![image](/assets/images/1c605759e30080aa98903b5ca23703cb.png)
 
 
 

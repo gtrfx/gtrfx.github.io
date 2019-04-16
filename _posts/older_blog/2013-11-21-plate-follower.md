@@ -16,7 +16,7 @@ Plate follower라는 것은 plate단의 전압을 따라가게 만든 증폭단�
 
 
 
-![image](7f246986e21b926c331637dccf842b87.jpg)
+![image](/assets/images/7f246986e21b926c331637dccf842b87.jpg)
 
 
 
@@ -31,7 +31,7 @@ Plate follower라는 것은 plate단의 전압을 따라가게 만든 증폭단�
 
 
 
-![image](1011edd129dd16566cab732fd70a2cf6.jpg)
+![image](/assets/images/1011edd129dd16566cab732fd70a2cf6.jpg)
 
 
 

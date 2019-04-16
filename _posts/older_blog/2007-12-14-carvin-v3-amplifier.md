@@ -3,7 +3,7 @@ title: "Carvin V3 Amplifier"
 ---
 # Carvin V3 Amplifier
 
-![image](63d87de6b43ce6a7a1c18d480153f894.jpg)
+![image](/assets/images/63d87de6b43ce6a7a1c18d480153f894.jpg)
 
 Carvin V3 100W amplifier head이다. 가격이 $899로 3채널 100W 앰프 헤드치고는 상당히 매력적인 가격이다. 
 

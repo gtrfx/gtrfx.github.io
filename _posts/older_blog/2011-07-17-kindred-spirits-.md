@@ -7,7 +7,7 @@ title: "Kindred Spirits..."
 
 여전히 답답한 기타소리 멍청한 믹스..
 
-![audio](6d3145341b58a9fc1fc46824358d1672.mp3)
+![audio](/assets/images/6d3145341b58a9fc1fc46824358d1672.mp3)
 
 
 

@@ -7,6 +7,6 @@ title: "JCM800 Module sample..2"
 
 1959SLP보다 JCM800이 훨씬 더 마샬스럽다고나 할까..아주 기타 칠 맛이 제대로 난다고나 할까..
 
-![audio](5598e2780f8ca1d9da22d4b0fb7f7585.mp3)
+![audio](/assets/images/5598e2780f8ca1d9da22d4b0fb7f7585.mp3)
 
 

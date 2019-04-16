@@ -34,7 +34,7 @@ R만 있을 땐 현재의 상태가 과거의 상태와 아무런 연관이 없�
 
 
 
-![image](678e656d06511ab2140c8df091220be1.png)Plate Follower with several caps
+![image](/assets/images/678e656d06511ab2140c8df091220be1.png)Plate Follower with several caps
 
 
 
@@ -71,7 +71,7 @@ Parasitic cap중에서 가장 큰 영향을 주는 것은 Cpg로 Plate와 grid�
 
 수식을 척 보면 전압의 시간 변화가 빨라지면 거기에 대한 상대적인 저항이 생기는 수식으로 보여진다. Sine wave를 넣고 이 때의 출력을 측정하여 그래프를 그려보면 다음과 같다. Cpg는 대부분 2.4 pF 정도로 놓는데 여기서도 그렇게 넣어보았다.
 
-![image](ee19986f648f307b8fba50a94c017787.png)
+![image](/assets/images/ee19986f648f307b8fba50a94c017787.png)
 
 
 
@@ -119,7 +119,7 @@ cathode cap이 붙지 않는 경우, cathode voltage가 grid voltage증가와 �
 
 
 
-![image](8ae18ebab42aa1ddba14657e2348941d.png)
+![image](/assets/images/8ae18ebab42aa1ddba14657e2348941d.png)
 
 
 
@@ -139,7 +139,7 @@ Plate cap의 역할은 high cut을 하는 것인데, Simulation model에서도 �
 
 
 
-![image](9df8258701147e14847eb76d18917cd6.png)
+![image](/assets/images/9df8258701147e14847eb76d18917cd6.png)
 
 
 

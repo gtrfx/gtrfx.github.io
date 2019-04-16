@@ -28,7 +28,7 @@ FET의 경우는 특정 성질의 고체 (n-type or p-type)에 흐르는 전자�
 
 
 
-![image](7e549a9f41f36509314e864b693d3096.png)Junction Filed Effect Transistor
+![image](/assets/images/7e549a9f41f36509314e864b693d3096.png)Junction Filed Effect Transistor
 
 
 

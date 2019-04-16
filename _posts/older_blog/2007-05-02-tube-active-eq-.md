@@ -13,5 +13,5 @@ title: "Tube Active EQ..??"
 
 각 증폭단의 증폭률은 매우 높은 편이다. 게인 pot이 달라붙는 지점도 조금 특이하다.
 
-![image](9770800322704ad9cb53318867bd14c1.jpg)
+![image](/assets/images/9770800322704ad9cb53318867bd14c1.jpg)
 

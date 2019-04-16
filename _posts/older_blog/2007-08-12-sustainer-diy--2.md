@@ -14,12 +14,12 @@ piezo transducer로 feedback을 일으키려고 했던 아이디어는 생각보
 3) Harmonic mode는 일단 빼고 최소구성으로 제작한다..
 
 아래는 드라이버 회로..
-![image](9dc6463c7aea9de768b2917c2da0cb0f.png)아래는 기판의 component side
+![image](/assets/images/9dc6463c7aea9de768b2917c2da0cb0f.png)아래는 기판의 component side
 
-![image](66745d4342f70c8b87125512ab669a34.png)
+![image](/assets/images/66745d4342f70c8b87125512ab669a34.png)
 아래는 다림질용 pattern
 
-![image](961b3ff78cbaa6b46614ae7661c5ac22.png)
+![image](/assets/images/961b3ff78cbaa6b46614ae7661c5ac22.png)
 
 
 

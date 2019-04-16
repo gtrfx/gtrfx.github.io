@@ -9,7 +9,7 @@ title: "LR Baggs T-Bridge.."
 
 설치기는 다음에..일단 샘플 먼저..
 
-![audio](5ce25ed574b93b6285ab8bf6ef6a8925.mp3)
+![audio](/assets/images/5ce25ed574b93b6285ab8bf6ef6a8925.mp3)
 
 
 

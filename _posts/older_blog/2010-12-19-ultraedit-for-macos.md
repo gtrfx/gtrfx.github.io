@@ -7,6 +7,6 @@ title: "UltraEdit for MacOS"
 아래 스크린 켑쳐에서 보는 것 처럼 늘상 익숙하던 윈도우즈에서의 그 모양과 많이 다름을 알 수 있다.
 바야흐로 이제 MacOS의 시대가 되는 것 같다.
 
-![image](c536995e18fac1f087b1fa155d9a0bf0.png)
+![image](/assets/images/c536995e18fac1f087b1fa155d9a0bf0.png)
 
 

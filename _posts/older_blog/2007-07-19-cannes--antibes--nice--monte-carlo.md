@@ -15,13 +15,13 @@ title: "Cannes - Antibes - Nice - Monte Carlo.."
 
 특히 표지판에서 A2와 같은 길을 따라가다보면 경사 높은 길을 따라 아래 사진과 같은 터널도 지나게 된다.
 
-![image](3b58ca0ae69c2344575041b94b8b3409.jpg)
+![image](/assets/images/3b58ca0ae69c2344575041b94b8b3409.jpg)
 
 하지만, 경로를 잘 택해서 바다길로 가게되면 아래와 같이 지중해를 보면서 옆으로 내려다보이는 모나코 시내를 구경하면서 갈 수 있단 말이다.
 
 
 
-![image](a1d914e84ef7d1970042f09b06540839.jpg)
+![image](/assets/images/a1d914e84ef7d1970042f09b06540839.jpg)
 
 
 

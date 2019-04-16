@@ -18,9 +18,9 @@ SLO의 회로는 사실상 몇 부분만 빼곤 rectifier와 꼭 같아서 아�
 
 실제로 테스트해보니 거의 rectifier 소리가 난다. 프리앰프에서부터 저음이 무지하게 부스트가 되면서 뭉개지는 것이 거기에 엄청나게 컴프레스드된 소리가 난다..-_-; 그렇지만 막상 게인은 그리 크지 않은 것 처럼 느껴지는게 이 계열 앰프들의 특성인 듯 하다.
 
-![image](8639b879fa98afcced9cc7cc1d2282f5.png)
+![image](/assets/images/8639b879fa98afcced9cc7cc1d2282f5.png)
 아래에 만든 FISH preamp와의 비교를 위해 5150을 쳐넣었다..비교가 될른지..
-![audio](40515c9b60c60769990fbe1a71840213.mp3)
+![audio](/assets/images/40515c9b60c60769990fbe1a71840213.mp3)
 
 
 

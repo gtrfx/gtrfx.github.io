@@ -27,7 +27,7 @@ title: "Mark Rhythm Channel"
 
 
 
-![audio](5a13d2b4691369019976c2de7c1dc045.mp3)
+![audio](/assets/images/5a13d2b4691369019976c2de7c1dc045.mp3)
 
 
 

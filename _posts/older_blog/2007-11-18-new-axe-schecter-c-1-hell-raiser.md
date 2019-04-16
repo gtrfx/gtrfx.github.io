@@ -5,7 +5,7 @@ title: "New Axe..Schecter C-1 Hell raiser"
 
 Ibanez RG450MH을 처분하려다가 교환하게 된 Schecter C-1 Hell Raiser이다.
 
-![image](69d1f6a544b3af4a8f57ecc63fa1c461.png)![image](92d2e69115ec9702290dad0d39cd7393.png)![image](fac74ab00b7e7e92046600dadc173438.png)
+![image](/assets/images/69d1f6a544b3af4a8f57ecc63fa1c461.png)![image](92d2e69115ec9702290dad0d39cd7393.png)![image](fac74ab00b7e7e92046600dadc173438.png)
 Schecter C-1에 대해서는 예전부터 관심이 있어왔었는데, 실물을 만지게 된 것은 이게 처음이다. 사실 Music123에 올라온 사진이 너무 이뻐서 혹했었는데, 실물을 보니 다소 그저 그렇단 느낌이다.
 
 바디가 마호가니로 되어있다는데 몹시 무겁고 예전에 쓰던 레독스처럼이나 도장이 두껍고 단단하다. 왠만한 충격엔 도장만 조금 긁혀질 뿐 나무에는 전혀 손상이 가지 않는다. 툭하고 부딪히면 도장과 함께 나무가 눌려들어가는 아이바네즈와는 많이 다르다.
@@ -24,7 +24,7 @@ Jem7dbk에 비교하면 다소 날이 많이 무딘 느낌이고 섬세하다거
 
 아래는 10분작업..-_-;
 
-![audio](7d516841282148bcba68050a7b66a32b.mp3)
+![audio](/assets/images/7d516841282148bcba68050a7b66a32b.mp3)
 
 
 

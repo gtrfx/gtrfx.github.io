@@ -29,7 +29,7 @@ title: "Plate Follower Modeling (2)"
 
 
 
-![image](59a3fa7f5293579b584f862ba0e91d1b.gif)
+![image](/assets/images/59a3fa7f5293579b584f862ba0e91d1b.gif)
 
 
 
@@ -78,26 +78,26 @@ title: "Plate Follower Modeling (2)"
 
 
 아래는 44.1kHz의 4배로 sample했을 때의 plate follower (220k Rp, 1.8k Rc, 350V B+)를 시뮬한 것이다. 해를 추적하는 과정에서 미분값이 아닌 상수로 추적하게 하여 일부러 에러가 많이 발생하도록 조작한 것이다. 아래는 +/- 1v를 스윙하는 100 Hz의 sine wave를 입력했을 때의 결과이다. Current를 해로 추적하는 예제인데 입력의 변화가 작아서 error가 매우 작게 나타난다.
-![image](83bbc462ff2155f72559a1de856fdb29.jpg)
+![image](/assets/images/83bbc462ff2155f72559a1de856fdb29.jpg)
 아래 그림에서는 입력 신호의 주파수를 1kHz로 올려서 해를 추적할 때의 속도가 미치는 영향을 보았다. 4배 oversample을 했지만 오차가 크게 증가했다. 그림에서 보는 바와 같이 신호의 변화 폭이 가장 큰 지점 (sine wave의 값이 정 중앙을 지날 때)에서 가장 큰 error가 나타남을 알 수 있다.
 
 
 
-![image](0269663dd2801300f476b196ae95b5ed.jpg)
+![image](/assets/images/0269663dd2801300f476b196ae95b5ed.jpg)
 
 
 다음 그림에서는 다시 주파수를 100Hz로 낮추고 진폭을 4배로 늘려서 얼마나 빠르게 해를 추적하는지 살펴보았다. 그림에서 보는 바와 같이 진폭이 늘어난 관계로 추적시 오차가 증가했음을 알 수 있다. 역시 마찬가지로 신호의 변화폭이 가장 작은 부분 (distortion이 일어나는 부분)에서 error가 가장 작고 신호의 변화폭이 큰 부분에서 error가 증가함을 알 수 있다.
 
 
 
-![image](019ea15ea9966775c7d9901057ef131b.jpg)
+![image](/assets/images/019ea15ea9966775c7d9901057ef131b.jpg)
 
 
 아래에서는 주파수와 진폭 모두를 각각 1kHz, 4배(8V)로 증가시켰다. 실제 톤에 영향을 크게 미치는 수준으로 오차가 증가했음을 볼 수 있다. 
 
 
 
-![image](db1f33a7c1f56827014b8ec4c8b5d75a.jpg)
+![image](/assets/images/db1f33a7c1f56827014b8ec4c8b5d75a.jpg)
 
 
 

@@ -4,7 +4,7 @@ title: "Mini Rectifier.."
 # Mini Rectifier..
 
 
-![image](cf04f7a34a9cc698cff9b04f8889ccbd.jpg)
+![image](/assets/images/cf04f7a34a9cc698cff9b04f8889ccbd.jpg)
 
 
 EL84 두개를 출력관으로 박은 25 watt짜리 Mini Rectifier가 나왔다. 생각보다 나온지 오래라 그다지 새로운 소식은 아니다.

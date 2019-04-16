@@ -19,7 +19,7 @@ Cinema Lens로는 이미 정평 (가격이 너무 저렴한데 광학 성능이 
 
 
 
-![image](1516e9ab2a8a6dcebffc1774ceac7d70.jpg)
+![image](/assets/images/1516e9ab2a8a6dcebffc1774ceac7d70.jpg)
 
  
 
@@ -27,7 +27,7 @@ Cinema Lens로는 이미 정평 (가격이 너무 저렴한데 광학 성능이 
 
 
 
-![image](a5129f3528964e7d429f9dcfed6ce598.jpg)
+![image](/assets/images/a5129f3528964e7d429f9dcfed6ce598.jpg)
 
 
 
@@ -39,7 +39,7 @@ f1.4임에도 비네팅도 잘 눈에 드러나지 않고 사람들이 많이 �
 
 
 
-![image](2c505a85274a69cf346ad5a63872c048.jpg)
+![image](/assets/images/2c505a85274a69cf346ad5a63872c048.jpg)
 
 
 
@@ -56,7 +56,7 @@ DXOMark라는 카메라 벤치마크 사이트에서 가져온 수치를 놓고 
 
 
 
-![image](8df63adbef1c2d9e53b5e85b733f4814.png)
+![image](/assets/images/8df63adbef1c2d9e53b5e85b733f4814.png)
 
 
 

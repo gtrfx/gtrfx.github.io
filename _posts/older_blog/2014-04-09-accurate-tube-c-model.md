@@ -31,14 +31,14 @@ Tube data sheet에 나오는 곡선들과 가장 가깝게 matching되는 모델
 
 
 
-![image](140610cb54e256defec398d7f64f8387.png)Plate Current vs. Plate-Cathode voltage (12AX7)
+![image](/assets/images/140610cb54e256defec398d7f64f8387.png)Plate Current vs. Plate-Cathode voltage (12AX7)
 
 
 
 
 
 
-![image](bc93814a7fb05db467b89ea95b805222.png)Grid Current vs. Grid-Cathode voltage (12ax7)
+![image](/assets/images/bc93814a7fb05db467b89ea95b805222.png)Grid Current vs. Grid-Cathode voltage (12ax7)
 
 
 
@@ -46,7 +46,7 @@ Tube data sheet에 나오는 곡선들과 가장 가깝게 matching되는 모델
 
 
 
-![image](f115ec86cb448cf2f5105ec13c382abc.png)Plate Current vs. Plate-Cathode Voltage (12AU7)
+![image](/assets/images/f115ec86cb448cf2f5105ec13c382abc.png)Plate Current vs. Plate-Cathode Voltage (12AU7)
 
 
 
@@ -56,10 +56,10 @@ Tube data sheet에 나오는 곡선들과 가장 가깝게 matching되는 모델
 
 
 
-![image](c3fa374cb06320853a0eb5103c65d903.png)Plate Current vs. Plate-Cathode Voltage (Vg2k=450 V, 6L6GC)
+![image](/assets/images/c3fa374cb06320853a0eb5103c65d903.png)Plate Current vs. Plate-Cathode Voltage (Vg2k=450 V, 6L6GC)
 
 
-![image](efe7316dc9c9c7f4542924abb502def2.png)Plate Current vs. Plate-Cathode Voltage (EL34)
+![image](/assets/images/efe7316dc9c9c7f4542924abb502def2.png)Plate Current vs. Plate-Cathode Voltage (EL34)
 
 
 

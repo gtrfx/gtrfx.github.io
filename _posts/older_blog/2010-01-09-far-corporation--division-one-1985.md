@@ -3,7 +3,7 @@ title: "Far Corporation - Division One (1985)"
 ---
 # Far Corporation - Division One (1985)
 
-![image](b8ce1baccda074ea7c67677beaaef2bb.jpg)
+![image](/assets/images/b8ce1baccda074ea7c67677beaaef2bb.jpg)
 보니엠/밀리 바닐리를 프로듀싱하여 잘 알려진 Frank Farian이라고 하는 Recording producer가 리드한 프로젝트 밴드이다. 레코딩 프로듀서가 이끄는 프로젝트로서 Alan Parsons project라고 하는 밴드 역시 비슷한 부류가 아니었나한다.
 
 이 프로젝트 밴드는 Led Zeppelin의 "Stairway to Heaven"을 single hit시켜서 유명해졌다. 실제로 Led Zeppelin은 이곡을 싱글로 내놓지 않았다고하니 사실상 싱글 히트로는 최초라고 볼 수 있다. 오히려 이 싱글이 히트를 치면서 묻혀있던 Led Zeppelin의 명곡이 다시 빛을 발했는지도 모를 일이다.

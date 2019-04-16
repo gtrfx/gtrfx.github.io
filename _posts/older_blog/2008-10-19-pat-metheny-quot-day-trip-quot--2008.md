@@ -3,7 +3,7 @@ title: "Pat Metheny &quot;Day Trip&quot; (2008)"
 ---
 # Pat Metheny &quot;Day Trip&quot; (2008)
 
-![image](128a75d4a18aaba8452270e230fc5bc7.jpg)
+![image](/assets/images/128a75d4a18aaba8452270e230fc5bc7.jpg)
 이 앨범은 2008년 초에 발매된 pat metheny의 앨범으로 Christian McBride(bass)+Antonio Sanchez(Dr)과 같이 만든 앨범이란다.
 소싯적 (80년대말 90년대초)에는 음악 좀 듣는 분이시라면 Pat Metheny 정도는 들어줘야 하신다기에 그의 대표작으로 불리우는 "Offramp"를 사듣고는 참으로 당황했던 기억이 있다. 이 앨범이 귀에 제대로 와박히게 될 즈음에 "First Circle"이나 "Still Live (Talking)"과 같은 앨범을 듣게 되면서 바야흐로 Pat Metheny에 제대로 매료되기 시작한다. 
 대학원을 간답시고 도서관을 어슬렁댈 쯤에 보러갔던 Pat Metheny의 첫번째 내한공연 ("We Live Here" 앨범 발매후)은 정말로 감동적이었다. 그 이후로 여러번 공연이 있었던 것으로 아는데, 직장인이 되고 30을 넘기고 하면서 공연은 고사하고 신작앨범 같은 것 또한 아무런 관심이 없었던 것 같다.

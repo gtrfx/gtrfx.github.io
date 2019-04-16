@@ -5,7 +5,7 @@ title: "Power Amplifier Simulation.."
 
 Power amplifier distortion의 효과를 보기 위해 아래와 같은 50W power amplifier에 대해 실험해봤다..
 
-![image](ec09d79b62c6fa932ffe5b897e303308.jpg)
+![image](/assets/images/ec09d79b62c6fa932ffe5b897e303308.jpg)
 예전에 쓰던 트랜스포머 모델은 뭔가 문제가 있어서 (모델 내부 node의 일부가 floating된 것 같음) time domain에서 simulation이 되지 않았는데, 오디오용으로 나온 다른 트랜스포머 모델을 쓰니 그럭저럭 도는 것 같다. 1000Mohm을 달아놓은 곳은 모델이 UL tap 및 4, 16 ohm tap에 대해 별도로 모델링되어 floating으로 둘 수 없어서 연결해 놓은 부분이다.
 
 결과를 대충 보자면..

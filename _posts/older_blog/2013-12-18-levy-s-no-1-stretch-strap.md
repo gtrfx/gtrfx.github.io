@@ -33,7 +33,7 @@ title: "Levy's No.1 Stretch Strap.."
 
 
 
-![image](f61a11b64fe7f454533be13dc98165bb.jpg)
+![image](/assets/images/f61a11b64fe7f454533be13dc98165bb.jpg)
 
 
 

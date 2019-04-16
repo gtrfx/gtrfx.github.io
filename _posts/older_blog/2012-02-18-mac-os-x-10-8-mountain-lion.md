@@ -15,6 +15,6 @@ DP1 설치 및 구경완료..ㅎㅎ
 
 아이폰을 안쓰는 나로서는 아이메시지와 잘 연결되는지는 확인 못해봤고..
 
-![image](dc35d7b314d9a6fc2c6623581e0c5872.png)
+![image](/assets/images/dc35d7b314d9a6fc2c6623581e0c5872.png)
  
 

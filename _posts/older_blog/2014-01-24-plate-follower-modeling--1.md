@@ -17,7 +17,7 @@ title: "Plate Follower modeling..(1)"
 
 
 
-![image](98645c378430ae126ab3815fcf586f50.jpg)
+![image](/assets/images/98645c378430ae126ab3815fcf586f50.jpg)
 
 
 즉! 입력 전압/주파수에 따라서 영향받는 비선형 특성이 각기 다른 것이다. 
@@ -30,7 +30,7 @@ title: "Plate Follower modeling..(1)"
 
 
 
-![image](073c428d83aec96fd7af3524ba309e4b.jpg)
+![image](/assets/images/073c428d83aec96fd7af3524ba309e4b.jpg)
 
 
 
@@ -40,7 +40,7 @@ title: "Plate Follower modeling..(1)"
 
 
 
-![image](586740a3475e1196d1e6d75a3d87d813.jpg)
+![image](/assets/images/586740a3475e1196d1e6d75a3d87d813.jpg)
 
 
 

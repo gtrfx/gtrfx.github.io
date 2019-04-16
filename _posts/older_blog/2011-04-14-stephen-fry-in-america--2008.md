@@ -3,7 +3,7 @@ title: "Stephen Fry in America..(2008)"
 ---
 # Stephen Fry in America..(2008)
 
-![image](815bf9c54d32237c99a1b6670c52a901.png)
+![image](/assets/images/815bf9c54d32237c99a1b6670c52a901.png)
 
 2008년에 BBC에서 방영된 6부작의 다큐멘터리인데, 자신의 London cab (택시 운전사는 아니지만 택시를 몰고 다님)을 직접 미국으로 가져와서 미국 50개주를 여행하는 내용이다. 영국인이 직접 미국 50개주를 돌아보면서 느낀 바를 보여준다.
 

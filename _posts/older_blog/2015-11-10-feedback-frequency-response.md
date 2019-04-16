@@ -9,7 +9,7 @@ Power amplifier를 간단히 그려보면 feedback forward path와 feedback path
 
 
 
-![image](aa624ce2ad41a80c10593eac916ca62f.gif)
+![image](/assets/images/aa624ce2ad41a80c10593eac916ca62f.gif)
 
 
 

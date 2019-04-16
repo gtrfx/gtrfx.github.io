@@ -8,13 +8,13 @@ Laurence Archer라면 국내 인지도는 거의 없는 기타리스트 중 하�
 Laurence Archer가 Guitar 및 Lead Vocal을 담당했다. 지금 들어보면 다소 보컬 쪽으로는 미흡하게 들릴 수도 있다만..
 
 
-![image](b1eb65d0cf946d32f74c78b05fabb776.jpg)
+![image](/assets/images/b1eb65d0cf946d32f74c78b05fabb776.jpg)
 
 - When You Were Young
 
 80년대의 전형적인 팝음악 스타일..솔로는 나름대로 들어볼만 하다..사실 이 노래에 삘 꽂혀서 이 음반을 구해보려고 참 백방으로 노력했던 기억이 있다..결국엔 실패했지만..아마 남대문이나 압구정 상아에 뻔질나게 드나들었다면 어렵지 않았겠지..당시에 cdnow 같은 게 있었담 모를까..
 
-![audio](fe14678d8facb88a8fc735876fd53617.mp3)
+![audio](/assets/images/fe14678d8facb88a8fc735876fd53617.mp3)
 
 
 

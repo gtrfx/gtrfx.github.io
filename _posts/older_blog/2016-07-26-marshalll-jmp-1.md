@@ -3,7 +3,7 @@ title: "Marshalll JMP-1"
 ---
 # Marshalll JMP-1
 
-![image](db194a9430b46a0e4de19d0ba9e22bf1.jpg)
+![image](/assets/images/db194a9430b46a0e4de19d0ba9e22bf1.jpg)
 
 
 
@@ -45,7 +45,7 @@ title: "Marshalll JMP-1"
 
 
 
-![image](812d695a70b2ddecbc83153d7e14c53c.jpg)
+![image](/assets/images/812d695a70b2ddecbc83153d7e14c53c.jpg)
 
 
 

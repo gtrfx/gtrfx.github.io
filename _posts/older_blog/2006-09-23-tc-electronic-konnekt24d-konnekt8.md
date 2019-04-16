@@ -16,5 +16,5 @@ Konnekt 24D는 뒷면에 ADAT optic 입출력, line 입출력 각각 4개씩, SP
 
 자세한 사양은 TC Electronic에서 알아보시라..
 
-![image](2e119f95a57cb84eb4242cc79e64653e.png)![image](7d3d01fdc8fe105f8adc4afd92e7f9a1.png)
+![image](/assets/images/2e119f95a57cb84eb4242cc79e64653e.png)![image](7d3d01fdc8fe105f8adc4afd92e7f9a1.png)
 
