@@ -52,5 +52,3 @@ iptables -t nat -A POSTROUTING ! -o lo -j MASQUERADE
 한 줄 더해주면 양쪽 서브넷의 디바이스들이 아무 문제 없이 ssh를 타고 양쪽을 자유롭게 넘나들 수 있다.
 
 아쉽게도 나는 bonjour package을 forward하는 법은 잘 모른다. 어쩔 수 없이 지방방송을 켜줘야 한다.
-
-
