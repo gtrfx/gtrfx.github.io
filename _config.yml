@@ -9,11 +9,12 @@ site-twitter: #if your site has a twitter account, enter it here
 author: GtrFx # add your name
 author-img: logo.jpg # add your photo
 about-author: 일상 모든 게 취미
-social-github: gtrfx # add your Github handle
-social-twitter: ojisantogtr # add your Twitter handle
-social-instagram: ojisantoguitar # add your Facebook handle
+social-github:  # add your Github handle
+social-twitter:  # add your Twitter handle
+social-instagram: # add your Facebook handle
 # Disqus
 discus-identifier: gtrfx # add your discus identifier
+published: false
 
 # Tracker
 analytics: UA-102853359-1 # Google Analytics
