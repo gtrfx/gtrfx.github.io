@@ -5,4 +5,6 @@ tags: [iTunes, Music, Catalina]
 
 Catalina beta 3 still support only one music library (mostly local library). 
 
-Adding exchange account is still headache.
+Adding an exchange account is still a big headache.
+
+It is still reporting lots of "Crash reports" unnoticed by users like a submarine.
