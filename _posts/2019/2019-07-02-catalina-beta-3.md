@@ -9,5 +9,3 @@ Catalina beta 3 still supports only one music library (mostly local library). Th
 Adding an (MS) Exchange account is still a big headache.
 
 It is still reporting lots of "Crash reports" unnoticed by users like a submarine. But it causes some CPU loads, so my CPU fan lets me know it. 
-
-![image:]
