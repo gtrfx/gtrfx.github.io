@@ -1,6 +1,6 @@
 ---
 title: "Kirkland Craft Brewed Beer 이거 참 좋네"
-tags:[kirkland beer, IPA, APA, Session IPA, Pilsner]
+tags: [kirkland beer, IPA, APA, Session IPA, Pilsner]
 ---
 
 Kirkland beer가 예전에 나왔던 회색 바탕의 light beer는 그다지 인기가 없었다. 가격은 엄청났지만 (19불짜리 한 박스에 40개가 들어있다) 그다지 맛이 있는 편이 아니라 소위 '메이커' 따지는 사람들은 '아무리 없어도 그런 걸 사먹냐?' 란 소릴 들었던 것 같다. 어차피 지갑에서 돈을 꺼내서 맥주를 사먹는 사람은 나 자신이므로 주변에서 무슨 소릴 하든 신경을 쓰진 않는다만, 이것 그렇게 가성비가 좋다고 보긴 어려웠다.
