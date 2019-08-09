@@ -3,7 +3,7 @@ title: "Flying In a Blue Dream (bass/guitar 1/2/3) Cover"
 tags: [joe satriani]
 ---
 
-늦은 밤 몰래 여친과 데이트하듯 두근 거리는 맘으로 듣던 이 앨범이 이제 발매 30주년이란다 ㅠ.
+늦은 밤 몰래 두근 거리는 맘으로 듣던 이 앨범이 이제 발매 30주년이란다 ㅠ.
 
 Ibanez RG1070pbz
 Harley Benton: Nashville Nylon, HBO(?)-850
