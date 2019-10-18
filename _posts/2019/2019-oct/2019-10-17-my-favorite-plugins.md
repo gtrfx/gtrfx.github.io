@@ -13,8 +13,8 @@ tags: [audio plugin, vst, au, rtas]
    전설의 명기인 480L 플러긴이 UAD에서 나오긴 하지만 꼭 그게없어도 이것만으로도 훌륭하다.
 - Acorn digital Multiply:
    코러스 + 스테레오 이펙트인데 아주 쓸만하다.
-- BBE bundble:
-   이것은 거의 필수 플러그인이라고 봐야 맞을 듯 하다.
+- BBE bundle:
+   이것은 거의 필수템이라고 봐야 맞을 듯 하다.
 - Waves bundle:
    없어도 그만이지만 있으면 좋을 플러그인 번들이다.
 
