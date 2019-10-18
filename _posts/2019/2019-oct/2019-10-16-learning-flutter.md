@@ -1,5 +1,5 @@
 ---
-title: "Flutter를 배워볼까?"
+title: "Flutter를 배워볼까?: Day 1"
 tags: [flutter]
 ---
 
