@@ -1,5 +1,5 @@
 ---
-title: "Micromouse를 다시 들여다보니.."
+title: "Micromouse를 다시 들여다보니: 개론"
 tags: [micromouse]
 ---
 
