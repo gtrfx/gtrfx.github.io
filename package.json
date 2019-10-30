@@ -1,19 +1,44 @@
 {
-  "name": "Jekyll-Gulp-Sass-Autoprefixer-Imagemin-BrowserSync",
-  "version": "1.0.0",
-  "description": "A starter project for Jekyll",
-  "main": "index.js",
-  "repository": "https://github.com/artemsheludko/Jekyll-Gulp-Sass-Autoprefixer-Imagemin-BrowserSync",
-  "author": "Artem Sheludko",
+  "name": "jekflix-template",
+  "version": "2.0.0",
+  "description": "A Jekyll theme inspired by Netflix",
+  "main": "gulpfile.js",
+  "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thiagorossener/jekflix-template.git"
+  },
+  "keywords": [
+    "jekyll",
+    "template",
+    "theme",
+    "blog",
+    "netlify"
+  ],
+  "author": "Thiago Rossener",
   "license": "MIT",
-  "dependencies": {
-    "browser-sync": "^2.18.13",
+  "bugs": {
+    "url": "https://github.com/thiagorossener/jekflix-template/issues"
+  },
+  "devDependencies": {
+    "autoprefixer-stylus": "^0.14.0",
+    "browser-sync": "^2.26.7",
     "child_process": "^1.0.2",
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^4.0.0",
-    "gulp-cache": "^0.4.6",
-    "gulp-imagemin": "^3.2.0",
-    "gulp-sass": "^3.1.0",
-    "imagemin-pngquant": "^5.0.0"
+    "del": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-include": "^2.4.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-yaml": "^2.0.4",
+    "jeet": "^7.1.0",
+    "kouto-swiss": "^1.1.0",
+    "rupture": "^0.6.2",
+    "lodash": "^4.17.13",
+    "lodash.merge": "^4.6.2"
   }
 }

@@ -1,12 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-{% include head.html %}
-<body>
+---
+layout: compress
+---
 
-  <div class="wrapper">
-    {{ content }}
-  </div>
-  
-  {% include analytics.html %}
-</body>
+<!DOCTYPE html>
+<html lang="{{ site.language }}" class="no-js">
+    {% include head.html %}
+    <body class="has-push-menu">
+        {% include svg-icons.html %}
+        {% include header.html %}
+            <section class="content">
+                {{ content }}
+            </section>
+        {% include footer.html %}
+    </body>
 </html>
+
