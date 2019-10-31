@@ -2,6 +2,7 @@
 layout: post
 title: "기타 넥 조정하기"
 tags: [neck, adjustment]
+image: http://www.guitarbitz.com/downloads/1401699951TrussRod_Diagram.jpg
 ---
 
 사실 기타를 사고 보면 모든 게 완벽하게 조정되어있을 것이고 적어도 어느 정도 가격을 치뤘다면 기타의 넥이 휠 수도 있다는 사실을 무시하는 것 같다. 만약에 휘게 되면 그게 기타의 문제이고 싸구려 기타를 샀기 때문이고 내가 물건을 잘 못 샀기 때문이지 않을까 생각했었던 것도 같다.
