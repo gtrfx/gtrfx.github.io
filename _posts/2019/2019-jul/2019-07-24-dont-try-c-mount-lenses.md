@@ -2,6 +2,7 @@
 layout: post
 title: "C 마운트 렌즈 사지 마라"
 tags: [c-mount, fujian]
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2z0UELq9BK029g_QHh-qsHoLem0dxLzfMn5ORaeuo5EyLtjTo
 ---
 
 흔히 비싼 렌즈들의 대안으로 C mount lens를 권하는 이들이 있다. 난 절대 반대한다. 차라리 좀 더 보태서 Canon FD 혹은 Nikon vintage lens를 사라고 권한다. 진가를 알아보는 이들이 많아서 이들 렌즈 값도 3-4년전에 비하면 2배가 넘게 뛴 것 같다. 
