@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Learning Flutter: Day 5"
+image: https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?w=578&strip=all
 tags: [flutter]
 ---
 

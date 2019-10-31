@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Flutter를 배워볼까?: Day 2"
+image: https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?w=578&strip=all
 tags: [flutter]
 ---
 
