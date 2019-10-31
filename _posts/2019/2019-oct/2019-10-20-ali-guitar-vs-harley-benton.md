@@ -2,6 +2,7 @@
 layout: post
 title: "알리 익스프레스 vs. Harley Benton"
 tags: [Harley Benton wins]
+image: https://cdn.multichannelmerchant.com/wp-content/uploads/2019/05/aliexpress-logo-feature.jpg
 ---
 
 제목이 좀 어이없긴 하다. 솔직히 둘 간에 가격 비교는 가능할 지언정 성능이나 품질 비교는 안된다고 본다. 후자가 모든 면에서 우위에 있다.
