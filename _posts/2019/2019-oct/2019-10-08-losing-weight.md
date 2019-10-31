@@ -2,6 +2,7 @@
 layout: post
 title: "살빼기: 1주째 2.5kg 감량"
 tags: [losing weight]
+image: https://cdn.images.express.co.uk/img/dynamic/126/590x/Weight-loss-A-simple-free-trick-to-losing-weight-has-come-to-light-1149942.jpg?r=1562407079180
 ---
 
 살빼는 데 장사없다라는 것 인정한다. 하루 두 끼만 먹고 그 외엔 아무 것도 먹지 않는다. 0 kcal의 물, 차 외엔. 덕택에 기분도 좋지 않고 쉽게 말해 살아가는 느낌조차 없고 운동할 때 기운도 안나고 의욕도 없고 결과도 신통치 않다. 

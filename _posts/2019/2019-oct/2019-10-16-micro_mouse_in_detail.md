@@ -2,6 +2,7 @@
 layout: post
 title: "Micromouse를 다시 들여다보니: 최근 마우스의 모양새"
 tags: [micromouse]
+image: https://www.geek.com/wp-content/uploads/2011/11/Min7-625x352.jpg
 ---
 
 좀 더 호기심을 발동시켜서 최근 마우스들의 하드웨어를 살펴보기로 했다. 기꺼이 자신의 마우스 정보를 공개해놓은 이름 모를 많은 이들에게 감사하는 바이다.
