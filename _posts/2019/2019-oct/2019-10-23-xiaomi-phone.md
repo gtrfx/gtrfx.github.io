@@ -2,6 +2,7 @@
 layout: post
 title: "Xiaomi phone 뭘 사야되나?"
 tags: [xiaomi]
+image: https://www.pointekonline.com/wp-content/uploads/2019/07/xiaomi-mi-9.png
 ---
 
 Xiaomi란 브랜드가 고가 럭져리 브랜드가 아니고 가성비를 추구하는 이들의 선호 메이커이다 보니, 샤오미에서 나오는 폰도 그 안에서 가장 가성비가 높은 것을 찾을 수 밖에 없다.
