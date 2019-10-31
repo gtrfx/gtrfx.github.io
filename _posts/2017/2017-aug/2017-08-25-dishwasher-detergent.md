@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Dishwasher 세제"
 categories:
     - life

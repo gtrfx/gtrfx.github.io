@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Logic Pro로 AU plugin 사용하여 녹음하기"
 tags: [audio recording, latency]
 ---

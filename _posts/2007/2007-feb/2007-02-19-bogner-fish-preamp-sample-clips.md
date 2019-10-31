@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Bogner Fish Preamp Sample Clips"
 ---
-# Bogner Fish Preamp Sample Clips
 
 장비를 보면 대단한 기타 애호가임에 틀림없어 보인다..
 

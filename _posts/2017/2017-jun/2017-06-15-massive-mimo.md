@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Massive MIMO"
 ---
-# Massive MIMO
 
 ### History
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "SSH tunneling: 어디까지 할 수 있는 건가?"
 tags: [tunneling, ssh]
 ---

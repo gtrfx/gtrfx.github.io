@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "삶의 외로움에 대하여"
 tags: [being alone, loneliness]
 published: false

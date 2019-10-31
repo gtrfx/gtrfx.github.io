@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Vox AC30 Tonestack Equation"
 ---
-# Vox AC30 Tonestack Equation
 
 
 Here is S equation for Vox V30 Tonestack.

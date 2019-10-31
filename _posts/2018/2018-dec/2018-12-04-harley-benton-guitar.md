@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "저가 기타 탐구: Harley Benton Guitar"
 tags: [harley benton]
 ---

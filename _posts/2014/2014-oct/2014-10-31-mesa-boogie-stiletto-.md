@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Mesa Boogie Stiletto..."
 ---
-# Mesa Boogie Stiletto...
 
 
 회로도를 들여다보니 Marshall Plexi 회로를 이리 저리 잔머리 굴려서 애매하게 만든 앰프인데, 사실 그 근간은 마샬 회로다. 플랙시 회로를 많이 가져왔다. 중요하지 않은 부품만 살짝 살짝 바꿔놨다. 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2.1 Channel Speaker Modification"
 ---
 

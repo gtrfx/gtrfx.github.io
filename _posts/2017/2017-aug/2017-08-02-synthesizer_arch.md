@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Learning a Synthesizer: Architecture"
 categories: 
     - learning

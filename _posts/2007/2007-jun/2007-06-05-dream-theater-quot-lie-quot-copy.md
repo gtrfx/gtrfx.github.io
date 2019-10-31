@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Dream Theater &quot;Lie&quot; Copy"
 ---
-# Dream Theater &quot;Lie&quot; Copy
 
 7현 기타로 오랜만에 샘플 하나 만들어 올려본다..
 

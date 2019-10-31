@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "정체성의 문제"
 categories:
     - life

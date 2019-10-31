@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "알리 익스프레스 기타 도착하다."
 categories:
     - life

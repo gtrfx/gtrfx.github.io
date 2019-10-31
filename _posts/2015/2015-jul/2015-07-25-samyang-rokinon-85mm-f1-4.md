@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Samyang (Rokinon) 85mm f1.4"
 ---
-# Samyang (Rokinon) 85mm f1.4
 
 
 소위 삼짜이쯔라 불리우는 삼양 85mm f1.4를 매우 좋은 조건에 들여놓았다. 

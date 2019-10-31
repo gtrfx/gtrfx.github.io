@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Graphtech TUSQ nut"
 categories:
     - guitar

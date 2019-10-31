@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Zshell과 Catalina (10.15)"
 tags: [zshell, macos 10.15, Catalina]
 ---

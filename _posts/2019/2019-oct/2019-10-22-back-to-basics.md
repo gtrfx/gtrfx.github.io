@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "기본으로 다시 돌아가서"
 tags: [back-to-basic]
 ---

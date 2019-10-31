@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Grid Current Limiting Effect"
 ---
-# Grid Current Limiting Effect
 
 
 이미 Triode에 대해서 언급한 바대로 대부분의 전류는 캐소드와 플레이트 사이를 흐르고 그 원인은 뜨거워진 캐소드에서 튀어나온 전자가 캐소드와 플레이트간의 큰 전압차로 인해 발생하는 전기장 (Electric Field)때문이라고 얘기했다. 여기에 망(Grid)처럼 생긴 전극하나를 더 넣어서 전자의 흐름을 제어할 수 있게 만든 것이 Triode 삼극관이라고 했다.

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "MesaBoogie Mark IIc+ preamp"
 ---
-# MesaBoogie Mark IIc+ preamp
 
 메사 앰프 회로도의 보고인 tubefreak에 올라와있는 Mark IIc+의 회로도는 그대로 보기 좀 어렵게 되어있다. 비슷한 앰프인 쿼드 프리앰프나 mark-III에 있는 내용을 종합적으로 확인하면 어떤 모양으로 되어있는지 확실히 알 수 있다. 
 

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Linux Boot strap"
 ---
-# Linux Boot strap
 
 bootstrap 과정을 정리하면 다음과 같다. 
 

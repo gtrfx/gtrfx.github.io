@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "누군가를 좋아하게 된다는 것"
 tags: [love, love someone]
 categories:

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Megadeth &quot;Skin of My Teeth&quot;"
 ---
-# Megadeth &quot;Skin of My Teeth&quot;
 
 Guitar: Ibanez RG450MH (EMG81)
 Amplifier: TB1 preamp, GuitarRig CabSim (Recto Cab sim+SM57 emulated)

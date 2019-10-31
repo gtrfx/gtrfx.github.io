@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "왜 나이먹으면 살이 찐다고 하는 것일까?"
 tags: [getting fat, fat]
 ---

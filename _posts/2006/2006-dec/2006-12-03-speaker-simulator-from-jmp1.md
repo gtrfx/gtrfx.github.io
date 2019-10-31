@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Speaker Simulator (from JMP1)"
 ---
-# Speaker Simulator (from JMP1)
 
 Marshall의 JMP1 샘플들을 들어보니 스피커 시뮬이 괜찮길래 한번 분석해봤다.
 

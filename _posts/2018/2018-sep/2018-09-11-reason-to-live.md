@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "삶의 목적? 의미?"
 categories:
     - life

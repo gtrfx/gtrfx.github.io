@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Metallica - No Remorse (copy)"
 ---
-# Metallica - No Remorse (copy)
 
 
 추억의 메탈리카 No Remorse의 배킹트랙만 30분 + 솔로 10분간 작업해봤다..

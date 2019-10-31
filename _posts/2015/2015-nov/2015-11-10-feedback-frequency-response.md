@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Feedback..Frequency response"
 ---
-# Feedback..Frequency response
 
 Power amplifier를 간단히 그려보면 feedback forward path와 feedback path를 그려놓은 모양이 된다. Gain을 frequency ($\omega$)의 함수로 나타내면, 즉 * Open loop gain: $A(\omega)$  * Feedback gain: $f(\omega)$ Close loop gain은 다음과 같아진다.$$ G_{closed}= \frac{A(\omega)}{1+A(\omega)f(\omega)} $$출력을 flat하게 그대로 돌려보낸다고 가정하면 사실상 최종 출력은 1에 가까와지고 주파수 특성도 flat한 모양에 가까와진다.그러나, feedback은 출력의 일부만 돌려보내므로 power amplifier의 주파수 특성을 어느 정도 반영하게 되고 (feedback이 작으면 작을 수록 더 크게 반영되고 전체적인 gain도 더 올라가게 됨), presence control이 붙는 경우는 presence로 강조되는 주파수 영역 (중저음 대역)을 제외한 영역이 boost되어 전반적으로 중-고음 영역대가 부각되는 결과를 가져온다.
 

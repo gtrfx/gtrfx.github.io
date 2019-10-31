@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "PreSonus Studio One...4"
 ---
-# PreSonus Studio One...4
 
 오늘로써 사용 4일째다..
 불행히도 Studio One은 접어야 될 듯 하다. 가벼운 Daw, 직관적인 UI 모두 좋은데,

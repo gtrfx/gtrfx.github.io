@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "오랜만에 파견의 품격"
 categories:
     - life

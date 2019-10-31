@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "살은 찌고 싶지 않은데 술은 좀 마시고 싶다면..."
 tags: [spirits, sparkling water, no beer]
 ---

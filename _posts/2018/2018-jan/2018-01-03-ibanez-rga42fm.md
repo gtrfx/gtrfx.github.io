@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ibanez RGA42FM"
 categories:
     - guitar

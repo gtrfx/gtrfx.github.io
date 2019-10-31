@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Command line에서 Time Lapse 만들기"
 tags: [time lapse]
 ---

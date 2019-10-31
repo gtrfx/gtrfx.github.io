@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Bi-amping and Layering"
 ---
-# Bi-amping and Layering
 
 
 요즘 스타일로 흔히 하는 바이앰핑 + 레이어링을 모두 소프트웨어로 해봤다.

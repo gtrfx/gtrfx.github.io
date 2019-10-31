@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "銀と金"
 categories:
     - life

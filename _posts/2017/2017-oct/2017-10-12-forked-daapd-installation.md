@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Forked-daapd setup in arch linux arm"
 categories:
     - learning

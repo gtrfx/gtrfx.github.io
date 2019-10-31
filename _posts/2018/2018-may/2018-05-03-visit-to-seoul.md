@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "오랜만에 서울에 가보니"
 categories:
     - life

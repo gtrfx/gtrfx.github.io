@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Kiesel (ex. Carvin) 커스텀 기타에 대하여"
 categories:
     - life

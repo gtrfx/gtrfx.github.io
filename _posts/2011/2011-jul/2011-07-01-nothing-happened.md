@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Nothing happened.."
 ---
-# Nothing happened..
 
 Mendacious dirtbags deceived me..
 

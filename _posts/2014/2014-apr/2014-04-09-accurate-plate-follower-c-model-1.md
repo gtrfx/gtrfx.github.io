@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Accurate Plate Follower C Model (1)"
 ---
-# Accurate Plate Follower C Model (1)
 
 
 회로 시뮬레이션을 한다고 할 때, 대부분의 선형회로의 경우는 이것을 손쉽게 1:1로 완벽하게 디지털 세계로 옮겨 놓을 수 있고,R/L/C 회로의 경우도 bilinear transform을 이용해서 완벽하다고는 할 수 없지만, 디지털 필터로 근사화가 가능하기 때문에 (귀가 속아주는 범위에서) 거의 완벽하게 옮겨 놓을 수가 있다.그러나, diode, Tr, tube, 또는 실제의 transformer와 같은 비선형 소자가 달라붙는 경우에는 이것의 특성이 완벽한 수식으로 나타나는 것이 아니라 실제의 일부 특성만을 curve-fitting한 비선형 함수로 나타나고, 회로 방정식을 풀 때 closed form의 solution이 얻어지지 않아 별 수 없이 수치해석적 방법을 도입하게 된다. 다시 말하자면, 모델의 원형도 근사화된 수식이고, 그것을 해석하는 과정도 점근적으로 이루어져서 쉽게 말하면 오차 덩어리라고 볼 수 있다.

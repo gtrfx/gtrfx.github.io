@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "rtorrent와 flood"
 categories:
     - computer

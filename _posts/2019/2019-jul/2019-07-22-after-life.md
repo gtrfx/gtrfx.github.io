@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "After Life (2019)"
 tags: [ricky gervais, tv series, netflix]
 ---

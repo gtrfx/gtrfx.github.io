@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "sed와 grep"
 tags: [unix, utilities, computing, regex, sed, grep]
 categories:

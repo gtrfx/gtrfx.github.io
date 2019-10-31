@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "타인의 고민 들어주기"
 tags: [life sucks to anybody]
 published: false

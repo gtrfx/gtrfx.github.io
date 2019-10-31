@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Lion Developer Preview 2.."
 ---
-# Lion Developer Preview 2..
 
 잘은 모르겠으나 iCal에서 변화가 뚜렷해보이고 여러 가지 버그들이 정리되었다는데, Preview 1에서 잘 되지 않았던 기능은 여전히 잘 안된다는 얘기가 들린다.
 

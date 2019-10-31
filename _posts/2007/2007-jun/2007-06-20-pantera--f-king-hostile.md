@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Pantera - F@#king Hostile.."
 ---
-# Pantera - F@#king Hostile..
 
 "Vulgar Displays of Power" 앨범에서 Live in a Hole 다음으로 많이 들었던 노래일 거다..
 

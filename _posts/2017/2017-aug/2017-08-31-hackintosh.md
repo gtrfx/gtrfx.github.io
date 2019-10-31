@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "When you see - failed loading kernel cache at boot time"
 categories:
     - hackintosh

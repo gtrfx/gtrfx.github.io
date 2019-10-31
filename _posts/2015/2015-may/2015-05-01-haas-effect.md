@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Haas effect"
 ---
-# Haas effect
 
 
 1. 들어가며

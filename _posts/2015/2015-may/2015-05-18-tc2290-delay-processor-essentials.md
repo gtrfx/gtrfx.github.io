@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "TC2290 Delay Processor: Essentials"
 ---
-# TC2290 Delay Processor: Essentials
 
 
 구조는 일단 아래와 같다. 기본 구조는 일반적인 디지털 딜레이와 다름 없는데, 딜레이에 대한 컨트롤 로직과 엔빌롭 컨트롤이 복잡하게 되어있다는 차이만 있다.

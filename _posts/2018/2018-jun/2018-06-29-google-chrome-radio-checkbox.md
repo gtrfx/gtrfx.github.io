@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "크롬에서 라디오버튼/체크박스가 보이지 않을 때"
 tags: [chrome, macos, radio, checkbox]
 categories:

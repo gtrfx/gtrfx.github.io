@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "M-Audio Profire-610"
 ---
-# M-Audio Profire-610
 
 ![image](/assets/images/8e8760e3ac1820b61578472ef14fe239.jpg)
 M-Audio가 인기작인 Firewire 410 (블로그 주인장이 사용 중)을 과감히 단종시키고 나온 신제품이다.

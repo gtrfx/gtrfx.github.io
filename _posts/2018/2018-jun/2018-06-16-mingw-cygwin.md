@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "MinGW(w32/w64)/Cygwin 속도 비교"
 categories:
     - computer

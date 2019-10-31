@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Solid State Guitar Amplifier (2)"
 ---
-# Solid State Guitar Amplifier (2)
 
 
 Solid state라면 예전엔 트랜지스터를 쓴 라디오 혹은 티비를 얘기했다. 70-80년대 얘기다. 지금은 이런 말은 아무도 쓰지 않는 것 같다. 요새 애들이 들으면 엄청나게 오래된 얘기를 하나보다 할 것 같기도 하다. 

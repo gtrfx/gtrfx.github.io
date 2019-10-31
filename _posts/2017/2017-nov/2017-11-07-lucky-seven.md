@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Lucky seven"
 categories:
     - life

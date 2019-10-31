@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "사람의 마음"
 categories:
     - life

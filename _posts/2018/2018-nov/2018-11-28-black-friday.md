@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2018 블랙 프라이데이 감상.."
 tags: [black friday]
 ---

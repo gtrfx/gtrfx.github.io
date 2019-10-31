@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "What you can do with your Raspberry pi"
 categories: 
   - life

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "동기 부여 받기"
 categories:
     - life

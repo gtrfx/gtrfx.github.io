@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Accurate Plate Follower C Mode (2)"
 ---
-# Accurate Plate Follower C Mode (2)
 
 
 지난 포스팅에서는 C가 없고 R만 달라붙는 경우에 대한 모델링에 대해서 얘기했는데, 이번에는 C가 달라붙는 경우도 생각해 보기로 한다.

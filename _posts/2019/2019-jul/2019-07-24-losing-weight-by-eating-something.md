@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "뭔가를 먹으면 살이 빠진다는 광고"
 tags: [fight fat by eating something, fight fire with fire]
 ---

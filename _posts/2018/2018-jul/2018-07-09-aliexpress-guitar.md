@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Aliexpress Guitar"
 categories:
     - guitar

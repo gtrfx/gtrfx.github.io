@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Mature Life"
 categories: life
 ---

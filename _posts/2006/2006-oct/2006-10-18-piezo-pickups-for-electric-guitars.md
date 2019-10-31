@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Piezo Pickups for Electric Guitars.."
 ---
-# Piezo Pickups for Electric Guitars..
 
 
 마그네틱 픽업으로 소리를 내는 일렉트릭 기타에서도 피에조 픽업을 이용해서 어쿠스틱한 소릴 얻어낼 수 있다. Line6의 Variax라는 기타는 아예 마그네틱 픽업을 없에고 피에조 픽업과 DSP 보드를 기타에 내장하여 피에조 픽업으로부터 받아들인 소리를 다양한 형태로 변형할 수 있도록 만들었다. 또한 야마하의 Silent Guitar (외에도 바이올린 등등)는 어쿠스틱 악기의 울림통을 아예 없에고 피에조 픽업과 넥, 스트링, 그리고 스트링의 장력을 유지해주는 구조물을 이용해서 기타를 만들어내고 있다 (Reverb를 내주는 DSP 회로가 추가되어있긴 하다).

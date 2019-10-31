@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "늘상 바꿈질 하는 기타"
 categories:
     - music

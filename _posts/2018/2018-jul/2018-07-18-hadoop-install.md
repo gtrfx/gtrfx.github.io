@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Hadoop을 설치하려고 보니..."
 tags: [hadoop, docker, it_survival]
 categories:

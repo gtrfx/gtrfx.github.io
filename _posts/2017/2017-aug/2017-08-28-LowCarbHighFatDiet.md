@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Low Carb High Fat diet"
 categories:
     - life

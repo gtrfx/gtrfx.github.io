@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Bilinear Transform"
 ---
-# Bilinear Transform
 
 아날로그 필터를 디지털 필터로 옮겨오는 것 중에 가장 쓸만한 방법이 Bilinear transform이다. 
 그러니까, 원래의 아날로그 필터를 가장 수식적으로 근사하게 가져오면서도 실제로 implement했을 때 복잡도도 가장 낮으면서도 원래의 아날로그 필터 특성을 잘 살릴 수 있는 방법이란 말이지.

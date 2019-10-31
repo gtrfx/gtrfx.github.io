@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Xiaomi phone 뭘 사야되나?"
 tags: [xiaomi]
 ---

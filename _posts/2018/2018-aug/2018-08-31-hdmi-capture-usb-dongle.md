@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "HDMI-to-USB capture card"
 tags: [usb, HDMI, webcam]
 categories:

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Drumkit From Hell..Superior"
 ---
-# Drumkit From Hell..Superior
 
 
 나온지 좀 된 대용량의 드럼 샘플이다. 대략 35 GB 정도가 되는데, 생소리에 overhead, ambience 샘플이 같이 들어있고, 드럼셋도 여러가지인데다 뭘로 두들기느냐 드럼피가 뭘로 되어있냐에 따라 여러가지로 즐길 수가 있다. 

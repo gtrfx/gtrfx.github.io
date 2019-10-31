@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "brew install gcc..."
 tags: [gcc, g++, brew, MacOS, openmp]
 categories:

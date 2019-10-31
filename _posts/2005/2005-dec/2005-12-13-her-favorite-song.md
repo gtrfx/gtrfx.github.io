@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Her Favorite Song"
 ---
-# Her Favorite Song
 
 Guitar: Ibanez RG450MH (EMG89/81)
 Preamp: CustomPreamplifier-1 with Cab. Simul

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Bogner Uberschall...Schematic??"
 ---
-# Bogner Uberschall...Schematic??
 
 잘 나가는 하이앤드 앰프 중에 Bogner Uberschall이 있다. Dual Rectifier에 비해서 덜 muddy 하면서도 tight하고 brutal한 distortion을 자랑하는 물건이다. 불행히도 이 물건의 회로도는 돌아다니질 않는다. Fish preamp나 Triple Giant의 회로도는 구할 수 있지만 말이다.
 

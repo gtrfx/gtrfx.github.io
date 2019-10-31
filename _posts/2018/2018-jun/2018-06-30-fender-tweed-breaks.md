@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Fender tweed도 찌그러진다"
 tags: [amplifier, fender, twin, twin reverb, tweed, distortion]
 categories:

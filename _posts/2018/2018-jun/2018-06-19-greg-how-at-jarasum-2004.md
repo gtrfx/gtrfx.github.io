@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Greg Howe at Jarasum Jazz Festival in 2004"
 categories:
     - music

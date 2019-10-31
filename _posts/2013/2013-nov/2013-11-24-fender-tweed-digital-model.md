@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Fender Tweed Digital Model"
 ---
-# Fender Tweed Digital Model
 
 
 이번엔 Fender Tweed의 Digital Model이다.

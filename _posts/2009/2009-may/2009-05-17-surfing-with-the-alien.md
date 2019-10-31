@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Surfing with the Alien"
 ---
-# Surfing with the Alien
 
 Freeware VST 플러긴으로만 만들어봤다.
 생각보다 EQ 다루기가 힘들어서 대충 쳐바르고..

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Old style/legendary guitars"
 categories:
     - music

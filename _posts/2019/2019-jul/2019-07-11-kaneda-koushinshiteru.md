@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "カネダ 更新してる"
 tags: [kekkondekinaiottoko]
 ---

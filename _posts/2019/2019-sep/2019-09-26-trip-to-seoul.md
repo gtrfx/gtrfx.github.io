@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "여행 다녀오다.."
 tags: [trip, seoul]
 ---

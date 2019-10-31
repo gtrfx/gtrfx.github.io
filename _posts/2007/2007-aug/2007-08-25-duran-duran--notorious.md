@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Duran Duran..'Notorious'"
 ---
-# Duran Duran..'Notorious'
 
 2006년의 Duran Duran의 Live이다..
 

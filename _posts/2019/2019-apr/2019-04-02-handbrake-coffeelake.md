@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "i7 8700 H.265 transcoding"
 tags: [h.265]
 ---

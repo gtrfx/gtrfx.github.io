@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Toto with Fergie Frederikson"
 ---
-# Toto with Fergie Frederikson
 
 Toto의 최근작 몇 장을 빼곤 거의 모든 앨범을 다 가지고 있는데, 그 중 Isolation 앨범도 전체적으로 매우 좋아하는 편이다. 보컬의 강한 개성과 함께 여타 앨범과는 다른 하드한 맛이 있어서 더 그렇다. 일단 아래 뮤직비디오를 보시라..
 

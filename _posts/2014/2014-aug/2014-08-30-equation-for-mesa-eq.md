@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Equation for Mesa EQ"
 ---
-# Equation for Mesa EQ
 
 
 Here you are!

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "WDL-OL: 어찌될 것인지?"
 categories:
     - computer

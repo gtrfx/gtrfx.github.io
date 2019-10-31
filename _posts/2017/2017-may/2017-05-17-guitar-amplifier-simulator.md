@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Guitar Amplifier Simulator"
 ---
 # Guitar amplifier Simulator

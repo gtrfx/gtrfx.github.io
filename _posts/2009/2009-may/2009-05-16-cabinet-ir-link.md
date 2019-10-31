@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Cabinet IR Link"
 ---
-# Cabinet IR Link
 
 
 아래를 참조하시라. 인터넷에서 돌아다니는 거의 모든 IR을 받을 수 있다.

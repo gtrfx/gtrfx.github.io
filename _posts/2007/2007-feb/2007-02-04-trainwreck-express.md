@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "TrainWreck Express.."
 ---
-# TrainWreck Express..
 
 
 Ken Fisher란 사람이 Design한 앰프로 매니아 층에서는 잘 알려진 모양이다..

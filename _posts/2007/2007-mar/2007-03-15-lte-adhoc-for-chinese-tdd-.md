@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "LTE adhoc for (Chinese) TDD..?"
 ---
-# LTE adhoc for (Chinese) TDD..?
 
 TDD를 위한 LTE adhoc meeting이 4월 17일에서 20일까지 중국 북경에서 열릴 예정이다.
 

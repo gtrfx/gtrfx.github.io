@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "왜 뜻대로 되지 않으면 화가 나는 것일까?"
 categories: life
 ---

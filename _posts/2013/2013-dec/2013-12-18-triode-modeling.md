@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Triode modeling"
 ---
-# Triode modeling
 
 
 그동안 triode amplifier stage를 모델링하다가 간과한 부분이 여러가지로 발견 되었다. 가장 큰 것은 이것이 small signal model에 기준해있었다는 것이고, 과도한 입력이 들어올 때에 대한 model이 반영되었긴 했으나 그게 실제의 tube와는 거리가 있었다는 것이다.

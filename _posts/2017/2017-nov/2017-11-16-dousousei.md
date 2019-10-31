@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "일드 동창생 (2014)"
 categories:
     - life

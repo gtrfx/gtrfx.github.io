@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Vox AMPlug - Metal"
 ---
-# Vox AMPlug - Metal
 
 Vox에서 나온 재미난 물건이다. AAA형 배터리 2개로 구동되는 헤드폰 앰프란다. 이름하야 Amplug..
 

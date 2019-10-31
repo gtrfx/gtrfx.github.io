@@ -1,4 +1,5 @@
 ---
+layout: post
 title: New beginning
 categories: life
 ---

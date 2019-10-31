@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Lynch Mob - Smoke and Mirrors (2009)"
 ---
-# Lynch Mob - Smoke and Mirrors (2009)
 
 ![image](/assets/images/5838a8dda3aa60389521f81e7cecad79.jpg)
 George Lynch가 이끄는 Lynch Mob이 2009년에 세번째 앨범 - Smoke and Mirrors라는 앨범을 냈다! 

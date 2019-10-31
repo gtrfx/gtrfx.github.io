@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Docker on a mac/windows/linux box, cygwin, mingw 성능 측정"
 tags: [docker, mingw, cygwin, ubuntu, arch linux, wingows, mac]
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Celldweller 음악 좋네!"
 categories:
     - music

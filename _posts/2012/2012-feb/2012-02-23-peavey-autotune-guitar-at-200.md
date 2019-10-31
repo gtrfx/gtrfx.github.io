@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Peavey AutoTune Guitar AT-200"
 ---
-# Peavey AutoTune Guitar AT-200
 
 Peavey와 Antares의 기술이 만난 자동 튜닝 기타란다.
 

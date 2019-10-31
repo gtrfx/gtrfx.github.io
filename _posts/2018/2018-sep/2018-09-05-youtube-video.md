@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "유튜브 슬슬 짜증나는데.."
 tags: [video, encoding]
 categories:

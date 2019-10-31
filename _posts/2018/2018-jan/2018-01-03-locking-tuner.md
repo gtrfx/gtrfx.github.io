@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Cheap trim/grip locking tuner from China"
 categories:
     - music

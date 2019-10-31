@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Dave's gone skiing cover"
 categories: 
    - cover

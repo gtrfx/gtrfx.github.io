@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "&quot;The bumblebee has landed....&quot;"
 ---
-# &quot;The bumblebee has landed....&quot;
 
 
 본토에서 "Mayday"를 외치던 나는 바다건너에서 들려오는 구조신호에 지푸라기라도 잡는 심정으로 화답을 보내고,

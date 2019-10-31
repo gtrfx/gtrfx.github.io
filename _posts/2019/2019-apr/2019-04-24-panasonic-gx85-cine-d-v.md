@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "GX85에서 Log 타입 picture profile"
 tags: [GX85, picture profile, loglike]
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 小田和正 "この道を"
 tags: [Kazumasa Oda, 小田和正, この道を, Black Pean, 블랙 페앙]
 img: konomichiwo.jpg

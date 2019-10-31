@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "It's time to switch MAC OS.."
 ---
-# It's time to switch MAC OS..
 
 아래는 새로운 Mac OS Leopard의 시연 동영상이다.
 

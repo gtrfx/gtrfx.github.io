@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Rotary Encoder"
 categories:
     - learning

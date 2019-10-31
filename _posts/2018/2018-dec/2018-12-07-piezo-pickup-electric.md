@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "일렉기타에 피에조 픽업 붙이기"
 tags: [piezo pickup]
 ---

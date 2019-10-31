@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Wilson Philips라는 그룹이 있었지.."
 tags: [wilson philips, steve kipner]
 ---

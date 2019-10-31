@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "특정 사이트 접속 금지"
 tags: [rejection, site, access, ban]
 ---

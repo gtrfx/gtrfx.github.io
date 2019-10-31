@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "p212 arch linux install"
 tags: [linux, aarch64, arm64]
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ibanez Iron Label guitars"
 categories:
     - guitar

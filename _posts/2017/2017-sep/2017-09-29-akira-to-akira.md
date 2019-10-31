@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "아키라와 아키라"
 categories:
     - jdrama

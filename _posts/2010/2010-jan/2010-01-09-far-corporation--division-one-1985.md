@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Far Corporation - Division One (1985)"
 ---
-# Far Corporation - Division One (1985)
 
 ![image](/assets/images/b8ce1baccda074ea7c67677beaaef2bb.jpg)
 보니엠/밀리 바닐리를 프로듀싱하여 잘 알려진 Frank Farian이라고 하는 Recording producer가 리드한 프로젝트 밴드이다. 레코딩 프로듀서가 이끄는 프로젝트로서 Alan Parsons project라고 하는 밴드 역시 비슷한 부류가 아니었나한다.

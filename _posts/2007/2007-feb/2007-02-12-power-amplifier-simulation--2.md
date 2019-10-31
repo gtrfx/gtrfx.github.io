@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Power Amplifier Simulation...#2"
 ---
-# Power Amplifier Simulation...#2
 
 이번엔 앰프의 다이내믹한 특성에 대해서 실험해보았다..
 스피커 모델은 duncan amps에서 제공한 셀레스쳔 Vintage30, G12-T75를 놓고 해봤다.

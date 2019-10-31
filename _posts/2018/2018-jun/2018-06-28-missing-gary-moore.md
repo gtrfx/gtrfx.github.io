@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Gary Moore를 떠올리며.."
 img: gary_moore.jpg
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Flutter를 배워볼까?: Day 2"
 tags: [flutter]
 ---

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Tonestack Digital Modeling"
 ---
-# Tonestack Digital Modeling
 
 
 일단 펜더와 마샬 타입의 톤스텍을 디지털 필터로 모델했다. 이제 박차를 가하여 나머지 회로 부분만 차근 차근 모델하면 VST/AU 플러긴은 시간 문제일듯. 누군가 이걸로 논문을 쓰고 논문 상도 받았던데, 그 논문에 있는 수식을 그대로 가져다 쓰려니 내가 생각하는 모델과 달라서 포기하고, 결국 node equation을 다시 풀었다. 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Oreo (android 8.1) 올려봤다"
 categories:
     - life

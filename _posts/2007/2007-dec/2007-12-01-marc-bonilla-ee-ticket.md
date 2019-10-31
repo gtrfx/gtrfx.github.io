@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Marc Bonilla 'EE Ticket'"
 ---
-# Marc Bonilla 'EE Ticket'
 
 
 ![image](/assets/images/43577007644e46857be42988a47f02fa.jpg)

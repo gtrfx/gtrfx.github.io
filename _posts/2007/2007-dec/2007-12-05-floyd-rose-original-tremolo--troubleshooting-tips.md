@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "FLOYD ROSE ORIGINAL TREMOLO - TROUBLESHOOTING TIPS"
 ---
-# FLOYD ROSE ORIGINAL TREMOLO - TROUBLESHOOTING TIPS
 
 Trouble Shooting the Floyd Rose Tremolo
 

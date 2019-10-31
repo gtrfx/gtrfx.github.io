@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "집에 터널링하기"
 categories:
     - computer

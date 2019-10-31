@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "실행이 늦어진다.."
 tags: [나태, 태만, 늙어감]
 categories:

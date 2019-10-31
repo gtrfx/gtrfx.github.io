@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "일반인의 눈으로 본 Deep Learning (2)"
 tags: [deep learning, neural network]
 categories:

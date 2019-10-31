@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "매주 새로운 음악 커버치기"
 tags: [cover, 1 song per week]
 ---

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Plate Follower modeling..(1)"
 ---
-# Plate Follower modeling..(1)
 
 간단한 plate follower modeling
 

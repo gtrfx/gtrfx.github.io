@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Plate Follower Modeling (3)"
 ---
-# Plate Follower Modeling (3)
 
 
 두번째 포스팅에서 얻은 결론은 회로를 시뮬레이션 함에 있어서 선형회로의 경우는 대부분 간단한 필터로 시뮬레이션이 가능한 반면 비선형 소자가 존재하는 경우에는 방정식을 풀어야 하는 문제가 있는데, 이 또한 closed form의 해를 얻기가 쉽지 않아서 Newton Raphson과 같은 수치해석적인 방법을 이용해서 해를 찾는다고 하였다. Newton Raphson 방법은 오차, 그리고 오차의 도함수(미분값)을 이용하여 해를 찾아가는 방법이다. Iteration을 통해서 해를 찾아가는 방법들은 대개 이렇게 오차를 구하고 그것을 feedback하는 방법으로 문제를 풀어간다. 

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Never Enough..."
 ---
-# Never Enough...
 
 Dream Theater의 Never Enough를 쳐봤다..
 

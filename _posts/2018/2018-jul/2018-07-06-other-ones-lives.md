@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "타인들의 삶의 궤적을 들여다보며"
 tags: [life, route, history]
 categories:

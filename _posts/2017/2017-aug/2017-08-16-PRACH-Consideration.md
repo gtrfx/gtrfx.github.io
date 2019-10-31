@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Consideration on PRACH Detection Design"
 categories:
     - technology

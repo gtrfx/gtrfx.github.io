@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Mesa Boogie V-Twin"
 ---
-# Mesa Boogie V-Twin
 
 
 Marshall JMP-1에 이어 Mesa Boogie의 프리앰프인 V-Twin에 대해서 이야기할까 한다.

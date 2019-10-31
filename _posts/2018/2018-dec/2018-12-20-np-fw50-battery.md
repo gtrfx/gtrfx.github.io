@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "NP-FW50 배터리: third party battery"
 tags: [np-fw50]
 ---

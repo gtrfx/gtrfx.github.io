@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Micromouse를 다시 들여다보니: 최근 마우스의 모양새"
 tags: [micromouse]
 ---

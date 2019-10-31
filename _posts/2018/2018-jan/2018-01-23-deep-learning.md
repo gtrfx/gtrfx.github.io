@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Deep learning"
 categories:
     - learning

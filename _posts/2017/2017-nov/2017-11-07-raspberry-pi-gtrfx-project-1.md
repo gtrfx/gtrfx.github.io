@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Raspberry Pi GtrFx project (1)"
 categories:
     - project

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Fender Amplifiers"
 ---
-# Fender Amplifiers
 
 Fender의 Amplifier는 주로 clean tone을 내려한다거나 Blues를 한다고 할 때
 생각하는 amplifier이다.

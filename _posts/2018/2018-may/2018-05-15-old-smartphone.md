@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "오래된 스마트폰 어떻게든 우려먹기"
 categories:
     - life

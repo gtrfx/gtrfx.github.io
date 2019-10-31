@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Bumblefoot - I can't play the blues.."
 ---
-# Bumblefoot - I can't play the blues..
 
 
 거참 재미나는 구나..에효..

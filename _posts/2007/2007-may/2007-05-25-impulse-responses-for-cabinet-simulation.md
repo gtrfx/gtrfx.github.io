@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Impulse Responses for Cabinet Simulation.."
 ---
-# Impulse Responses for Cabinet Simulation..
 
 Here are 6 impulse responses (32 bit-floating point, wave format) for your home studio recording.
 

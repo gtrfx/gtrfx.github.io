@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Kirkland Craft Brewed Beer 이거 참 좋네"
 tags: [kirkland beer, IPA, APA, Session IPA, Pilsner]
 ---

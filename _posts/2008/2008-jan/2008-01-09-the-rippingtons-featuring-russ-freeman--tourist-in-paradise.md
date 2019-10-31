@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "The Rippingtons featuring Russ Freeman - 'Tourist in Paradise'"
 ---
-# The Rippingtons featuring Russ Freeman - 'Tourist in Paradise'
 
 80년말 90년 초 인기의 전성가도를 달리던 Rippingtons의 대표곡 Tourist in Paradise의 Live in L.A. (1992)이다.
 

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Filter model: Bilinear transform"
 ---
-# Filter model: Bilinear transform
 
 
 진공관 회로에서 사용하는 filter는 대개 1차의 RC filter이다. 

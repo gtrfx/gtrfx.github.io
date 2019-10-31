@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Engl Power Ball model.."
 ---
-# Engl Power Ball model..
 
 
 Engl Power Ball은 사실상 fireball과 같은 회로에서 분압비를 살짝 살짝 바꿔준 것 외엔 도무지 차이를 찾아볼 수가 없다. 몇 가지 스위치를 만들어 놓았는데, bright mode라고 해서 늘상 있어왔던 스위치, 그러니까 고역을 강조하는 기능이고, bottom이라고 해서 저역을 강조하는 스위치가 붙어있고, 톤스텍을 스위치에 따라 조정할 수 있게 되어있다. UI가 실제의 앰프와 다르고보니 만들어놓아도 테스트하기가 좀 애매하다. 워낙 많은 앰프 모델을 만들다보니 테스트용 UI도 바꿔야 할 것 같다.

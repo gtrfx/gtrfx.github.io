@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "열하 일기"
 categories:
     - life

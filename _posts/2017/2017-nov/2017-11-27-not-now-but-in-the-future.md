@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "현재보다 미래?"
 categories:
     - life

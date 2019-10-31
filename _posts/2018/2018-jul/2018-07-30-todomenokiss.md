@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "토도메의 키스.."
 tags: [jdrama, todomeno kiss]
 categories:

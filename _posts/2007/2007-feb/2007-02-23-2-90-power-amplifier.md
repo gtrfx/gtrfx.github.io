@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "2:90 Power Amplifier"
 ---
-# 2:90 Power Amplifier
 
 앰프의 구조는 입력을 40~50배 증폭시키는 초단과 phase splitter,그리고 6L6 2 pair가 1 channel을 이루어, 총 2개 채널로 각각 약 90W의 출력을 내는 파워앰프이다.
 왜 100W가 아니고 90W냐고 물어볼 수 있다. 2 개의 6L6 pair가 붙어있는데 말이다. 이것은 1 pair는 class AB로 1 pair는 class A로 동작하기 때문이다. 이른바 두 개의 서로 다른 class의 증폭기가 동시에 작동하는 simul-Class power amplifier이기 때문이다.

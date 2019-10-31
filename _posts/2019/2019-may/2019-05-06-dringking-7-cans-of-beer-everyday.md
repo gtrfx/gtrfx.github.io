@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "매일 맥주 마시기 실험"
 tags: [don't do that]
 ---

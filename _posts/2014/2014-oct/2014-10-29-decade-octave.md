@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Decade/Octave"
 ---
-# Decade/Octave
 
 
 Filter의 response의 특징을 얘기할 때 cut off frequency 말고도 slope(기울기)를 얘기하는데, 이때xx dB/decade 또는 xx dB/octave라고 얘기한다. 이것은 filter가 cut off frequency를 지난 영역, 즉 cut을 하는 영역에서 주파수에 따른 필터응답의 변화(기울기)를 나타내는 이야기다.

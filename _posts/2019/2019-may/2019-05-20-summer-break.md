@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "어느 덧 이곳은 여름 방학 시즌"
 tags: [summer break]
 ---

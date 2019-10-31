@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Catalina에서 Mojave로 다운 그레이드?"
 tags: [catalina is not good for upgrade right now]
 ---

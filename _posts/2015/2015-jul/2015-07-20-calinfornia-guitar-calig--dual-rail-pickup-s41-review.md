@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Calinfornia Guitar(CALIG): Dual Rail Pickup S41 Review"
 ---
-# Calinfornia Guitar(CALIG): Dual Rail Pickup S41 Review
 
 
 여러 대의 다른 기타가 생기고 나서는 연습용 기타로 전락한 나의 Ibanez RGR465m의 유일한 장점인 - 디마지오 픽업이 stock pickup으로 장착되었다는 - 픽업에 문제가 생겨서 픽업을 수리해 보았으나, 아무리 생각해도 희박한 확률이지만 픽업 내부에서 단선이 있는 것으로 확인되어 교체용 픽업이 필요하기에 저렴한 픽업을 ebay에서 수배해보니 아래와 같은 물건이 걸려들었다. 

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Guitar Cab Impulse Response"
 ---
-# Guitar Cab Impulse Response
 
 평소에 모아두었던 impulse response들을 공개한다.
 필요하신 분들은 마음 껏 이용하시길 바랍니다.

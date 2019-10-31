@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Behringer U-Phoria UM2"
 categories:
     - life

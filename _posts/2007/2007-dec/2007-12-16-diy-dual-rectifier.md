@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "DIY Dual Rectifier.."
 ---
-# DIY Dual Rectifier..
 
 
 

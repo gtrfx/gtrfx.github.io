@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Schecter Jeff Loomis Signature (NAMM2008)"
 ---
-# Schecter Jeff Loomis Signature (NAMM2008)
 
 Nevermore의 7현주자 Jeff Loomis의 Signature model을 Schecter에서 새로 만든 모양이다.
 흔한 7현들과 다르게 메이플 지판을 쓰고 있다는 점, 그동안 Schecter (월드악기?)의 자랑인 아발론 인레이는 여전히 돋보인다. 바디는 그냥 검정색 무광에 픽업은 EMG707 두 개를 쓰고 있다.

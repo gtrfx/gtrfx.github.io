@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "3GP RAN1 #51 Jeju Meeting"
 ---
-# 3GP RAN1 #51 Jeju Meeting
 
 
 LTE관련 내용을 요약하면..

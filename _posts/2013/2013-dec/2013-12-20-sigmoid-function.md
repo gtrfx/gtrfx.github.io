@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Sigmoid Function"
 ---
-# Sigmoid Function
 
 
 Sigmoid function이라는 일종의 비선형 함수가 있다. exponential function을 살짝 이용해서 비선형성을 갖도록 만든 함수인데, 이게 의외로 전자공학 분야에서는 많이 쓰이는 함수이다.

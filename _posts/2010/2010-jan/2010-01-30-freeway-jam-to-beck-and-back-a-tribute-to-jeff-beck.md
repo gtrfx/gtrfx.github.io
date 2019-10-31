@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Freeway Jam to Beck and Back: A Tribute to Jeff Beck"
 ---
-# Freeway Jam to Beck and Back: A Tribute to Jeff Beck
 
 ![image](/assets/images/36d0623c3bbd3533a2d6064a2f3ae327.jpg)
 Jeff Beck이 3월에 내한 공연을 한다는데, 나에겐 남의 일이나 다름 없는 상황이 되었고..

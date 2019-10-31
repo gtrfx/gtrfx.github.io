@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "NI plugins/instruments + MacOS 10.11 beta = validation failure"
 ---
-# NI plugins/instruments + MacOS 10.11 beta = validation failure
 
 
 MacOS 10.11로 옮겨간지 한참인데, 벌써 beta 7까지 나왔다. 9월달에 정식버전이 발표될테니 아마도 곧 있으면 GM 버전이 나오게 될 듯 하다. MacOS를 알뜰하게 여기 저기 사용하는 그런 사용자가 아닌 내 입장에서는 아직도 10.11이 완벽하다고 보긴 좀 어려운 것 같다. 자주 사용하는 preview 같은 것에도 자잘한 문제들이 있고, crash가 나는 app들도 더러 있다. third party app의 경우는 10.11용으로 만들었다고 보기 뭐하니 문제가 생겨도 그럴 수 있다 치지만, apple에서 만든 10.11용 app들에서 문제가 발생하는 것을 보면, 아직 정식버전까진 시간이 좀 남았나보다 하게 되는 것이다. 

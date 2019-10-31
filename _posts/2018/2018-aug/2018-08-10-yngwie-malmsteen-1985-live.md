@@ -1,6 +1,7 @@
 ---
+layout: post
 title: "Yngwie Malmsteen's Rising Force Live 1985"
-tags: [yngiwe malmsteen, live, 1985, tokyo]
+tags: [yngiwe malmsteen, live, "1985", tokyo]
 ---
 
 Yngwie Malmsteen의 'Far beyond the sun'이면 일렉기타를 취미로 즐기는 사람들에게는 한번씩 거쳐가는, 그러나 일생을 두고 정진해야 도달할 수 있는 경지의 연주곡이 아닐까 한다. 이미 나온지 34년이나 된 곡이기도 하지만, 여전히 커버하고 있는 사람들이 많은 곡이기도 하고 그의 대표곡이자 지금의 그를 있게 만든 '인생작'이라고 해야지 싶기도 하다. 

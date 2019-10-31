@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "스스로를 비판하는 일"
 categories:
     - life

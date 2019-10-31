@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Triode Modeling (2nd phase)"
 ---
-# Triode Modeling (2nd phase)
 
 
 같은 제목으로 여러 번 포스팅하고 있는데, 이번이야 말로 사실상 모델링의 종지부를 찍으려 한다.

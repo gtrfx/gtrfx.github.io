@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Mark Rhythm Channel"
 ---
-# Mark Rhythm Channel
 
 
 오랜만에 하는 땜질이라 다소 어설프지만 생각보다 빨리 진행되고 있다. 이 기세라면 내일쯤이면 완성될 듯.

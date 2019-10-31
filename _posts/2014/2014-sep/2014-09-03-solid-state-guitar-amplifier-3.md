@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Solid State Guitar Amplifier (3)"
 ---
-# Solid State Guitar Amplifier (3)
 
 
 FET(field effect transistor)가 왜 tube에 비견되는지에 대해서 먼저 얘기해야할 것 같다. 

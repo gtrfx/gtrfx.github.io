@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Amplifier Circuit"
 tags: [amplifier, transistor, triode]
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Four on Six"
 categories:
     - music

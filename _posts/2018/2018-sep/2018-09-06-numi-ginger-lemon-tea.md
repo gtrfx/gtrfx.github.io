@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Numi Ginger Lemon tea 이거 좋네!"
 tags: [ginger, lemon, tea]
 categories:

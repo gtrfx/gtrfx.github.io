@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "잡설: 코드와 스케일.."
 tags: [chords, scale]
 ---

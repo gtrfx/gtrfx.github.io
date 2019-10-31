@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "몸 키우기??"
 tags: [biceps, triceps, quadriceps]
 ---

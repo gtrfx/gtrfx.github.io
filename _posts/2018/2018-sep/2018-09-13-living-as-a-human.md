@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "인간으로 살아간다는 것: 조직생활"
 tags: [greediness, jealousy]
 categories:

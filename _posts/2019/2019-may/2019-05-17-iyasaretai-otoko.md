@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "치유받고 싶은 남자"
 tags: [iyasaretai otoko]
 ---

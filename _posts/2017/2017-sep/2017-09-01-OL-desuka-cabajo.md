@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "OL입니다만. 카바죠 시작했습니다."
 categories:
     - life

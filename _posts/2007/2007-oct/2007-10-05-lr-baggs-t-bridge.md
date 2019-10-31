@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "LR Baggs T-Bridge.."
 ---
-# LR Baggs T-Bridge..
 
 주문한 물건이 정확히 5일만에 왔다..
 

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Mesa/Boogie Amplifiers"
 ---
-# Mesa/Boogie Amplifiers
 
 Mesa/Boogie는 Fender 앰프를 수리/개조하던 끝에 Boogie amplifier란
 독자모델을 만들게 되고 이것이 창업자가 같이 경영하던 Mesa Engineering과

@@ -1,0 +1,47 @@
+#!/usr/bin/env perl
+use Cwd;
+
+sub work
+{
+	opendir(my $d,$_[0]);
+	my @de=readdir($d);
+	closedir($d);
+	foreach my $s (@de)
+	{
+		if ($s !~ /^\./)
+		{
+			my $u=$_[0]."/".$s;
+			if (-d $u)
+			{
+				work($u);
+			}
+			elsif ($u =~ /\.md$/)
+			{
+				my $m=`cat $u`;
+				if ($m !~ /layout/)
+				{
+					$m =~ s/^title:/layout: post\ntitle:/;
+					open(my $f,">",".tmp");
+					print $f $m;
+					close($f);
+					`cp .tmp $u`;
+				}
+				if ($m =~ /\ntitle:[ ]+\"(.+)\"/)
+				{
+					my $v=$1;
+					if ($m =~ /\#[ ]\Q$v\E\n/)
+					{	
+						$m =~  s/\#[ ]\Q$v\E\n//;
+					}
+					open(my $f,">",".tmp");
+					print $f $m;
+					close($f);
+					`cp .tmp $u`;
+				}
+			}
+		}
+	}
+}
+
+my $v=getcwd;
+work($v);

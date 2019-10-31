@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "영상 신호 처리 vs (일반)신호 처리"
 tags: [image processing]
 ---

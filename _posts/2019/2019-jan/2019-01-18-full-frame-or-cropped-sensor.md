@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "풀프레임 센서 + HD 냐 아니면 크롭센서 + 4k냐?"
 tags: [camera]
 ---

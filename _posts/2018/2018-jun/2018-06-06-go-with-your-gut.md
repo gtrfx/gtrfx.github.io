@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Go with your gut!"
 categories:
     - life

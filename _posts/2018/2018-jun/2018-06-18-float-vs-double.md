@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Float vs. Double"
 categories:
     - computer

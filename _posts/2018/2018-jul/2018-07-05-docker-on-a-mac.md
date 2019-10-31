@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Docker on a mac"
 tages: [docker, mac, ubuntu]
 categories:

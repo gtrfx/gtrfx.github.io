@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "C 마운트 렌즈 사지 마라"
 tags: [c-mount, fujian]
 ---

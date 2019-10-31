@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Juce에서 knobman 이용하기"
 tags: [juce, c++]
 categories:

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "한계 효용 체감 법칙: A law of diminishing marginal utility"
 categories:
     - life

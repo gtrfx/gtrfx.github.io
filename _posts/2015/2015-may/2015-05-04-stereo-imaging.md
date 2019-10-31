@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Stereo imaging"
 ---
-# Stereo imaging
 
 
 1. 들어가며

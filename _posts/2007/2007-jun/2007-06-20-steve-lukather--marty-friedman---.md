@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Steve Lukather + Marty Friedman..(???)"
 ---
-# Steve Lukather + Marty Friedman..(???)
 
 정말로 생뚱맞은 만남이 아닐까..
 

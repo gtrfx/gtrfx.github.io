@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "상기도 감염? 호흡기 질환?"
 categroies:
     - life

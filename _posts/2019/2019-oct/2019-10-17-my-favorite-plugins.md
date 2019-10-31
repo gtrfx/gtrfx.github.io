@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "내가 좋아하는 audio plugins/virtual instruments"
 tags: [audio plugin, vst, au, rtas]
 ---

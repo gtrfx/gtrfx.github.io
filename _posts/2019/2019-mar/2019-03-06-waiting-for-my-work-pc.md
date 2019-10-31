@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "업무용 PC를 기다리며"
 tags: [ThinkCentre, i7 8700]
 ---

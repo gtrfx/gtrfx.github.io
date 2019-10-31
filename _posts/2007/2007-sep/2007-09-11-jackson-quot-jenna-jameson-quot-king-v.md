@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Jackson &quot;Jenna Jameson&quot; King V.."
 ---
-# Jackson &quot;Jenna Jameson&quot; King V..
 
 
 

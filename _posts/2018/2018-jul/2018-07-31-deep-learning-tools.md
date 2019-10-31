@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Learning Deep Learning: tools?"
 tags: [deep learning, machine learning]
 categories:

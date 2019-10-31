@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Google Translate + Automation: API Key"
 tags: [google translate]
 ---

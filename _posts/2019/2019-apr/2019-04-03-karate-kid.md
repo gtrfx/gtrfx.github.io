@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "베스트 키드? 카라테 키드? 쿵후 키드?"
 tags: [karate kid]
 ---

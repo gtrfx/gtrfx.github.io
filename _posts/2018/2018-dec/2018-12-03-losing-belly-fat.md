@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "뱃살 빼기: 3개월간의 경험"
 tags: [belly fat, losing belly fat]
 ---

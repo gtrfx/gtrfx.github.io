@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Tube PSICE Model.."
 ---
-# Tube PSICE Model..
 
 PSPICE 모델의 특성상 극악 환경에 대한 시뮬레이션은 불가한 것으로 보여진다.
 

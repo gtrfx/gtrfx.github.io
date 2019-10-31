@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "요새 내가 가장 궁금해하는 것"
 tags: [image quality, sharpness]
 ---

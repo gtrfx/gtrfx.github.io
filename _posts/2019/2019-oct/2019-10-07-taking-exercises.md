@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "몸이 정말 찌뿌둥 할 때"
 tags: [do exercise]
 ---

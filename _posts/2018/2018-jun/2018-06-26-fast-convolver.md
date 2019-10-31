@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Fast Convolver"
 tags: [FFT, convolution, audio, signalprocessing]
 categories:

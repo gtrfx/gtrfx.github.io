@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Ibanez rules..!"
 ---
-# Ibanez rules..!
 
 Ibanez는 7현도 정말 멋드러지게 만든다. 비록 전세계로 판매하는 물건이 아니라 일본 내에서만 판매하는 J-Custom 모델이긴 하지만, 어쩜 이렇게도 잘 만들 수 있을까 싶을 정도다.
 

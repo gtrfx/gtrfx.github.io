@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Tetrode/Pentode"
 ---
-# Tetrode/Pentode
 
 
 Tetrode/Pentode는 triode에 전류의 흐름을 제어하는 단자가 한개 혹은 두개 더 달려있는 진공관이다. Triode 다음이 Tetrode (4극관)이고, Pentode(5극관)으로 오면 모양이 매우 복잡한데 추가 되는 grid단자가 screening grid, suppressor grid라고 한다.

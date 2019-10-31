@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Fractal Audio AX8"
 ---
-# Fractal Audio AX8
 
 ![image](/assets/images/45c1bdd56692184c87150ee9cb7e5adc.jpg)
 

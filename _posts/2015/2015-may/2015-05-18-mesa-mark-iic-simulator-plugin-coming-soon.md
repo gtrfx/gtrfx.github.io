@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Mesa Mark IIc+ Simulator Plugin: Coming soon!"
 ---
-# Mesa Mark IIc+ Simulator Plugin: Coming soon!
 
 
 이 플러긴은 무료로 풀 계획이라 인터페이스를 오리지널과 유사하게 만들어봤다. 여러 가지로 테스트 중인데 실물 앰프를 가지고 있지 않고 유튜브라든가 개인 녹음, 레코드로부터 힌트를 얻고 있는 중이라 쉽지 않다. 

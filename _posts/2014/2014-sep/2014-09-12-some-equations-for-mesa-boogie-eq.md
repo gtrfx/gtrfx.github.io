@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Some equations for Mesa Boogie EQ"
 ---
-# Some equations for Mesa Boogie EQ
 
 
 MesaBoogie의 Mark series에 들어가는 EQ는 매우 단순한 회로인데, differential amplifier와 active load/current mirror가 붙어있는 TR회로가 초심자들 입장에서는 쓸데없이 복잡해보일 수 있는데, 내가 보는 입장에서는 왜 간단하게 opamp 하나 쓰면 될 것을 이 회로를 계속해서 고집하고 있는지 잘 이해가 되진 않는다. 이것도 악기라 생각해서 오히려 성능이 (훨씬) 좋은 opamp로 바꾼다고 하면 소비자들한테 톤이 안좋아졌다는 불평을 들을까 싶어서 그런 것인지, 아니면 어디선가 회로를 가져왔는데 알맹이는 잘 모르겠고 이것을 그냥 공식처럼 써왔기에 그냥 계속 넣어두고 있는 것인지 좀 애매한 측면이 있긴하다.

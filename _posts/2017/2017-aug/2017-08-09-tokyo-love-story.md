@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Tokyo Love Story-II"
 categories: life
 ---

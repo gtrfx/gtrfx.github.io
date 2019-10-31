@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Iphone SDK.."
 ---
-# Iphone SDK..
 
 맥에서 프로그램 같은 거 짜본적 있다..
 10년 전 쯤에 스튜디오에서 아르바이트 아주 잠깐 뛰었을 때..

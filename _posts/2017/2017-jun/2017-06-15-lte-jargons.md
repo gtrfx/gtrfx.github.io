@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "LTE Jargons"
 ---
 # new LTE jargons

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Greg Howe 새 앨범: Wheelhouse"
 categories:
     - music

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "저렴 기타 알아보기"
 categories: Music
 ---

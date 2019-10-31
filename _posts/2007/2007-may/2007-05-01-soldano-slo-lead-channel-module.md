@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Soldano SLO Lead Channel Module.."
 ---
-# Soldano SLO Lead Channel Module..
 
 근로자의 날을 맞아..잠시 짬을 봐서 1시간만에 뚝딱..
 

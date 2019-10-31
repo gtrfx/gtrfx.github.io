@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "마음 먹은 대로 이루어진다"
 categories:
     - life

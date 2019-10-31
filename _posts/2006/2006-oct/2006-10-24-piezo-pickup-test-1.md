@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Piezo pickup test #1"
 ---
-# Piezo pickup test #1
 
 금요일 주문한 부품이 오늘 도착했다..
 

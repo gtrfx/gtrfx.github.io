@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Catalina beta 3 still doesn't support multi-music-libraries"
 tags: [iTunes, Music, Catalina]
 img: crash_report.png

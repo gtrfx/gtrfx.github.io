@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Tube Active EQ..??"
 ---
-# Tube Active EQ..??
 
 아래 회로가 Triple X의 active EQ(?) 이다. 기존의 tone stack과 달리 재미있는 구조로 만들어졌다. 옛날 tone stack에 비해서 뭐 얼마나 크게 다를까 싶지만. 
 

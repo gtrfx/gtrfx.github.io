@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "인간 관계 손절"
 tags: [손절매, 쓰레기]
 ---

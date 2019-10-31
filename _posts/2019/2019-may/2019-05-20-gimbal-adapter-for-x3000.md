@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Sony X3000용 김벌 어댑터"
 tags: [Sony FDR X3000, gimbal adapter, zhiyun smooth q, zhiyun smooth 4]
 ---

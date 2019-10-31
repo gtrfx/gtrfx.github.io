@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Peavey XXX 120W Head.."
 ---
-# Peavey XXX 120W Head..
 
 Bogner의 Uberschall 회로를 찾아다니다 Russian guitar gear board에서 얻어들은 얘기인데, Peavey의 Triple XXX head가 Uberschall의 회로를 가지고 부품을 싼 것으로 바꾸고, 여기에 적당한 기능을 추가하여 XXX로 발매했다고 한다. 이미 Peavey에서도 이 사실을 인정을 했다고 한다. 그래서 XXX를 Poor man's Uberschall이라고 한다나?
 

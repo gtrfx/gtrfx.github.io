@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "TB2 Connector Pin Map"
 ---
-# TB2 Connector Pin Map
 
 
 2006년에 만든 내 모듈러 프리앰프의 모듈 인터페이스를 기억 못해 결국 다 뜯어 리버스 엔지니어링.

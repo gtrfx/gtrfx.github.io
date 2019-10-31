@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "요새 기타 치다 느낀 것"
 categories:
     - music

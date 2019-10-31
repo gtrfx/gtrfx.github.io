@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "퇴역한 안드로이드 폰 뭘로 써야 되나?"
 tags: [linux, android]
 ---

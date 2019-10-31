@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "보너스 항공권?"
 categories:
     - life

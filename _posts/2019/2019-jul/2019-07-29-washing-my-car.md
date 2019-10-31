@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "청소하면 기분이 좋아지는 이유"
 tags: [washing my car]
 ---

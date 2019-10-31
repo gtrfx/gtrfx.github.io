@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Perfectionism"
 tags: [perfectionism, anxiety]
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Linux on Windows"
 tags: [linux on windows10, linux, windows, powershell, ubuntu]
 categories:

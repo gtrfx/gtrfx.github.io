@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "추수감사절 주간이다.."
 tags: [thanksgiving day]
 ---

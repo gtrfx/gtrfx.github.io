@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Rick Beato의 Youtube 강좌"
 categories:
     - music

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Thin Lizzy - Cold Sweat"
 ---
-# Thin Lizzy - Cold Sweat
 
 이제 솔로가 잘 되지 않는 것은 그냥 포기다..
 

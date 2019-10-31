@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "NPU는 무엇인가?"
 tags: [npu, deep learning]
 ---

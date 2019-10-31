@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Guys After The Game by Rowan Atkinson"
 ---
-# Guys After The Game by Rowan Atkinson
 
 
 <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/80XA5Epa6GA" frameborder="0" allowfullscreen=""></iframe>

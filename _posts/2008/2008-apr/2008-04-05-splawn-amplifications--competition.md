@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Splawn Amplifications - Competition"
 ---
-# Splawn Amplifications - Competition
 
 Scott Splawn이 만든 Splawn Amplification (North Carolina (not Texas) Dallas에 있다고 함)에서 만든 50W head이다.
 

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Black Friday sale.."
 ---
-# Black Friday sale..
 
 
 추수감사절 주일에 black friday sale이라고 이래저래 메일이 오는데, 평소 잘 안팔리던 물건을 대방출하는 모양인지 물건들이 많이 쏟아져나오는데, 세일 폭이 크긴하지만 관심없는 물건들이 싸져봐야 구매심리가 살아나는 것은 아닌 것 같다.

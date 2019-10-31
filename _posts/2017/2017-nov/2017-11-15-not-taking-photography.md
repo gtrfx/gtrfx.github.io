@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "사진을 찍는다는 것"
 categories:
     - life

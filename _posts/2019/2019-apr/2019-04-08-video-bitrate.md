@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Video의 bitrate와 화질"
 tags: [video, bitrate, h.265]
 ---

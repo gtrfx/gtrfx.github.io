@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Kustom 1x12 Defender Cabinet"
 ---
-# Kustom 1x12 Defender Cabinet
 
 
 사진의 케비넷은 Kustom이란 회사의 1x12 캐비넷이다. 만듬새가 괜찮고 12인치 스피커 포함인데 가격이 착해서 들여놨다. 작년 여름에..

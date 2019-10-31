@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Raspberry Pi 3"
 ---
-# Raspberry Pi 3
 
 
 

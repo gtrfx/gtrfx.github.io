@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "이상한 주식 시장"
 categories:
     - life

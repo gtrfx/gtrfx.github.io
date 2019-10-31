@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "라스베리파이를 이용한 기타 이펙트 (2)"
 categories:
     - project

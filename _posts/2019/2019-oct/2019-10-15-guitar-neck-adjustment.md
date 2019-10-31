@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "기타 넥 조정하기"
 tags: [neck, adjustment]
 ---

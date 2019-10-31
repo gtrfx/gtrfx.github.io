@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New Tech Acronyms"
 tags: [tech, acronyms]
 categories:

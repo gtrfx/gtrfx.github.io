@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Metallica - Fuel Cover.."
 ---
-# Metallica - Fuel Cover..
 
 
 오랜만에 메탈리카 한 곡 땡겨봤다..생판 모르던 노랜데, 옛날 노래를 하자니 노가다가 많이 필요해서..ㅎㅎ 왜 메탈리카가 나이 먹어가면서 점점 단순한 노래들을 하는지 이해가 간다..^^

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'HDMI-ro-USB Capture card (frame grabber)'
 tags: [video processing, capture card, grabber]
 ---

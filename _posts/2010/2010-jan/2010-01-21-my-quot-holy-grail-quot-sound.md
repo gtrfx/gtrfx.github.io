@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "My &quot;Holy Grail&quot; Sound.."
 ---
-# My &quot;Holy Grail&quot; Sound..
 
 기타를 열심히 치기엔 나이가 많이 들어버린 내가, 그동안 가장 좋아했던 톤은 어떤 톤일까 생각해 봤다.
 1) Metallica "..And justice for all.."2) Whitesnake "1987"3) Dream Theater "Awake"

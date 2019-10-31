@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Ibanez S1XXV FYE.."
 ---
-# Ibanez S1XXV FYE..
 
 ![image](/assets/images/84b552cd78b3858669956e1596547c44.jpg)
 Ibanez에서 금년에 발매한 S series되시겠다. 보다시피 붙어있는 부품들은 그다지 좋은 것이 아닌데다 픽업을 보면 저가 모델에 붙어있는 INF 픽업이 붙어있다. 국내 쇼핑몰 가격은 과거 RG prestige 가격인데, 인도네시아산 되시겠다.

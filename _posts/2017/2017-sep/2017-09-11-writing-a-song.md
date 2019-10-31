@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Writing a song: how?"
 categories:
     - music

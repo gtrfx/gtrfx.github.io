@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Flange effect: 원리는 무엇일까?"
 tags: [flanger, signal processing, guitar effect]
 categories:

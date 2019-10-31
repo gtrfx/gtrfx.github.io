@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "MacOS X Mavericks DP2"
 ---
-# MacOS X Mavericks DP2
 
 
 Mavericks가 나오자 마자 DP1부터 설치하여 DP2까지 왔는데, 글쎄..좋은 점은 있는데 내 해킨 머신에선 그다지..

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "보컬 트랙 지우기"
 categories:
     - audio

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "뜬금없이 엔카(演歌)?"
 tags: [enka, 演歌, Japan, music, 丘みどり]
 categories:

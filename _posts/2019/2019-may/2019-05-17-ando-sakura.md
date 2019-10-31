@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "안도 사쿠라에 빠지네.."
 tags: [ando sakura]
 published: false

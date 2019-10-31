@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "세상이 한가지 문제로만 시끄러울 때.."
 tags: [politicians]
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "웹캠이냐 DSLR (or mirrorless)냐?"
 tags: [dslr, mirrorless, hdmi out]
 ---

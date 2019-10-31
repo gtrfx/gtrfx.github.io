@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "다니던 회사가 합병되다"
 categories:
     - life

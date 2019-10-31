@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "카메라를 들고 싶어졌다. 그러나."
 categories:
     - life

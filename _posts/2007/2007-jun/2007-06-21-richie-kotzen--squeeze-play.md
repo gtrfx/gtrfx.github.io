@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Richie Kotzen - Squeeze Play"
 ---
-# Richie Kotzen - Squeeze Play
 
 Shrapnel Record에서 발매된 데뷔 앨범 첫 곡..
 

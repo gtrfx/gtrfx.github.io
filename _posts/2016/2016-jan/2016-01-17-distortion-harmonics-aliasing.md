@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "distortion/harmonics/aliasing.."
 ---
-# distortion/harmonics/aliasing..
 
 
 일단 제목이 무슨 뜻인지 이해가 가지 않을 분들을 위해 설명 덧붙여 본다.

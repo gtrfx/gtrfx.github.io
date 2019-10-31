@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Chairman's note for NR MIMO "
 ---
 

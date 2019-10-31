@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Blues for Tony"
 tags: [blues for tony, allan holdsworth]
 img: blues_for_tony.jpg

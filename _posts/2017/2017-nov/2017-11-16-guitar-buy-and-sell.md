@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2017 한해 거래 한 기타들"
 categories:
     - life

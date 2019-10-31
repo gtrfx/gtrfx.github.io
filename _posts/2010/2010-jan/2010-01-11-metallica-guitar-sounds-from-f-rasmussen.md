@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Metallica Guitar Sounds from F. Rasmussen"
 ---
-# Metallica Guitar Sounds from F. Rasmussen
 
 Hi Guys
 

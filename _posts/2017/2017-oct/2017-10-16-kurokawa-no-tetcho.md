@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "검은 가죽 수첩 (黒革の手帳)"
 categories:
     - life

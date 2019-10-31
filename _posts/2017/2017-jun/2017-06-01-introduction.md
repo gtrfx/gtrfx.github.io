@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Introduction"
 tags: [circuit, intuition]
 ---

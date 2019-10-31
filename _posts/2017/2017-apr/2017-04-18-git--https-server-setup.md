@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "git + https server setup.."
 ---
-# git + https server setup..
 
 
 아무래도 몹시 심심한 모양이다. 라스베리파이에 DAV server 기능을 추가한 다음에 이번엔 git을 추가했다. git은 이미 설치되서 나오는 배포판도 있고 apt나 pacman을 쓰면 바로 설치가 되는 건데 뭘 또 작업할게 있냐 할 것 같다.

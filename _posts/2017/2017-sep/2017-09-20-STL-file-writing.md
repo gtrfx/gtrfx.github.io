@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "STL: vector file writing"
 categories:
     - learning

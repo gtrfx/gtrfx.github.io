@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Space Trucking (cover)"
 ---
-# Space Trucking (cover)
 
 Deep Purple 맞이 2탄...잠이 안와 책상에 앉아 1시간 작업..T.T
 덕택에 솔로도 많이 구리게 쳤다..이젠 예전처럼 음 하나 하나 따져가며 치기 귀찮구나..-_-

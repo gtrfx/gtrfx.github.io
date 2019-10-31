@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "세상을 살아가다보니.."
 tags: [optimism, pessimism, glorious old days]
 ---

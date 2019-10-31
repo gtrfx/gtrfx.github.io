@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "하나사키 마이가 침묵하지 않아"
 categories:
     - life

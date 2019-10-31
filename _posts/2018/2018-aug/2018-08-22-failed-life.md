@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "실패한 삶..?"
 categories:
     - life

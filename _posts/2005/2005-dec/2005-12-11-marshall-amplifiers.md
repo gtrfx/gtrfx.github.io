@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Marshall Amplifiers"
 ---
-# Marshall Amplifiers
 
 기타 앰프를 만드는 회사로서 가장 많은 모델을 가지고 있는 메이커가
 아마도 Marshall이 아닐까한다. 물론 Fender도 엄청나게 많은 모델이 있지만

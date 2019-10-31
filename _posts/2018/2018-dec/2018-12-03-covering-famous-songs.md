@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "자작곡 프로젝트: 뭘 해야 되는건가?"
 tags: [covering]
 ---

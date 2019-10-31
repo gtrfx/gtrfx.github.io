@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "저탄수화물 다이어트"
 categories:
     - life

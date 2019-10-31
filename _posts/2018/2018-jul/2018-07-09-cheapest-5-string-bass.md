@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Cheapest 5 string bass??"
 tags: [cheapest gear, bass, 5 string bass]
 categories:

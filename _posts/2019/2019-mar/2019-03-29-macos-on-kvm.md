@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "MacOS on KVM"
 tags: [macos]
 ---

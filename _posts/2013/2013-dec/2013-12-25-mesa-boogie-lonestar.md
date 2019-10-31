@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Mesa Boogie LoneStar"
 ---
-# Mesa Boogie LoneStar
 
 
 이 앰프는 Andy Timmons가 열심히 사용한다고 해서 좀 알려진 것 같은데, 인터넷에 돌아다니는 회로를 얻어볼 수 있었다.

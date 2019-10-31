@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "LTE TDD adhoc agenda.."
 ---
-# LTE TDD adhoc agenda..
 
 LTE TDD adhoc agenda가 나왔다. 말 그대로 TDD에 대해서만 논의한다. 지금 15명 정도의 delegate가 register 했다. (3월 회의에는 현재 150명이 넘는 delegate가 register 한 상태이다)
 

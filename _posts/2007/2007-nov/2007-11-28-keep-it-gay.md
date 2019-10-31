@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Keep It Gay!"
 ---
-# Keep It Gay!
 
 
 

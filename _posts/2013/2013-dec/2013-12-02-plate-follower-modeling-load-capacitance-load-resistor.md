@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Plate Follower Modeling: Load capacitance/Load Resistor"
 ---
-# Plate Follower Modeling: Load capacitance/Load Resistor
 
 
 일반적으로 common cathode model에서 load capacitance/load resistor에 의한 증폭률 및 HPF의 cut-off freq를 계산하는데,

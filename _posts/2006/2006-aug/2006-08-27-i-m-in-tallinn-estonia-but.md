@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "I'm in Tallinn, Estonia, but.."
 ---
-# I'm in Tallinn, Estonia, but..
 
 
 체코를 들러 에스토니아의 탈린에 와있다..

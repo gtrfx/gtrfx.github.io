@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "오늘은 매우 초조한 무드다."
 tags: [anxious, unstable]
 published: false

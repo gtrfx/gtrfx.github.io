@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Falco meets Brigitte Nilsen...Body next to Body (1987)"
 ---
-# Falco meets Brigitte Nilsen...Body next to Body (1987)
 
 
 

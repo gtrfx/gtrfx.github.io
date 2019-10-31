@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Accurate Tube C Model"
 ---
-# Accurate Tube C Model
 
 
 실제로 SPICE를 쓰면 plate follower를 제대로 simulation 할 수 있다. 문제는 사용하기 불편하고 맘대로 바꿔쓰거나 결과를 이용하기가 쉽지 않다는 것이다. 기본적으로 이것이 대부분 상용인 것은 말할 것도 없고 말이다.

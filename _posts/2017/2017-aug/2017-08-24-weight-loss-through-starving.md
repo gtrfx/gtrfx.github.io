@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "하루 굶으면 얼마나 빠질까?"
 categories: 
     - life

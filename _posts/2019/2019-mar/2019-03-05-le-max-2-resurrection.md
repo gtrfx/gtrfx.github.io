@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "망가진 Le Max 2 부활하다."
 tags: [Le Max 2, Resurrection]
 ---

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Space Trucking (cover+vocal)"
 ---
-# Space Trucking (cover+vocal)
 
 Mule에 rock1974님이 녹음해서 보내주신 보컬 트랙을 입혀봤다.
 보컬을 믹싱해보긴 이번이 처음인데, 기타 못지 않게 쉬운 일이 아닌 것 같다.

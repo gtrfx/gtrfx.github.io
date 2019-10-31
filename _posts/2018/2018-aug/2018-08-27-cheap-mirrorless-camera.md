@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "값싼 동영상용 mirrorless camera??"
 categories:
     - life

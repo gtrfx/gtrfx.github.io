@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "사람은 무엇으로 사는가?"
 categories:
     - life

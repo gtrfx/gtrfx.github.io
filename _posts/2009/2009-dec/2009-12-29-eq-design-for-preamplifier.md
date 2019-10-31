@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "EQ Design for Preamplifier.."
 ---
-# EQ Design for Preamplifier..
 
 일단 inductor를 구하기 힘들고 가격이 힘들다고 해서 포기하긴 아직 무리인 것 같아서, 잠시 꽁수를 부려봤다.
 일단 R/C+Opamp로 L을 대체할 수 있는데다, Mesa의 5 band EQ는 생각보다 매우 간단하다는 특성을 이용해서 각 band마다 Opamp 1개씩을 쓰고 (그간 썩혀두던 TL074를 이때 써먹을 수 있겠다) 최종단에 1개 더 쓰는 식으로 만들면 쉽게 해결이 가능하다.

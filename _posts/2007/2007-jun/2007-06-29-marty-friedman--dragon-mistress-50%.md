@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Marty Friedman - Dragon Mistress 50%"
 ---
-# Marty Friedman - Dragon Mistress 50%
 
 Used Gear:
 Ibanez RG450MH

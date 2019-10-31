@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "비동기 프로그래밍"
 tags: [async, node.js]
 ---

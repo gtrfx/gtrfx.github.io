@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "3년전의 내 사진을 보니"
 categories:
     - life

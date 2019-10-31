@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Panasonic GX85..."
 tags: [gx85]
 ---

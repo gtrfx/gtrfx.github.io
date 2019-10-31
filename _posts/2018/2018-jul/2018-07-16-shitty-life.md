@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "인생 참 엿 같네...라고 할 수 없다"
 tags: [life, sucks]
 categories:

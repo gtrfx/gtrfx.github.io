@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "웹에서 대용량 파일 다운로드 받기"
 tags: [wget]
 ---

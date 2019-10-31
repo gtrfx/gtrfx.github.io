@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Mac OS X: Fast User Switching"
 ---
-# Mac OS X: Fast User Switching
 
 윈도우 생각만하고 허접하리라 생각했었는데, 왠걸! 아주 죽여주는 기능이다!
 

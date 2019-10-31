@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2017년 말 기타 보유 현황"
 categories:
     - music

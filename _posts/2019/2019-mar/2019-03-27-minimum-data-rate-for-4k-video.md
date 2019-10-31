@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "H.265 인코딩시 목표 data rate"
 tags: [h.265]
 ---

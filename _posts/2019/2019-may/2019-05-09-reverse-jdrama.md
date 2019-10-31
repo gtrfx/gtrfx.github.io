@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "일드 Reverse"
 tags: [reverse, toda erika]
 ---

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Coffine..Coffin.."
 ---
-# Coffine..Coffin..
 
 Coffine이 Coffee+Wine을 조합한 단어란다..
 그런데 단어를 합성해놓고 보니 Coffin의 뜻이 너무나도 강해졌다..

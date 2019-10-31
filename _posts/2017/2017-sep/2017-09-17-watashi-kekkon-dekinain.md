@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "저 결혼 못하는 게 아니라 안하는 겁니다"
 categories:
     - life

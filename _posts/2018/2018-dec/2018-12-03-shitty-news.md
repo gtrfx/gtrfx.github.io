@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "요새 뉴스 보고 있자면.."
 tags: [news, jtbc, 버르장 머리, 사고수준]
 ---

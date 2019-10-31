@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "예전 블로그를 복붙했다"
 tags: [perl, regex]
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "알리 익스프레스 vs. Harley Benton"
 tags: [Harley Benton wins]
 ---

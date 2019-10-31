@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Triode Model"
 ---
-# Triode Model
 
 
 Triode Model

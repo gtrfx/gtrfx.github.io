@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "The Coolangatta Gold.."
 ---
-# The Coolangatta Gold..
 
 막 중학교에 입학했을 때였던 것 같다. 
 

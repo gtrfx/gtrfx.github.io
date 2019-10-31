@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "RAN1#48 (St.Louis, USA) E-UTRA Outcomes.."
 ---
-# RAN1#48 (St.Louis, USA) E-UTRA Outcomes..
 
 LTE session started inthe evening on the first day and Tuesday through Thursday it was discussedparallel. The outcomes are as followed: 
 LTE performance verification: Proposed work plan and LTE physical layer framework was agreedUpdated LT specification: TS 36.201 v0.3.0 in R1-071144, TS36.211 v0.4.0 in R1-071243. TS36.212 v0.4.0 in R1-071244. TS36.213 v0.3.0 in R1-071150. Remaining issues on numerology: UE TX BW capability is the minimum of 20MHz and whatever BW RAN4 decides on and LS is sent to RAN4 in R1-071207. Modulation: Working assumption is that Optional support of 64QAM in the UE, provided reasonable EVM and backoff requirement are defined in RAN4. As for SUMIMO for UL decision from RAN1#47bis is not changed, i.e. SU-MIMO is not included in the stage 2. Channel coding: - Thefollowing outcome from e-mail discussion 

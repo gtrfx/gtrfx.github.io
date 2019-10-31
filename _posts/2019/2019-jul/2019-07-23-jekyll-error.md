@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Jekyll로 블로깅하기"
 tags: [Jekyll, github]
 ---

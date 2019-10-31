@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "일드 보기: 위장 부부 (僞裝の夫婦) (2015)"
 categories:
     - jdrama

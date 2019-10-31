@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Dual Rectifier 3 Ch"
 ---
-# Dual Rectifier 3 Ch
 
 
 Dual rectifier가 과거 버전의 경우 2Ch로 되어있어서 초단과 두번째 증폭단 사이의 전압 분압비를 조정해서 orange/red 채널로 나누었고, 모든 증폭단의 cathode cap을 open 시켜서 orange 채널을 clean tone을 위한 채널로 동작시키도록 되어있었다.

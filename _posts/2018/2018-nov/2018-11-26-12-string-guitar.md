@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "12줄 기타"
 tags: [12 string guitar]
 ---

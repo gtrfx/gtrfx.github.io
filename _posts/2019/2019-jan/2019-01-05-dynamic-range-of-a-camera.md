@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "암부노이즈/DRO/RAW.."
 tags: [camera]
 ---

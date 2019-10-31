@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "저렴한 태블릿 알아보기"
 categories:
     - life

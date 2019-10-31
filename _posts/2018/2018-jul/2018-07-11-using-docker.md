@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Docker에 관해서"
 tags: [docker, eclipse]
 categories:

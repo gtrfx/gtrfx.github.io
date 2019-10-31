@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "삶은 끊기 힘든 습관의 집합인가?"
 categories:
     - life

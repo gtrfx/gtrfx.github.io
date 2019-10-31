@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "TC Electronic - Desktop Konnekt 6"
 ---
-# TC Electronic - Desktop Konnekt 6
 
 
 TC Electronic의 보급형 Firewire audio interface인 desktop konnekt 6이다.

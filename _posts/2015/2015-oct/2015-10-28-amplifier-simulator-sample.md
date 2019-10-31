@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Amplifier Simulator Sample.."
 ---
-# Amplifier Simulator Sample..
 
 
 사용된 악기:

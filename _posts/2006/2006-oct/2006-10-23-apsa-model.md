@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "APSA Model.."
 ---
-# APSA Model..
 
 대인관계의 기술이란다..
 

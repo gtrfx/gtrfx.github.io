@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "누군가의 불만 들어주기"
 categories:
     - life

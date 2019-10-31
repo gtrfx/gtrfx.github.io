@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Read the docs, Sphinx Project"
 ---
-# Read the docs, Sphinx Project
 
 
 문득 markdown과 mathjax만 잘 써도 웹으로 그럴싸한 문서를 포스팅하기 좋겠다 싶었는데, 이미 이런 프로젝트는 아주 오래전부터 진행되어 좋은 결실은 맺은 듯 하다.

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Jeff Loomis &quot;Zero Order Phase (2008)&quot;"
 ---
-# Jeff Loomis &quot;Zero Order Phase (2008)&quot;
 
 Nevemore의 Guitarist Jeff Loomis의 솔로 앨범이다.
 앨범 제목이 다소 신호처리스럽다고나 할까..

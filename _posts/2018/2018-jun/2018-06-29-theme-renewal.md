@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Theme 바꾸다."
 tags: [theme, renewal]
 categories:

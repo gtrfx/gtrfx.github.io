@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Fast convolution with FFT"
 categories:
     - project

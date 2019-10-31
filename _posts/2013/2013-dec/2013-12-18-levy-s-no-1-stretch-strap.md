@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Levy's No.1 Stretch Strap.."
 ---
-# Levy's No.1 Stretch Strap..
 
 
 우리 나라 검색엔진을 뒤져보니 이 물건에 대한 이야기는 거의 없는 걸로 보아 알고 있는 사람이 없는 것 같다. 나도 Buckethead의 비디오를 보다가 알게 된 물건인데, 더 자세히 말하자면 Buckethead의 열심 추종자의 비디오를 보고 알았다. Bukcethead가 이 스트랩을 쓰는지도.

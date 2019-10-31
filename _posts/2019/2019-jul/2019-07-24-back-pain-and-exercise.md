@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "운동과 허리 통증"
 tags: [back pain, disc herniation]
 ---

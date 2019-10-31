@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "레퍼런스 헤드폰 뭘로 써야 되나??"
 tags: [Xbass]
 ---

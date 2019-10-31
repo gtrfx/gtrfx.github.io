@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "그 때 내가 더 현명했더라면..."
 categories:
     - life

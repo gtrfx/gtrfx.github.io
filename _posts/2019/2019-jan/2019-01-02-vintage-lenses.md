@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "빈티지 렌즈에 대한 생각"
 tags: [vintage lenses]
 ---

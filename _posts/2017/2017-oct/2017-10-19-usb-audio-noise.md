@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "USB audio interface: power noise problem"
 categories:
     - technology

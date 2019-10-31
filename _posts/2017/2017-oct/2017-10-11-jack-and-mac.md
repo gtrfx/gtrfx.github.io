@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "JACK과 MacOS"
 categories:
     - learning

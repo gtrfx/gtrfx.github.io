@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ubuntu slow boot problem"
 ---
 # Ubuntu booting이 느려졌을 때..

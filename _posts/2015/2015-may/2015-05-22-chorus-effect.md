@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Chorus Effect"
 ---
-# Chorus Effect
 
 
 1. 들어가며

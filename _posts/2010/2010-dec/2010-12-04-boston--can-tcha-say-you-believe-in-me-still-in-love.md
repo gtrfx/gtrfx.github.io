@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Boston - Can'tcha Say (You believe in me) Still in Love.."
 ---
-# Boston - Can'tcha Say (You believe in me) Still in Love..
 
 보스톤의 꽤나 오래된 노랜데, 이걸 틀어주는 (술)가게가 있더군..
 그것도 LP로 들었다..

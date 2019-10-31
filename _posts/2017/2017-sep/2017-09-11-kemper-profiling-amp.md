@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Kemper Profiling Amp"
 categories:
     - guitar

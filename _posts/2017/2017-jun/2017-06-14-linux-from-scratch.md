@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Linux From Scratch"
 ---
 # Linux from Scratch (LFS)

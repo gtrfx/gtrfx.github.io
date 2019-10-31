@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Black Friday에 대한 생각"
 categories:
     - life

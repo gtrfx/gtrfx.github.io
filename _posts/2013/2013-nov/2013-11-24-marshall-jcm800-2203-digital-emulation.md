@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Marshall JCM800 2203 Digital Emulation"
 ---
-# Marshall JCM800 2203 Digital Emulation
 
 
 일단 digital domain에서 대충 simulation한 것이다.

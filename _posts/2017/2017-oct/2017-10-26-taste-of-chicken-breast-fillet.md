@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "닭가슴살은 역시 맛이 없다."
 categories:
     - life

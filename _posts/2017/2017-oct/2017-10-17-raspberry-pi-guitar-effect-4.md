@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Guitar Amplifier Simulator on Raspberry Pi (4)"
 categories:
     - project

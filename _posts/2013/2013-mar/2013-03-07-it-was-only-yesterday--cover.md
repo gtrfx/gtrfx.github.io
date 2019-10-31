@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "It was only yesterday...cover"
 ---
-# It was only yesterday...cover
 
 
 Larry 옹이여 부디 long live 하시길..

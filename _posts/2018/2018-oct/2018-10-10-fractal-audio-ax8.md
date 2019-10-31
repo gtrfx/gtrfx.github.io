@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "AX8: 3일째 사용기"
 tags: [fractal audio, ax8]
 ---

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Addicted Drums..?"
 ---
-# Addicted Drums..?
 
 누군가 즐겨 사용한다는 addicted drums를 받아서 잠시 사용해봤다.
 

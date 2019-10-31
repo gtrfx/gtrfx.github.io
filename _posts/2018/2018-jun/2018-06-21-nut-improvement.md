@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Improvement: nut"
 tags: [guitar, nut, improvement]
 categories:

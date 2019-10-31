@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "오래된 노래들을 연습하면서"
 categories:
     - life

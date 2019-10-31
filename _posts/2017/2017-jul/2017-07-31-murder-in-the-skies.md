@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Murder in the Skies"
 categories: music
 ---

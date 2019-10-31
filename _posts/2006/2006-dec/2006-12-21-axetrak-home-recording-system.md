@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Axetrak: Home recording system.."
 ---
-# Axetrak: Home recording system..
 
 이 물건을 보니 또 DIY 하고 싶은 욕구가 불타오른다..(이놈의 공돌이스런 욕구는 언제쯤 사그라들런지)
 

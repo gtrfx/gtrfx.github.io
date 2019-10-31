@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "올해의 기타쇼핑"
 categories:
     - guitar

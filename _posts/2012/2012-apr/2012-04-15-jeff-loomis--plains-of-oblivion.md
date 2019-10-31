@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Jeff Loomis - Plains of Oblivion"
 ---
-# Jeff Loomis - Plains of Oblivion
 
 
 

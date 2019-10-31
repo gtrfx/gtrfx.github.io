@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Node js로 WebDav 서버"
 tags: [nodejs, webdav]
 ---

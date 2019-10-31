@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Extra-Terrestrial..(1982)"
 ---
-# Extra-Terrestrial..(1982)
 
 ![image](/assets/images/eb2a1ae3cada5164ef2ac6b2c1869478.jpg)
 

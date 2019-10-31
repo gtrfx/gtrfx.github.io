@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "C/C++에서 복소수 빠르게 쓰기"
 tags: [complex, gcc]
 ---

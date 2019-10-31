@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "알리익스프레스 기타는 이제 그만.."
 tags: [aliexpress, guitar]
 ---

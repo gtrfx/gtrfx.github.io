@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "엄마 엄마 이리와 요것 보셔요."
 tags: [mommy, getting old, depressing]
 ---

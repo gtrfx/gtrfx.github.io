@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Lenovo Thinkcentre Hackintosh"
 tags: [thinkcentre, m920]
 ---

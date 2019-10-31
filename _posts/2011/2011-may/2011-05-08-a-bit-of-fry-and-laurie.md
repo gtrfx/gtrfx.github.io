@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "A Bit of Fry and Laurie.."
 ---
-# A Bit of Fry and Laurie..
 
 
 뒤늦게 이분들을 알게 된 게 그나마 다행이라고 해야할까? 

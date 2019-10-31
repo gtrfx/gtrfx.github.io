@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "살빼기: 1주째 2.5kg 감량"
 tags: [losing weight]
 ---

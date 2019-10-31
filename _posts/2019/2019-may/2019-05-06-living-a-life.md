@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "삶에 관해서 고민한다는 것"
 tags: [meditating how to live]
 published: false

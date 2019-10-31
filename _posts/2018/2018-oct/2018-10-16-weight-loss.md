@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "수고했다..."
 img: weight.png
 ---

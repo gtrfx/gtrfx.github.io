@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "AX8: 앰프 모델"
 tags: [fractal audio, ax8]
 ---

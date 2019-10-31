@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Body shaping"
 categories: life
 ---

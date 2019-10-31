@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "진정한 가치와 함께 살아간다는 것"
 categories:
     - life

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ibanez AZ models"
 categories:
     - guitar

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Free VST Host - Cantabile"
 ---
-# Free VST Host - Cantabile
 
 공짜 VST Host이다..
 

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Cannes - Antibes - Nice - Monte Carlo.."
 ---
-# Cannes - Antibes - Nice - Monte Carlo..
 
 이 부근을 두번 지나가 본 경험으로 혹시나 처음 여행을 떠나는 이들을 위해 도움이 될까 적어본다.
 

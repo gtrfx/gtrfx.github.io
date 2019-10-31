@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Eric Marienthal - Just Around the Corner"
 ---
-# Eric Marienthal - Just Around the Corner
 
 ![image](/assets/images/fb726bb8dcc08b8ca307e7bf8bd57c6b.jpg)
 Solo 활동도 열심히 하는 주자이기도 하지만, Chick Corea Electricband의 Sax 주자로서 더 잘 알려진 Eric Marienthal의 2007년 앨범이다. 앨범의 흐름은 과거의 앨범들 (Oasis, Get you covered)와 큰 차이는 없다. 

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Guitar Amplifier Simulator Samples"
 ---
-# Guitar Amplifier Simulator Samples
 
 Guitar: Ibanez RG350MAudio Interface: M-Audio Firewire 410
 Test Config.: Guitar --> Audio interface --> Guitar Amplifier Simulator --> Cabinet Simulator --> Recording

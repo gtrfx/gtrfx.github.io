@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "80년대 pop 따라하기: Don't lose any sleep"
 tags: [starship, 80s]
 ---

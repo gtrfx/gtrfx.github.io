@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bill Champlin에 대해서"
 tags: [bill champlin]
 ---

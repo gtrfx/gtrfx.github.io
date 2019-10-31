@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Snapdragon: Kryo/Krait/Adreno 이게 뭐냐?"
 tags: [kryo, krait, adreno]
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "세탁물 냄새 제거: 식초 쓰지 마세요"
 categories: life
 ---

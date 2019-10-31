@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Mesa Boogie Mark V 25 Watt Head"
 ---
-# Mesa Boogie Mark V 25 Watt Head
 
 
 

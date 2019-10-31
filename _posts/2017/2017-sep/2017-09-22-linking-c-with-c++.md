@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "C object를 C++ object와 linking할 때"
 categories:
     - learning

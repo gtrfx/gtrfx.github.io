@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "도파민으로 자극받은 잡설"
 categories:
     - life

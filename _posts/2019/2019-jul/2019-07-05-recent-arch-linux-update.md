@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "pacman: mirror site name resolve timed out"
 tags: [arch linux, systemd resolved]
 ---

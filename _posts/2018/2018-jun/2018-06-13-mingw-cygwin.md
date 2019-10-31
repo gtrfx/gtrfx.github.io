@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "MinGW/MinGW64/Cygwin/..."
 categories:
     - computer

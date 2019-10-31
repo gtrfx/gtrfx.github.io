@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "objective C..."
 ---
-# objective C...
 
 아 이제 나이가 많아져서인가 아니면 정말 세상에 뒤떨어진 건가.
 

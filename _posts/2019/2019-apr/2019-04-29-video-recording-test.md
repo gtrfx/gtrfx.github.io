@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "비디오 레코딩 테스트: Sony A7, A6300, Panasonic Gx85"
 tags: [video recording, h.264, fhd, 4k]
 ---

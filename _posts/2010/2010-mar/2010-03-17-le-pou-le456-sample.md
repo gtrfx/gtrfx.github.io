@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Le Pou LE456 Sample.."
 ---
-# Le Pou LE456 Sample..
 
 
 Guitar: Ibanez RG350M YEPlugin: LE456Cab IR.: Framus 4x12 V30 Cab. + SM57

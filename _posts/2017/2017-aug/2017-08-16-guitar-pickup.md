@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Guitar Pickups"
 categories:
     - music

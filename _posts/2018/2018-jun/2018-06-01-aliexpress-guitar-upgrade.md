@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Aliexpress guitar upgrade"
 categories:
     - life

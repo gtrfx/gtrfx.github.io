@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "ToneBrewery 2008 Schedule.."
 ---
-# ToneBrewery 2008 Schedule..
 
 2008년 Schedule이라니 다소 거창해 보이지만..뭐 어쨋거나..
 

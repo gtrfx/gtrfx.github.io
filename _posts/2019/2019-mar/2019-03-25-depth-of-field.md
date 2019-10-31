@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "심도 표현 (depth of field)"
 tags: [DOF, depth of field]
 ---

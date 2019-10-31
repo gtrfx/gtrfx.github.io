@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "HDD 배드섹터 문제"
 categories:
     - life

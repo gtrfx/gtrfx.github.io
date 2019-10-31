@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "왜 기뻐 날뛰지 못 하는 것일까?"
 tags: [happiness]
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Raspberry Pi external controller DIY (1)"
 categories:
     - project

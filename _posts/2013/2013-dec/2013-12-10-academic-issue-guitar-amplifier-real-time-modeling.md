@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Academic Issue: Guitar Amplifier (Real-Time) Modeling"
 ---
-# Academic Issue: Guitar Amplifier (Real-Time) Modeling
 
 
 Digital effect를 연구하는 학회를 발견했다. DAFX라고 유럽에 있는 회사와 학교들이 연계되어 conference 형식으로 소수의 학자/엔지니어들이 만나서 연구한 내용들을 공유하는데, 이들 중 Czech Republic의 Brno라는 동네의 Telecommunication을 전공으로 하는 학교의 교수 하나가 Guitar Amplifier model에 관심이 많고 주로 이것들을 real time으로 modeling하는 것에 관심이 많다. 체코는 이러한 과제에 대해서도 연구비를 대주어 연구를 시키고 있다는 사실에 놀랐다. 유럽 경제도 좋지 못한 판국에 이게 무슨 경제적/학술적 가치가 있다고 돈을 대주는지 원. 돈을 대주어야 맞고 학술적/경제적 가치도 높은 일인데, 이것을 우리나라 과학기술 지원 공무원들 앞에 들고 가면 코웃음 치지 않을 이가 몇이며 공부할 아이템이 참 없구나 비웃을 교수들 꽤 될 것 같다.

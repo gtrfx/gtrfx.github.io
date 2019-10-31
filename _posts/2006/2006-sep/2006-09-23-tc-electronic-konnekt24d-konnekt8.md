@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "TC Electronic Konnekt24D, Konnekt8"
 ---
-# TC Electronic Konnekt24D, Konnekt8
 
 TC Electronic에서 Firewire Audio interface를 발표했다..
 

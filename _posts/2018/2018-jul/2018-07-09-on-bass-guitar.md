@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "베이스 기타에 대하여: 일반적인 일렉트릭 베이스"
 tags: [bass guitar, bass, P bass, J bass, MM bass]
 categories:

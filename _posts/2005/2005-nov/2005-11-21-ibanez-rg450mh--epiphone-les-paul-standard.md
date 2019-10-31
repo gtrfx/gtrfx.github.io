@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Ibanez RG450MH + Epiphone Les Paul Standard"
 ---
-# Ibanez RG450MH + Epiphone Les Paul Standard
 
 2005년부터 주력기가 된 Ibanez RG450MH (EMG 픽업으로 개조)와
 새로 입양한 중국산 에피폰 레스폴 스텐다드와 를 같이 놓고 찍어보았다.

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "음을 길게 끄는 팁.."
 tags: [long sustain]
 ---

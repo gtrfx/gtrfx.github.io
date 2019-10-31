@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Linux Audio"
 categories:
     - learning

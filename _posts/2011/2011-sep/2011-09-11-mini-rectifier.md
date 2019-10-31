@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Mini Rectifier.."
 ---
-# Mini Rectifier..
 
 
 ![image](/assets/images/cf04f7a34a9cc698cff9b04f8889ccbd.jpg)

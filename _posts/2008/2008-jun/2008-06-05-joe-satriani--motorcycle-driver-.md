@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Joe Satriani - Motorcycle Driver..."
 ---
-# Joe Satriani - Motorcycle Driver...
 
 기타를 바꾸고 첨 시도한 카피이다..
 

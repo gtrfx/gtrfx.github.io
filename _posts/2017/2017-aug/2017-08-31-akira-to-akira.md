@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Akira-and-Akira (あきらとアキラ)"
 categories:
     - life

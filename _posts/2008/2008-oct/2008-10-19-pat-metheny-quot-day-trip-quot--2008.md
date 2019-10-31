@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Pat Metheny &quot;Day Trip&quot; (2008)"
 ---
-# Pat Metheny &quot;Day Trip&quot; (2008)
 
 ![image](/assets/images/128a75d4a18aaba8452270e230fc5bc7.jpg)
 이 앨범은 2008년 초에 발매된 pat metheny의 앨범으로 Christian McBride(bass)+Antonio Sanchez(Dr)과 같이 만든 앨범이란다.

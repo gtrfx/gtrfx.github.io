@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "TB3: Power Supply"
 ---
-# TB3: Power Supply
 
 Power supply: B+, 6L6GC/EL34 Bias, Heater
 

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Carvin V3 Amplifier"
 ---
-# Carvin V3 Amplifier
 
 ![image](/assets/images/63d87de6b43ce6a7a1c18d480153f894.jpg)
 

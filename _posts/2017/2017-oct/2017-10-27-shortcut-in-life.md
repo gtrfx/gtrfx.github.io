@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "인생의 지름길?"
 categories:
     - life

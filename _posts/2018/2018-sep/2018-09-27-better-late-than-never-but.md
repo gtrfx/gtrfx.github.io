@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "하고 싶은 게 있다면 당장 시작!"
 tags: [start from right now on, do it right now]
 categories:

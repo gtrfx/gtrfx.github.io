@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "가정부 미타조노"
 categories:
     - life

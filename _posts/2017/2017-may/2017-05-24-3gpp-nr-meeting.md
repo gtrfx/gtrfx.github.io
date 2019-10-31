@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "3GPP NR Meeting"
 ---
-# 3GPP NR Meeting
 
 ### Hangzhou meeting (May/2017)
 

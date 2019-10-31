@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Stereo Guitar?"
 ---
-# Stereo Guitar?
 
 
 누군가 자신의 아이디어라고 해서 걸어놓은 블로그의 포스팅 중 하나다.

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Manchester by the sea"
 categories:
     - life

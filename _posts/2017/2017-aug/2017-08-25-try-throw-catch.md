@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "C++: try throw/catch"
 categories:
     - computer

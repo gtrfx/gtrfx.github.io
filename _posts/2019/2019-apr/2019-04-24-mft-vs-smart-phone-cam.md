@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Micro Four Thirds 카메라의 심도 표현"
 tags: [GX85]
 ---

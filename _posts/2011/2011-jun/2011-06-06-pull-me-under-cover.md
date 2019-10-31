@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Pull me under cover.."
 ---
-# Pull me under cover..
 
 
 Logic

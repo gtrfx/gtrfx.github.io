@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Cheaper MF Lenses Comparison"
 ---
-# Cheaper MF Lenses Comparison
 
 
 Sony Nex-5T, 1/60, Auto ISO, in a low lit room, Shot with minimum aperture and shortest distance that lenses can focus.

@@ -1,5 +1,6 @@
 ---
-title: "\'Cause we\'ve ended as LOSERS.."
+layout: post
+title: "'Cause we've ended as LOSERS.."
 ---
 # 'Cause we've ended as LOSERS..^^
 

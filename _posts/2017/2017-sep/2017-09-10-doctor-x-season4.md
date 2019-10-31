@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Doctor-X: 大門未知子: 시즌 4"
 categories:
     - life

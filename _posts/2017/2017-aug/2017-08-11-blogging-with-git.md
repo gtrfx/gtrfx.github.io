@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Blogging with Git"
 categories: life
 ---

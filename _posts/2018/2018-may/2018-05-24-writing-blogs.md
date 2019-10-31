@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "블로그로 긴 글을 적을 때"
 categories:
     - life

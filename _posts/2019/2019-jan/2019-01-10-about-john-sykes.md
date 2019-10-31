@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "John Sykes에 대해 잠시.."
 tags: [john sykes, thin lizzy, tygers of pan tang, whitesnake, blue nurder]
 ---

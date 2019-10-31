@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Metallica &quot;Death Magnetic&quot;"
 ---
-# Metallica &quot;Death Magnetic&quot;
 
 ![image](/assets/images/44bcf8050dd843949470ce77f16de1c0.gif)
 

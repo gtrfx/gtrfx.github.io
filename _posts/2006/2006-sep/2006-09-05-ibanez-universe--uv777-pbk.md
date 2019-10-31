@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Ibanez Universe - UV777 PBK"
 ---
-# Ibanez Universe - UV777 PBK
 
 Steve Vai Signature 중 하나인 UV777이다.
 

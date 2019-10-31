@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "2019년 9월의 끝"
 tags: [september]
 ---

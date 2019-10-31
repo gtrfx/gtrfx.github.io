@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "왜 4k를 FHD로 만든 것이 FHD로 촬영해서 FHD로 보는 것 보다 좋아보이는가?"
 tags: [4k, FHD, h.264, movie encoding]
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "내 문제에 대한 결정은 내가 내리는 것이다."
 tags: [what-to-wear, what-to-eat, what-to-buy]
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "베이스 치는 게 찰진 재미"
 tags: [playing bass]
 ---

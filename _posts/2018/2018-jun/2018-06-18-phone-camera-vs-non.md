@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "폰카와 비(?)폰카"
 categories:
     - project

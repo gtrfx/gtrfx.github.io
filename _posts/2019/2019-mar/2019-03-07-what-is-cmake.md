@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "CMake란 무엇인가?"
 tags: [cmake]
 ---

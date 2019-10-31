@@ -1,6 +1,7 @@
 ---
+layout: post
 title: "Chrome에서 radio button/check box가 안 보일 때"
-tags: [chrome, mojave, 10.14, MacOS]
+tags: [chrome, mojave, "10.14", MacOS]
 categories:
     - computer
 ---

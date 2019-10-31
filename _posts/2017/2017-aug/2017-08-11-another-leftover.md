@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "또 하나의 계륵: Les Paul"
 categories: music
 ---

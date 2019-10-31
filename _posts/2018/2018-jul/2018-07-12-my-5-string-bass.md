@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "주문한 베이스가 왔다.."
 tags: [bass guitar, 5 string bass]
 categories:

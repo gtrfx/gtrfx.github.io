@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Fractal Audio - Axe Fx"
 ---
-# Fractal Audio - Axe Fx
 
 Guitar와 관련된 signal processor로 line6의 제품들이 한동안 인기를 끌었던 것 같은데, 그렇다고 해서 그 제품들이 어떤 'ultimate treasure box of tones'라고 보기엔 미달한 점도 많았고 버전업이 되더라도 사실 거기서 거기였다는 평가도 많고 나 또한 그렇게 생각해왔다. 이번에 나온 HD는 엔지니어들이 이런 저런 앰프의 시뮬레이트를 하다가 가장 그럴싸한 것들만 뽑아서 만들었는지 인기도가 높은 앰프 순으로 뽑았다기 보단 그저 구색갖추는 수준에서 골라진 16개 앰프 모델로 구성이 되어있다. 
 본론으로 돌아와서 그 ultimate realistic guitar amplifier+cabinet simulator + multiple effects의 최고봉은 Fractal Audio의 Axe-Fx가 자리잡고 있다. 수많은 stomp box와 guitar amplifier model를 매우 정교하게 simulate하고 있는데, 그 면면을 잘 살펴보면 회로도가 대개 일반적으로 알려진 것들이 대부분이다. 다시 말해 회로를 근간으로 simulate한 것으로 보인다. 하나의 triode amplifier stage를 saturator와 filter로 구성하여 simulate하지 않고서 그렇게 정교하게 simulate하긴 쉽지 않을 것 같다. (회로를 근간으로 하지 않고 단순한 모델로 simualtor를 구성한 좋은 예가 line6의 simulator으로 보인다)

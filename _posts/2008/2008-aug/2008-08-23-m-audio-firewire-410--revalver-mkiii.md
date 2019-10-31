@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "M-Audio Firewire 410 + Revalver MkIII"
 ---
-# M-Audio Firewire 410 + Revalver MkIII
 
 오늘 딱 한시간 만져본 소감..
 

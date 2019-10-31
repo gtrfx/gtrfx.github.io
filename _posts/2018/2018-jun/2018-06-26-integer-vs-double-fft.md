@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Integer vs. Double FFT 중 누가 빠를까?"
 categories:
     - computer

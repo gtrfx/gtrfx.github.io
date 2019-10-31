@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Vacuum Tubes"
 ---
 # 진공관

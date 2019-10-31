@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "이게 뭘까?: Vulcan API"
 tags: [vulcan API]
 ---

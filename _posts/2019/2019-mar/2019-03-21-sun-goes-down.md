@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Sun Goes Down - Thin Lizzy"
 tags: [thin lizzy]
 ---

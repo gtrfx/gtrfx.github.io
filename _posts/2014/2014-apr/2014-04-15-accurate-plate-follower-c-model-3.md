@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Accurate Plate Follower C Model (3)"
 ---
-# Accurate Plate Follower C Model (3)
 
 
 이번 포스팅에서는 지금까지의 포스팅에서 빼먹은 내용을 골라 채워넣기를 해봐야 할 것 같다.

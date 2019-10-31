@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "사무실에서 라스베리파이의 용도"
 tags: [raspberry pi, bridge, vpn]
 ---

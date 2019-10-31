@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Markdown + MathJax Authoring Webtool: Markx"
 ---
-# Markdown + MathJax Authoring Webtool: Markx
 
 
 markdown과 mathjax를 사용하면 논문이나 간단한 메모를 수식을 넣어 작성하기 용이하다는 장점을 가지고 있다. 

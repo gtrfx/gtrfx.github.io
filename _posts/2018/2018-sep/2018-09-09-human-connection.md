@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "인간관계라는게..."
 tags: [인간관계, 외로움, 정따위]
 categories:

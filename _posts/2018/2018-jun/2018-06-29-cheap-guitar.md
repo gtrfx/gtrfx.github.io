@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "알리익스프레스로부터 온 기타: 두번째"
 tags: [aliexpress, guitar, stratocaster, strat]
 categories:

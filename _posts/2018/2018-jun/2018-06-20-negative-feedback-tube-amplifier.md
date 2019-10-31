@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "진공관 앰프에서 파워 앰프 NFB와 Presence"
 tags: [tube, amplifier, feedback, presence, audio]
 categories:

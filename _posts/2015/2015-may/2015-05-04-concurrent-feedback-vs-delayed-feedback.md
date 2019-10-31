@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Concurrent feedback vs. Delayed feedback?"
 ---
-# Concurrent feedback vs. Delayed feedback?
 
 1. 들어가며
 

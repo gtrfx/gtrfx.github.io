@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Harley Benton Custom Line Nashville Nylon Guitar"
 tags: [solid body, nylon string]
 ---

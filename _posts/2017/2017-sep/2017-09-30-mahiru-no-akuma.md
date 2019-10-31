@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "한낮의 악마"
 categories:
     - life

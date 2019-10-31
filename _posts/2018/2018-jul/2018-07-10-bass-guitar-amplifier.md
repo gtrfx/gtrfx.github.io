@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bass amplifier에 대하여"
 tags: [bass, bass amplifier, amplifier, amplifier model]
 categories:

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Ibanez RGIR27FE"
 ---
-# Ibanez RGIR27FE
 
 ![image](/assets/images/def4396cd78a8d2907f15f7ce2ba3233.jpg)Ibanez RGIR27FE
 

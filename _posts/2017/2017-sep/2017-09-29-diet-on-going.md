@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "다이어트 진행 중"
 categories:
     - life

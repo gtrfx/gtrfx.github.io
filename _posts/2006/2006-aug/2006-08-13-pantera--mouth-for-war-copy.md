@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Pantera - Mouth For War (copy)"
 ---
-# Pantera - Mouth For War (copy)
 
 오늘의 아저씨 발악..
 

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Vinnie Moore - To the Core (2009)"
 ---
-# Vinnie Moore - To the Core (2009)
 
 
 ![image](/assets/images/f26e995b72851aa767f7e66558f752da.jpg)

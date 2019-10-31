@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "64bit computing.."
 ---
-# 64bit computing..
 
 
 x64 edition을 Xeon 3.2G Dual Core 머신에 설치하고, 여기에 걸맞는 x64 컴파일을 해봤다.

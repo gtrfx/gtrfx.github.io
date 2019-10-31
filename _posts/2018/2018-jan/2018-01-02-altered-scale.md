@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Altered Scale/Altered (dominant) 7th chord"
 categories:
     - music

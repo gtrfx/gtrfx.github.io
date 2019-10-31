@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Nut을 장착해보니.."
 categories:
     - guitar

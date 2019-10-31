@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Speaker Simulation.."
 ---
-# Speaker Simulation..
 
 Axetrak이 요새 한창 인기다..
 

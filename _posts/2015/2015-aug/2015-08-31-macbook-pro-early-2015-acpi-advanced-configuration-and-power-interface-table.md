@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Macbook Pro Early 2015, ACPI (Advanced Configuration and Power Interface) table"
 ---
-# Macbook Pro Early 2015, ACPI (Advanced Configuration and Power Interface) table
 
 
 UEFI가 되는 소형컴퓨터와 랩탑으로 잇따라 바꾸게 되면서 DSDT (컴퓨터 하드웨에따라 제조사가 따로 만들어놓은 테이블/특성표/특성을 알려주는 프로그램)patching을 피치 못하게 하게 되면서 ACPI에도 눈을 뜨게 되었다. 생업은 잠시 미뤄두고. 좋아하던 취미들도 다 미뤄두고. 여름에 컴퓨터가 죄다 뻗어 버리게 된 것이 화근이다. 컴퓨터를 위한 컴퓨팅이란 이런 것을 말하는 거다. 설치하고 패치하고 - 엄밀히 말해서 업체가 하는 일을 내가 하는 것이다. 일부러 어려운 루트를 선택해서 말이다.

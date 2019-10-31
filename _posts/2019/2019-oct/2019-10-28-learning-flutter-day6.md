@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Learning Flutter: Day 6"
 tags: [flutter]
 ---

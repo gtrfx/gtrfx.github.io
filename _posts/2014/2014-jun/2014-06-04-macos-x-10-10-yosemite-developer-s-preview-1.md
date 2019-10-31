@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "MacOS X 10.10, Yosemite..Developer's Preview #1"
 ---
-# MacOS X 10.10, Yosemite..Developer's Preview #1
 
 
 Xcode6를 위해 딱 이틀 사용해봤다. 소감만 정리하라면,

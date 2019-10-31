@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Python Python 하는데..."
 categories:
     - computer

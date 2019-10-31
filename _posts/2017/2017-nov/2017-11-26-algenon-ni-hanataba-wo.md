@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "아루제논에게 꽃다발을"
 categories:
     - jdrama

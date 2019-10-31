@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Raspberry Pi2 + OpenVPN server..."
 ---
-# Raspberry Pi2 + OpenVPN server...
 
 
 잘은 모르나 요샌 공유기의 성능이 좋아지고, linux based로 되어있어서 공유기 스스로 smart한 network filtering은 물론이고 VPN gateway기능을 가지고 있는 것들이 있다. 과거에는 별도의 gateway 호스트를 두고 관리했을 일을 공유기가 전부하고 있는 것인데, 이럴 땐 힘들여 open vpn을 설치할 이유가 없고, 공유기의 web interface를 그대로 따라서 시킨대로 하면 된다.

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "무기력증"
 tags: [restlessness, anxiety]
 categories:

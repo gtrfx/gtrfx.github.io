@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Far Corporation: Stairway to heaven"
 categories:
     - music

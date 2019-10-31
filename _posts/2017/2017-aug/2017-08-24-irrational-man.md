@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Irrational Man"
 categories:
     - life

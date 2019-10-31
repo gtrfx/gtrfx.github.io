@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Preamp tube modeling?"
 ---
-# Preamp tube modeling?
 
 
 Spice를 돌릴 목적이 아니라 최대한 간단한 연산으로 입출력을 흉내내기 위해서 2가지를 생각해볼 수 있을 것 같다.

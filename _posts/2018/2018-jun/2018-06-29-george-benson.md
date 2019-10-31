@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "George Benson 관련 소식"
 tags: [George Benson, Royal Albert Hall, Lost voice]
 categories:

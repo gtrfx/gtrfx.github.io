@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "사람의 힘은 몇 마력일까?"
 tags: [horsepower, manpower]
 ---

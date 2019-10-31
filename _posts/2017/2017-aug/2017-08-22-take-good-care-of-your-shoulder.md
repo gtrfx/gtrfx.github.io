@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Take good care of your shoulder"
 categories:
     - life

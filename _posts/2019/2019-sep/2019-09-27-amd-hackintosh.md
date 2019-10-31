@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "AMD 머신 해킨토시"
 tags: [amd, osx]
 ---

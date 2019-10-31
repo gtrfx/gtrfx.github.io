@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "삶의 문제에 대한 고민"
 categories:
     - life

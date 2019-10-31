@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Overloud TH-1"
 ---
-# Overloud TH-1
 
 ![image](/assets/images/67a881f2b3d26947754cdee20f45bca2.jpg)
 Overloud라는 회사에서 나온 Guitar amp+effect simulator이다. 전반적으로 amplitube라든가 guitar rig과 비교해봤을 때, 쓸만한 기능을 비교적 높은 완성도로, 그리고 깔끔하고 세련된 GUI로 잘 완성해놓았다고 할 수 있겠다. 여러가지 기타 시뮬을 많이 경험해봤지만, 앰프 시뮬중에서는 이 이펙트가 매우 다채로우면서도 유사도도 높지 않나 싶다. 또한 이펙트간 routing이며 패달 스위치 모양으로 생긴 스위치에 각 이펙터들을 매핑할 수 있고 볼륨으로 파라미터 컨트롤도 가능하게 되어있는 점은 큰 장점이 아닐까 한다.

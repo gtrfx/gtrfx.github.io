@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "기술 정보를 빼돌리는 게 의미가 있을까?"
 tags: [stealing tech. info]
 published: false

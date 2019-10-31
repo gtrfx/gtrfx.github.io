@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Wes Montgomery"
 categories:
     - music

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Tokyo Sonata (2008)"
 categories:
     - life

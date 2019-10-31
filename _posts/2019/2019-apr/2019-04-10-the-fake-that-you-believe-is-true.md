@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "당신이 믿었던 페이크?"
 tags: [mbc]
 ---

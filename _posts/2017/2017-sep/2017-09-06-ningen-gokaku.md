@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "인간 합격 (1998)"
 categories:
     - life

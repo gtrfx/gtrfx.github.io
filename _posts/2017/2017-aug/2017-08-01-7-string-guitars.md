@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "7 string guitars"
 categories: 
     - music

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Makefile 잘 만들기"
 tags: [makefile]
 ---

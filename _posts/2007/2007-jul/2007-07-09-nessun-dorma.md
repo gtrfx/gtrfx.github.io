@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Nessun Dorma.."
 ---
-# Nessun Dorma..
 
 애 옆에서 누워자다가 애가 잠결에 소리치는 바람에 잠을 설쳤더니 도무지 잠이 오질 않는다.
 

@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Kemper Profiling Amplifier: Profiling tone"
 ---
-# Kemper Profiling Amplifier: Profiling tone
 
 
 이번엔 soundcloud에 올라온 test tone을 관찰해서 어떠한 방법으로 profiling을 하고 있는지 알아보려고 한다.

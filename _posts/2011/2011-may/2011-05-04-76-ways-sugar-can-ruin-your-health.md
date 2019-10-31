@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "76 Ways Sugar Can Ruin Your Health"
 ---
-# 76 Ways Sugar Can Ruin Your Health
 
 76 Ways Sugar Can Ruin Your Health
 Contributed by Nancy Appleton, Ph.D Author of the book Lick the Sugar Habit![image](/assets/images/a50a833f9ed2a41592852ed502494743.jpg)

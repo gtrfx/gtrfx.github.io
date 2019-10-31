@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "RAN1#49 Major Decisions on LTE"
 ---
-# RAN1#49 Major Decisions on LTE
 
 1. PSC
 

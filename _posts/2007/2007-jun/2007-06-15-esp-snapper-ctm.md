@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "ESP Snapper CTM.."
 ---
-# ESP Snapper CTM..
 
 1시간도 못 되게 만져보긴 했지만..필이 팍 꽂힌다..
 

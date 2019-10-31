@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Mac OS X 10.8 Mountain Lion"
 ---
-# Mac OS X 10.8 Mountain Lion
 
 DP1 설치 및 구경완료..ㅎㅎ
 

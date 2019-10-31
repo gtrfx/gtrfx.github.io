@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Ibanez APEX2"
 ---
-# Ibanez APEX2
 
 Ibanez에서 예전에 Korn signature model로 K2를 생산했었는데, 2007년에 와서 기존 K2를 계승한 Apex1과 String-thru-Body 형식의 Apex2를 발매했다.
 

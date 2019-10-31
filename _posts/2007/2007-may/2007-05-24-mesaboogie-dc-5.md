@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "MesaBoogie DC-5.."
 ---
-# MesaBoogie DC-5..
 
 전형적인 메사부기 스타일 앰프이다. 
 

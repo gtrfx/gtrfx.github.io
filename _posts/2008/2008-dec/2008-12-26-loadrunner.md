@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "LoadRunner.."
 ---
-# LoadRunner..
 
 
 ![image](/assets/images/35b4e4d7358efcd3b425642e875856a3.gif)

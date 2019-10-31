@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "HiWatt Module Sample..2"
 ---
-# HiWatt Module Sample..2
 
 준비 10분..마구리 5분..재탕 5분..
 

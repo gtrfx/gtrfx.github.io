@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "MacOS High Sierra Installation"
 categories: life
 ---

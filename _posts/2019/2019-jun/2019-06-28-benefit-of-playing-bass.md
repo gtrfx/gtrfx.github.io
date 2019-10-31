@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bass guitar의 재미"
 tags: [bass playing]
 ---

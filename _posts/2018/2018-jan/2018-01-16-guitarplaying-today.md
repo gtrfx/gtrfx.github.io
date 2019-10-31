@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "요즘 기타 세계의 특징"
 categories:
     - music

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Pacman 사용시 유의점"
 tags: [pacman cache]
 ---

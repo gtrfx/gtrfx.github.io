@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Krankenstein"
 ---
-# Krankenstein
 
 
 회로를 보니 marshall plexi에서 출발한 회로다. 클린톤도 마샬의 톤스텍을 그대로 써서 마샬의 클린톤이 나온다. 그러나 Dimebag의 원래 사운드는 randall의 RG100H 혹은 같은 프리앰프를 쓰는 Century200이라 불리우는 앰프인데, 대부분의 앨범은 랜달의 앰프헤드로 만들었던 것이라, Krankenstein은 사실 해당사항이 별로 없는, 톤 역시 그다지 연관이 없는 앰프인 것이다.

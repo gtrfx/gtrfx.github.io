@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Copy 할 수 없는 웹 컨텐츠?"
 tags: [web]
 categories:

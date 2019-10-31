@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Cascade Integrator Comb filter"
 categories: technology
 ---

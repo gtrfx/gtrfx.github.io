@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "구형 수동 렌즈 쓰지 마라."
 tags: [old lens sucks]
 ---

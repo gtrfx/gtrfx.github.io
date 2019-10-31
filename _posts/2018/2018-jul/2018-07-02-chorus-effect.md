@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Chorus effect: 원리는 무엇일까?"
 tags: [chorus, signal processing, guitar effect]
 categories:

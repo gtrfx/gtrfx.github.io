@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "4월이 되었다.."
 tags: [simon and garfunke, april come she will]
 ---

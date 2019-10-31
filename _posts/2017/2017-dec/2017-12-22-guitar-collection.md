@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "기타 콜렉션: 2017"
 categories:
     - music

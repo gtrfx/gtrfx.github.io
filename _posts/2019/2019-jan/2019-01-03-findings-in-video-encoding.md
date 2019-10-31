@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "비디오 실험 놀이: 오늘의 깨닫은 점"
 tags: [video editing experiment]
 ---

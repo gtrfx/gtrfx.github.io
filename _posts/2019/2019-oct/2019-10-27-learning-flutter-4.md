@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Flutter를 배우자: Day 4"
 tags: [flutter, web]
 ---

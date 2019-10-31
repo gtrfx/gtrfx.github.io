@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Soundcloud 놀이"
 categories:
     - music

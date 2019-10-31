@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Sustainer DIY..#2"
 ---
-# Sustainer DIY..#2
 
 Sustainer DIY 보러가기
 

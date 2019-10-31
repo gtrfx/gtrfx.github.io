@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Toto - Stop Loving You.."
 ---
-# Toto - Stop Loving You..
 
 화려하지 않으면서도 깔끔하기 그지없는 드럼..역시 최고다..
 

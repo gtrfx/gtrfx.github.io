@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "나를 알고 침착해지기.."
 tag: [myself, navigation, life]
 categories:

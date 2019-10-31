@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Canon FD 35mm f2.8 vs Fujian 35mm f1.7"
 ---
-# Canon FD 35mm f2.8 vs Fujian 35mm f1.7
 
 
 Fujian 35mm f1.7 c mount 렌즈가 일반 35mm카메라용 렌즈와 어찌 다른지 APS-C 센서가 달린 Sony Nex-5T에 달아서 비교해보려 한다. 비교 상대는 캐논 FD 렌즈 중에서도 점수가 매우 높은 35mm f2.8과 해봤다. 

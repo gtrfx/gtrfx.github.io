@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Rectifying Circuit"
 tags: [rectifier, diode]
 ---

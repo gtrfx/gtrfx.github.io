@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "하이브리드 게이지 스트링"
 categories:
     - guitar

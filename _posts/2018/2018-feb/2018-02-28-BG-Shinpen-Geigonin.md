@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "BG 신변 경호인"
 categories:
     - life

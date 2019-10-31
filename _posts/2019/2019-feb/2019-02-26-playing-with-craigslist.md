@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Craigslist에서 거래하기"
 tags: [craigslist]
 ---

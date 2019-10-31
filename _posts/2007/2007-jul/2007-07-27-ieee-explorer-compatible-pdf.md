@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "IEEE Explorer compatible PDF.."
 ---
-# IEEE Explorer compatible PDF..
 
 예전 같으면, 학회에 논문을 제출할 때에는 양식에 신경쓰는 몇 개의 학회에서는 style file을 제공했던 것 같고, 그외의 학회에서는 대개 내맘대로 format의 LaTeX으로 출력한 postscript, 혹은 MS Word, PDF 파일을 받아서 자체에서 편집을 해줬던 것 같은데, 요샌 아예 author에게 모든 사양을 만족시키는 PDF를 직접 만들어 올리라고 하는 것 같다.
 

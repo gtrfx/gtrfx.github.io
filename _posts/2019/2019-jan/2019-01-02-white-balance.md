@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "화이트 밸런스: 어떻게 이해해야 되나?"
 tags: [white balance]
 ---

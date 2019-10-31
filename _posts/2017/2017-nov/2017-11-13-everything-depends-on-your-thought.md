@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "모든 것이 마음에 달려있다."
 categories:
     - life

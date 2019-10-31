@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "RAN4 meeting agenda.."
 ---
-# RAN4 meeting agenda..
 
 4월초 sophia antipolis에 있을 adhoc meeting과
 5월 고베에서 열리는 RAN4 #43 meeting의 agenda를 첨부한다..

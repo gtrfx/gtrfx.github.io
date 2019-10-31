@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Synergy Preamp/Modules"
 categories:
     - music

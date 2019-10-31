@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "우리들은 기적으로 되어있다."
 tags: [bokurawakisekidedekiteiru]
 img: bokurawa.jpg

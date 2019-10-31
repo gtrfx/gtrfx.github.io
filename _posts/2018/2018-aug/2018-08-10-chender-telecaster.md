@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "텔레캐스터 이틀째"
 tags: [aliexpress, telecaster, chender, fender]
 categories:

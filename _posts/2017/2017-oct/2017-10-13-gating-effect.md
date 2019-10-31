@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Gating Effect"
 categories:
     - project

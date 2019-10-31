@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "OS for single board computer"
 categories: technology
 ---

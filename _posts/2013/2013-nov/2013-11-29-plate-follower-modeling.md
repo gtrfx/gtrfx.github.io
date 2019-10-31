@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Plate follower modeling"
 ---
-# Plate follower modeling
 
 
 여태까지의 포스트를 통해서 대부분의 passive filter회로, 그것도 가장 큰 부분인 tone stack의 digital modeling을 완성했다. tone stack의 경우 3rd order IIR filter로 구성하면 되므로 연산량이 얼마되지 않는 특징이 있고, 사실상 아날로그 특성을 bilinear transform에서 s를 z로 대치하는 과정에서 발생하는 약간의 approximation을 제외하고는 그 어떤 타협도 존재하지 않는다는 장점도 가지고 있다. 

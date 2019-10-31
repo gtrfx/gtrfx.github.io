@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "뱃살 빼기"
 tags: [fat, belly]
 ---

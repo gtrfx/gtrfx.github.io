@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "가족 게임 (2013)"
 categories:
     - life

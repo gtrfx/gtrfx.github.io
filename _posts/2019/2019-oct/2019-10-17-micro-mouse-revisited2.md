@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "마이크로 마우스를 디벼볼까?: Day 2"
 tags: [micromouse]
 ---

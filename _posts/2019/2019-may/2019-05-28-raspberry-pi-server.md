@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "라스베리파의 용도: node js"
 tags: [raspberry pi]
 ---

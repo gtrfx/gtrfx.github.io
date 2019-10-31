@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "기타 줄에 대하여"
 categories:
     - life

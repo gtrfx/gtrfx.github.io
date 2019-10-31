@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Audvans AV-1959 Release (Free version)"
 ---
-# Audvans AV-1959 Release (Free version)
 
 This is the first release of my home-brew plugins. 
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "액션 카메라의 뛰어난 점.."
 tags: [action cam]
 ---

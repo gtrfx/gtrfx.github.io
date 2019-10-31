@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "요즘 기타 강호에선"
 categories:
     - music

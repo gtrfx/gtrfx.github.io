@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "아는 것과 최종 결정"
 categories:
     - life

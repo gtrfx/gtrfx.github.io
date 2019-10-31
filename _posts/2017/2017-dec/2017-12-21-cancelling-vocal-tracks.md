@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "완제품 음악에서 주 트랙 지우기"
 categories:
     - audio

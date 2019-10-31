@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "다들 늙어가는 구나"
 tags: [metallica, lars ulrich]
 ---

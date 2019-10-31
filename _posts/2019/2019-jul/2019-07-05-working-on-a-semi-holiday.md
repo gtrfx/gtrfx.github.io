@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "준 공휴일에 일하기"
 tags: [july 4th]
 ---

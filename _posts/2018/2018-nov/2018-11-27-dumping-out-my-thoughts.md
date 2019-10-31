@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "메일로 화내기.."
 tags: [anger, misery, you'll suffer unto me]
 ---

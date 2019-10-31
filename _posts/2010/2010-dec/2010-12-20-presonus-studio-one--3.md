@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "PreSonus Studio One...3"
 ---
-# PreSonus Studio One...3
 
 3일째 사용기다..
 전체적인 화면 구조가 Cubase+Logic과 비슷하다고 했는데, Score view가 되지 않는다. (솔직히 미디찍기를 Score로 하는 사람도 많지만 대부분은 piano roll을 쓰니 큰 문제는 없다.)

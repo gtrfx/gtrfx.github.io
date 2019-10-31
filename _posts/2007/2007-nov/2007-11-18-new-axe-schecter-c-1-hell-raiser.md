@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "New Axe..Schecter C-1 Hell raiser"
 ---
-# New Axe..Schecter C-1 Hell raiser
 
 Ibanez RG450MH을 처분하려다가 교환하게 된 Schecter C-1 Hell Raiser이다.
 

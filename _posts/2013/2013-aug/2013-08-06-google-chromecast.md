@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Google Chromecast.."
 ---
-# Google Chromecast..
 
 
 Google의 Chromecast가 얼마전에 발표되었다. 아마존에 $35에 떠올랐는데, 지금은 그 가격에 살 수가 없고, 구글이 판매하는 Bestbuy는 이미 품절, 그리고 오직 Google play에서 미국내 배송으로만 구입이 가능한데, 이 역시도 한참을 기다려야 받을 수 있는 것으로 알고 있다..

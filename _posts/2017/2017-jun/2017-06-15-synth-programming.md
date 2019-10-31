@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Synth programming"
 tags: [synth, programming, plugin, langauge]
 ---

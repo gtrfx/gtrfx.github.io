@@ -1,26 +1,20 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: BlowByBlow
+title: BlowByBlow | Blog by Keith
+description: A simple life/hobby.
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: gtrfxdsp@gmail.com
+disqus_username: gtrfx
 show_hero: true
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
 
 
 # Theme Settings
@@ -41,17 +35,18 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-102853359-1"
 language: "en"
 
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+#permalink: /:title/
 collections:
   authors:
     output: true
+paginate: 25
 paginate_path: "/page/:num/"
 
 # Content paginator
@@ -75,7 +70,7 @@ paginate_content:
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-paginate-content
+#  - jekyll-paginate-content
 
 # Exclude my node related stuff
 exclude: [

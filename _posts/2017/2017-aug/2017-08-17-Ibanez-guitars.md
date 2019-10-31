@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "최근 Ibanez Guitars"
 categories: 
     - music

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "공기 오염이 가져다주는 optical low pass filtering"
 tags: [air pollution]
 ---

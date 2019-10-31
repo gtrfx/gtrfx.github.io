@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Flying In a Blue Dream (bass/guitar 1/2/3) Cover"
 tags: [joe satriani]
 ---

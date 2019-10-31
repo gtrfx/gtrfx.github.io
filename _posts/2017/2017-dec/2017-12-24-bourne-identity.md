@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bourn Identity의 추격 장면에서의 배경음악"
 categories:
     - music

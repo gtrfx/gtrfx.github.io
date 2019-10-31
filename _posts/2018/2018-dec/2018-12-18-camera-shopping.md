@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "카메라 쇼핑"
 tags: [camera, mirrorless]
 ---

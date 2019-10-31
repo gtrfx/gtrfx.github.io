@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "My El-Becko"
 ---
-# My El-Becko
 
 
 Jeff Beck의 "There and Back"이란 앨범의 수록곡 "El-Becko"를 커버도 아니고 리메이크도 아니고 내맘대로 망쳐봤다.
