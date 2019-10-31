@@ -2,6 +2,7 @@
 title: "아 빌어먹을 Sales tax..."
 tags: [sales tax, ebay]
 layout: post
+image: https://calmatters.org/wp-content/uploads/sites/2/2017/02/money-e1526347227510.jpg?fit=600%2C337
 ---
 
 10월 1일자로 캘리포니아를 포함한 31개 주에서 online sales tax를 걷어들이기로 했다. 이미 미리 시작한 주(state)도 있고 나중에 시작한 주도 있고 한데, 여하간 내가 있는 California에서도 online sales에 대한 sales tax를 걷는다.
