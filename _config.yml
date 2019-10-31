@@ -46,7 +46,7 @@ highlighter: rouge
 collections:
   authors:
     output: true
-paginate: 25
+paginate: 24
 paginate_path: "/page/:num/"
 
 # Content paginator
