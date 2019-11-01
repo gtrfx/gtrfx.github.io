@@ -2,6 +2,7 @@
 layout: post
 title: "Flying In a Blue Dream (bass/guitar 1/2/3) Cover"
 tags: [joe satriani]
+image: https://cdn.shopify.com/s/files/1/1779/8843/products/j2_530x.jpg?v=1560268310
 ---
 
 늦은 밤 몰래 두근 거리는 맘으로 듣던 이 앨범이 이제 발매 30주년이란다 ㅠ.
