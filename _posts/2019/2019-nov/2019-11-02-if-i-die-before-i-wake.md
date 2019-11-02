@@ -1,7 +1,7 @@
 ---
 title: "당장 내일 죽는다면.."
 tags: [parasite]
-image: http://images.firstcovers.com/covers/userquotes/i/if_i_die_before_i-50225.jpg
+image: https://miro.medium.com/max/1124/1*13g5sBDm0bWl8XaLvqC7kA.png
 ---
 
 요새 신문에 나오는 돌아가시는 분들 소식을 접하다보면 생각보다 연령이 높지 않은 것에 놀라게 된다. 60대 초반에도 많은 사람들이 - 그것도 아무 문제 없어보일 것 같은 - 죽는 구나 하고 말이다. (누군가의 말에 의하면 평균 수명에 비해서 일찍 죽는 사람들은 그 사람이 평균보다 먼저 죽게된 만큼 그 두배로 길게 사는 사람들이 있게된다(?)라고 하던데 이 사람도 쓸데없이 생각이 많았구나 하는 생각도 아울러 든다.)
