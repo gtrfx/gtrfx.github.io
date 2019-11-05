@@ -3,6 +3,7 @@ layout: post
 title: "VIP 축제, 새생명 축제"
 tags: [VIP, WTF]
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBZVWhpZn5pNjBucL591GCBgdeq-u9BZCKNgXay6f0h_2QaYxd
+published: false
 ---
 
 주변에 가끔 연락하며 알고 지내던 사람이 그 사람 다니는 교회에 유명한 목사가 방문하니 얘기나 한번 들으러 오라기에 알았다고 했다. 
