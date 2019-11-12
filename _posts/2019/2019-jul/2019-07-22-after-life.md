@@ -2,6 +2,7 @@
 layout: post
 title: "After Life (2019)"
 tags: [ricky gervais, tv series, netflix]
+image: https://cdn.entertainmentdaily.com/2019/10/24150935/after1.jpg
 ---
 
 넷플릭스 판으로 나온 일본 드라마는 본 적이 있는데, 제대로 본 넷플릭스판 영국 드라마는 첨이지 싶다. 미국 드라마로는 마약 딜러가 나오는 잘 알려진 드라마가 있었는데 이게 왜 재미있을까 생각하며 보다 말았던 것 같고. 
