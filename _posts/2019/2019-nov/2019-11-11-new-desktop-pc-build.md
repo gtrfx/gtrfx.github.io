@@ -2,7 +2,7 @@
 layout: post
 title: "새로운 데스크탑: AMD Ryzen 7 2700X + RX580"
 tags: [new desktop pc, AMD, Ryzen]
-image: http://t0.gstatic.com/images?q=tbn%3AANd9GcS6MYS5XLj-AwWW-3uAnTTP3V15K_UQ6i8mgh8S_7j3FQAyvEEPU0ZHTvboubICD2Cd-ojikdQ&usqp=CAc
+image: https://c1.neweggimages.com/NeweggImage/ProductImage/19-113-499-V01.jpg
 ---
 
 지금 쓰고 있는 미니 베어본 PC (Gigabyte Brix-Pro)가 슬슬 질려와서 아무 생각없이 이베이에 올려놨는데, 1주일이 못 되어 누가 그걸 사겠다고 주문을 해버렸다. 가격은 그다지 나쁘지 않다. i7에 16GB에 256GB SSD까지 있는 걸 350불에 팔겠다니 산 것 같은데 나야 5년 정도 쓴 물건을 처분하기 뭐해서 애매했는데 잘 됐구나 생각하고 있다. 
