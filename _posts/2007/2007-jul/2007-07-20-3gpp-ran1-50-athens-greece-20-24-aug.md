@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/f08cb90d3dc34645ee485faab6129678.gif
+image: /assets/images/f08cb90d3dc34645ee485faab6129678.gif
 title: "3GPP RAN1#50 Athens, Greece, 20-24 Aug"
 ---
 

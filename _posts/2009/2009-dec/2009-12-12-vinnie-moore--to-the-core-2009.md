@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/f26e995b72851aa767f7e66558f752da.jpg
+image: /assets/images/f26e995b72851aa767f7e66558f752da.jpg
 title: "Vinnie Moore - To the Core (2009)"
 ---
 

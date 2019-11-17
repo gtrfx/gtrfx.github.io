@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/fc8bdaeb52c13d4e6a5ce0e0ac9b2217.png
+image: /assets/images/fc8bdaeb52c13d4e6a5ce0e0ac9b2217.png
 title: "Piezo pickup..."
 ---
 

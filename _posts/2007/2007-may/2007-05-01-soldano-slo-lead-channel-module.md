@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/8639b879fa98afcced9cc7cc1d2282f5.png
+image: /assets/images/8639b879fa98afcced9cc7cc1d2282f5.png
 title: "Soldano SLO Lead Channel Module.."
 ---
 

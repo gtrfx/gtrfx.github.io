@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/4c920543c482d3bb3780d43aca701da1.jpg
+image: /assets/images/4c920543c482d3bb3780d43aca701da1.jpg
 title: "Lenovo T450s + Yosemite.."
 ---
 

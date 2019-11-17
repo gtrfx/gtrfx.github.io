@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/5838a8dda3aa60389521f81e7cecad79.jpg
+image: /assets/images/5838a8dda3aa60389521f81e7cecad79.jpg
 title: "Lynch Mob - Smoke and Mirrors (2009)"
 ---
 

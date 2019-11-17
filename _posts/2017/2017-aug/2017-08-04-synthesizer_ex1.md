@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/synthesizer/element.png
+image: /assets/images/synthesizer/element.png
 title: "Learning a Synthesizer: Example #1"
 categories:
     - learning

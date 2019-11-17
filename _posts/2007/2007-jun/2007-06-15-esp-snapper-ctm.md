@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/f21293caa7c08c41faecb4ea619f5d90.png
+image: /assets/images/f21293caa7c08c41faecb4ea619f5d90.png
 title: "ESP Snapper CTM.."
 ---
 

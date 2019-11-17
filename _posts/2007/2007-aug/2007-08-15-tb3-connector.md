@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/9fdddeab8a8c1308786b5e307fc76362.jpg
+image: /assets/images/9fdddeab8a8c1308786b5e307fc76362.jpg
 title: "TB3 Connector"
 ---
 

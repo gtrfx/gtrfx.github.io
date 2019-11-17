@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/9f8f077306209934bb6f1e57ccdb6ba5.png
+image: /assets/images/9f8f077306209934bb6f1e57ccdb6ba5.png
 title: "distortion/harmonics/aliasing.."
 ---
 

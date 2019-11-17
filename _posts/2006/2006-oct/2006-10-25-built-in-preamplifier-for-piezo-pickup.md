@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/79718ef2e4df12370055cf2d3ce8d519.gif
+image: /assets/images/79718ef2e4df12370055cf2d3ce8d519.gif
 title: "Built-in Preamplifier for Piezo Pickup"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/58b236b7b3b61318e1b950f5b3eb1afb.png
+image: /assets/images/58b236b7b3b61318e1b950f5b3eb1afb.png
 title: "Markdown + MathJax Authoring Webtool: Markx"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/d59ad9f3e1c95bf282417855d028b17c.png
+image: /assets/images/d59ad9f3e1c95bf282417855d028b17c.png
 title: "A Bit of Fry and Laurie.."
 ---
 

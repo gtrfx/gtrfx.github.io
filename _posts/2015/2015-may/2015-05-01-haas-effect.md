@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/29a2a6287e3be72e2e1be667d1082fea.jpg
+image: /assets/images/29a2a6287e3be72e2e1be667d1082fea.jpg
 title: "Haas effect"
 ---
 

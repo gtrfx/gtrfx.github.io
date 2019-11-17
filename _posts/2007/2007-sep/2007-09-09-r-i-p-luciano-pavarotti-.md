@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/10f1061b3cac0f47ebe923a2ca7aca88.png
+image: /assets/images/10f1061b3cac0f47ebe923a2ca7aca88.png
 title: "R.I.P. Luciano Pavarotti..."
 ---
 

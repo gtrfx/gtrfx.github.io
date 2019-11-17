@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/1516e9ab2a8a6dcebffc1774ceac7d70.jpg
+image: /assets/images/1516e9ab2a8a6dcebffc1774ceac7d70.jpg
 title: "Samyang (Rokinon) 85mm f1.4"
 ---
 

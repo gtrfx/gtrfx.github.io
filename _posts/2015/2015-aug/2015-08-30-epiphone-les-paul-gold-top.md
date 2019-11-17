@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/a492cd7351d3296632978559840fc113.jpg
+image: /assets/images/a492cd7351d3296632978559840fc113.jpg
 title: "Epiphone Les Paul Gold Top.."
 ---
 

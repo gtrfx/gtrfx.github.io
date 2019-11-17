@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/f2f6a6315fbe88286b367b5d8fa48890.png
+image: /assets/images/f2f6a6315fbe88286b367b5d8fa48890.png
 title: "TC2290 Delay Processor: Essentials"
 ---
 

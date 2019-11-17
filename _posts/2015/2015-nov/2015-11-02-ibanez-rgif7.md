@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/7b7cc6dbe8b0ec91f2a566ac88535135.png
+image: /assets/images/7b7cc6dbe8b0ec91f2a566ac88535135.png
 title: "Ibanez RGIF7"
 ---
 

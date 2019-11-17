@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/34a44ad18ba534346650728c2be40f6b.png
+image: /assets/images/34a44ad18ba534346650728c2be40f6b.png
 title: "Vox AMPlug - Metal"
 ---
 

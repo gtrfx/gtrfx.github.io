@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/2e119f95a57cb84eb4242cc79e64653e.png
+image: /assets/images/2e119f95a57cb84eb4242cc79e64653e.png
 title: "TC Electronic Konnekt24D, Konnekt8"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/f7c5c6a4a07457629db4ec1696eb23cb.jpg
+image: /assets/images/f7c5c6a4a07457629db4ec1696eb23cb.jpg
 title: "Valvetronix - Valve Reactor..?"
 ---
 

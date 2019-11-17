@@ -1,6 +1,6 @@
 ---
 layout: post
-image:/assets/images/ca3839af62378ad945b5e88a9b49a5e4.jpg
+image: /assets/images/ca3839af62378ad945b5e88a9b49a5e4.jpg
 title: "Bogner FISH Brown Channel Module.."
 ---
 
