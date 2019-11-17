@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/69d1f6a544b3af4a8f57ecc63fa1c461.png
 title: "New Axe..Schecter C-1 Hell raiser"
 ---
 

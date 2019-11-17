@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/75b212653ffb38970a7b3e5f06dd0e42.jpg
 title: "Piezo pickup test #1"
 ---
 

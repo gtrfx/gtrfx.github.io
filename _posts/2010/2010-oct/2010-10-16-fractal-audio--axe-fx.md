@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/12a7b59f6fff66130257524a1433f400.gif
 title: "Fractal Audio - Axe Fx"
 ---
 

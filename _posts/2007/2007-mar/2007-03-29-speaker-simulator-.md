@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/e8c1262cbcaebd40bd000418577ef5a6.jpg
 title: "Speaker Simulator..."
 ---
 

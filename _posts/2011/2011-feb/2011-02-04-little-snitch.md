@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/9e2483f2e8f00acabc3963b6f86d7766.png
 title: "Little Snitch"
 ---
 

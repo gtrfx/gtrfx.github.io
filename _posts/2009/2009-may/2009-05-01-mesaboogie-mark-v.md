@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/dac07b9a45a2463ae2fbcbc3748c6fd6.jpg
 title: "MesaBoogie Mark V"
 ---
 

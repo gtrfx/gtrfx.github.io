@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/dc35d7b314d9a6fc2c6623581e0c5872.png
 title: "Mac OS X 10.8 Mountain Lion"
 ---
 

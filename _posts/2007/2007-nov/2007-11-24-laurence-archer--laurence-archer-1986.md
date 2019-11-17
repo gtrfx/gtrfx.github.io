@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/b1eb65d0cf946d32f74c78b05fabb776.jpg
 title: "Laurence Archer - Laurence Archer (1986)"
 ---
 

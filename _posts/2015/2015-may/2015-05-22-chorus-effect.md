@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/8278256346add3a6f38672d2affec804.png
 title: "Chorus Effect"
 ---
 

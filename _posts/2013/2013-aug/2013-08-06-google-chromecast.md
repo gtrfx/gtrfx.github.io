@@ -1,5 +1,6 @@
 ---
 layout: post
+image:\/assets\/images\/e784d4180bac82460341e823a11df2ad\.png
 title: "Google Chromecast.."
 ---
 

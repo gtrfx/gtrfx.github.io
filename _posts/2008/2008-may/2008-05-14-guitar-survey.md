@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/776815d43d925aaf7664ef38e2d21554.gif
 title: "Guitar Survey.."
 ---
 

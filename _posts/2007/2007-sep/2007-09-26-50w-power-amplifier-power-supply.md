@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/f69c03b224d45658846897b2416404a3.png
 title: "50W Power Amplifier: Power Supply"
 ---
 

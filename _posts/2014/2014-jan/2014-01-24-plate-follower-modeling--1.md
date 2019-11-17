@@ -1,5 +1,6 @@
 ---
 layout: post
+image:\/assets\/images\/98645c378430ae126ab3815fcf586f50\.jpg
 title: "Plate Follower modeling..(1)"
 ---
 

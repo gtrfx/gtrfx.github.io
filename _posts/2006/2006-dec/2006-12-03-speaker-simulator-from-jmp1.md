@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/3f79d63629748cec9947bd1a75491066.png
 title: "Speaker Simulator (from JMP1)"
 ---
 

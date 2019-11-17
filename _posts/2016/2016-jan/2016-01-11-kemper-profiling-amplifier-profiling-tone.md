@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/920dea7c8f79a6ed32d4bbc9241e6a2a.png
 title: "Kemper Profiling Amplifier: Profiling tone"
 ---
 

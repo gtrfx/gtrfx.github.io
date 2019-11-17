@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/1c605759e30080aa98903b5ca23703cb.png
 title: "Bogner Uberschall...Schematic??"
 ---
 

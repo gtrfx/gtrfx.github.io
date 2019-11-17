@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/ec09d79b62c6fa932ffe5b897e303308.jpg
 title: "Power Amplifier Simulation.."
 ---
 

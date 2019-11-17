@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/ce319091ef778f74a1996b0273b8b336.png
 title: "Mesa Mark IIc+ Simulator Plugin: Coming soon!"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/f1c1aa3c71637c4a9eb606ced8609292.jpg
 title: "Jeff Loomis - Plains of Oblivion"
 ---
 

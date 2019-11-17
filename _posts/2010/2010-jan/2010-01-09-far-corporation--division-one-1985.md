@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/b8ce1baccda074ea7c67677beaaef2bb.jpg
 title: "Far Corporation - Division One (1985)"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/11e8923b6ebf3673782fb5c0c1d25631.png
 title: "Ibanez rules..!"
 ---
 

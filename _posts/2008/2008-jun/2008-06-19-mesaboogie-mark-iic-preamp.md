@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/5e92a5ae049ad138703dd27fe7f0db12.jpg
 title: "MesaBoogie Mark IIc+ preamp"
 ---
 

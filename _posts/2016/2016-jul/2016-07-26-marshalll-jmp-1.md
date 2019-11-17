@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/db194a9430b46a0e4de19d0ba9e22bf1.jpg
 title: "Marshalll JMP-1"
 ---
 

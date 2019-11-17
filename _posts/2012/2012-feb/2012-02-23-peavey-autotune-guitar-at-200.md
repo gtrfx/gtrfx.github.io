@@ -1,5 +1,6 @@
 ---
 layout: post
+image:/assets/images/b12aa0a6b685e44a30aae898f33ad3d9.jpg
 title: "Peavey AutoTune Guitar AT-200"
 ---
 

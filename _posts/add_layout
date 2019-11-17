@@ -22,11 +22,14 @@ sub work
 				{
 					if ($m =~ /\!\[image\]\(([\/a-zA-Z0-9\.]+)\)/)
 					{
-						$m =~ s/^title:/image:$1\ntitle:/;
-						open(my $f,">",".tmp");
-						print $f $m;
-						close($f);
-						`cp .tmp $u`;
+						my $o=$1;
+						if ($m =~ s/title: \"/image:$o\ntitle: \"/)
+						{
+							open(my $f,">",".tmp");
+							print $f $m;
+							close($f);
+							`cp .tmp $u`;
+						}
 					}
 				}
 				if ($m !~ /layout/)

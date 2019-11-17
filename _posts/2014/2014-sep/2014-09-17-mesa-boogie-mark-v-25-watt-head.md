@@ -1,5 +1,6 @@
 ---
 layout: post
+image:\/assets\/images\/7df980fb16ec0cdbbd80dceed75a3496\.jpg
 title: "Mesa Boogie Mark V 25 Watt Head"
 ---
 
