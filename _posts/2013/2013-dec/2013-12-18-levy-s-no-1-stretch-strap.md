@@ -1,6 +1,6 @@
 ---
 layout: post
-image:\/assets\/images\/f61a11b64fe7f454533be13dc98165bb\.jpg
+image: /assets/images/f61a11b64fe7f454533be13dc98165bb.jpg
 title: "Levy's No.1 Stretch Strap.."
 ---
 

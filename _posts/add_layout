@@ -18,6 +18,10 @@ sub work
 			elsif ($u =~ /\.md$/)
 			{
 				my $m=`cat $u`;
+				if ($m =~ /image:[\\][\/]/)
+				{
+					$m=~s/[\\]//g;
+				}
 				if ($m =~ /image\:\//)
 				{
 					$m =~ s/image\:\//image: \//;

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:\/assets\/images\/565373b331d9a3c71cf79a705159e9f6\.png
+image: /assets/images/565373b331d9a3c71cf79a705159e9f6.png
 title: "Sigmoid Function"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-image:\/assets\/images\/140610cb54e256defec398d7f64f8387\.png
+image: /assets/images/140610cb54e256defec398d7f64f8387.png
 title: "Accurate Tube C Model"
 ---
 

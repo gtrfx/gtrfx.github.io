@@ -1,6 +1,6 @@
 ---
 layout: post
-image:\/assets\/images\/a4663df63045ea68f3daae173d863c8d\.png
+image: /assets/images/a4663df63045ea68f3daae173d863c8d.png
 title: "Solid State Guitar Amplifier (2)"
 ---
 

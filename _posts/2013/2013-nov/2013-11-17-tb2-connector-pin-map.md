@@ -1,6 +1,6 @@
 ---
 layout: post
-image:\/assets\/images\/d79fb1e2d8cad638d95f8a1bc9aba609\.jpg
+image: /assets/images/d79fb1e2d8cad638d95f8a1bc9aba609.jpg
 title: "TB2 Connector Pin Map"
 ---
 
