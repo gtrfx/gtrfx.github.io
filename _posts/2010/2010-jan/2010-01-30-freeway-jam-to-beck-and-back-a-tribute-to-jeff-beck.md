@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/36d0623c3bbd3533a2d6064a2f3ae327.jpg
 title: "Freeway Jam to Beck and Back: A Tribute to Jeff Beck"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/43c3cad9980922d2d15a5a2e2c5622ee.jpg
 title: "TB3: Power Supply"
 ---
 

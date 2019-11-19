@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/aa624ce2ad41a80c10593eac916ca62f.gif
 title: "Feedback..Frequency response"
 ---
 

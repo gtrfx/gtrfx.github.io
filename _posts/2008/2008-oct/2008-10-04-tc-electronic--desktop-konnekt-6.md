@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/26aa315a628267c73613d98d8bab3d84.jpg
 title: "TC Electronic - Desktop Konnekt 6"
 ---
 

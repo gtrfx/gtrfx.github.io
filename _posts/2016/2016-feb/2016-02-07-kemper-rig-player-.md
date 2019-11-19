@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/3966550dfdfd47bdc390d3dbc6a41e90.png
 title: "Kemper Rig player ??"
 ---
 

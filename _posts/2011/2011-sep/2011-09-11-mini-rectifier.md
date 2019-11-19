@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/cf04f7a34a9cc698cff9b04f8889ccbd.jpg
 title: "Mini Rectifier.."
 ---
 

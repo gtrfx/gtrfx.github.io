@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/7825cde94c33145551472610d984eb69.png
 title: "PreSonus Studio One"
 ---
 

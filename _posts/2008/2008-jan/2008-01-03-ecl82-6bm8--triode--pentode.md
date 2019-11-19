@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/29b1bdc0031e09c7d208c4298031aa3b.jpg
 title: "ECL82(6BM8): triode + pentode"
 ---
 

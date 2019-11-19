@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/9dc6463c7aea9de768b2917c2da0cb0f.png
 title: "Sustainer DIY..#2"
 ---
 

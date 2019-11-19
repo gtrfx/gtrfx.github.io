@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/9770800322704ad9cb53318867bd14c1.jpg
 title: "Tube Active EQ..??"
 ---
 

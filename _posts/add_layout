@@ -18,6 +18,32 @@ sub work
 			elsif ($u =~ /\.md$/)
 			{
 				my $m=`cat $u`;
+				if ($m =~ /image:[\\][\/]/)
+				{
+					$m=~s/[\\]//g;
+				}
+				if ($m =~ /image\:\//)
+				{
+					$m =~ s/image\:\//image: \//;
+					open(my $f,">",".tmp");
+					print $f $m;
+					close($f);
+					`cp .tmp $u`;
+				}
+				if ($m !~ /image\:/)
+				{
+					if ($m =~ /\!\[image\]\(([\/a-zA-Z0-9\.]+)\)/)
+					{
+						my $o=$1;
+						if ($m =~ s/title: \"/image:$o\ntitle: \"/)
+						{
+							open(my $f,">",".tmp");
+							print $f $m;
+							close($f);
+							`cp .tmp $u`;
+						}
+					}
+				}
 				if ($m !~ /layout/)
 				{
 					$m =~ s/^title:/layout: post\ntitle:/;

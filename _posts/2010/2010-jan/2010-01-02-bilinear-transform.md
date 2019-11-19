@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/ff31ba1b02d60ee0af63972ae4d7c470.jpg
 title: "Bilinear Transform"
 ---
 

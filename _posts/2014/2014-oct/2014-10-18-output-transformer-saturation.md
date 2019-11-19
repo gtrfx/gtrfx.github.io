@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/db47fa4c981fdf3b0b3faa013715b77f.jpg
 title: "Output Transformer Saturation"
 ---
 

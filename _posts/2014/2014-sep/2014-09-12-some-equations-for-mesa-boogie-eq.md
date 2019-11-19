@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/977c451c9571bae859d6bdb75f434174.png
 title: "Some equations for Mesa Boogie EQ"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/3b58ca0ae69c2344575041b94b8b3409.jpg
 title: "Cannes - Antibes - Nice - Monte Carlo.."
 ---
 

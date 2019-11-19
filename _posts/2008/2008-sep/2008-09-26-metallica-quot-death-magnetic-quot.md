@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/44bcf8050dd843949470ce77f16de1c0.gif
 title: "Metallica &quot;Death Magnetic&quot;"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/synthesizer/arch1.png
 title: "Learning a Synthesizer: Architecture"
 categories: 
     - learning

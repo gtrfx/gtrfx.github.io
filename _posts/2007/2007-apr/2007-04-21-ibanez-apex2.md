@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/7086da6d15687855e5e028e37088d02e.png
 title: "Ibanez APEX2"
 ---
 

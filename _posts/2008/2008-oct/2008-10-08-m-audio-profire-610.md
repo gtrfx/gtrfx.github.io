@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/8e8760e3ac1820b61578472ef14fe239.jpg
 title: "M-Audio Profire-610"
 ---
 

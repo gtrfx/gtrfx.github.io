@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/1c4972ccff8db49675bd6bb0b6a7d08a.png
 title: "Joe Satriani - War Cover.."
 ---
 

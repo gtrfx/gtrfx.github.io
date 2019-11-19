@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/3b02370dc8156b68ec50cb8ccc187661.png
 title: "Modified TSL Preamp"
 ---
 

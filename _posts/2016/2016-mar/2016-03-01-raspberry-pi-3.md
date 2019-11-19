@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/8f47b40d53665f4b2d248645e89329b0.jpg
 title: "Raspberry Pi 3"
 ---
 

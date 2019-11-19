@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/3bc4f0029ef09681090dc4725c138554.jpg
 title: "Peavey 5150 Amplifier"
 ---
 

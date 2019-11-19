@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/ff7ffa4e1865b232f3a3bf977d4d5e75.png
 title: "Calinfornia Guitar(CALIG): Dual Rail Pickup S41 Review"
 ---
 

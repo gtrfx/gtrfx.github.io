@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/9fa4cef96f1fa5c0a828c543a43a10a4.png
 title: "The Coolangatta Gold.."
 ---
 

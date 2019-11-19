@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/8411c52c1315d5a4ce5f283b9c7e9d07.jpg
 title: "HiWatt Preamp Module..?"
 ---
 
