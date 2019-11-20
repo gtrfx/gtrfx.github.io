@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "QuickSync vs. VCE on MacOS"
 tags: [vce, quicksync, macos]
 ---

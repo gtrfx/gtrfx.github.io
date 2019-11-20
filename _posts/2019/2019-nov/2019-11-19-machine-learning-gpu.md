@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Machine learning과 high power computing"
 tags: [deep learning, machine learning, GPU]
 ---
