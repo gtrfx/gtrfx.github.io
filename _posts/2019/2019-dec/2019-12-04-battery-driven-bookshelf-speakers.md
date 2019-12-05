@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "오늘의 관심사: 배터리로 동작하는 블투 북쉘프 스피커?"
 tags: [18650]
-layout: post
 ---
 
 ### 스피커
