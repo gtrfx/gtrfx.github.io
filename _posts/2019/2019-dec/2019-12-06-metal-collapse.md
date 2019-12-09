@@ -1,6 +1,7 @@
 ---
 title: "멘붕? 멘탈 터짐?"
 tags: [panic, mental collapse]
+layout: post
 ---
 
 흔히 '멘붕' 왔구나 하면 'panic' 즉 예상치 못한 상황이 벌어져서 어쩔 줄 모르는 상태가 되는 것으로 생각이 된다. 
