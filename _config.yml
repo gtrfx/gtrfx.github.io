@@ -40,8 +40,8 @@ language: "en"
 
 
 # Build settings
-#markdown: kramdown
-markdown: maruku
+markdown: kramdown
+#markdown: maruku
 highlighter: rouge
 #permalink: /:title/
 collections:
