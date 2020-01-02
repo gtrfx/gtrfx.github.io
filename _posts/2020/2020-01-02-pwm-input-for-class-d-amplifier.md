@@ -3,7 +3,7 @@ title: "class D amplifier에 PWM 입력이 주어지면 어떨까?"
 layout: post
 tags: [pwm, class d]
 use_math: yes
-iamge: https://www.thomsonlinear.com/ds_images/ds_images/images_relaunch/What-is-PWM-585x400.jpg
+image: https://www.thomsonlinear.com/ds_images/ds_images/images_relaunch/What-is-PWM-585x400.jpg
 ---
 
 제목 그대로 생각해보면 어차피 class D amplifier의 출력이 PWM이니까 PWM을 입력으로 넣어줘도 상관없는 것 아닐까? 하는 생각을 해본다. 정말 그럴까? 하는 궁금증이 생긴다. 
