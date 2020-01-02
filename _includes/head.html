@@ -91,4 +91,8 @@
     <script>
         document.querySelector('html').classList.remove('no-js');
     </script>
+
+    {% if page.use_math %}
+    {% include mathjax_support %}
+    {% endif %}
 </head>
