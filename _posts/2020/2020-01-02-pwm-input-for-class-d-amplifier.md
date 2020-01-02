@@ -1,7 +1,7 @@
 ---
 title: "class D amplifier에 PWM 입력이 주어지면 어떨까?"
 layout: post
-tags: [pwn, class d]
+tags: [pwm, class d]
 use_math: yes
 ---
 
