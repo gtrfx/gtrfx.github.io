@@ -41,9 +41,8 @@ language: "en"
 
 # Build settings
 markdown: kramdown
-#markdown: maruku
 highlighter: rouge
-#permalink: /:title/
+# permalink: /:title/
 collections:
   authors:
     output: true
