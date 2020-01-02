@@ -3,6 +3,7 @@ title: "mathjax와 Jekyll (Jekyll page에서 latex쓰기)"
 layout: post
 tags: [latex, mathjax, Jekyll, github]
 use_math: yes
+image: https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/MathJax.svg/1200px-MathJax.svg.png
 ---
 
 생각보다 매우 간단하다.
