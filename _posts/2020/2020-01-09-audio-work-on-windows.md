@@ -1,5 +1,6 @@
 ---
 title: "윈도우즈에서 오디오 작업"
+image: https://support.musicgateway.com/wp-content/uploads/2019/01/rsz_reaper_teaser.png
 layout: post
 ---
 
