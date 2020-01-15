@@ -50,4 +50,14 @@ step 2를 건너 뛰는 것으로 인하여 일단 초기 전송과정에서 문
 
 Preamble sigature가 cell마다 다르게 잡히기 때문에 인접셀 UE의 msgA를 수신할 수는 있다고 하더라도 preamble은 수신하지 못 할 것이므로 그것이 connection procedure에 영향을 줄 수는 없다. 
 
+#### Summary
 
+- Two step RACH: 
+  - RRC connection request를 preamble 바로 다음에 전송 (msgA라고 함)하고 기지국(gNB)으로 부터 RAR+RRC connection setup을 받으면 초기 setup이 완료되므로 two-step이 됨
+- 기술적인 문제점:
+  - timing sync (흔히 TA: timing advance)가 잡히지 않은 상태에서 PUSCH로 message를 전송하므로 CP 구간을 벗어나 전송하는 경우가 발생
+- 1차적인 해결 방법
+  - CP외 구간으로 수신되는 경우를 고려하면 추가적인 성능이득을 얻을 수 있으므로 기지국에서는 이 경우도 같이 고려해야 함. 즉, 기존 receiver + x2 CP receiver가 필요함
+  - payload가 작거나 혹은 할당되는 resource의 개수가 늘어나는 경우는 상대적으로 required SNR이 낮아지게 되므로 별다른 이득은 없음
+  - 또, 동일한 FFT로 처리되는 인접 PRB의 UE들이 SNR이 높은 경우(modulation order가 높은 경우)에는 이들과의 orthogonality 문제로 인한 간섭으로 성능 저하가 발생하므로 항상 성능개선이 이루어진다고는 볼 수 없음
+  - 결국, 수신과정은 두 가지 경우 (normal CP, x2 CP) 모두 try해서 CRC ok나는 것을 취하게 됨. 즉 정상적인 경우를 먼저 try해서 CRC ok가 얻어지면 나머지는 try하지 않고, 그렇지 않으면 try하는 방법을 택하게 됨
