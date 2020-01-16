@@ -1,6 +1,7 @@
 ---
 title: "Two-step RACH"
 tags: [rach, two step]
+layout: post
 ---
 
 11월 회의 때 나온 얘기인데 이 주제로 파는 것만으로도 박사 논문 하나 나올 수준이라 그럴 노력이나 열정같은 것은 없고 그냥 간단한 배경설명에 당장에 궁금한 것들에 대해서만 좀 생각하며 적어본다. 여기서 단말과 기지국이라 함은 WAN의 단말 (UE:User Equipment)과 기지국 (NodeB/eNB/gNB/basestation)을 의미한다. 
