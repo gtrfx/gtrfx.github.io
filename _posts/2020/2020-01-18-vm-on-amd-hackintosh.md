@@ -1,3 +1,9 @@
+---
+title: "AMD-MacOS에서 가상머신"
+tags: [virtual machine, amd-osx, hackintosh]
+layout: post
+---
+
 간편하게 Linux상에서 QEMU/KVM, MacOS 상에서 Parallels Desktop/VMware Fusion을 올려보고 여기에 아무런 변형을 가하지 않고 있는 그대로의 상태에서 윈도우즈를 설치한 뒤에 Geekbench 5를 돌려봤다.
 
 두괄식으로 결론을 먼저 말하자면 암드해킨에서는 VMware Fusion으로 윈도우즈를 설치해서 사용하되 코어수는 3-4개 정도 할당해서 쓰는 것이 최적이다.
