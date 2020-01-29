@@ -17,4 +17,6 @@ tags: [eigen problem, hobby]
 
 eig를 풀어내는데 여러 가지 방법이 있다고 되어있긴 하는데, 공분산을 분해하려는 게 목표인 경우, 또 복소수 신호를 다룬다고 보면 hermitian matrix를 분해하는 문제로 좁혀지고 LAPACK에서 보여지는 해법은 일반 Hermitian matrix를 tridiagonal matrix로 줄여놓고 (줄여놓는다는 게 0 아닌 element의 개수를 줄이는 것이다) 거기서 부분부분 QR(gram-schmidt)을 해서 eigen vector와 eigen value를 모두 얻어내는 것이다. 
 
+이게 LAPACK에서 보면 zheev로 시작해서 zhetrd, zungtr/zungrq/... 이런 식으로 간다. 포트란으로 작성된 CPU의 마이크로 코드 같다. 각각의 함수 이름은 CPU instruction에 해당한다고 볼 정도로 참으로 잘게 쪼개져있다. 
+
 왜 이렇게 하느냐? 이게 컴퓨터에게 시켜도 가장 빠르기 때문이다. 이걸 이제 다음 단계로 발전시키는 것을 생각해보려한다.
