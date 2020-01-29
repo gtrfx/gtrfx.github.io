@@ -16,3 +16,5 @@ Just ignore the error message coming out during docker machine creation
 4. modify system resource of the docker machine (don't have to switch on hyper-V features)
 5. run "/Applications/Docker/Contents/Resources/Scripts/start.sh" after modifying it for VMware
 6. Enjoy!
+
+When your application needs a lot of file system access, just copy all your working files into your virtual file system for better performance.
