@@ -1,6 +1,6 @@
 ---
 title: "Raspberry pi: 보안 취약점(?)"
-tags: [raspberry pi]
+tags: [raspberry,pi]
 layout: post
 ---
 
