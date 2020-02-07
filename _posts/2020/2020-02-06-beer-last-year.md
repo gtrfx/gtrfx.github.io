@@ -1,6 +1,7 @@
 ---
 title: "2019년 마셨던 맥주 정리"
 tags: [beer 2019]
+image: https://thefullpint.com/wp-content/uploads/Anchor-Brewing-Hero-Shot.jpg
 layout: post
 ---
 
@@ -20,7 +21,7 @@ layout: post
 
 #### 구관이 명관
 
-1. Anchor Steam Beer: 아 언제 먹어도 맛이 그만이다. 단일 종 (anchor steam beer) 으로 마셔도 좋지만 모음집 세트 (variety pack)로 되어있는 것이 훨씬 더 마시는 재미가 있다. 이게 어딘가에 보면 노동하던 사람들이 마시던 맥주로 사실 맥주로 치면 하급에 드는 거라는데, 난 그것과 상관없이 이 맛이 아주 좋다. 
+1. Anchor Steam Beer: 아 언제 먹어도 맛이 그만이다. 단일 종 (anchor steam beer) 으로 마셔도 좋지만 모음집 세트 (variety pack)로 되어있는 것이 훨씬 더 마시는 재미가 있다. 이게 어딘가에 보면 노동하던 사람들이 마시던 맥주로 사실 맥주로 치면 하급에 드는 거라는데, 난 그것과 상관없이 이 맛이 아주 좋다. 유일한 흠이 있다면, 어이없게도 이 회사는 Sapporo에 팔렸다. 팔린지 꽤 됐다. 
 
 #### 별다른 기억없는 
 
