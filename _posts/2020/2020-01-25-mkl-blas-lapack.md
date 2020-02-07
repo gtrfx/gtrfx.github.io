@@ -1,6 +1,7 @@
 ---
 title: "MKL vs. BLAS vs. LAPACK"
 layout: post
+image: https://software.intel.com/sites/default/files/managed/d1/24/components-offered-mkl.png
 tags: [mkl, blas, lapack]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "MKL과 openBLAS"
 tags: [mkl, blas]
+image: https://www.r-bloggers.com/wp-content/uploads/2014/04/ooooooooooooooooooooooooooooooUntitled.png
 layout: post
 ---
 
