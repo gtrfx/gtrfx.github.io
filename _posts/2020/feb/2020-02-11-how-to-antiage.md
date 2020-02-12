@@ -2,24 +2,25 @@
 title: "덜 늙는 방법?"
 tags: [antiaging]
 layout: post
+image: https://1.bp.blogspot.com/-p8TxHi7WPP4/WN54hdtHxyI/AAAAAAAAUUc/LoaquEpqoZEICHkOkdqQL7-KRIaXo730gCLcB/s1600/Photo%2B1.png
 ---
 
 20대가 벌써 anti-aging하는 방법에 대해 궁금해하는 시절이다. 누군가의 글을 맘대로 퍼왔다. 
 
 1. Quit smoking.
-Quit drinking. I don’t mean water. :)
-2. Eat in moderation (amount), don’t be picky.
-3. Regular exercise. You don’t have to sweat it. But you have to do it consistently. Trust me, a simple walk works wonders.
-4. Read books. I know, you need SNS, you need smartphones or PCs for that. But it’s not required 2/47/365.
-5. Partner. Spouse is OK, if you don’t, companion pet is also good.
-6. Be hypochondriac. Means if something physical troubles you (your body is in pain, or feel queer) get medical help as soon as possible. Catching something bad when it’s budding is far more effective.
-7. Don’t get burnt out. It ain’t worth it. Say WTF, and do it tomorrow.
-8. Have a good night’s sleep. Get rid of the smartphone, at least in the bed.
-9. Take naps if possible.
+2. Quit drinking. I don’t mean water. :)
+3. Eat in moderation (amount), don’t be picky.
+4. Regular exercise. You don’t have to sweat it. But you have to do it consistently. Trust me, a simple walk works wonders.
+5. Read books. I know, you need SNS, you need smartphones or PCs for that. But it’s not required 2/47/365.
+6. Partner. Spouse is OK, if you don’t, companion pet is also good.
+7. Be hypochondriac. Means if something physical troubles you (your body is in pain, or feel queer) get medical help as soon as possible. Catching something bad when it’s budding is far more effective.
+8. Don’t get burnt out. It ain’t worth it. Say WTF, and do it tomorrow.
+9. Have a good night’s sleep. Get rid of the smartphone, at least in the bed.
+10. Take naps if possible.
 
 글쎄? 내 생각엔 0번이 빠진 것 같다. 
 
-0. Get better genes!
+"0." Get better genes!
 
 늙는 문제도 얼굴 생김새라든지 신체적인 능력과 마찬가지로 타고나는 문제라고 본다. 조상들이 물려준 자산(asset)에 해당한다고 봐야지. 생활 습관도 자연히 유전자에 따라가게 되어있다. 
 
