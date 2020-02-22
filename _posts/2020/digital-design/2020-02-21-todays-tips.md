@@ -2,6 +2,7 @@
 title: "오늘의 팁"
 tags: [lmstat]
 layout: post
+published: false
 ---
 
 네트웍상에 어떤 라이센스가 떠있는지 확인하는 방법
