@@ -1,5 +1,5 @@
 ---
-title: "네에게 보내는 편지"
+title: "너에게 보내는 편지"
 tags: [letter]
 layout: post
 published: false
