@@ -18,4 +18,4 @@ layout: post
 
 정도면 소소하게 뭔가 일을 할 수 있다.
 
-iverilog나 공개용 툴들은 그 이름에 비해서 실제 성능은 믿을 수 없을 만큼 별로라 권장하지 않는다. 정 안되면 Xilinx에서 무료 license를 받아서 아쉽지만 FPGA target으로 돌리는 게 차라리 낫다. 
+iverilog나 공개용 툴들은 그 이름에 비해서 실제 성능은 믿을 수 없을 만큼 별로라 권장하지 않는다. 정 안되면 Xilinx에서 ISE의 무료 license를 받아서 아쉽지만 FPGA target으로 돌리는 게 차라리 낫다. 
