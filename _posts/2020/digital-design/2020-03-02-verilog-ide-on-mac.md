@@ -18,4 +18,6 @@ layout: post
 
 정도면 소소하게 뭔가 일을 할 수 있다.
 
-iverilog나 공개용 툴들은 그 이름에 비해서 실제 성능은 믿을 수 없을 만큼 별로라 권장하지 않는다. 정 안되면 Xilinx에서 ISE의 무료 license를 받아서 아쉽지만 FPGA target으로 돌리는 게 차라리 낫다. 
+iverilog나 공개용 툴들은 그 이름에 비해서 실제 성능은 믿을 수 없을 만큼 별로라 권장하지 않는다. 정 안되면 Xilinx에서 ISE의 무료 license를 받아서 아쉽지만 FPGA target으로 돌리는 게 차라리 낫다. 윈도우면 당장에 무료로 구할 수 있는 이 이상의 툴이 없고 Mac이면 docker를 통해서 X로 불러내서 써야하지만 command line 툴이 존재하기 때문에 microsoft visual code를 쓰면 된다. 
+
+요새도 가끔 보면 나이가 많이 든 사람들은 윈도우에서 ultraedit을 불러 쓰는 사람들이 있는 것 같던데, 세상이 많이 변해서 Microsoft visual code가 과거의 ultraedit의 자리를 넘겨받은 듯 하다. 아쉽지만 modular하다보니 생각만큼 가볍진 않다만, atom이라든가 slimetext에 비해서 그 기능과 무게는 적당하지 싶다. 
