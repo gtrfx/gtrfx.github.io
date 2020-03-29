@@ -1,6 +1,7 @@
 ---
 title: "Microwave popcorn vs. Popcorn Kernels"
 layout: post
+image: https://images-na.ssl-images-amazon.com/images/I/71EgKLbasEL._SL1500_.jpg
 tags: [microwave popcorn]
 ---
 
