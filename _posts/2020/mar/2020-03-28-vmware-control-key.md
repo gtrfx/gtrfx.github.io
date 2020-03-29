@@ -1,6 +1,7 @@
 ---
 title: "VMware fusion에서 control key"
 layout: post
+image: https://i.pcmag.com/imagery/reviews/044L8MG5U61c5dBOCJCD6eO-5.fit_scale.size_1028x578.v_1569474740.jpg
 tags: [vmware, control key]
 ---
 
