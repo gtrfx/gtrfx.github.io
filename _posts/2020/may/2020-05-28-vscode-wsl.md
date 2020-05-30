@@ -1,6 +1,7 @@
 ---
 title: "vs code + WSL"
 tags: [WSL, git]
+image: https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/07/code-wsl-post.png
 ---
 
 윈도우즈에서 WSL을 쓰게 되면 리눅스를 위해 만들어졌던 것을 일부러 윈도우즈용으로 포팅해서 나온 것들을 설치해야 할 이유가 없다. 더구나 윈도우즈에서는 불필요하게 덩치가 큰 것들인데 리눅스에서는 가볍게 해결할 수 있는 것들은 윈도우즈에서도 놔둘 이유가 없어진다. 

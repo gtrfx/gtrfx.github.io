@@ -1,6 +1,7 @@
 ---
 title: "WSL에서 Eclipse 쓰기"
 layout: post
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRd41rbKb83I4VggG4tgI208cOCEKMix3q1Sb9iI0_EkP8HTnDP&usqp=CAU
 tags: [WSL, eclipse, Linux]
 ---
 

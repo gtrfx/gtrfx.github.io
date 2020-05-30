@@ -1,5 +1,7 @@
 ---
 title: "머릿속 개념의 변화"
+layout: post
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRStqvQlIAtDFrpcTvv7SUHi5B4s_D64McIy_mQ5MGLIEbJlMqS&usqp=CAU
 tags: [WSL, MacOS, Linux]
 ---
 
