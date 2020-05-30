@@ -1,7 +1,7 @@
 ---
 title: "터미널 화면 움직 gif로 캡쳐하기"
 layout: post
-image: asset/img/test.gif
+image: /assets/img/test.gif
 tags: [asciinema, asciicast2gif]
 ---
 
