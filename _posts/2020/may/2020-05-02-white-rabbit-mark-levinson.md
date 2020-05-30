@@ -1,5 +1,6 @@
 ---
 title: "White rabbit에서 Mark Levinson까지.."
+image: https://si.wsj.net/public/resources/images/BN-OF488_AOS_02_P_20160527131613.jpg
 tags: [white rabbit, grace slick, jefferson starship, starship, mick mars, andres mcarthy, kim cattral, mark levinson]
 ---
 
