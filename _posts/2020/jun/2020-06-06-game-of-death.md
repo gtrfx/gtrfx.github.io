@@ -1,5 +1,6 @@
 ---
 title: "사망유희 (game of death, 1978)"
+image: https://lh3.googleusercontent.com/proxy/joAPfaAFlDBZ0FRRtGbZ2rYwxTaKmmfm3zYdPE_A5iA2GiMMH-g2R1kGRRM5YS6weF-EplH9EfkiyrgHKehRel8Tf-vyiBytrMLKnji-8bXbGlEOG-o7Y0IMMNHkJ1A57nTnOqk
 layout: post
 tags: [game of death]
 ---

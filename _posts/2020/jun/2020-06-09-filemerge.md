@@ -1,5 +1,6 @@
 ---
 title: "여태 이 세상에 filemerge 같은 툴이 없다니"
+image: https://eclecticlightdotcom.files.wordpress.com/2018/04/compareff02.jpg?w=912
 tags: [filemerge]
 ---
 
