@@ -1,5 +1,6 @@
 ---
 title: "오랜만에 김을 먹고 있다..."
+image: https://richmedia.ca-richimage.com/ImageDelivery/imageService?profileId=12026540&id=1389099&recipeId=728
 tags: [mono sodium glutamate, MSG,]
 ---
 
