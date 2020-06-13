@@ -12,3 +12,10 @@ systemd가 WSL에서 돌고 있는 것의 장점은 대충 딱 하나다. docker
 일단 떠오른 다음 성능은 native linux와 거의 차이 없이 빠르게 돌아간다. 여기에 arch linux가 붙어서 돌아간다. arch linux를 바닥에서 설치해본 사람은 알겠지만, 이게 엄청나게 번거로운데 WSL이 나머지는 다 해주고 있으니 응용프로그램 하나 뜨는 것보다도 더 가볍게 윈도우즈 위에서 arch linux를 돌릴 수 있다. 사실 WSL로 arch linux를 올려쓴 뒤로는 한달동안 열심히 쓰던 linux로도 잘 부트하지 않고 MacOS로도 잘 부트하지 않고 오직 윈도우즈만 쓴다. 
 
 업무상 Office365 웹앱과 여기 그대로 연결된 MS office, 그리고 windows와 linux를 오가야 하는 일이 많다보니 더 그러하다. 
+
+뭐 거두절미하고,
+- WSL2는 엄청 빠르다. ext4는 VM용 파일 시스템으로 따로 돌아서 훨씬 더 빠르다.
+- Docker도 Docker desktop보다 가볍고 빠르게 돌아간다.
+- 그외 수많은 linux util들 빠르게 설치해서 빠르게 불러서 쓸 수 있다.
+
+
