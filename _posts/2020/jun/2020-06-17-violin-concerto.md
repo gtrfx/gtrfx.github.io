@@ -1,5 +1,6 @@
 ---
 title: "바이올린 협주곡"
+image: https://images-na.ssl-images-amazon.com/images/I/71x%2Byl3GtFL._SL1400_.jpg
 tags: [violin concetro]
 ---
 
