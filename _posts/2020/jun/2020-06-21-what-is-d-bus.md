@@ -9,6 +9,6 @@ d-bus의 d는 desktop이고 bus는 말 그대로 데이터를 주고 받는 버�
 
 흔히 docker나 wsl에서 d-bus 관련된 warning을 맞는 것은, 이 dbus daemon이 제대로 떠있지 않아서 인 경우가 많다. 이것은 systemd로 부팅할 때 daemon으로 떠 있게 되는데 docker나 wsl에서는 일부러 systemd를 돌리지 않는 이상 떠오르지 않기 때문이다. 그러니까 warning을 맞을 때 내가 실행한 application은 linux desktop에 의존하는 것이라 dbus로 linux desktop과 통신하려 했는데 dbus daemon이 떠 있지 않으니 이런 저런 warning을 내는 것이다.
 
-더 자세한 것은 구글링하면 다 나오니까 더 필요가 없을 듯 하다. 
+더 자세한 것은 구글링하면 다 나오니까 더 이상은 필요가 없을 듯 하다. 
 
-아주 쉽게, 아 systemd가 제대로 돌지 않는 시스템이로구나, 혹은 내가 linux desktop을 지원하지 않는 시스템에서 linux desktop에서 뜨는 애플리케이션을 실행했구나 하면 된다. 대개 이것 저것 물려서 복잡하게 돌아가야 하는 애플리케이션이 아니면 dbus 관련 warning 따위는 무시해도 된다. 
+아주 쉽게 생각해서, '아 부팅초기에 daemon을 띄워 돌리는 시스템이 아니로구나.', 혹은 'deamon들이 제대로 올라가지 않는 시스템이구나', 혹은 '내가 linux desktop을 지원하지 않는 시스템에서 linux desktop에서 뜨는 애플리케이션을 실행했구나' 하면 된다. 대개 이것 저것 물려서 복잡하게 돌아가야 하는 애플리케이션이 아니면 dbus 관련 warning 따위는 무시해도 된다. 
