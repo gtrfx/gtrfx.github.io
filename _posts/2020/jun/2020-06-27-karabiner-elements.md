@@ -19,9 +19,9 @@ MacOS에는 hidutil이라는 것이 있다. USB HID keyboard의 remapping을 해
 - F3/F4를 볼륨 up/down으로 매핑
 하는 스크립트다.
 
-Karabiner Key는 이제 더 필요없다. 아래 스크립트를 적당히 이용하면 원하는 대로 쉽게 키 매핑이 된다. Karabiner element 따위 늘 띄워놓고 원하지 않는 update 메시지 받지 않아도 된다. 실제로 어떤 키가 어떤 스캔코드로 매핑되는지는 usb.org의 문서를 참조하면 된다. 위치가 가끔 바뀌어서 링크를 붙여두지 않음을 이해하시라.
+Karabiner Key는 이제 더 필요없다. 아래 스크립트를 적당히 이용하면 원하는 대로 쉽게 키 매핑이 된다. Karabiner element 따위 늘 띄워놓고 원하지 않는 update 메시지 받지 않아도 된다. 실제로 어떤 키가 어떤 스캔코드로 매핑되는지는 usb.org의 문서를 참조하면 된다. 
 
 ```
-hidutil property --set '{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc":0x7000000E6,"HIDKeyboardModifierMappingDst":0x70000006D},{"HIDKeyboardModifierMappingSrc":0x700000045,"HIDKeyboardModifierMappingDst":0xC000000B8},{"HIDKeyboardModifierMappingSrc":0x70000003D,"HIDKeyboardModifierMappingDst":0x700000081},{"HIDKeyboardModifierMappingSrc":0x70000003C,"HIDKeyboardModifierMappingDst":0x700000080}]}'
+hidutil property --set '{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc":0x7000000E6,"HIDKeyboardModifierMappingDst":0x70000006D},{"HIDKeyboardModifierMappingSrc":0x700000045,"HIDKeyboardModifierMappingDst":0xC000000B8},{"HIDKeyboardModifierMappingSrc":0x70000003D,"HIDKeyboardModifierMappingDst":0x700000080},{"HIDKeyboardModifierMappingSrc":0x70000003C,"HIDKeyboardModifierMappingDst":0x700000081}]}'
 ```
 
