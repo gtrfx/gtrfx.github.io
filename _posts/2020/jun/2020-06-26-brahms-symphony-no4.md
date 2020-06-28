@@ -1,7 +1,7 @@
 ---
 title: "브람스 교향곡 4번"
 image: https://images-na.ssl-images-amazon.com/images/I/516d8CGY0OL.jpg
-tags: [brahms, symphony, 4]
+tags: [brahms, symphony no 4]
 ---
 
 오늘도 자리에 앉아 열심히 일을 하다보니 어디선가 들어봤던 선율이 머리 속에서 흘러나오는데, 사실 그것을 그것의 타이틀과 1:1 매핑하는 것이 쉽지 않았던 찰나, 순간적으로 이것이 브람스의 교향곡 4번 1악장이 아닐까 해서 유튜브를 찾아보니 정말로 4번이 맞았다.
