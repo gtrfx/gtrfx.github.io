@@ -36,7 +36,7 @@ DTB에 대해서는 다음을 참조하자.
 
 일반적으로 uboot은 CPU의 일부가 씌여있고, 나머지 부분은 모두 외부에서 읽어와서 boot strapping을 마무리 하는 것인데, 이 역시도 제조사마다 다를테니까 방법을 정확히 알기 어렵다.
 
-어쨋든 bootstrapping의 기능은 ssd든 hdd든 또는 SD card이든 emmc이든 kernel을 읽어들이는 일이다. 일단 kernel을 주어진 위치에 가져다가 로딩하고 PC를 kernel로 넘기면 kernel은 정해진 파티션에 있는 root file system을 읽어온 뒤에 /usr/bin/init을 실행해서 시스템의 초기화를 진행한다.
+어쨌든 bootstrapping의 기능은 ssd든 hdd든 또는 SD card이든 emmc이든 kernel을 읽어들이는 일이다. 일단 kernel을 주어진 위치에 가져다가 로딩하고 PC를 kernel로 넘기면 kernel은 정해진 파티션에 있는 root file system을 읽어온 뒤에 /usr/bin/init을 실행해서 시스템의 초기화를 진행한다.
 
 이후에 프로세스는 init이 읽어오는 설정파일들 뭐 이를테면 init.d에 있는 파일들이라든가 systemd를 쓰는 버전의 리눅스라면 /usr/systemd/system 안에 있는 파일들에 명시된 프로세스를 실행하며 초기화를 하게 된다.
 

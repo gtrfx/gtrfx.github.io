@@ -9,7 +9,7 @@ title: "Tonestack Digital Modeling"
 
 
 
-어쨋든 결과물 발표.
+어쨌든 결과물 발표.
 
 
 

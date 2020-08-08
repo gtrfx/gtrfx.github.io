@@ -27,7 +27,7 @@ title: "Levy's No.1 Stretch Strap.."
 
 
 
-어쨋든 Buckethead 덕택에 좋은 스트랩을 쓰게 되었다는 것에 의의를 둔다.
+어쨌든 Buckethead 덕택에 좋은 스트랩을 쓰게 되었다는 것에 의의를 둔다.
 
 
 

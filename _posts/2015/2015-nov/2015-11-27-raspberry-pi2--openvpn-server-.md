@@ -31,7 +31,7 @@ title: "Raspberry Pi2 + OpenVPN server..."
 
 
 
-어쨋든 대략적인 설치조건을 열거하면
+어쨌든 대략적인 설치조건을 열거하면
 
 
 

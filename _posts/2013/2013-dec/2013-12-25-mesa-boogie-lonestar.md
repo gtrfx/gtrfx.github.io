@@ -39,7 +39,7 @@ title: "Mesa Boogie LoneStar"
 
 
 
-어쨋든 Lone Star도 7-8위 정도로 놓고 모델해봐야겠다.
+어쨌든 Lone Star도 7-8위 정도로 놓고 모델해봐야겠다.
 
 
 
