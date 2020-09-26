@@ -1,6 +1,7 @@
 ---
 title: "Out of the blue"
 tags: [out of the blue, Debbie Gibson]
+image: https://images-na.ssl-images-amazon.com/images/I/41Ij6E%2BWxwL.jpg
 layout: post
 ---
 

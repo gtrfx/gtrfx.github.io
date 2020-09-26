@@ -1,7 +1,10 @@
 ---
 title: "영화 greyhound를 보다가.."
 tags: [movie, greyhound]
+image: https://saportakinsta.s3.amazonaws.com/wp-content/uploads/2020/07/apple-tv-greyhound.jpg
 ---
+
+잘 아는 지인이 미 해군 출신인데 (한국 사람 아님), 이 영화를 두 번째 보고 있다기에 나도 한번 봐봤다. 딱히 기대가 있었던 것은 아니고. 도무지 무슨 이유로 이 영화를 두 번 봤다고 하는지 알고 싶었다. 
 
 요즘 영화는 촬영하기 좀 쉽지 않은 장면이다 싶으면 그냥 CG로 처리하는 것 같은데, 이 영화도 예외는 아니구나 싶었다. 아니 CG가 너무 자연스러워져서 아무 생각없이 보면 CG였었나 싶은 장면도 많아졌고 말이다. 
 

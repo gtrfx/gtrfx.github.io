@@ -1,5 +1,6 @@
 ---
 title: "배터리 데이..?"
+image: https://images.hgmsites.net/lrg/25000-tesla-teased-for-2023--battery-day_100762595_l.jpg
 tags: [tesla, battery day]
 ---
 
