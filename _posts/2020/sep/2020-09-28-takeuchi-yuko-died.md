@@ -1,5 +1,6 @@
 ---
 title: "타케우치 유코가 자살했다.."
+image: https://asianwiki.com/images/6/68/Thequeenofthelunchtime.jpg
 tags: [lunch no joou]
 ---
 
