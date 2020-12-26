@@ -1,5 +1,6 @@
 ---
 title: "French Press를 즐겨쓰고 있다면.."
+image: https://i.insider.com/5e6663fffee23d6bbe5d5c65?width=1136&format=jpeg
 tags: [coffee, french press]
 ---
 나는 개인적으로 무엇이든 공정이 많이 필요한 음식을 별로 좋아하지 않는다.
