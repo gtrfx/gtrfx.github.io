@@ -1,5 +1,6 @@
 ---
 title: "아노말리사..?"
+image: https://images-na.ssl-images-amazon.com/images/I/81Vwh0P7SdL._SL1500_.jpg
 tags: [anomalisa]
 ---
 

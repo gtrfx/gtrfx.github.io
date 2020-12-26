@@ -1,5 +1,6 @@
 ---
 title: "광각 렌즈 쇼핑 중.."
+image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Canon_17-40_f4_L_lens.jpg
 tags: [wide angle lens]
 ---
 
