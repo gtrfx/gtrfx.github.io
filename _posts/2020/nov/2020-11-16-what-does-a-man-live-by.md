@@ -1,5 +1,6 @@
 ---
 title: "사람은 무엇으로 사는가.."
+image: https://lh3.googleusercontent.com/proxy/EZ5b9YYdnpMa4orqS6pvGZq7BTnMASWn6MXeYcl5IogLVagOJQm7qFCHS6EqBkFOktLfh4KMtK033n7Iidl3ZX5Y4slfNNzUo4dqK_NJ9-xesa3nhXK32AqdWU2w5ySZVhFdN_104bji5raxkQ
 tags: [tolstoy]
 ---
 
