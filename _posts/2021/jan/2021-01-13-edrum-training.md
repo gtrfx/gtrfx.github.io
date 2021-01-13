@@ -1,5 +1,6 @@
 ---
 title: "eDrum 적응기: 대략 2주차"
+images: https://bdbo2.thomann.de/thumb/bdb3000/pics/bdbo/13075061.jpg
 tags: [eDrum, millenium, mps-850]
 ---
 
