@@ -1,5 +1,6 @@
 ---
 title: "R.I.P. Edward Van Halen"
+image: https://www.rollingstone.com/wp-content/uploads/2019/01/eddie-van-halen-greatest-solos1.jpg
 tags: [may-you-rock-the-heaven]
 ---
 

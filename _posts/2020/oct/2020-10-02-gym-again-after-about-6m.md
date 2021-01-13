@@ -1,5 +1,6 @@
 ---
 title: "6개월만에 짐에 가니.."
+image: https://s7d2.scene7.com/is/image/TWCNews/brooklyn-gym-generic-file-covidjpg
 tags: [live-with-your-gym-forever]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "우울하게 살지 않았으면.."
+image: https://www.health.harvard.edu/media/content/images/Sad-borderline-personality-disorder-Woman-In-Depression-And-Despai-63903205.jpg
 tags: [get-out-of-depression]
 ---
 
