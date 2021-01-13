@@ -1,5 +1,6 @@
 ---
 title: "인덕션 쿡탑"
+image: https://m.media-amazon.com/images/I/71myG3MbcJL.jpg
 tags: [induction cooktop]
 ---
 

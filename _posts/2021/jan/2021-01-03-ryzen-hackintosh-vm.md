@@ -1,5 +1,6 @@
 ---
 title: "Ryzen 해킨 토시에서의 가상머신"
+image: https://cdn.mos.cms.futurecdn.net/eY5jzrEJfyAf9wBiDzDzTU.jpg
 tags: [vm, ryzen]
 ---
 
