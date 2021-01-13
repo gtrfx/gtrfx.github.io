@@ -1,5 +1,6 @@
 ---
 title: "Apple M1 관련: Docker"
+image: https://www.threatstack.com/wp-content/uploads/2017/06/docker-cloud-twitter-card.png
 tags: [apple m1]
 ---
 

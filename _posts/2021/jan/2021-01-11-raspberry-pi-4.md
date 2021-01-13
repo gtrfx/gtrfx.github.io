@@ -1,5 +1,6 @@
 ---
 title: "raspberry pi 4를 들였다."
+image: https://cdn-shop.adafruit.com/1200x900/4295-05.jpg
 tags: [raspberry pi 4]
 ---
 

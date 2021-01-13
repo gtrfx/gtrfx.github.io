@@ -1,5 +1,6 @@
 ---
 title: "솔라 패널 이거 쓸만한 건가?"
+image: https://media.wired.com/photos/5afc8ab1ad572521659626ba/master/pass/Nissan_Energy_Solar.jpg
 tags: [solar panel]
 ---
 
