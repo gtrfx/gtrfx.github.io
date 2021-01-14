@@ -1,6 +1,6 @@
 ---
 title: "eDrum 적응기: 대략 2주차"
-images: https://thumbs.static-thomann.de/thumb/thumb1000x/pics/cms/image/guide/en/e_drums/397513_03.jpg
+image: https://thumbs.static-thomann.de/thumb/thumb1000x/pics/cms/image/guide/en/e_drums/397513_03.jpg
 tags: [eDrum, millenium, mps-850]
 ---
 
