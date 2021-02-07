@@ -1,5 +1,6 @@
 ---
 title: "Wireless Surround Speaker"
+images: https://images-na.ssl-images-amazon.com/images/I/813j-GmBawL._AC_SL1500_.jpg
 tags: [audio, speakers]
 ---
 

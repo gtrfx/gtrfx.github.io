@@ -1,5 +1,6 @@
 ---
 title: "빔프로젝터를 하나 샀다.."
+images: https://www.projectorcentral.com/img.cfm?pid=11085
 tags: [beam projector]
 ---
 
