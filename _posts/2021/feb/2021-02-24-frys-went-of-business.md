@@ -1,5 +1,6 @@
 ---
 title: "Fry's Electronics 폐업.."
+image: https://s.hdnux.com/photos/01/15/77/02/20443299/6/1200x0.jpg
 tags: [frys]
 ---
 
