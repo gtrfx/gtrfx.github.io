@@ -1,5 +1,6 @@
 ---
 title: "옛날 영화 한자락: King solomon's mines (1985)"
+image: https://bestsimilar.com/img/movie/thumb/d3/16685.jpg
 tags: [richard chamberlain, sharon stone]
 ---
 

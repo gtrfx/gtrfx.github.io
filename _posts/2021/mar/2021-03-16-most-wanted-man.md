@@ -1,5 +1,6 @@
 ---
 title: "영화 Most wanted man"
+image: https://images-na.ssl-images-amazon.com/images/I/51MrmhXbpcL._SY445_.jpg
 tags: [philip hoffman]
 ---
 

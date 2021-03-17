@@ -1,5 +1,6 @@
 ---
-title: "KVM over ethernet"
+title: "KVM over IP"
+image: https://mytechdecisions.com/wp-content/uploads/2020/04/cn9600-kvm-kvm-over-ip-switches-45-1000x500.jpg
 tags: [KVM]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Passive Radiator"
+image: https://images-na.ssl-images-amazon.com/images/I/612J-8FIsqL._AC_SL1100_.jpg
 tags: [passive radiator]
 ---
 

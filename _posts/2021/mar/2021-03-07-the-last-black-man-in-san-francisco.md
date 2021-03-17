@@ -1,5 +1,6 @@
 ---
 title: "The Last Black Man in San Francisco (2019)"
+image: https://www.indiewire.com/wp-content/uploads/2019/01/i_z6zLJN-e1548547464283.jpeg
 tags: [last black man in san francisco]
 ---
 

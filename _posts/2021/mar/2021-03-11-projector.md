@@ -1,5 +1,6 @@
 ---
 title: "프로젝터 1달 사용 소감"
+image: https://i.pcmag.com/imagery/reviews/04HjhtFwRE29KayoL0OsYEY-4.fit_lim.size_1050x.png
 tags: [projector]
 ---
 
