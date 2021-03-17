@@ -1,5 +1,6 @@
 ---
 title: "FHD 프로젝터 1일 사용 후기"
+image: https://images-na.ssl-images-amazon.com/images/I/611YgDrVcTL._AC_SY355_.jpg
 tags: [TH585, BenQ]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Raspberry pi 4에서 Kodi 돌리기"
+image: https://kodi.tv/sites/default/files/styles/article_teaser/public/article/field_image/Kodi_Splash_v19.0_Matrix_RC_1080p.jpg?itok=h8DUMxzW
 tags: [kodi, rpi4]
 ---
 
