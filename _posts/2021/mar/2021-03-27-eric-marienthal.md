@@ -1,5 +1,6 @@
 ---
 title: "Eric Marienthal의 음악을 듣다가.."
+image: https://www.alexlofoco.com/wp-content/uploads/2017/08/Erics-Promo-Pic-1.jpg
 tags: [Eric Marienthal, Hustlin]
 ---
 
