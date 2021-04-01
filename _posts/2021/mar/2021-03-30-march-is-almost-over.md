@@ -1,6 +1,6 @@
 ---
 title: "2021년 3월도 거의 다 끝나간다.."
-image: /assets/images/boston.png
+image: /assets/images/boston.jpg
 tags: [march is almost over]
 ---
 
