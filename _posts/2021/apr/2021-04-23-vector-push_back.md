@@ -16,6 +16,8 @@ vector는 C++ standard에 들어있는데 사용법이 매우 간단하고 templ
 
 문제는 memory를 allocate하는 class인 경우에, 특히나 constructor에서 뭔가를 하고 destructor에서 그것을 접어주게 되어있는 경우, 또 sub class를 잔뜩 두고 있고 그들도 constructor에서 instantiate하고 외부의 설정 파라미터를 이용해서 해야 하는 경우엔 분명히 문제를 일으키게 된다.
 
+아마도 copy constructor를 계속해서 불러대는 이유는 resizing이 가능하기 때문이 아닐까 한다. 사실 push_back도 resizing의 개념이기 때문에 그렇다. 
+
 그럴 거면 '그냥 pointer를 이용해서 잔뜩 만들면 되지 왜 그렇게 힘들게 사냐?' 라고 할 수 있다.
 
 내 맘이다. vector나 list처럼 STL을 쓰는 것이 전체적으로 메모리 관리를 매우 깔끔하게 할 수 있다. 
