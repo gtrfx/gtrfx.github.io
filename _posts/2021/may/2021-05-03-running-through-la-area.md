@@ -1,6 +1,7 @@
 ---
 title: "I-5 vs I-405"
 layout: post
+image: https://img.dtcn.com/image/digitaltrends/la-traffic-i405-750x402.jpg
 tags: [San Diego, LA]
 ---
 
@@ -8,7 +9,7 @@ LA를 관통하는 고속도로 중에서 I-5와 I-405가 아마도 가장 많�
 
 차이를 이야기하자고 하면 대충 이렇게 이야기하면 될 것 같다.
 - 길이 제법 지저분하고 달리는 차종으로 볼 때 LA의 엄청난 빈부격차가 느껴지는 길이 I-5이다. 주변 풍광도 뭐랄까 좀 많이 없어보인다고 보면 된다.
-- Getty Musium이라든가 LA에서 잘 알려진 Mulholand drive, Marina del rey라든가 Sunset, Sepulveda/Venice Blvd가 표지판에 나타나면 그 고속도로가 405라고 보면 된다. 
+- Getty Musium이라든가 LA에서 잘 알려진 Mulholland drive, Marina del rey라든가 Sunset, Sepulveda/Venice Blvd(이 주변은 안좋다)가 표지판에 나타나면 그 고속도로가 405라고 보면 된다. 
 
 LA를 딱 보면 외곽의 분위기가 좋고 중심부가 상태가 많이 안좋다가 보면 된다. LA가 city이고 하지만 county이기도 해서 제법 그 영역이 매우 넓고, 인구당 수입을 따진 맵을 보거나 하지 않아도 주변 고속도로를 빠른 속도로 지나면서 보면 그 격차가 매우 심하다는 게 대충 파악이 된다. 돌아다니고 있는 차들을 봐도 그렇고 거리나 도로가 얼마나 깨끗한지를 통해서도 알 수 있다. LA의 중심부가 상태가 가장 안 좋고 바닷가로 가거나 산비탈쪽으로 가면 좋아진다고 볼 수 있다. GTA를 해봐도 이 차이는 매우 명확하다. 
 
