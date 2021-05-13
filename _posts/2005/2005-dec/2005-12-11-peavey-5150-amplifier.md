@@ -11,9 +11,9 @@ title: "Peavey 5150 Amplifier"
 ![image](/assets/images/3bc4f0029ef09681090dc4725c138554.jpg)
 
 위 회로도에서 가장 중점적으로 파악해야할 것은 다음과 같다.
-1) 채널이 클린/크런치/울트라 채널로 3개가 존재하는데, 이들은 어떻게 꾸며져 있는가?
-2) Modular로 만드려면 어떤 구조가 적당할까?
-3) power stage의 특이점은 무엇인가?
+1. 채널이 클린/크런치/울트라 채널로 3개가 존재하는데, 이들은 어떻게 꾸며져 있는가?
+2. Modular로 만드려면 어떤 구조가 적당할까?
+3. power stage의 특이점은 무엇인가?
 
 먼저 1)번에 대해서 살펴보면, 프리앰프 회로는 크게 클린과 리드 채널로 구분이 되도록 되어있는데, 크런치 채널은 가상적인 채널로 클린 채널의 게인을 올려놓은 모드라 볼 수 있다.
 
@@ -42,10 +42,10 @@ Bright 스위치는 초단의 필터 중 1를 선택하고 high pass 회로 (39k
 power stage에서는 다른 앰프들이나 마찬가지로 feedback을 하도록 되어있는데, 출력단의 전압을 phase splitter에 걸고 여기에 filter를 넣어 power amp presence를 줄 수 있도록 하는 것에 Q를 조정할 수 있는 filter를 하나 더 넣어서 resonance라는 knob를 하나 더 넣어두었다.
 
 크게 보면 구성은 dual rectifier와 거의 유사한 구성인데,
-1) Dual rectifier는 EQ전에 증폭단이 5개인데 반하여 5150은 6개로 되어있다는 점
-2) Dual rectifier는 tone stack, gain이 모두 채널 별로 다르게 설계된데 반하여 5150은 tone stack은 공유한다는 점
-3) 5150은 resonance라고 하여 Q를 조정할 수 있는 회로를 feedback 회로에 추가하여 놓았다는 점
-4) 클린/크런치, 리드를 독립한 것은 같으나 dual rectifier에서는 초단에서 두번째 증폭단으로 넘어갈때의 voltage divider와 cathode cap switch를 달아놓는 방법으로 증폭률을 조정함으로써 bright, crunch 등등의 모드를 조정하나 5150에서는 조금 단순하고 직관적인 방법으로 만들어 놓았다는 점을 차이점으로 지적할 수 있다.
+1. Dual rectifier는 EQ전에 증폭단이 5개인데 반하여 5150은 6개로 되어있다는 점
+2. Dual rectifier는 tone stack, gain이 모두 채널 별로 다르게 설계된데 반하여 5150은 tone stack은 공유한다는 점
+3. 5150은 resonance라고 하여 Q를 조정할 수 있는 회로를 feedback 회로에 추가하여 놓았다는 점
+4. 클린/크런치, 리드를 독립한 것은 같으나 dual rectifier에서는 초단에서 두번째 증폭단으로 넘어갈때의 voltage divider와 cathode cap switch를 달아놓는 방법으로 증폭률을 조정함으로써 bright, crunch 등등의 모드를 조정하나 5150에서는 조금 단순하고 직관적인 방법으로 만들어 놓았다는 점을 차이점으로 지적할 수 있다.
 
 또 몇가지 차이점을 지적하라면, peavey의 패널에서는 tone stack을 equalizer라고 표현하고, gain을 pre-gain, master volume을 post-gain으로 표현한다.
 아마도 post-gain이란 말은 power amp distortion을 염두에 둔 말로 보여지는데, 애석하게도 preamp에서는 post gain은 단지 출력 volume이 증가하는 외에는 별 다른 효과를 주지 못한다는 것이다.

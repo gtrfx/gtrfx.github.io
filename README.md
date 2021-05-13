@@ -29,7 +29,6 @@ A template for Jekyll inspired by Netflix panel for who loves movies and series 
 - [Contact page](https://github.com/thiagorossener/jekflix-template/wiki/Features#contact-page)
 - [404 error page](https://github.com/thiagorossener/jekflix-template/wiki/Features#404-error-page)
 - [Feed RSS](https://github.com/thiagorossener/jekflix-template/wiki/Features#feed-rss)
-- [Disqus](https://github.com/thiagorossener/jekflix-template/wiki/Features#disqus) *(optional)*
 - [Featured post](https://github.com/thiagorossener/jekflix-template/wiki/Features#featured-post) *(optional)*
 - [Home page pagination](https://github.com/thiagorossener/jekflix-template/wiki/Features#home-page-pagination) *(optional)*
 - [Posts sidebar](https://github.com/thiagorossener/jekflix-template/wiki/Features#posts-sidebar) *(optional)*
