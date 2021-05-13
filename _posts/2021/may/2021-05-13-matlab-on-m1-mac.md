@@ -1,5 +1,5 @@
 ---
-title: "Matlab 2020b On M1 Mac"
+title: "Matlab 2020b on an M1 Mac"
 layout: post
 tags: [matlab]
 ---
