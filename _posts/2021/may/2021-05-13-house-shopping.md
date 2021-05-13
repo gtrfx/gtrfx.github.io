@@ -1,6 +1,7 @@
 ---
 title: "1년간의 House shopping"
 layout: post
+image: http://www.contemporist.com/wp-content/uploads/2016/08/contemporary-house_080816_01-800x534.jpg
 tags: [housing issue]
 ---
 
