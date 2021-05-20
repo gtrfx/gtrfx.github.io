@@ -1,5 +1,6 @@
 ---
 title: "edrum 6개월째"
+image: https://thumbs.static-thomann.de/thumb/thumb1000x/pics/cms/image/guide/en/e_drums/397513_03.jpg
 layout: post
 tags: [edrum]
 ---
