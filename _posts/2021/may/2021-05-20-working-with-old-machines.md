@@ -1,6 +1,7 @@
 ---
 title: "옛날 컴퓨팅 자원으로 일하기"
 layout: post
+image: https://www.itzgeek.com/wp-content/uploads/2011/11/RHEL6_Install_2011_11_Cover2.png
 tags: [old computing]
 ---
 

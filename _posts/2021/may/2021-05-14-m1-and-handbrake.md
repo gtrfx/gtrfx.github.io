@@ -1,6 +1,7 @@
 ---
 title: "M1 Mac과 Handbrake"
 layout: post
+image: https://www.thewebernets.com/wp-content/uploads/2014/12/Handbrake-Logo.png
 tags: [m1 mac, handbrake]
 ---
 
