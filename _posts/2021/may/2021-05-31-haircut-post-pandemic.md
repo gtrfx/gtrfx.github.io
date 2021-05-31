@@ -1,5 +1,5 @@
 ---
-title: "팬대믹 이후의 머리깎기"
+title: "팬데믹 이후의 머리깎기"
 layout: post
 tags: [postpandemic, haircut]
 ---
