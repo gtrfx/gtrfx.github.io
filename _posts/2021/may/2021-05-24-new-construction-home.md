@@ -25,6 +25,6 @@ RG6는 TV용 coaxial cable이다. 흔히 말하는 TV 안테나 단자이다. �
 
 그래서 구성은 다음과 같아지지 싶다.
 
-Cable modem - 8 port GbE swith - 5 spots - 2.4/5GHz Wifi router +4 1GbE ports (living room)
+Cable modem - 8 port GbE swith - 6 spots - 2.4/5GHz Wifi router +4 1GbE ports (living room)
 
 네트워크 케이블 배전반이 있는 공간에 GbE switch를 두고 여기에 늘 켜두는 NAS/잡일 용 raspberry pi 4와 예전 쓰던 데탑을 구석에 쳐박아두고 가끔씩 사용할 것 같고, 나머지는 mac mini, android box (프로젝트로 유튜브/넷플릭스(아직은 안됨)/영화보기용)가 wired로 묶여서 쓰일 것 같다. 사실 Wifi는 smartphone/tablet + 손님의 디바이스를 위한 것인데 어차피 전집안을 커버할 수가 없으니 그러려니 하고 써야 할 것 같다. 
