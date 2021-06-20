@@ -10,7 +10,7 @@ tags: [raspberry pi 4]
 
 솔직히 3에서 USB3/GbE 업데이트가 일어났어야 되는데 그게 늦어서 4에 일어났다고 본다. Rpi4는 2018년에 나왔는데 버티고 버티다 2021년에야 들였다.
 
-왜? ethernet speed가 100Mbps에 머물러서 사실상 도저히 NAS기능을 쓸 수 없었기 떄문이다. 한 땐 Rpi에 SSD를 달아서 쓰던 때도 있었는데 SSD는 Rpi의 부트 속도만 올려줬을 뿐이지 100Mbps에 ethernet 속도가 제한되었기 때문에 아무런 이득을 볼 수 없었다. 
+왜? ethernet speed가 100Mbps에 머물러서 사실상 도저히 NAS기능을 쓸 수 없었기 때문이다. 한 땐 Rpi에 SSD를 달아서 쓰던 때도 있었는데 SSD는 Rpi의 부트 속도만 올려줬을 뿐이지 100Mbps에 ethernet 속도가 제한되었기 때문에 아무런 이득을 볼 수 없었다. 
 
 Rpi4를 들인 소감?
 - arch linux aarch64를 설치해서 쓰고 있다. 무슨 이유에서인지 arch linux에서는 기본적으로 armv7 버전을 쓰라고 권한다. rpi3도 그렇고.

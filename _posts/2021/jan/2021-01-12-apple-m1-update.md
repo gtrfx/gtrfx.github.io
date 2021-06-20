@@ -8,7 +8,7 @@ tags: [apple m1]
 
 결국 docker를 통해서 돌릴 수 있는 것은 aarch64 linux image이고 그 image의 개수는 x86과 비교할 때 한참 떨어진다.
 
-좀 이해하기 어려운 것은 x86 linux image도 일단 pulling해서 실행을 시도해 볼 수 있다는 것이고, 물론 이 이미지를 가지고 컨테이너를 실행할 수는 없다. 실행하면 에러가 발생하는 것이고 다시 말해 docker가 있다고 하더라도 x86 image를 돌릴 수는 없고, 정하고자 한다면 qemu를 가지고 x86 linux 커널을 실행하고 그 위에서 docker를 돌리는 것이다. 알다시피 arm64 환경에서 qemu x86_64를 돌리면 속도가 현저히 떨어지게 되고 rosetta로 qemu x86 binary를 돌릴 수도 없다. 왜? qemu x86은 x86 hypervisor framework을 이용하는데 그것이 m1 MacOS 상에 있지 않기 떄문이다.
+좀 이해하기 어려운 것은 x86 linux image도 일단 pulling해서 실행을 시도해 볼 수 있다는 것이고, 물론 이 이미지를 가지고 컨테이너를 실행할 수는 없다. 실행하면 에러가 발생하는 것이고 다시 말해 docker가 있다고 하더라도 x86 image를 돌릴 수는 없고, 정하고자 한다면 qemu를 가지고 x86 linux 커널을 실행하고 그 위에서 docker를 돌리는 것이다. 알다시피 arm64 환경에서 qemu x86_64를 돌리면 속도가 현저히 떨어지게 되고 rosetta로 qemu x86 binary를 돌릴 수도 없다. 왜? qemu x86은 x86 hypervisor framework을 이용하는데 그것이 m1 MacOS 상에 있지 않기 때문이다.
 
 대충 이런 시나리오라면 x86_64의 qemu/VM도 apple M1에서 약간의 성능저하를 감수하면 돌릴 수 있지 싶다.
 

@@ -11,7 +11,7 @@ categories:
 
 라스베리파이로 할 수 있는 일은 다음과 같이 정리된다.
 
-- 가정용 서버로 사용할 떄 (linux를 올렸을 떄를 가정)
+- 가정용 서버로 사용할 때 (linux를 올렸을 때를 가정)
   - nfs server (NAS)
   - samba server (NAS)
   - ssh/sftp server
@@ -28,7 +28,7 @@ categories:
 
 ## PC로서의 활용
 
-- 독립된 PC로 사용할 떄
+- 독립된 PC로 사용할 때
     - Linux
     - Chromium OS
     - Windows

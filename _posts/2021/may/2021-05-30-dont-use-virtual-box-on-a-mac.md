@@ -6,7 +6,7 @@ tags: [virtualbox]
 
 Ryzen으로 Hackintosh를 하던 시절에는 MacOS의 hypervisor framework을 쓸 수 없기 때문에 이름난 가상 머신은 쓸 수가 없다. 심지어는 qemu도 제 구실을 못한다. 신기하게도 VirtualBox만 제구실(?)을 하는데, 그 이유가 VirtualBox가 별도의 kext를 두어서 가상화를 하고 있고 이게 AMD CPU를 지원하고 있기 때문이다. 
 
-어떻게 이것을 알 수 있느냐? AMD CPU의 SVM을 BIOS에서 꺼두고 시작하면 virtualbox의 kext가 가상화를 지원할 수 없다는 메시지를 내보낸다. 분명히 intel CPU와 AMD CPU의 가상화방법이 다르기 때문에 인텔만 지원하면 CPU가 지원대상이 아니다라고 해야맞지 AMD의 SVM안된다는 메시지를 내지 않기 떄문이다.
+어떻게 이것을 알 수 있느냐? AMD CPU의 SVM을 BIOS에서 꺼두고 시작하면 virtualbox의 kext가 가상화를 지원할 수 없다는 메시지를 내보낸다. 분명히 intel CPU와 AMD CPU의 가상화방법이 다르기 때문에 인텔만 지원하면 CPU가 지원대상이 아니다라고 해야맞지 AMD의 SVM안된다는 메시지를 내지 않기 때문이다.
 
 어쩄든 이런 이유로 Mac에서 intel cpu를 사용하면 어떤 가상 머신이든 깔끔하게 잘 돌아가지만 ryzen이 되면 아예 시작부터 돌지 않거나 엄청 느리게 돌거나 하지만 VirtualBox만 신기하게도 나름 뭔가 결과를 내주기 때문에 좋은 VM이 아닐까 하는데, 문제는 intel CPU로 정상적인 구동환경이 갖춰줬을 때 돌려보면 뭔가 뻑뻑한 느낌이 나기 때문에 대부분 여기서 사용을 포기하게 된다.
 
