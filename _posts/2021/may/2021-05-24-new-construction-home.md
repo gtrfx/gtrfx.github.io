@@ -1,6 +1,7 @@
 ---
 title: "21세기 신형 주택의 홈 네트워크"
 layout: post
+image: /assets/images/IMG_20210521_192400_DRO.jpg
 tags: [network]
 ---
 
