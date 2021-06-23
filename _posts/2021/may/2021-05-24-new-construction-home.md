@@ -27,4 +27,4 @@ RG6는 TV용 coaxial cable이다. 흔히 말하는 TV 안테나 단자이다. �
 
 Cable modem - 8 port GbE swith - 6 spots - 2.4/5GHz Wifi router +4 1GbE ports (living room)
 
-네트워크 케이블 배전반이 있는 공간에 GbE switch를 두고 여기에 늘 켜두는 NAS/잡일 용 raspberry pi 4와 예전 쓰던 데탑을 구석에 쳐박아두고 가끔씩 사용할 것 같고, 나머지는 mac mini, android box (프로젝트로 유튜브/넷플릭스(아직은 안됨)/영화보기용)가 wired로 묶여서 쓰일 것 같다. 사실 Wifi는 smartphone/tablet + 손님의 디바이스를 위한 것인데 어차피 전집안을 커버할 수가 없으니 그러려니 하고 써야 할 것 같다. 
+네트워크 케이블 배전반이 있는 공간에 GbE switch를 두고 여기에 늘 켜두는 NAS/잡일 용 raspberry pi 4와 예전 쓰던 데탑을 구석에 쳐박아두고 가끔씩 사용할 것 같고, 나머지는 mac mini, android box (프로젝트로 유튜브/넷플릭스(아직은 안됨)/영화보기용)가 wired로 묶여서 쓰일 것 같다. 사실 Wifi는 내 smartphone/tablet + 어쩌다 오는 손님의 디바이스를 위한 것인데 어차피 전집안을 커버할 수가 없으니 그러려니 하고 써야 할 것 같다. 여기서 물음이 생길 수 있다. 왜 손님 device의 coverage를 내가 담당해야하냐고. 여긴 통신 오지라 집안에 들어오면 데이터가 잘 안되기 때문이다. 그만큼 4G/5G 기지국에 의한 전파 오염은 심하지 않다고 할 수 있겠지만. 
