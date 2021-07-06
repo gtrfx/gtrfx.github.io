@@ -1,6 +1,7 @@
 ---
 title: "새 술은 새 부대에.."
 layout: post
+image: https://res.cloudinary.com/tienda-com/image/upload/f_auto,q_auto:good,w_626/products/bb-06.jpg
 tags: [wineskin]
 ---
 

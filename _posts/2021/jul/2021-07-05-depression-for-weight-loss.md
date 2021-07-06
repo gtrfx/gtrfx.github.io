@@ -1,6 +1,7 @@
 ---
 title: "체중 감소 효과는 역시 심리적인 것인 동기에 의한 것이 가장 크네.."
 layout: post
+image: https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2018/09/12/Pictures/_8aed577c-b67c-11e8-8eb6-2fb8491c2cf0.jpg
 tags: [mental]
 ---
 
