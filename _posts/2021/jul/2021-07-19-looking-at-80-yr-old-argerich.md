@@ -4,4 +4,4 @@ layout: post
 tags: [not all the old guys do that]
 ---
 
-20세기 중반에 출현한 피아니스트 중에서 여태 최정상 레벨에서 활동하고 있는 이를 꼽으라고 하면 Martha Argerich 밖에 없지 싶다. 80세의 나이에 Rachmaniov나 Sc
+스스로 너무 늙었다고 구박하지 말아야지. Argerich의 절반도 못 살았다. 힘내자!!
