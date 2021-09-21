@@ -1,6 +1,7 @@
 ---
 title: "Sony A7 관련 루머"
 tags: [sony a7]
+image: https://cdn.thetealmango.com/wp-content/uploads/2021/09/Sony-A7-lV.jpg
 ---
 
 Sony A7의 차기 모델 A7 IV가 10월 중에 발표된다고 한다. 그 때문인지 모르지만 최근에 A7 III, A7R IV가 각각 300, 500불 디스카운트에 들어갔다. 지금 보면 직접 소니로부터 A7 III를 사는 것 보다 국내에서 정가로 구입하는 것이 훨씬 비싸다.

@@ -1,6 +1,7 @@
 ---
 title: "뱁새가 황새 따라가기?"
 tags: [quantum leap]
+image: https://www.looper.com/img/gallery/quantum-leap-actors-you-may-not-know-passed-away/l-intro-1625886631.jpg
 ---
 
 대충 2주 넘게 이사가기 활동을 하고 이제 물건의 이동은 대부분 끝나고 정리 단계에 들어섰는데, 근육의 혹사가 끝나고 회복단계에 들어서려니 이미 망가진 몸, 이럴 바에야 혹사 시키는 것을 일상화 시키는 게 어떨까 하고 모처럼 (오래) 달리기를 이틀에 걸쳐 시작했다.

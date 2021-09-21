@@ -1,6 +1,7 @@
 ---
 title: "이와타니 아부리 그릴"
 tags: [iwatani, aburi, grill]
+image: https://m.media-amazon.com/images/I/91zwMWxMstL._AC_SL1500_.jpg
 ---
 
 아부리 라는 말은 'steam'의 의미를 가지고 있다고 한다. 모양새나 구조나 물을 부어놓는 딱 일반 한식/일식 고기집 그릴이라고 보면 된다. 
