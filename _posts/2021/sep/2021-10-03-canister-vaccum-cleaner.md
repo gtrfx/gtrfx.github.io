@@ -1,5 +1,5 @@
 ---
-title: "깡통형(canister) 진공청소기"
+title: "건/습식(? dry and wet) 진공청소기?"
 image: http://cdn.shopify.com/s/files/1/0057/0333/6025/products/DXV08S_grande.jpg?v=1622143757
 tags: [vacuum, canister]
 ---
