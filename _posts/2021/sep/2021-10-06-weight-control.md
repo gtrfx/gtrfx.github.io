@@ -1,5 +1,6 @@
 ---
 title: "체중 조절"
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCylU88UaSVCiDCmkQjgLBKrGvD2EvWMe8RuI65ebvCRq3-5co2nTnid3vv3zyRb1YFCk&usqp=CAU
 tags: [weight control]
 ---
 

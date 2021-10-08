@@ -1,5 +1,6 @@
 ---
 title: "VPN 연결 나눠쓰기"
+image: https://www.vandyke.com/support/tips/images/socks_proxy/proxy01.jpg
 tags: [vpn, sharing]
 ---
 
