@@ -1,6 +1,6 @@
 ---
 title: "Perl vs. Python"
-tags: [perl]
+tags: [perl, python]
 ---
 
 perl이라는 일종의 인터프리터? 내지는 script processor?는 거의 아버지 시대에서나 쓰던 것이 아닐까 하는 시절이 되었다. PHP라고 여태도 쓰이고 있는 웹용 언어(라고 하면 아니다 범용 언어다 라고 하는 시대다만)의 PHP라는 말이 PERL + HTML + processor로 나는 받아들일 정도로 PHP 이전의 시절에 사람들이 cgi-bin이란 것을 썼고 그 때 HTML에 PERL을 곁들여 쓰다가 마침내는 별도의 프로세서 (PHP)를 만들어서 html 파일 하나에서 perl을 같이 혼용해서 쓸 수 있게 만든 것이 php라고 이해하고 있을 정도니까.
