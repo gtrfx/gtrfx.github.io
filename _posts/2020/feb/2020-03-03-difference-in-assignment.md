@@ -29,7 +29,8 @@ end
 
 그러니까 좌변의 a, b는 작성자의 입장에서 보면 현재가 아닌 미래의 값 (다음 클럭부터 유효하게 되는 값)이 되는 셈이다. 
 
-이것을 non blocking assignment라고 한다. 
+이것을 non blocking assignment라고 한다 (이유는 나중에 따져보자).
+
 그런데, 이것을 아예 assign한다고 치면
 ```
 assign a = c;
@@ -37,13 +38,20 @@ assign b = a;
 ```
 a, b, c는 wired된 셈이니까 그냥 같은 entity (땜이 되어버린 것이니까 사실상 하나) 라고 보면 된다. 
 
-이것을 blocking assignment라고 칭한다. 납땜이 된 것이니까 blocking이 될 수 없는 것이지 하면 된다.
+그런데, 이것을 blocking assignment라고 칭한다. 
 
 사실 이게 가장 크고 중요한 차이이다. 이것을 전방위적으로 적용하면 된다. 
 
-그냥 생각하면 non-blocking은 flipflop으로 신호가 이동하는 것처럼 보여지고 blocking은 wire로 연결되어있는 경우로 생각할 수 있는데, 이것을 non-blocking한다 blocking한다 라고 하는지 연결하기가 애매하다. 
+간단히 생각하면 non-blocking은 flipflop으로 신호가 이동하는 것처럼 보여지고 blocking은 wire로 연결되어있는 경우로 생각할 수 있는데, 도무지 뭐가 non-blocking한다 blocking한다 라고 하는지 용어의 개념을 실제와 연결하기가 애매하다. 
 
-그런데 간단히 생각해서 wiring이 되는 것은 연결 당사자들을 제외하고 다른 연결을 불허하는 것이 되니까 blocking이 되는 것이고, FF에 의한 연결은 해당 연결에 의한 transition은 clock transition 시점에 이루어지는 것이니까 연결 당사자들을 다른 assignment에 활용할 수 있기 때문에 non-blocking이라고 하는 것이다.
+누군가의 설명을 빌자면, 
+
+- wiring이 되는 것은 연결 당사자들을 제외하고 다른 연결을 불허하는 것이 되니까 blocking이 되는 것이고
+- FF에 의한 연결은 해당 연결에 의한 신호의 이동은 clock transition 시점에 이루어지는 것이니까 연결 당사자들을 다른 assignment에 활용할 수 있기 때문에 non-blocking이다
+
+라고 한다는 것이다. 
+
+무슨 말이냐면 wire가 되는 것은 해당 레지스터에 assignement가 되는 (wiring이 되는) 주체를 제
 
 즉,
 ```
@@ -63,6 +71,7 @@ c <= a * b;
 end
 ```
 이걸 discrete-time series에 대한  수식으로 적어보자면 아래와 같이 쓸 수 있다. 
-
+```
 a(n) = b(n-1)
 c(n) = a(n-1) * b(n-1)
+```
