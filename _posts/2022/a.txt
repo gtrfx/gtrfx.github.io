@@ -1,0 +1,35 @@
+The DL/UL simulator supports single BWP which occupies all the grid.
+
+The typical bandwidth and SCS combinations that the current simulator supports are 
+- 25 MHz BW with 15kHz SCS
+- 100MHz with 30kHz SCS
+
+Physical channels that the current downlink simulator supports are
+SSB/PDCCH/PDSCH. 
+
+SSB supports all the possible configuration in the specification
+For PDCCH, the simulator supports up to 3 CORESETS
+
+for PDSCH, it supports up to 8 layer transmission
+
+Currently CSI-RS is not being supported.
+
+The uplink simulator supports 
+PUSCH/PUCCH/PRACH and SRS
+
+Currently UL transmitter supports all the possible configurations for UL TX.
+Receiver has some limitations in features now.
+
+- PRACH detector supports preamble format 0 and B4
+- PUCCH supports PUCCH format 0, 1, 2 and 3
+- PUSCH support 2 and 4 receive antennas
+
+The simulator was built for 64 bit linux and windows.
+The released package includes shared objects and DLL which are needed for its execution.
+
+
+
+
+
+
+
