@@ -1,5 +1,6 @@
 ---
 title: "NVMe USB 3.2? 어댑터를 사봤다.."
+image: https://m.media-amazon.com/images/I/81dB7KtNPZS._AC_SS450_.jpg
 tags: [NVMe]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "서라운드 집어치움"
 tags: [no surround]
+image: https://images.slideplayer.com/14/4492143/slides/slide_8.jpg
 ---
 
 동네 사람이 열심히 바람넣고 간 바람에 수십년 전 유행하던 짓을 해봤다. 스피커도 이리 저리 옮겨보고 오랜만에 로직도 좀 만져보고.
