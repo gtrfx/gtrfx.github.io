@@ -12,23 +12,14 @@ plugins:
 
 paginate: 10
 
-# Uncomment the below line and set the tracking ID for enabling Google Analytics
-# 
-# google_analytics: 
-
-# Uncomment the below lines and set the Disqus shortname for enabling Disqus
-# 
-# disqus:
-
-# Jekyll
-# ======
+google_analytics: "UA-102853359-1"
 exclude:
   - scripts/
   - README.md
   - jekyll-theme-hamilton.gemspec
 
-twitter:
+#twitter:
 logo: logo.jpg
-social:
+#social:
 google-site-verification: googlefbeb36ad4f6cd48d.html
-lang: en
+#lang: en
