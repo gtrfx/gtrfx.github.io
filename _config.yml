@@ -1,6 +1,6 @@
 title: Blow by Blow
 description: Keith's Hobby Blog
-author: Keith.C
+author: Keith C
 avatar: /logo.jpg
 email: eric.jonas.me@gmail.com
 
@@ -18,8 +18,5 @@ exclude:
   - README.md
   - jekyll-theme-hamilton.gemspec
 
-#twitter:
 logo: logo.jpg
-#social:
 google-site-verification: googlefbeb36ad4f6cd48d.html
-#lang: en
