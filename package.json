@@ -1,44 +1,37 @@
 {
-  "name": "jekflix-template",
-  "version": "2.0.0",
-  "description": "A Jekyll theme inspired by Netflix",
-  "main": "gulpfile.js",
-  "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/thiagorossener/jekflix-template.git"
-  },
-  "keywords": [
-    "jekyll",
-    "template",
-    "theme",
-    "blog",
-    "netlify"
-  ],
-  "author": "Thiago Rossener",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/thiagorossener/jekflix-template/issues"
-  },
-  "devDependencies": {
-    "autoprefixer-stylus": "^0.14.0",
-    "browser-sync": "^2.26.7",
-    "child_process": "^1.0.2",
-    "del": "^5.0.0",
-    "gulp": "^4.0.2",
-    "gulp-concat": "^2.6.1",
-    "gulp-imagemin": "^6.0.0",
-    "gulp-include": "^2.4.1",
-    "gulp-plumber": "^1.1.0",
-    "gulp-rename": "^1.4.0",
-    "gulp-sourcemaps": "^2.6.5",
-    "gulp-stylus": "^2.6.0",
-    "gulp-uglify": "^3.0.0",
-    "gulp-yaml": "^2.0.4",
-    "jeet": "^7.1.0",
-    "kouto-swiss": "^1.1.0",
-    "rupture": "^0.6.2",
-    "lodash": "^4.17.13",
-    "lodash.merge": "^4.6.2"
-  }
+    "title": "Clean Blog Jekyll",
+    "name": "startbootstrap-clean-blog-jekyll",
+    "version": "4.0.12",
+    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://startbootstrap.com/themes/clean-blog-jekyll",
+    "bugs": {
+        "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/issues",
+        "email": "feedback@startbootstrap.com"
+    },
+    "license": "MIT",
+    "author": "Start Bootstrap",
+    "contributors": [
+        "David Miller (http://davidmiller.io/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.6.0",
+        "font-awesome": "4.7.0",
+        "jquery": "3.6.0",
+        "startbootstrap-clean-blog": "5.1.0"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.14"
+    }
 }
