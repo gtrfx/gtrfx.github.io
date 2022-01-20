@@ -6,7 +6,8 @@ tags: [tony williams]
 
 Proto Cosmos라는 곡을 지금까지 이 버전 저 버전 꽤 오래 들어왔던 것 같은데, 갑자기 어제 확 꽂혔다.
 
-대충 열거해 보면
+내가 앨범 이름을 알고 있는 것들만 대충 열거해 보면 
+
 - Live at Yoshi's (2007)
 - Greg Howe "Extraction" (2003)
 - Tony Williams "Believe it" (1975)
