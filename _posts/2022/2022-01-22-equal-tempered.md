@@ -1,6 +1,7 @@
 ---
 title: "평균율"
 tags: [equal tempered]
+image: https://www.compadre.org/osp/EJSS/4497/T15_Scales/scalesystems.jpg
 ---
 
 신디사이저를 만들겠다고 하면 oscillator의 주파수를 결정해주어야 하는데 대부분의 악기가 평균율에 맞춰져있으니까 이 주파수 값을 테이블로 가지고 있어야 한다. 그런데 막상 테이블을 보면 어떤 규칙으로 이게 결정된 것인가 궁금해할 수 밖에 없다.
