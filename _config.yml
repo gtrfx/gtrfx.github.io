@@ -52,7 +52,8 @@ sent_message_url: "/contact/message-sent/"
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+#permalink: /:title/
+permalink: /:categories/:year/:month/:day/:title:output_ext
 collections:
   authors:
     output: true
