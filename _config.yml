@@ -6,7 +6,6 @@ tags:
   - blog
   - jekyll
   - theme
-  - netlify
 email: gtrfxdsp@gmail.com
 show_hero: true
 menu:
@@ -43,7 +42,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://gtrfx.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-102853359-1"
 language: "en"
 categories_folder: category
