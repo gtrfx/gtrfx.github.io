@@ -1,6 +1,7 @@
 ---
 title: "헤어질 결심.."
 tags: [decision to leave]
+image: https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2Fc31Ch6%2FbtrJRKTdHKN%2Fr8VSfbM0Ut8kTcP8VUN4h0%2Fimg.jpg
 layout: post
 ---
 
