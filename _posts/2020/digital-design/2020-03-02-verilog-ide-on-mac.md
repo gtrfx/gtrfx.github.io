@@ -23,4 +23,4 @@ iverilog나 그외 공개용 툴들은 그 이름에 비해서 실제 성능은 
 
 신기하게도 verilator는 arch linux 같은 것에서도 설치가능한 package로 되어있다 (AUR에 등록되어있는 다른 것들과는 달리).
 
-가장 빨리 손쉽게 결과만을 확인하고 싶다면 verilotor만한 것이 없다. C++로 직접 연동해서 test bench를 만들어서 테스트 할 수 있으니까 더 편하다. linux라고 하더라도 기존 VCS라든가 그외 유명 툴들이 RHEL 6 정도만 지원하기 때문에 최근의 linux 위에서 구동하기 불편하다면 verilator를 권한다. 
+가장 빨리 손쉽게 결과만을 확인하고 싶다면 verilotor만한 것이 없다. C++로 직접 연동해서 test bench를 만들어서 테스트 할 수 있으니까 더 편하다. linux라고 하더라도 기존 VCS라든가 그외 유명 툴들이 RHEL 6/7 정도만 지원하기 때문에 최근의 linux 위에서 구동하기 불편하다면 verilator를 권한다. (첨언 하지만 최근의 linux에서도 vcs를 쓸 수 있지만 권장사항이 아니고 또 admin이 할 수 있는 여러 가지 부차적인 작업들이 요구된다. RHEL까진 아니라도 CentOS같은 것을 사용하고 또 이를 위해서 docker의 사용이 필수다. 물론 intel mac/hackintosh에서나 가능한 일이지만.)
