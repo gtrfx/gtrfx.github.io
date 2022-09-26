@@ -1,6 +1,7 @@
 ---
 title: "mpi사용시 load balance에 대하여"
 tags: [mpi, load balance]
+image: https://www.biorxiv.org/content/biorxiv/early/2018/10/11/440701/F1.large.jpg
 layout: post
 ---
 
