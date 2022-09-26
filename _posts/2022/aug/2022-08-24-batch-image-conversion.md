@@ -1,6 +1,7 @@
 ---
 title: "대량 이미지 변환"
 tags: [image, convert, imagemagick]
+image: https://www.brianlinkletter.com/wp-content/uploads/2015/12/logo_liquid-60.gif
 layout: post
 ---
 

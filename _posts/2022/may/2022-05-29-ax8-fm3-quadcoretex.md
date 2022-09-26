@@ -1,5 +1,6 @@
 ---
 title: "AX8/FM3, Quad Coretex"
+image: https://www.fractalaudio.com/wp-content/uploads/2020/01/FM3-800.jpg
 tags: [ax8]
 ---
 
