@@ -1,6 +1,7 @@
 ---
 title: "코로나 2가 백신 부스터 접종 후기"
-tags: [bivalent, vaccine]
+tags: [bivalent, vaccine, booster]
+image: https://gray-wgcl-prod.cdn.arcpublishing.com/resizer/Y6wLG54Z2TrKvbcX11AB3UKfK3M=/1200x900/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/DFXC4VVIYJHHZLYDRKPUJI7CBA.jpg
 layout: post
 ---
 
