@@ -1,6 +1,7 @@
 ---
 title: "Le Eco Super4 TV: 4k 60Hz 사용하기"
 tags: [external display, le eco, super4]
+image: https://i.rtings.com/assets/products/bGEfXlRU/leeco-super4/design-medium.jpg
 layout: post
 ---
 
