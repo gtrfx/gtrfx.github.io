@@ -13,3 +13,4 @@ tags: [steve vai, signature]
 
 Signature model을 봐도 최근의 Ibanez endorser들이 빌빌한 관계로 매력이 있는 모델이 거의 없고 Joe Satriani model이라든가 Steve Vai model도 메리트가 없는데다 Andy Timmons는 더 하고 나름 젊은 주자들인 Tom Quayle이나 Martin Miller같은 이들도 사실 미국에는 임팩트가 너무 없어서 Signature로서의 가치가 없다고 봐야 한다.
 
+그럼 도대체 어떤 물건이 괜찮다는 걸까? 없다. 
