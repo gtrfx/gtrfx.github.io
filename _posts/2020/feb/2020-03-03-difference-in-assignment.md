@@ -51,7 +51,7 @@ a, b, c는 wired된 셈이니까 그냥 같은 entity (땜이 되어버린 것�
 
 라고 한다는 것이다. 
 
-무슨 말이냐면 wire가 되는 것은 해당 레지스터에 assignement가 되는 (wiring이 되는) 주체를 제
+무슨 말이냐면 wire가 되는 것은 해당 레지스터에 assignment가 되는 (wiring이 되는) 주체를 제
 
 즉,
 ```
