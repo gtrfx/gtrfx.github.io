@@ -3,25 +3,17 @@ title: "Karabiner element 꼭 써야되나?"
 tags: [karabiner elements]
 ---
 
-MacOS에서 이 소프트웨어를 쓰는 이유는 딱 하나다. 일반 키보드에 eject 버튼이 없어서 그것을 강제로 매핑하려는 것이고, 또 단 한개의 키로 한영 전환을 하기 위함이다. 다국어를 해야할 경우엔 키가 하나 더 필요한데 그때도 사용한다.
+Karabiner key는 나름 덩치도 있고 불편한 구석이 있어서 hidutil을 써서 한영키 매핑을 해주면 요긴하다. 특히나 나 같은 경우에는 reboot/(deep)sleep도 단축키를 사용하는 편이라 eject key가 없는 키보드에서는 F12를 eject로 매핑해서 쓰기도 한다. 또 영문 키보드만을 사용할 때도 있고 한영키가 있는 키보드도 사용할 때가 있는데, 이 때 한영키도 먹히고 오른쪽 ALT 키도 먹히게 하려면 아래의 스크립트를 만들어서 사용하게 된다.
 
-그런데 이 소프트웨어는 이것 저것 부품이 제법되는 되다가 단순한 키 리매핑 역할만하는데도 귀찮게 떠올라있고 업데하라고 귀찮게 한다. 
-
-MacOS에는 hidutil이라는 것이 있다. USB HID keyboard의 remapping을 해주는 역할을 한다. 문제는 너무 사용법이 간단한 나머지 Karabiner element처럼 사용하기 쉽진 않다는 것이다. 또 Karabiner element는 이 키 매핑 기능이 여러 가지로 확장되어서 정말 사용하기 편한 소프트웨어가 되었다. 단순히 키 매핑 말고도 많은 기능을 제공하는데, 실제로 내가 쓰는 기능은 딱 한 가지 뿐이다.
-
-이번에 MacOS가 업데이트 되면서 Karabiner key는 한동안 제대로 동작하지 않게 되었다. 아마 개발자는 지금 열심히 일을 하고 있겠지 싶은데, 이것은 늘 같은 현상이었다. 
-
-그래서!
-
-간단한 스크립트를 만들었다. 이것이 뭐하는 것이냐면 
-- 오른쪽 ALT키를 F18로 매핑하고
-- F12를 Eject로 매핑하고
-- F3/F4를 볼륨 up/down으로 매핑
-하는 스크립트다.
-
-Karabiner Key는 이제 더 필요없다. 아래 스크립트를 적당히 이용하면 원하는 대로 쉽게 키 매핑이 된다. Karabiner element 따위 늘 띄워놓고 원하지 않는 update 메시지 받지 않아도 된다. 실제로 어떤 키가 어떤 스캔코드로 매핑되는지는 usb.org의 문서를 참조하면 된다. 
+물론 keyboard>input source shortcut에 F18/F19를 등록해주어야 한다. 내 경우는 한글과 영어 두 가지만 사용하다보니까 previous/next langauge에 각각 F18/F19를 매핑하면 오른쪽 ALT 혹은 한영키를 모두 한영 전환에 사용할 수 있어서 여러 모로 도움이 되었다.
 
 ```
-hidutil property --set '{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc":0x7000000E6,"HIDKeyboardModifierMappingDst":0x70000006D},{"HIDKeyboardModifierMappingSrc":0x700000045,"HIDKeyboardModifierMappingDst":0xC000000B8},{"HIDKeyboardModifierMappingSrc":0x70000003D,"HIDKeyboardModifierMappingDst":0x700000080},{"HIDKeyboardModifierMappingSrc":0x70000003C,"HIDKeyboardModifierMappingDst":0x700000081}]}'
+#!/bin/sh
+hidutil property --set '{"UserKeyMapping":[
+    {"HIDKeyboardModifierMappingSrc":0x700000090,"HIDKeyboardModifierMappingDst":0x70000006D},
+    {"HIDKeyboardModifierMappingSrc":0x7000000E6,"HIDKeyboardModifierMappingDst":0x70000006E},
+    {"HIDKeyboardModifierMappingSrc":0x700000045,"HIDKeyboardModifierMappingDst":0x700000066}]
+}'
+    #{"HIDKeyboardModifierMappingSrc":0x7000000E6,"HIDKeyboardModifierMappingDst":0x70000006D},
+    #{"HIDKeyboardModifierMappingSrc":0x700000090,"HIDKeyboardModifierMappingDst":0x70000006D},
 ```
-
