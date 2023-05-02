@@ -90,7 +90,7 @@ feed-forward gain이 그대로 나타나며 feedback에 의한 gain control이 �
 - feedback loop의 응답이 좋지 않을 때엔 최대 feed-forward gain만큼의 이득을 얻게 되므로 추가적인 boost를 통해서 완벽한 주파수응답을 얻을 수는 없다. 
 
 
-따라서, feedback loop의 주파수 특성이 중간음역대에 dip이 있는 경우라면, 전체 출력은 그 중간 음역대를 덜 줄여주는 정도에 불과하다. 그것도 feedback gain이 제법 커서 다른 음역대는 loop gain이 feedback gain에 비해 제법 감소했다고 할 때 그렇단 애기다. 
+따라서, feedback loop의 주파수 특성이 중간음역대에 dip이 있는 경우라면, 전체 출력은 그 중간 음역대를 덜 줄여주는 정도에 불과하다. 그것도 feedback gain이 제법 커서 다른 음역대는 loop gain이 feedback gain에 비해 제법 감소했다고 할 때 그렇단 얘기다. 
 
 
 4. 결론
