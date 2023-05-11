@@ -1,5 +1,5 @@
 ---
-title: "다시 또 겨울..8"
+title: "다시 또 겨울..7"
 tags: [alone again]
 published: false
 ---
