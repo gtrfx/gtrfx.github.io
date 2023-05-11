@@ -3,6 +3,7 @@ title: "다시 또 겨울.."
 tags: [alone again]
 published: false
 ---
+오늘은 5월 1일
 
 인생의 한 복판에서 누군가를 만나 즐거운 시간을 보내다가 다시 혼자가 되었다. 하하하.
 
