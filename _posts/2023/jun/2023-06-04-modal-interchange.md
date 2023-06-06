@@ -9,7 +9,7 @@ tags: [modal interchange]
 
 사실 Major scale위에 생성되는 diatonic chord만 쓰더라도 편곡 능력에 따라 상당히 멋진 곡을 쓸 수 있지만, 이것만으로 부족하다 싶으면 다음으로 생각해 볼 수 있는 게 modal interchange이다. 
 
-쉬운 예로 Hey Jude(Beatles) 혹은 Creep (Radio head), 또는 Kiss from a rose (Seal) 등의 곡이 modal interchange를 쓴다.
+쉬운 예로 Hey Jude(Beatles) 혹은 Creep (Radio head), 또는 Kiss from a rose (Seal) 또는 Change the world (Eric Clapton) 등의 곡이 modal interchange를 쓴다.
 
 어떻게 구분하느냐. 간단하다. 근음보다 한음 아래 코드를 쓰면 100%다. major인 것 같은데 minor스러운 느낌이 스며든다거나 해도 그렇고. Hey Jude같은 경우는 Chorus에서 진하게 나온다. 물론 main theme에서도 나오지만. 
 
@@ -18,3 +18,5 @@ Chord가 (natural) minor scale의 chord로 변화하면 Scale도 거기에 맞�
 그러니까, major scale diatonic chord를 기본으로 하되 여기에 minor scale diatonic chord를 넣어서 색깔을 다양하게 만드는 것이다. 단순한 코드 조합을 이렇게 바꿔볼 수도 있고. 물론 chord에 맞춰서 스케일을 바꿔쓸 수 있어야 한다. 
 
 이를테면 C-D-E-F-G-A-B-C의 구성의 음계가 C-D-Eb-F-G-Ab-Bb-C가 되는 건데 그러니까 major scale의 3,6,7도 음이 반음 내려가게 만드는 거다. 
+
+정리해보자면, major key인데 minor 3rd가 나온다거나 아니면 major 6th, 7th가 나오면 이것은 같은 근음의 minor scale의 음이기 때문에 modal interchange를 하는 구나 알 수 있게 된다. 그러니까 근음의 chord가 major이어야 하는데 웬지 minor가 되어야 할 것 같은 느낌이 들면 그런거다. 쉽게 말해서 하나의 근음으로부터 major와 minor scale을 넘나드는 그런 구성. 그렇게 왔다갔다 하는 걸 말하는 거다.
