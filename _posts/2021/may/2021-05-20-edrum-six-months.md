@@ -3,6 +3,7 @@ title: "edrum 6개월째"
 image: https://thumbs.static-thomann.de/thumb/thumb1000x/pics/cms/image/guide/en/e_drums/397513_03.jpg
 layout: post
 tags: [edrum]
+author: "Keith"
 ---
 
 진짜 edrum을 구입한 것은 작년에 가장 잘한 소비중에 하나다. 그 전부터 edrum하나 갖고 싶었던 생각은 있었는데 혹여나 소음이 문제가 되는 것 아닌가 해서 망설였던 그 모든 시간이 아쉽다. 그렇게 고민이 되는 사람이 있다면 얼렁 먼저 구입부터 하고 그 다음에 문제를 해결해도 된다고 이야기 해주고 싶다. 왜 빨리 시작할 수록 빨리 잘하게 되고 빨리 더 많은 음악을 즐길 수 있을테니까.

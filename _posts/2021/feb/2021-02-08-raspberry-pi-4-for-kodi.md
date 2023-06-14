@@ -2,6 +2,8 @@
 title: "Raspberry pi 4에서 Kodi 돌리기"
 image: https://kodi.tv/sites/default/files/styles/article_teaser/public/article/field_image/Kodi_Splash_v19.0_Matrix_RC_1080p.jpg?itok=h8DUMxzW
 tags: [kodi, rpi4]
+layout: post
+author: "Keith"
 ---
 
 프로젝터에 라스베리 파이를 붙여쓸 생각이었으나 시스템 속도가 너무 느린 관계로 포기하고 2018년쯤에 사놓고 쳐박아놓았던 안드로이드 티비 박스를 찾아냈다.

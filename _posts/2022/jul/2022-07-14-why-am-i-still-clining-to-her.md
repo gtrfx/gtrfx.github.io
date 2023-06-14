@@ -2,6 +2,8 @@
 title: "왜 나는 그 사람에게 끌려다니는 것인가?"
 tags: [dont cling to someone]
 published: false
+layout: post
+author: "Keith"
 ---
 
 끌려다니는 이유는 딱 하나다. 내 속마음을 털어놓자니 이 사람을 놓치게 될 것 같고. 그냥 좋게 좋게 가려는 건데 결국에 그게 끌려다니는 상황으로 가게 되는 것일 뿐.

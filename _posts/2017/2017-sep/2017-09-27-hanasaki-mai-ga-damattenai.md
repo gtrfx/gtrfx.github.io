@@ -4,6 +4,7 @@ title: "하나사키 마이가 침묵하지 않아"
 categories:
     - life
     - jdrama
+author: "Keith"
 ---
 
 2014년 드라마인데 이제야 겨우 보게 되었다. 시즌이 2까지 나왔는데, 시즌 2도 천천히 봐야겠지.

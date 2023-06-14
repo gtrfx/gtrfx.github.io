@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/ec09d79b62c6fa932ffe5b897e303308.jpg
 title: "Power Amplifier Simulation.."
+author: "Keith"
 ---
 
 Power amplifier distortion의 효과를 보기 위해 아래와 같은 50W power amplifier에 대해 실험해봤다..

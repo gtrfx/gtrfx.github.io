@@ -3,6 +3,7 @@ title: "이미 망가져 버린 거 아무렇게나.."
 layout: post
 image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40stanfordmag%2Fstanford-i-screwed-up-8a64ad73d5d5&psig=AOvVaw0MUCsheZIaSUGSdyzTD_DI&ust=1625683146242000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDDi-eLz_ECFQAAAAAdAAAAABAD
 tags: [totally screwed up]
+author: "Keith"
 ---
 
 대인관계의 마음 비우기가 잘 안된다. 이미 망가진 거 대충 아무렇게나 살아도 되는 거 뭘 그렇게 아닌 척 욕심내는지 말이다.

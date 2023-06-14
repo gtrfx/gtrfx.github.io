@@ -2,6 +2,7 @@
 title: "retiming 하기"
 layout: post
 tags: [pipeline architecture, hdl]
+author: "Keith"
 ---
 
 hdl 구성 요소 중에서 clock이 좀 소요되는 장치가 붙어있으면 어쩔 수 없이 리타이밍을 해야 한다. 

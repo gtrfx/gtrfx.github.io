@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Steve Vai 1990 Network Television Debut"
+author: "Keith"
 ---
 
 1990년에 Steve Vai가 Passion &amp; Warfare 앨범으로 대뷔하던 때이다.

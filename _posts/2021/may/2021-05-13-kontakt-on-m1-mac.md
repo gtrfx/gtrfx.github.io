@@ -2,6 +2,7 @@
 title: "M1 Mac에서 kontakt"
 layout: post
 tags: [kontakt]
+author: "Keith"
 ---
 
 어차피 Kontakt는 rosetta로 돌기 때문에 /Library/Audio/Plugins/Component에 있는 파일들을 가져다 복사만하면 될 것 같은데, 여기에 좀 문제가 있다.

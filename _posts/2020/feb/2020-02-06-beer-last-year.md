@@ -3,6 +3,7 @@ title: "2019년 마셨던 맥주 정리"
 tags: [beer 2019]
 image: https://thefullpint.com/wp-content/uploads/Anchor-Brewing-Hero-Shot.jpg
 layout: post
+author: "Keith"
 ---
 
 비추 종목을 적기 위해서 이 블로그를 적었다. 요샌 (정신건강을 생각해서) 예전처럼 마시는 일이 없는데, 그래서인지 별로 생각나는 게 없다. 그리고 이미 맛없는 것들은 대부분 거르고 사지 않기 때문에 그런 것 같기도 하다. 

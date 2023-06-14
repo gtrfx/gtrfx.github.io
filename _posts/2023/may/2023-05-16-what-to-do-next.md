@@ -2,6 +2,8 @@
 title: "다음엔 뭐하지..?"
 tags: [whattodonext]
 published: false
+layout: post
+author: "Keith"
 ---
 
 - 성당 나가기

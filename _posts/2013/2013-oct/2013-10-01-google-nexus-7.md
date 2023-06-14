@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Nexus 7.."
+author: "Keith"
 ---
 
 

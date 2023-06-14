@@ -2,6 +2,8 @@
 title: "Ryzen 해킨 토시에서의 가상머신"
 image: https://cdn.mos.cms.futurecdn.net/eY5jzrEJfyAf9wBiDzDzTU.jpg
 tags: [vm, ryzen]
+layout: post
+author: "Keith"
 ---
 
 MacOS에서 돌아가는 대개의 가상머신들이 kernel에서 지원하는 hypervisor framework을 사용하여 VM을 구동한다. 문제는 Ryzen CPU로 꾸민 해킨에선 이 기능이 동작하지 않는다. 그래서 더러의 VM을 쓰는 애플리케이션은 지원하지 않는 CPU라고 하며 중단되거나 동작속도가 매우 느리다거나 제대로 실행이 되지 않거나 한다.

@@ -2,6 +2,8 @@
 title: "EpidemicSound: 이거 참 괜찮네"
 tags: [Epidemic Sound, Le June, Milva]
 image: https://nofilmschool.com/sites/default/files/styles/facebook/public/epidemic_sound_finalists.jpg?itok=yr5cPhRv
+layout: post
+author: "Keith"
 ---
 
 Epidemic Sound라고 개인이 영상을 만들거나 할 때 배경 음악을 붙여 쓸 수 있도록 서비스해주는, 그러니까 서로 윈윈하자는 서비스가 있다. 어차피 대형 음반사가 끼어서 프로모팅해서 음반을 팔 수 있는 여건이 안되는 뮤지션들은 여기에 납품을 하고, 여기서는 저렴한(?) 가격으로 라이센싱을 해주는 그런 윈윈 전략이다. 

@@ -1,6 +1,8 @@
 ---
 title: "기타 쇼핑 중.."
 tags: [guitar shopping]
+layout: post
+author: "Keith"
 ---
 
 한동안 새 기타를 사지 않았다가 기분 전환으로 한 대 구입하고 싶은 마음이 생겼다. 그래서 열심히 뒤져보니 그간 눈이 높아진 까닭인지 Ibanez나 Musicman의 물건들은 별로 끌리지가 않고 Kiesel로 가자니 옵션 낚시질을 엄청 해놔서 사고 싶은 맘이 다 떨어졌다. Kiesel은 항상 그랬다.

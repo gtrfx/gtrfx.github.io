@@ -5,6 +5,7 @@ tags: [flanger, signal processing, guitar effect]
 categories:
     - guitar
     - electronics
+author: "Keith"
 ---
 
 플랜저의 원리는 간단하다. Chorus의 출력의 일부를 입력으로 feedback하면 그것이 flanger다.

@@ -1,6 +1,8 @@
 ---
 title: "Landscaping을 해보다."
 tags: [landscaping]
+layout: post
+author: "Keith"
 ---
 
 집 마당에 뭐라도 해놓는 것을 landscaping이라고 하는 것을 첨 알았다. 골프장 정도의 규모는 되야 '조경'이다 할 수 있는 줄 알았는데.

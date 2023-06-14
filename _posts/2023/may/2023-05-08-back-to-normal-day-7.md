@@ -2,6 +2,8 @@
 title: "다시 또 겨울..7"
 tags: [alone again]
 published: false
+layout: post
+author: "Keith"
 ---
 
 이별 통보를 받고 헤어진지 8일째가 지나고 있고 어제 이런 저런 해프닝을 통해서 이 관계는 끝까지 갔다는 사실을 확인했다.

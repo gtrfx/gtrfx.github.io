@@ -3,6 +3,7 @@ layout: post
 title: "라스베리파이를 이용한 기타 이펙트 (3)"
 categories:
     - project
+author: "Keith"
 ---
 
 라스베리파이를 현재 기타 케비넷에 수납하여 사용하려고 궁리중인데 발견된 문제들이 좀 있다.

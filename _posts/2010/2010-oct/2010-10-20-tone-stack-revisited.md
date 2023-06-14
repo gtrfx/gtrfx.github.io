@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tone stack revisited.."
+author: "Keith"
 ---
 
 Tone stack이라 함은 기타 앰프가 기본적으로 내장하고 있는 3 band EQ를 의미하는데, tonestack의 앰프의 색깔을 결정하는데 중요한 역할을 하고 있기 때문에 상당 부분 앰프의 음색을 결정 짓는다고 말 할 수 있다. 특히 Fender 계열의 앰프 (Fender의 모든 앰프들, MesaBoogie의 Mark 씨리즈 및 이것의 변종들 (Express, Studio Preamp, ...)은 프리앰프 디스토션이 일어나기 전의 음색을 tonestack에서 결정하게 되는 특징이 있는 반면, Marshall 계통의 앰프 (Marshall의 거의 모든 앰프 (최근에 Fender 회로가 들어간 일부 모델 제외), 그외 거의 모든 기타 앰프들)들은 프리앰프 디스토션 이후에 tonestack을 거쳐 파워앰프 디스토션에 이르게 되는 특징이 있다.(물론, 꾹꾹이 오버드라이브/디스토션을 애용하는 경우는 사실 더 복잡한 관계를 갖는데, 이런 경우는 일단 배제한다.)

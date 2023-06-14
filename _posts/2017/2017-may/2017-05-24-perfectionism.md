@@ -2,6 +2,7 @@
 layout: post
 title: "Perfectionism"
 tags: [perfectionism, anxiety]
+author: "Keith"
 ---
 # 완벽주의라는 것..
 

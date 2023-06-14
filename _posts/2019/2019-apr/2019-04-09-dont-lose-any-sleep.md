@@ -2,6 +2,7 @@
 layout: post
 title: "80년대 pop 따라하기: Don't lose any sleep"
 tags: [starship, 80s]
+author: "Keith"
 ---
 
 심심풀이로 80년대 pop 음악을 따고 있다. 이번엔 Starship의 Don't lose any sleep이다.

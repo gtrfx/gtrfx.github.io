@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/f08cb90d3dc34645ee485faab6129678.gif
 title: "3GPP RAN1#50 Athens, Greece, 20-24 Aug"
+author: "Keith"
 ---
 
 8월 말에 열리는 3GPP RAN 회의 장소는 그리스의 아테네이다. 올해는 그리스 방문의 해인가..관련 학술대회가 그 다음 다음 주에 같은 장소에서 열린다.

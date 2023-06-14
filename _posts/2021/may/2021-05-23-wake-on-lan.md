@@ -2,6 +2,7 @@
 title: "Wake on Lan"
 layout: post
 tags: [wol]
+author: "Keith"
 ---
 
 사실 이 기능은 정말 오래전부터 있었던 기능인데 한번도 써볼 일이 없어서 그런가보다 했다가 docker/window VM 전용 머신을 마련하고 창고에 컴퓨터를 넣어두기로 결정하고서 테스트를 해봤다.

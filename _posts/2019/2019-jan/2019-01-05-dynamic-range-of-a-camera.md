@@ -2,6 +2,7 @@
 layout: post
 title: "암부노이즈/DRO/RAW.."
 tags: [camera]
+author: "Keith"
 ---
 
 자연계의 신호는 dynamic range가 매우 크다. 거기에 비해서 디지털 세계에서 다루는 수라는 것은 범위가 한정되어있고 그 수의 크기는 돈과 직결되는 문제이기에 어떻게든 최적화를 하는 방향으로 (=엔지니어링) 돌아가게 되어있는 모양이다. 빛도 그러한 의미에서 소리와 비슷하게 linear하다기 보단 exponential한 성질을 가지고 있는 듯 한데, 이것은 linear한 수의 세계에서 digitizing하다보니 수많은 최적화의 문제가 일어나지 싶다.

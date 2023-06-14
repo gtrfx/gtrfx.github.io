@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "RAN1#49 Major Decisions on LTE"
+author: "Keith"
 ---
 
 1. PSC

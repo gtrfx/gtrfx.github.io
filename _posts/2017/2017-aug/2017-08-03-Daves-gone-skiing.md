@@ -5,6 +5,7 @@ categories:
    - cover
    - music
    - guitar
+author: "Keith"
 ---
 
 오랜만에 기타 커버곡 하나 올려본다. 그동안 묵혀놨던 앰프 플러그인들도 전부 다 찾아서 올려놓고.

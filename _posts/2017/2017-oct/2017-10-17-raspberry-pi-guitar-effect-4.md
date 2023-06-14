@@ -3,6 +3,7 @@ layout: post
 title: "Guitar Amplifier Simulator on Raspberry Pi (4)"
 categories:
     - project
+author: "Keith"
 ---
 
 USB 포트로부터 전원을 공급받는 사운드카드는 대개 호스트 PC로부터 노이즈를 받는다. 전원이 약간씩 흔들리는 것이다. 전원 전압이 흔들리는 덕택에 그 출력이 고스란히 오디오 출력에 나타나게 된다.

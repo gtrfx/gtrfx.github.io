@@ -2,6 +2,7 @@
 layout: post
 title: "예전 블로그를 복붙했다"
 tags: [perl, regex]
+author: "Keith"
 ---
 
 Perl은 시간이 지나도 참 훌륭한 스크립트 언어(?)이다. shell script 같지만 C 같기도 하고 C++ 같기도 하면서 regex를 너무 잘 지원하는 퓨전언어?다. CPAN으로 새로운 기능들이 확장되는 것 보면 다른 애들은 한참 멀었다 싶기도 하고. C++도 제대로 못 지원하는 regex를 perl에서는 아주 잘 쓸 수 있다. regex class가 C++에 있는데 무슨 개소리냐고?

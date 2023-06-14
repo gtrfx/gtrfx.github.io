@@ -2,6 +2,7 @@
 title: "Mac에서 VirtualBox는 비추한다"
 layout: post
 tags: [virtualbox]
+author: "Keith"
 ---
 
 Ryzen으로 Hackintosh를 하던 시절에는 MacOS의 hypervisor framework을 쓸 수 없기 때문에 이름난 가상 머신은 쓸 수가 없다. 심지어는 qemu도 제 구실을 못한다. 신기하게도 VirtualBox만 제구실(?)을 하는데, 그 이유가 VirtualBox가 별도의 kext를 두어서 가상화를 하고 있고 이게 AMD CPU를 지원하고 있기 때문이다. 

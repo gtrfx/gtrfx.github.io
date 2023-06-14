@@ -2,6 +2,7 @@
 layout: post
 title: "왜 4k를 FHD로 만든 것이 FHD로 촬영해서 FHD로 보는 것 보다 좋아보이는가?"
 tags: [4k, FHD, h.264, movie encoding]
+author: "Keith"
 ---
 
 지금 생각하면 좀 바보스럽게도 이런 의문을 계속 가지고 있었다. 왜 프로의 비디오 클립은 나의 비디오 클립보다 또렷한 것인가? 하는 것이기도 하다.

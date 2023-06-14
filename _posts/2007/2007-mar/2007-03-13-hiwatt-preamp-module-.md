@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/8411c52c1315d5a4ce5f283b9c7e9d07.jpg
 title: "HiWatt Preamp Module..?"
+author: "Keith"
 ---
 
 써클 선배께서 애용하시는 HiWatt 앰프의 프리앰프 모듈을 만들어 흉내내기를 해볼까 한다.

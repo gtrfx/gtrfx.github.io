@@ -5,6 +5,7 @@ title: "Learning a Synthesizer: Architecture"
 categories: 
     - learning
     - music
+author: "Keith"
 ---
 
 ## 개요

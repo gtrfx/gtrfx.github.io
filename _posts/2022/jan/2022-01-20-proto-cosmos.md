@@ -2,6 +2,8 @@
 title: "Proto Cosmos.."
 image: https://m.media-amazon.com/images/I/71YN2HPIGhL._SL1500_.jpg
 tags: [tony williams]
+layout: post
+author: "Keith"
 ---
 
 Proto Cosmos라는 곡을 지금까지 이 버전 저 버전 꽤 오래 들어왔던 것 같은데, 갑자기 어제 확 꽂혔다.

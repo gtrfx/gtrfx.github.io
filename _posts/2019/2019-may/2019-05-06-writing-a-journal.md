@@ -2,6 +2,7 @@
 layout: post
 title: "Jekyll로 blog할 때 publish 하지 않는 법"
 tags: [how to not publish your post in jekyll]
+author: "Keith"
 ---
 
 궁금해서 구글링 하니 이런 내용에 대한 답도 잘 나와있다.

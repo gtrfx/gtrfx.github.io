@@ -2,6 +2,7 @@
 layout: post
 title: "특정 사이트 접속 금지"
 tags: [rejection, site, access, ban]
+author: "Keith"
 ---
 
 node.js의 http client로 몇 번 접속해서 데이터를 읽어왔더니 갑자기 접속이 불가하게 되었다. 다시 접속하라면 capcha를 입력하라는 화면이 뜬다.

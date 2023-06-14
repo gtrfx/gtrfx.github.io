@@ -2,6 +2,8 @@
 title: "Hypervisor는 무엇일까?"
 image: https://docs-assets.developer.apple.com/published/f7344dbd5a/e960d911-a9fe-4678-9a10-45f268db1970.png
 tags: [hypervisor]
+layout: post
+author: "Keith"
 ---
 
 Hypervisor에 대한 내용을 찾아보면 대개 계층을 나타내는 그림을 보여주면서 가상머신을 돌릴 수 있게 해주는 것이라고 하면서 뻔히 아는 내용을 분량을 부풀려 이야기하는 내용이 대부분이다. 여기 붙인 그림은 여태 내가 봐왔던 그림 중에 가장 좋은 그림 같아서 붙여봤다. 그냥 한방에 모든 내용을 이해할 수 있게 잘 그려놓은 그림이지 않은가?

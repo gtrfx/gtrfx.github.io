@@ -3,6 +3,7 @@ layout: post
 title: "auto specifier"
 categories:
     - computer
+author: "Keith"
 ---
 
 역시 새로운 작업을 하면 할 수록 배우는 게 많다고나 할까?

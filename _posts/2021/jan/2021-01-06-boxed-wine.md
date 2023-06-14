@@ -2,6 +2,8 @@
 title: "박스 와인"
 image: https://i2.wp.com/costcowineblog.com/wp-content/uploads/2019/06/KS-Box-4.jpg?resize=626%2C469&ssl=1
 tags: [boxed wine]
+layout: post
+author: "Keith"
 ---
 
 이것은 정말 심심해서 호기심에 사봤는데 뭐랄까 그 결과가 너무 좋아서 올려본다. 이미 costco에서 이 제품을 오래전부터 판매해왔는데 늘 병에 들어있는 와인만 생각했던 나머지 이것을 제대로 된 와인이라고 보지 못했던 모양이라 하릴 없이 코스트코 매장의 aisle을 돌다 돌다 '어 이건 뭐지?'하며 발견했다. 

@@ -2,6 +2,7 @@
 title: "Linux를 2주 내내 사용해보고 느낀 소감."
 layout: post
 tags: [Linux everyday, QEMU]
+author: "Keith"
 ---
 
 Linux를 새삼스럽게 왜 쓰게 되었느냐 하면 윈도우로 자주 오가야 하는 일이 있는데, Ryzen으로 만든 PC에 MacOS를 올려서 쓰다보니 가상머신이 원활하게 동작하지 않았기 때문이다. MacOS의 장점 중 하나인 hypervisor kit을 사용할 수 없기 때문인데, 그 덕택에 그 흔한 docker도 사용할 수 없다. 

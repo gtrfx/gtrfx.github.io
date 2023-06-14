@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rainbow &quot;Kill the King&quot; cover"
+author: "Keith"
 ---
 
 Guitar Rig3 입수 기념 샘플이다..JCM800 모델에서 적당히 게인을 빼고 쳤다. 솔로는 가장 게인이 높다하는 울트라쏘닉을 선택해서 녹음했다.

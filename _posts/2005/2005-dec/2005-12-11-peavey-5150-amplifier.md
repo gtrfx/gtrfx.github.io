@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/3bc4f0029ef09681090dc4725c138554.jpg
 title: "Peavey 5150 Amplifier"
+author: "Keith"
 ---
 
 회로도는 schematicheaven에 5150 I 버젼으로 올라와있다. 일단, 5150 II의 경우도 동일한 프리앰프 회로를 쓰고 있으므로 그 차이는 구태여 알 필요는 없을 것으로 본다.

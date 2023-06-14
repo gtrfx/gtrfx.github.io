@@ -1,6 +1,8 @@
 ---
 title: "Hyperthreading"
 tags: [cpu, hyperthreading]
+layout: post
+author: "Keith"
 ---
 
 Intel에서 Hyperthreading이 가능한 processor가 처음 나왔을 때를 기억하면 동일한 시간에 처리할 수 있는 일의 양이 2배가 된다로 막연히 생각했던 것 같다. 그러니까 물리적인 코어 개수가 1개이지만 마치 2개가 된 것처럼 돌릴 수 있다고 말이다. 그도 그럴것이 OS 상에서도 물리적인 코어의 수를 N개라고 하면 성능을 크게 해치지 않는 수준에서 thread는 2N개를 늘릴 수 있도록 해놨다. 무슨 말이냐면 16개 core를 쓸 수 있는 CPU에서 thread를 32개를 벌려놓으면 개개의 thread가 100%의 CPU occupancy를 보인다는 것이다. 이보다 더 많은 thread를 벌리면 모든 thread의 CPU 점유율이 100%아래로 떨어지게 된다.

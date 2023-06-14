@@ -3,6 +3,7 @@ layout: post
 image: /assets/images/guitara.jpg
 title: "저렴 기타 알아보기"
 categories: Music
+author: "Keith"
 ---
 
 ## 들어가며

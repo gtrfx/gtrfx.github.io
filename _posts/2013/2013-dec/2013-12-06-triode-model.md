@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/2319a6b08a8d4deee1ea9d29b83aa09a.gif
 title: "Triode Model"
+author: "Keith"
 ---
 
 

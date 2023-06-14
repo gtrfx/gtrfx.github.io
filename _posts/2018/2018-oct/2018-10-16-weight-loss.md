@@ -2,6 +2,7 @@
 layout: post
 title: "수고했다..."
 img: weight.png
+author: "Keith"
 ---
 
 9월초부터 근 한달 반 동안 다이어트 성적이다. 지금은 하루 종일 안 먹고 있어도 별로 배가 고프지 않다.

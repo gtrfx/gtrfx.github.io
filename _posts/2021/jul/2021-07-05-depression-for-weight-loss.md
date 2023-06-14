@@ -3,6 +3,7 @@ title: "체중 감소 효과는 역시 심리적인 것인 동기에 의한 것�
 layout: post
 image: https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2018/09/12/Pictures/_8aed577c-b67c-11e8-8eb6-2fb8491c2cf0.jpg
 tags: [mental]
+author: "Keith"
 ---
 
 정신적으로 평온할 때는 그렇게 애를 써도 빠지지 않던 체중이 심리적으로 쉽게 감당하기 어려운 충격이 올려오니 한방에 빠져나가는 걸 보게 된다. 그것도 3kg이 넘는 체중이 단 이틀만에. 이런 분위기로 대충 보름만 끌고가도 그동안의 목표 체중으로 단번에 도달할 것 같다.

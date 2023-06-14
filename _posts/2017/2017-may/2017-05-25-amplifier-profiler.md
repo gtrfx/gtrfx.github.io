@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Amplifier profiler"
+author: "Keith"
 ---
 
 만일 증폭기를 (음향적으로) 프로파일링 하라는 숙제가 떨어졌다고 생각하자. 이 문제를 어떻게 풀 것인가?

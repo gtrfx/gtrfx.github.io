@@ -3,6 +3,7 @@ layout: post
 title: "Dishwasher 세제"
 categories:
     - life
+author: "Keith"
 ---
 
 개인적으로 dishwasher를 별로 좋아하지 않는다. dishwasher가 그 안을 뜨겁게 만들어서 그릇들을 잘 말려내는 것까지는 좋은데, 기계적인 동작으로 봤을 때 세척력이 강하지 않을 뿐더러 그렇다 보니 세척할 때 너무 강력한 세제가 들어가는 것이 아닌가 하여 좋아하지 않게 되었다.

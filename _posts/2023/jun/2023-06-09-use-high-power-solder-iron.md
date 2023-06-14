@@ -1,6 +1,8 @@
 ---
 title: "USB 포트 수리하려다 망함.."
 tags: [USB port fix]
+layout: post
+author: "Keith"
 ---
 
 내가 사용하는 기기 중에 Fractal Audio AX8라는 게 있다. 여기에 USB B 포트가 달려있는데, 이것의 용도는 컴퓨터와 연결해서 내부 패치 편집을 할 수 있게끔 하는 것이었는데, USB B 포트의 특성상 중심부에 단단한 플라스틱 기둥이 있고 그 기둥을 둘러 4곳에 전극이 있게 되어있다. 이게 일반적인 USB A 4 pin(data+/-, Vcc/GND)과 같은데 왜 이렇게 만들어놨는지 알 수는 없지만 그러하다.

@@ -4,6 +4,7 @@ title: "Docker on a mac/windows/linux box, cygwin, mingw 성능 측정"
 tags: [docker, mingw, cygwin, ubuntu, arch linux, wingows, mac]
 categories:
     - computing
+author: "Keith"
 ---
 
 호기심이 발동해서 내가 직접 사용 중인 모든 환경에서 docker로 ubuntu/arch linux를 올려가며 실행 속도를 측정해보았다.

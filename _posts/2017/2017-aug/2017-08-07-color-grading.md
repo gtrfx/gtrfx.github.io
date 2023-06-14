@@ -2,6 +2,7 @@
 layout: post
 title: "Color Grading"
 categories: photos
+author: "Keith"
 ---
 
 ## 개요

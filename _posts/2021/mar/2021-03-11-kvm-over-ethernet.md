@@ -2,6 +2,8 @@
 title: "KVM over IP"
 image: https://mytechdecisions.com/wp-content/uploads/2020/04/cn9600-kvm-kvm-over-ip-switches-45-1000x500.jpg
 tags: [KVM]
+layout: post
+author: "Keith"
 ---
 
 이 용어(?)를 처음 봤을 때는 linux의 KVM을 ethernet을 통해서 어찌어찌 한다는 아이디어인가 했다. 물론 알고보니 KVM (keyboard-video-mouse)에 대한 것이었지만. 

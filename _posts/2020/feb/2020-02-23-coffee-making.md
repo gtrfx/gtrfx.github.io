@@ -3,6 +3,7 @@ title: "집에서 커피 마시기"
 tags: [coffee, 커피거지, french press]
 image: https://images.ctfassets.net/3h0qt25be5vd/2zdJuh7KW0UsykosgSW0uo/70611d95a8384c4d70ca8155a7e31005/Brew_Guide-FrenchPress-Step03.jpg?w=960&h=640&fm=jpg&q=70
 layout: post
+author: "Keith"
 ---
 
 커피 애호가는 아니고 그냥 습관적으로 커피를 물대신 마셔대는 사람 중 하나로서, 평일엔 커피가 거의 무한대로 무상제공되는 공간에 있다가 그렇지 않은 집에서 머물고 있을 땐 스스로 만들어마셔야 되니 약간 신경을 쓰게 된다.

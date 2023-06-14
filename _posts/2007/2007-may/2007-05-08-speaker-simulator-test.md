@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Speaker Simulator Test"
+author: "Keith"
 ---
 
 SLO Module + Reedoox Custom

@@ -1,6 +1,7 @@
 ---
 title: "CPU Overclocking"
 layout: post
+author: "Keith"
 ---
 
 대개 CPU를 사면 '본전을 뽑겠다'는 심산으로 일부러 정해진 것보다 클럭속도를 올려서 일을 더 빨리 처리하겠다는 생각으로 오버클럭킹을 한다. 

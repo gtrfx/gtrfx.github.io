@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/128a75d4a18aaba8452270e230fc5bc7.jpg
 title: "Pat Metheny &quot;Day Trip&quot; (2008)"
+author: "Keith"
 ---
 
 ![image](/assets/images/128a75d4a18aaba8452270e230fc5bc7.jpg)

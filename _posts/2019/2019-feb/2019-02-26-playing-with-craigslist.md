@@ -2,6 +2,7 @@
 layout: post
 title: "Craigslist에서 거래하기"
 tags: [craigslist]
+author: "Keith"
 ---
 
 처분해야 할 물건이 생기면 사실 ebay가 좀 깔끔하긴 하다. 거래자가 서로 얼굴 안봐도 되고 결제도 paypal로 할 뿐더러 문제가 생겨도 ebay가 도와준다.

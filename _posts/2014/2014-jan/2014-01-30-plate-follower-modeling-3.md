@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Plate Follower Modeling (3)"
+author: "Keith"
 ---
 
 

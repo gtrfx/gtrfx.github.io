@@ -2,6 +2,7 @@
 title: "SystemC와 HLS"
 tags: [hls, systemc]
 layout: post
+author: "Keith"
 ---
 
 몇 가지 실전 상황에 대해서 잠시 실험해 본 바를 정리한다. 아주 원리적이고 지극히 당연한 이야기인데 복습할 겸 써보는 것이다.

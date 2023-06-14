@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Buckethead.."
+author: "Keith"
 ---
 
 Buckethead는 2005년에 알게된 기타리스트 중 가장 충격스러운 기타리스트가 아닐 수 없다.

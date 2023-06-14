@@ -4,6 +4,7 @@ title: "무기력증"
 tags: [restlessness, anxiety]
 categories:
     - life
+author: "Keith"
 ---
 
 멀쩡한 사람이 무기력증에 빠져들기도 쉽지 않지만 반대로 무기력 상태에서 정상으로 되돌아오는 것도 쉽지 않다. 

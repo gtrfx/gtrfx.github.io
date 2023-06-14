@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Betcha Can't Play This - Dragonforce"
+author: "Keith"
 ---
 
 인터넷에 안티팬이 많은 밴드인 Dragonforce의 기타리스트들이 보여주는 Betcha Can't Play This이다..

@@ -2,6 +2,7 @@
 title: "USB 충전기.."
 tags: [fake, usb pd, usb charger]
 layout: post
+author: "Keith"
 ---
 
 요새 집에서 심심해서 집 어딘가에서 썩고있는 모든 DC 전원장치 (어댑터)를 USB charger로 개조하는 일을 하고 있다. 어차피 20W 정도의 GaN charger가 얼마 하지도 않는데 뭐하러 그런 일을 하냐고 할 수 있다. 그렇다 소형의 GaN charger는 성능도 좋고 크기도 작아서 아주 요긴하다. 그런데 그렇다고 이런 저런 장치에 따라왔던 DC power supply를 버리기도 뭐하다. 

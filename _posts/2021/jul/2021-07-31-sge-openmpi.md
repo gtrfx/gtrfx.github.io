@@ -2,6 +2,7 @@
 title: "sge/open-mpi"
 layout: post
 tags: [administrating]
+author: "Keith"
 ---
 
 SGE라는 것을 여태도 쓰는 사람들이 있긴 한가보다. 아니 그렇게 쓰는 곳이 제법 있다. 세상이 정말 빠르게 많이도 변했지만 80년대 식으로 살아가는 사람, 90년대 식으로.. 그렇게 그렇게 2021년을 살고 있다.

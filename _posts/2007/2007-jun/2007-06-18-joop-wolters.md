@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Joop Wolters.."
+author: "Keith"
 ---
 
 우리나라 발음으로 하면 '윱 볼터스'..라고 하면 맞을까나..

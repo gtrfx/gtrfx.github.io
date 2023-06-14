@@ -1,6 +1,8 @@
 ---
 title: "자동화의 위대함.."
 tags: [automation]
+layout: post
+author: "Keith"
 ---
 
 자동화란 것에 사실 별로 관심이 없었다. 같은 일을 반복하면서 살 일은 없을 거라는 짧은 판단하에.

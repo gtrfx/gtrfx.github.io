@@ -2,6 +2,8 @@
 title: "The Last Black Man in San Francisco (2019)"
 image: https://www.indiewire.com/wp-content/uploads/2019/01/i_z6zLJN-e1548547464283.jpeg
 tags: [last black man in san francisco]
+layout: post
+author: "Keith"
 ---
 
 심심해서 샌프란시스코를 무대로 한 영화를 찾아보다가 우연히 얻어 걸린 영화이다. 그럭저럭 끝까지 봤다. 뭔가 예상을 뛰어넘는 진행이 있지 않을까 했는데, 끝까지 그런 것은 없다. 드라마는 예상대로 흘러가고 생각보다 좀 밑밑한 느낌도 없지 않았다. 배경으로 등장하는 곳의 대부분은 한번도 가보지 못한 곳이긴 해도 인근지역은 여러 번 가봤던 곳이라 흥미가 있었다. 

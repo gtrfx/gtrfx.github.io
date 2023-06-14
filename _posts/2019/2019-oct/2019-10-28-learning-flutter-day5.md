@@ -3,6 +3,7 @@ layout: post
 title: "Learning Flutter: Day 5"
 image: https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?w=578&strip=all
 tags: [flutter]
+author: "Keith"
 ---
 
 다른 언어에 대해서 (일반적으로 알려진 다른 언어들과의) 차이점을 통해 공부하는 것은 사실 시간이 별로 들지 않는데 역시나 Dart는 그렇지 않은 듯 하다. 언어의 측면에서는 일반 OOP 언어들과 차이가 없지만 framework을 이용해야 하기 때문에 그 framework이 원하는 대로 맥락을 따라가 주어야 되기 때문에 이 부분이 학습의 거의 95% 이상이라고 보여진다.

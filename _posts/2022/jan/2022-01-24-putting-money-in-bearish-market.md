@@ -1,6 +1,8 @@
 ---
 title: "폭락장에 돈 넣기"
 tags: [bearish market]
+layout: post
+author: "Keith"
 ---
 
 매년 주식이 심하게 빠지는 날이 있는데 오늘도 그런 날 중 하나다.

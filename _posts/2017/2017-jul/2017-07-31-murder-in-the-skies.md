@@ -2,6 +2,7 @@
 layout: post
 title: "Murder in the Skies"
 categories: music
+author: "Keith"
 ---
 
 나는 Gary Moore (R.I.P.)의 70/80년대 강력한 넘버들을 좋아한다. 이들은 명목상 하드락으로 구분되는 곡들이지만 가만히 듣고 있자면 웬만한 헤비메틀 음악의 파워를 훨씬 능가한다. 

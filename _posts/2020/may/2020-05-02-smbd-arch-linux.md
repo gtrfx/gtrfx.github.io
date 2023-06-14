@@ -1,6 +1,8 @@
 ---
 title: "요즘 리눅스에서 smbd 올려놓기"
 tags: [samba, smb, smbd]
+layout: post
+author: "Keith"
 ---
 
 예전 리눅스에서 smbd를 올려놓는 일들은 별로 어려운 일이 아니었는데, 요즘엔 samba package를 설치하고 이걸로 smbd만 startup으로 올려놓는 게 쉽지 않아졌다.

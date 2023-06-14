@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "T-Square 'Megalith'"
+author: "Keith"
 ---
 
 90년대 초반 아마/프로 밴드의 스파르타식 연습을 촉진 시켰던 곡 중 하나..

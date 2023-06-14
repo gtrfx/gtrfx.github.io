@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Whitesnake - Still of the Night (MTV award..live??)"
+author: "Keith"
 ---
 
 John Sykes의 명곡 Still of the night이다..

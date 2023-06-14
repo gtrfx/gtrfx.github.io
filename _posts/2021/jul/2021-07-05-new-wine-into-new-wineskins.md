@@ -3,6 +3,7 @@ title: "새 술은 새 부대에.."
 layout: post
 image: https://res.cloudinary.com/tienda-com/image/upload/f_auto,q_auto:good,w_626/products/bb-06.jpg
 tags: [wineskin]
+author: "Keith"
 ---
 
 난 이 구절이 어디서 어떤 이유로 나온지 알지 못한다. 단지 이 구절이 있다는 것만 알고 있을 뿐.

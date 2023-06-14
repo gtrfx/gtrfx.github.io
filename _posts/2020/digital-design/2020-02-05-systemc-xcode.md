@@ -2,6 +2,7 @@
 title: "Systemc + Xcode"
 tags: [systemc, xcode]
 layout: post
+author: "Keith"
 ---
 
 If you want to program systemc with xcode, you'll face the following errors.

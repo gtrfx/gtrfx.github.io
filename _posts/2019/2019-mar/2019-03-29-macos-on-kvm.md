@@ -2,6 +2,7 @@
 layout: post
 title: "MacOS on KVM"
 tags: [macos]
+author: "Keith"
 ---
 
 지금의 MacOS 문제를 해결하기 위해서 Linux위에 MacOS를 VM으로 올리려고 하다가 시간만 날리고 그냥 포기했다.

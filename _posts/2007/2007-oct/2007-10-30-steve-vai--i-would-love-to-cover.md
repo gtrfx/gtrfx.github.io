@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Steve Vai - I would love to..cover.."
+author: "Keith"
 ---
 
 기타를 새로 들여놓은 김에 자작을 하나 할려다가 시간 부족으로 커버로 떼우기로 한다.

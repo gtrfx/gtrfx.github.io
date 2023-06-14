@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fender Tweed Digital Model"
+author: "Keith"
 ---
 
 

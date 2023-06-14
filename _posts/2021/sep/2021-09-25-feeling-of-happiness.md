@@ -1,6 +1,8 @@
 ---
 title: "행복감이란 게 뭘까?"
 tags: [feeling of happiness]
+layout: post
+author: "Keith"
 ---
 
 인구 밀도가 낮은 곳에서 세상 편의시설은 다 누리면서 그렇게 살면 좋을 것 같다. 누군가 내 돈 관리는 다 해줘서 머리 아플 일 없고, 난 그냥 일에만 전념 할 수 있으면 좋겠다.

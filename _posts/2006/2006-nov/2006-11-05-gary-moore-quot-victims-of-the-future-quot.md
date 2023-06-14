@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Gary Moore &quot;Victims of the Future&quot;"
+author: "Keith"
 ---
 
 80년대에 Gary Moore가 발표한 앨범 중에, KAL기 격추 사건을 그린 'Murders in the Sky"가 들어있는 앨범이다.

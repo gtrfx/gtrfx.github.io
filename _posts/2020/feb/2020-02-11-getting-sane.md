@@ -2,6 +2,7 @@
 title: "뭔가 제 정신이 되어가는 그런 느낌 같은 느낌?"
 tags: [winter is over, spring, the power of love]
 layout: post
+author: "Keith"
 ---
 
 올해 겨울(2019년말/2020년 초)은 2016년 말/2017년 초의 그 엄청나게 비쏟아지고 음산했던 겨울이 아닌 비는 많이 내리지 않았지만 나름 썰렁했던 겨울이었다.

@@ -2,6 +2,7 @@
 title: "생강차 만들어 먹기"
 tags: [ginger tea]
 layout: post
+author: "Keith"
 ---
 
 1-2주전쯤 부터 생강차 생각이 나기에 만들어서 먹어봤다. 사다놓고 거의 먹지 않았던 꿀도 이번에 소비해야겠다는 마음으로.

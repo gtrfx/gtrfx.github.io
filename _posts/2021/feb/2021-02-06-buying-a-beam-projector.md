@@ -2,6 +2,8 @@
 title: "빔프로젝터를 하나 샀다.."
 images: https://www.projectorcentral.com/img.cfm?pid=11085
 tags: [beam projector]
+layout: post
+author: "Keith"
 ---
 
 작년에 내가 가진 가장 고가(?)의 기타, 그러나 전혀 쓰지 않는 것과 카메라 두대를 처분하고 쌓여있는 paypal money가 있어서 질러봤다. 드럼 지르고 여기 저기 선물하고 나니 이제 얼마 남지 않았다만.

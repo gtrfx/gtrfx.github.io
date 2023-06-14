@@ -1,6 +1,8 @@
 ---
 title: "서울에서 받은 인상.."
 tags: [seoul]
+layout: post
+author: "Keith"
 ---
 
 2년여 만이라 강하게 받았던 인상들이 계속해서 떠 오른다.

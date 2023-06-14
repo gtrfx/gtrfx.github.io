@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Triode Modeling (2nd phase)"
+author: "Keith"
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "베이스 치는 게 찰진 재미"
 tags: [playing bass]
+author: "Keith"
 ---
 
 한동안 베이스를 갖고 있지 않다가 베이스를 작년 가을엔가 사놓고 요새 가끔씩 치는데, 정말 재미있단 생각이다.

@@ -1,6 +1,8 @@
 ---
 title: "금주의 음악.."
 tags: [dua lipa]
+layout: post
+author: "Keith"
 ---
 
 지난 주까진 Chick Corea Elektricband와 Akoustic band에 푹빠져서 지냈는데 이번 주엔 Dua Lipa의 노래들을 열심히 듣고 있다.

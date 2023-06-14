@@ -3,6 +3,7 @@ title: "M1 Mac과 Handbrake"
 layout: post
 image: https://www.thewebernets.com/wp-content/uploads/2014/12/Handbrake-Logo.png
 tags: [m1 mac, handbrake]
+author: "Keith"
 ---
 
 M1의 video encoding/decoding performance가 좋다고 알려져있는데, 그것을 체감하려면 final cut 또는 handbrake 써보면 알 수 있다. 

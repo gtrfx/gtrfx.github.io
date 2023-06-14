@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Amazing Jesus by Rowan Atkinson"
+author: "Keith"
 ---
 
 <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/fTzXJMU1sLc" frameborder="0" allowfullscreen=""></iframe>

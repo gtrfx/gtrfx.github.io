@@ -5,6 +5,7 @@ categories:
     - life
     - electronics
     - computer
+author: "Keith"
 ---
 
 라스베리파이에 물려쓰던 하드 디스크에 문제가 생긴 것인지, 시스템이 가끔씩 뻗었다가 살아났다가 하는 문제가 있었다. 뻗는다는 게 OS가 crash를 한다거나 shutdown/rebooting이 일어나는 게 아니고 CPU가 어디에 올인된다거나 하지도 않으면서 모든 기능이 멈춰버린 듯 되어버리는 것을 말한다. 

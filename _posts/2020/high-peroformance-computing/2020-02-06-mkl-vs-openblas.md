@@ -3,6 +3,7 @@ title: "MKL과 openBLAS"
 tags: [mkl, blas]
 image: https://www.r-bloggers.com/wp-content/uploads/2014/04/ooooooooooooooooooooooooooooooUntitled.png
 layout: post
+author: "Keith"
 ---
 
 호기심 때문에 10분 정도 소모해서 누가누가 빠를까 잠시 테스트해봤다. 이 역시 누구 차가 더 빠른가 달려보기와 별 다를 바 없다. 어차피 빨라봐야 매우 작은 비율로 빠르고, 이 차이가 드러날만큼의 일을 컴퓨터에게 시키지도 않을 뿐더러 그럴 일도 없다.

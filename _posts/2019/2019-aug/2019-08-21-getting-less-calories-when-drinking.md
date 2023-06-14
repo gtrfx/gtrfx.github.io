@@ -2,6 +2,7 @@
 layout: post
 title: "살은 찌고 싶지 않은데 술은 좀 마시고 싶다면..."
 tags: [spirits, sparkling water, no beer]
+author: "Keith"
 ---
 
 대개 낮에 일하다가 집에 돌아오면 맥주 한 잔 하고 싶은 생각이 드는 것은 당연한 것이 아닐까 한다. (물론 그렇지 않은 사람들도 많다는 것을 안다만)

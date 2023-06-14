@@ -2,6 +2,7 @@
 title: "tun/tap/bridge 차이가 뭘까?"
 tags: [tun, tap, brd]
 layout: post
+author: "Keith"
 ---
 
 구글링했을 때 나오는 얘기들은 하나 마나인 듯 하고.

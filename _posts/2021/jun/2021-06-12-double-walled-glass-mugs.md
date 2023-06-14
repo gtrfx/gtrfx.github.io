@@ -2,6 +2,7 @@
 title: "썅 유리벽 머그 (double wall glass mug) 재미삼아 사봄"
 layout: post
 tags: [borosilicate glass]
+author: "Keith"
 ---
 
 누가 좋다는 이야기를 하기에 한번 사봤다. 소감만 간단히 정리해본다.

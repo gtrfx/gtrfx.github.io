@@ -1,6 +1,8 @@
 ---
 title: "7년전의 나를 기억 속에 묻고.."
 tags: [bye bye my depressed and old me]
+layout: post
+author: "Keith"
 ---
 
 7년전 이맘때 난 midlife crisis라는 걸 겪고 있었다. 사실 midlife crisis라고 정의하는 게 중년의, 중년이 가까와 오는 사람이 정체성 혼란을 겪는 것이라고 알려져 있는데, 한참 어린 내가 그랬다는 것이라기 보단 그저 다시 내 삶을 돌아보게 되었고 그 과정에서 계속 나를 발견해나갔다는 것을 표현하려고 한 것이다.

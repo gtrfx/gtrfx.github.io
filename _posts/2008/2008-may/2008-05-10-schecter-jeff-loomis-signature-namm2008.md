@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Schecter Jeff Loomis Signature (NAMM2008)"
+author: "Keith"
 ---
 
 Nevermore의 7현주자 Jeff Loomis의 Signature model을 Schecter에서 새로 만든 모양이다.

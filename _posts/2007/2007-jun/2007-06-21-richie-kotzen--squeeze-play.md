@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Richie Kotzen - Squeeze Play"
+author: "Keith"
 ---
 
 Shrapnel Record에서 발매된 데뷔 앨범 첫 곡..

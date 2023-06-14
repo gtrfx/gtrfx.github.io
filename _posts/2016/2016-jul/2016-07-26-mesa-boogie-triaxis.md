@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mesa Boogie TriAxis"
+author: "Keith"
 ---
 
 이 프리앰프는 그 옛날 발매되었던 프리앰프들 중에서도 단연코 최고봉에 꼽히던 프리앰프라 할 수 있을 것 같다. 컨트롤 부가 수동 조작으로 이루어지는 Quad preamp라든가 studio preamp를 매우 고전적인 마이크로 컨트롤러인 Z80으로 컨트롤하는 일명 midi-programmable preamp로 바꿔놓은 것으로 볼 수 있다. 전통의 Mark series 톤을 가지고 있는 것이 이 장비의 장점이긴 하지만 아날로그 포텐셔미터와 달리 디지털 회로와 LDR (Light Dependent Resistor: 빛의 양에 따라 저항이 달라짐)로 tone/gain control을 하기 때문에 그 느낌이 실제 knob 조작과 다르다는 것과 mark series의 큰 장점인 EQ를 band별로 조작하지 못하고 dynamic voice라는 파라미터 하나로 조작하게 되어있어 좀 답답한 면이 없지 않다.

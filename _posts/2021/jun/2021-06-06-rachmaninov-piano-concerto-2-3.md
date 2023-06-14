@@ -2,6 +2,7 @@
 title: "라흐마니노프 피아노 협주곡 2/3"
 layout: post
 tags: [yuja wang]
+author: "Keith"
 ---
 
 Rachmaninov하면 피아노 협주곡 2번 3번을 꼽는데, 사실 전곡을 다 듣다보면 2번이 좋은 것 같다가도 1악장만 듣다보면 3번이 좋은 것 같기도 하고 그런 생각이 든다.

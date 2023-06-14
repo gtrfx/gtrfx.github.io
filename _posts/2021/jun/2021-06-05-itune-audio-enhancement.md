@@ -2,6 +2,7 @@
 title: "iTune의 Audio enhancement"
 layout: post
 tags: [audio enhancement]
+author: "Keith"
 ---
 
 Mac에서 돌아가는 iTune에 관련된 이야기다. 

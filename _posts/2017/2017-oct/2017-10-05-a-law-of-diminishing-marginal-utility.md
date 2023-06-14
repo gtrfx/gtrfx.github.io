@@ -3,6 +3,7 @@ layout: post
 title: "한계 효용 체감 법칙: A law of diminishing marginal utility"
 categories:
     - life
+author: "Keith"
 ---
 
 요 근래 볼만한 일본 드라마 거리도 다 떨어지고 영화도 볼 만큼 보고나니 재미 있는 일이 없어서 섭섭하던 차에 뭘 하면 좋을까 생각하다 문득 떠오른 말이 바로 '한계 효용 체감의 법칙'이란 것이다.

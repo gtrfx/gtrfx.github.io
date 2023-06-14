@@ -2,6 +2,7 @@
 layout: post
 title: "Burger patties"
 tags: [burger,patties,food,eatery]
+author: "Keith"
 ---
 
 햄버거 패티를 만드는 방법에 대해서 백선생의 티비 방송이 나간 뒤로 유튜브에 비슷한 영상이 꽤나 많이 올라왔는데, 나도 재미삼아 만들어보면서 느낀 것은 다음과 같다.

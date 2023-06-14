@@ -1,6 +1,8 @@
 ---
 title: "떠나는 자는 말이 많다.."
 tags: [byebye]
+layout: post
+author: "Keith"
 ---
 
 뭐랄까 이번의 해프닝에서 내가 얻은 경험은 '떠나는 자는 말이 많다'다.

@@ -3,6 +3,7 @@ layout: post
 title: "Four on Six"
 categories:
     - music
+author: "Keith"
 ---
 워낙 명곡이라 잘 알고 있던 곡인데, 오랜만에 다시 보니 필이 확 꽂힌다. 너무 빠르지도 않고 lick을 제대로 알고가기에 아주 좋은 곡이지 싶다.
 ```

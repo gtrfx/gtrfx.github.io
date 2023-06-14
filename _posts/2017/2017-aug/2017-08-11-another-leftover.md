@@ -2,6 +2,7 @@
 layout: post
 title: "또 하나의 계륵: Les Paul"
 categories: music
+author: "Keith"
 ---
 
 가진 기타가 레스폴 뿐이라거나 레스폴 기타를 가장 좋아하는 분들에겐 해당하지 않는 이야기니 화내지 마시길 바란다. 그 분들을 자극하려고 적는 글이 아니니까.

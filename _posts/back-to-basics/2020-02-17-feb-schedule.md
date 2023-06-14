@@ -2,6 +2,7 @@
 title: "Back to Basics: 2월 계획"
 tags: [back to basics]
 layout: post
+author: "Keith"
 ---
 
 날이 많이 풀려서 생활하기 아주 좋아졌다. 적어도 해가 떠있는 동안엔 반팔을 입어야 될 정도의 기온으로 회복되고 다다음주면 섬머타임도 시작이라 퇴근하고 돌아와도 여전히 밝은 시절이 되었다. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "PreSonus Studio One...4"
+author: "Keith"
 ---
 
 오늘로써 사용 4일째다..

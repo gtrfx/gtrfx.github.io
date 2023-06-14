@@ -2,6 +2,8 @@
 title: "raspberry pi 4를 들였다."
 image: https://cdn-shop.adafruit.com/1200x900/4295-05.jpg
 tags: [raspberry pi 4]
+layout: post
+author: "Keith"
 ---
 
 나는 raspberry pi 1/2/3/4를 모두 가진 셈이 되었다. 아쉽게도 rpi 1은 도둑(?) 맞았고 2, 3, 4를 가지고 있다. 

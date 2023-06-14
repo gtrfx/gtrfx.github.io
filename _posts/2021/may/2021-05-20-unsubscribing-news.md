@@ -2,6 +2,7 @@
 title: "메일 unsubscibe 하기"
 layout: post
 tags: [unsubscribe, spam]
+author: "Keith"
 ---
 
 아주 옛날엔 비록 소그룹이라도 스스로 도메인 네임도 갖고 있었고 스스로 mail server를 두고 운용하고 그랬다. 이땐 스팸을 막기 위해서 다양한 rule의 filter를 걸어두었었다. 재미있게도 이걸 강하게 걸어놓으면 되려 사람들의 불만이 늘어나게 된다. 그나마 가끔씩 오던 (스팸) 메일도 안 오게 되었다는 게 그 이유다. 

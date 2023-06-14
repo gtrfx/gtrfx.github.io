@@ -1,6 +1,8 @@
 ---
 title: "안드로이드 폰에 리눅스 돌리기.."
 tags: [old android phone]
+layout: post
+author: "Keith"
 ---
 
 안드로이드 폰에 리눅스를 올리는 것은 내가 여러 번 해본 끝에 내린 결론으로는

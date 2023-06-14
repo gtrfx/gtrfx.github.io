@@ -3,6 +3,7 @@ layout: post
 title: "Forked-daapd setup in arch linux arm"
 categories:
     - learning
+author: "Keith"
 ---
 
 If you need antlr3-c library, just try

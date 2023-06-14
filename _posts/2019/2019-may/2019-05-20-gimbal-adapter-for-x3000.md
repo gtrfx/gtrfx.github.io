@@ -2,6 +2,7 @@
 layout: post
 title: "Sony X3000용 김벌 어댑터"
 tags: [Sony FDR X3000, gimbal adapter, zhiyun smooth q, zhiyun smooth 4]
+author: "Keith"
 ---
 
 김벌 중에 가장 저렴한 것이 스마트폰 용으로 나온 김벌인데 이것들은 refurbished로 된 것으로 사면 50불도 안되게 살 수 있다. 스마트폰 카메라 기능이 뛰어나다면 이것으로 나름 훌륭한 촬영 장비가 마련되는 셈인데, 적어도 내 경우는 그렇지 못했다. 쓸데없이 초점을 잡는다며 바보 짓을 하질 않나 그래서 수동기능이 있는 앱으로 강제 촬영하면 매번 세팅해주고 하는 게 여간 번거로운 게 아니다. 

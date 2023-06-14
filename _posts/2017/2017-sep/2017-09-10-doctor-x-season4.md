@@ -4,6 +4,7 @@ title: "Doctor-X: 大門未知子: 시즌 4"
 categories:
     - life
     - jdrama
+author: "Keith"
 ---
 
 시즌 4 이거 진작에 시작했다가 첫화에 뉴욕 나오는 게 좀 너무 오바 떤다 싶어서 안보다가 결국에다 하루만에 정주행 완료했다.

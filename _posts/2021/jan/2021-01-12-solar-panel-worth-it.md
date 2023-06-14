@@ -2,6 +2,8 @@
 title: "솔라 패널 이거 쓸만한 건가?"
 image: https://media.wired.com/photos/5afc8ab1ad572521659626ba/master/pass/Nissan_Energy_Solar.jpg
 tags: [solar panel]
+layout: post
+author: "Keith"
 ---
 
 이사하게 될 집이 건축 중이라 여러 가지 옵션을 결정해야 한다. 그 중 하나가 솔라 패널인데 많은 집들이 선택하고 있다기에 나더러도 선택하는 게 어떠냐 한다. 어차피 판매하는 입장에서는 내 자신의 득실보단 그들 자신의 득실을 고려하기 때문이니까 뭐가 좋고 나쁜지는 내가 따져봐야할 문제라 처음부터 뭔가 직관적으로도 계산이 잘 맞아떨어지지 않았는데, 살펴보면 대충 이렇다.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Macbook Pro Early 2015, ACPI (Advanced Configuration and Power Interface) table"
+author: "Keith"
 ---
 
 

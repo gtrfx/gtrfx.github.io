@@ -2,6 +2,8 @@
 title: "White rabbit에서 Mark Levinson까지.."
 image: https://si.wsj.net/public/resources/images/BN-OF488_AOS_02_P_20160527131613.jpg
 tags: [white rabbit, grace slick, jefferson starship, starship, mick mars, andres mcarthy, kim cattral, mark levinson]
+layout: post
+author: "Keith"
 ---
 
 Starship이라고 80년대에 큰 인기를 끌었던 밴드가 있다. 이 밴드도 생각보다 역사가 길어서 시작은 starship이 아닌 다른 이름으로 시작했고 이게 또 지역주의(?)적 성향이 있는지 샌프란시스코의 밴드로라고 되어있다는 사실을 알게 된다. 내가 처음 Starship을 알게 된 것은 사실상 스타쉽이 해산되기 직전의 말기 음악들 때문이었는데, 대개 대중적인 인기를 끌게 되면 그게 밴드의 전성기가 어닐까 하는 생각을 하게 되는데 이것은 참 의외였다.

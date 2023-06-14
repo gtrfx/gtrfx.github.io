@@ -4,6 +4,7 @@ title: "인간으로 살아간다는 것: 조직생활"
 tags: [greediness, jealousy]
 categories:
     - life
+author: "Keith"
 ---
 
 오늘 누군가에게 메일을 받았는데 메일의 내용인 즉, 조직안에서 어떤 변화가 있었고 어떤 이들이 패잔병으로 어느 조직 안으로 흡수되고 어쩌고 저쩌고 하는 내용이었다. 

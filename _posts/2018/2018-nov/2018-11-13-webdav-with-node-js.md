@@ -2,6 +2,7 @@
 layout: post
 title: "Node js로 WebDav 서버"
 tags: [nodejs, webdav]
+author: "Keith"
 ---
 
 WebDav는 http로 원격 파일 시스템을 꾸릴때 쓴다. samba 같은 것은 LAN 밖엔 안되고 이상하게 속도가 느려서 답답하다 싶고 뚫리는 트래픽이 http 위주다 싶으면 이걸 이용해서 원격에 파일 시스템을 하나 만들어서 쓸 수 있다.

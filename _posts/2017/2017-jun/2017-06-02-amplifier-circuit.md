@@ -2,6 +2,7 @@
 layout: post
 title: "Amplifier Circuit"
 tags: [amplifier, transistor, triode]
+author: "Keith"
 ---
 # 전기 회로 읽기: 증폭회로
 

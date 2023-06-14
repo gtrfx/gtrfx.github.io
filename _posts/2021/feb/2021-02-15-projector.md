@@ -2,6 +2,8 @@
 title: "FHD 프로젝터 1일 사용 후기"
 image: https://images-na.ssl-images-amazon.com/images/I/611YgDrVcTL._AC_SY355_.jpg
 tags: [TH585, BenQ]
+layout: post
+author: "Keith"
 ---
 
 휴일인 어제 대낮에 배송이 되었는데, 휴일임에도 급한 회사일을 하느라 못 쳐다보다가 저녁 늦게야 뜯어보고 구동해봤다.

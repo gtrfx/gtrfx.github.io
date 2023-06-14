@@ -1,6 +1,8 @@
 ---
 title: "Raspberry pi 음악서버"
 tags: [owntone]
+layout: post
+author: "Keith"
 ---
 
 owntone이라는 프로젝트가 있다. 원래 forked-daapd라는 프로젝트였는데 뭔가 상품화를 하려고 하는 것인지 기능도 개선되고 이름도 바뀌었다. 어쨌든 이것의 용도는 itunes music library를 비애플 기기에 올려두고 공유해서 쓸 수 있게 하는 것이다. 

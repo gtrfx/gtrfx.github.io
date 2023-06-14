@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "3GPP NR Meeting"
+author: "Keith"
 ---
 
 ### Hangzhou meeting (May/2017)

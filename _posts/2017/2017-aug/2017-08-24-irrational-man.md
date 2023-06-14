@@ -4,6 +4,7 @@ title: "Irrational Man"
 categories:
     - life
     - movies
+author: "Keith"
 ---
 
 이 영화 비추다.

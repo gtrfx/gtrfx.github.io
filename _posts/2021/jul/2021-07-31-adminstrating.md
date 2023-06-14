@@ -2,6 +2,7 @@
 title: "졸지에 여러 대의 머신을 관리하게 되었다."
 layout: post
 tags: [administrating]
+author: "Keith"
 ---
 
 제 버릇 남 못 준다고 어려 배운 도둑질(?)이 이런 거라 결국 지금도 그냥 지나치지 못하고 이 일을 하고 있다.

@@ -1,6 +1,8 @@
 ---
 title: "에스프레소 머신 하나 들여놓을까?"
 tags: [espresso machine]
+layout: post
+author: "Keith"
 ---
 
 갑자기 누군가 라떼 아트를 한다는 것을 보고 '나도 해볼까?' 하는 욕구가 생겨서 열심히 연구를 해봤다. 

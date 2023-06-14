@@ -1,6 +1,8 @@
 ---
 title: "NTP가 보편화되다보니.."
 tags: [ntp, time server]
+layout: post
+author: "Keith"
 ---
 
 대부분의 OS 그리고 phone이 NTP를 이용해서 매우 정확한 시간 정보를 얻고 수시로 보정이 되고 있는 덕택에 우리는 매우 정확한 시간 기준으로 살게 되었다. 사실 이게 그렇게 오래전 일은 아니라고 생각한다. MacOS의 경량화 버전인 iOS가 폰에 실리기 시작한 뒤로 NTP를 통해서 휴대용 기기에 시간을 보정하는 것이 보편화되었고 android가 등장한 이후 smart phone을 사용하는 사람들은 대부분 매우 정확한 time server로부터 시간 정보를 제공받기 시작했으니까 1초보다도 더 작은 오차 속에 살아가게 된 것이다. 이미 default option으로 동작하는 time server와 locality를 적용하면 daylight saving time까지 매우 정확한 시점에 보정되기 때문에 smart phone이나 멀쩡히 잘 설치된 OS를 사용하는 laptop/tablet/desktop 모두 매우 정확한 시간 정보를 가지고 동작하기 때문이다. 

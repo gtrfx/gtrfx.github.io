@@ -3,6 +3,7 @@ title: "Le Eco Super4 TV: 4k 60Hz 사용하기"
 tags: [external display, le eco, super4]
 image: https://i.rtings.com/assets/products/bGEfXlRU/leeco-super4/design-medium.jpg
 layout: post
+author: "Keith"
 ---
 
 개인적으로 Le Eco super4 TV를 외장 디스플레이로 사용하고 있다. 꽤나 오랫동안. 

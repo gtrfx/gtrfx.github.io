@@ -2,6 +2,7 @@
 layout: post
 title: "사무실에서 라스베리파이의 용도"
 tags: [raspberry pi, bridge, vpn]
+author: "Keith"
 ---
 
 라스베리파이의 장점은 뭐니뭐니해도 저전력으로 linux machine을 싸게 굴릴 수 있다는 것이라고 본다. 속도도 너무 느리지 않고 적당한 잡일을 시키기에 아주 안성맞춤이라고 본다. SoC 개발 속도로 봐서 이것보다 훨씬 더 빠른 AP를 가진 SBC (Small Board Computer)를 구할 수 있긴 한데 이렇게 안정적으로 돌아가는 Linux를 맞춤으로 구하기가 쉽지 않다. 다시 말해 이 정도로 안정된 주변 상황을 갖춘 물건이 없다는 것이다. 더 빠르고 더 성능 좋은 AP는 많은 반면.

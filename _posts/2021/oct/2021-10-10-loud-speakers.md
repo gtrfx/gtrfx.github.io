@@ -1,6 +1,8 @@
 ---
 title: "스피커.."
 tags: [loud speakers]
+layout: post
+author: "Keith"
 ---
 
 영화보는 용도로 스피커를 하나 구입하려는데 마땅한 물건을 찾지 못해 여러 달 눈쇼핑 중이다.

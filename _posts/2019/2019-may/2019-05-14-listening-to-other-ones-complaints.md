@@ -3,6 +3,7 @@ layout: post
 title: "타인의 고민 들어주기"
 tags: [life sucks to anybody]
 published: false
+author: "Keith"
 ---
 
 삶의 문제에 대해서 고민이 많다고 하는 사람들이 아주 많다. 대민 봉사차원으로 덕이 높은 이가 타인의 고민을 들어준다며 본인의 설을 전파하는 일이 있다. 

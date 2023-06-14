@@ -2,6 +2,7 @@
 layout: post
 title: "빈티지 렌즈에 대한 생각"
 tags: [vintage lenses]
+author: "Keith"
 ---
 
 빈티지 렌즈를 대략 3년간 보유하며 사용해 본 경험담을 개조식으로 적어본다. 

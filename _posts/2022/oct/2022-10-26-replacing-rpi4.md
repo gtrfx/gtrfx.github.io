@@ -1,6 +1,8 @@
 ---
 title: "Raspberry pi 4 걷어내기.."
 tags: [old android phone]
+layout: post
+author: "Keith"
 ---
 
 솔직히 최근에 Raspberry pi 4에 Geekbench를 돌려보고 실소를 금치 못했다. Rpi4가 나온 게 2019년이라고 하는데, 대충 3살 정도 된 물건임에도 성능이 너무 형편 없단 것이다. 생각해보면 대충 이맘 때 $200을 주고 Xiaomi의 Snapdragon 730G가 달린 폰으로 바꿨는데, Rpi4라고 해서 그렇게 싸게 사진 못했다. 정가는 대략 $40 정도라고 나오지만 막상 구입하려고 보면 이보다 더 줘야 하는 상황이었으니까. 다른 보드들도 여전히 상태가 좋지 못하다. 

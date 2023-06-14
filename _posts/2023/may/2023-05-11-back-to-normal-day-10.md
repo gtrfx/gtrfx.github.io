@@ -2,6 +2,8 @@
 title: "다시 또 겨울..10"
 tags: [alone again]
 published: false
+layout: post
+author: "Keith"
 ---
 
 8일째에 나름 나에겐 대소동이 있었고 그래서 끙끙 앓고나니 약간의 평정심이란 게 생겼는데, 되도록이면 이게 잘 유지되게끔 해야지 하는 생각을 하고 있다. 

@@ -5,6 +5,7 @@ categories:
   - life
   - linux
   - single board computer
+author: "Keith"
 ---
 
 ## 서버로서의 활용

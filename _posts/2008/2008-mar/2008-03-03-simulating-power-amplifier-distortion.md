@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Simulating Power Amplifier Distortion"
+author: "Keith"
 ---
 
 Power amplifier 회로는 사실상 프리앰프의 출력을 크게 증폭해주는 기능 말고도, 프리앰프 출력을 찌그러뜨리는 매우 중요한 기능을 한다. 또한 출력을 되먹임해서 입력에 반영시킴으로써 또 다른 EQ의 기능을 하기도 한다.

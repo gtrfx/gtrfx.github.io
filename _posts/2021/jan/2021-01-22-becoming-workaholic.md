@@ -1,6 +1,8 @@
 ---
 title: "Swift 체험.. 1일차"
 tags: [swift]
+layout: post
+author: "Keith"
 ---
 
 올해의 목표인 Swift 배우기를 진행 중이다.

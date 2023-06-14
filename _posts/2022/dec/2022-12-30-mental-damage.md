@@ -2,6 +2,8 @@
 title: "마음이 아플 때 마다 하는 짓.."
 tags: [mental damage]
 published: false
+layout: post
+author: "Keith"
 ---
 
 나란 사람이 이렇게 생겨먹은 것인지 난 늘 내 마음이 아플 때마다 똑같은 실수를 반복한다.

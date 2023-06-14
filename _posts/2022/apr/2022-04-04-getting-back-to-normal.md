@@ -1,6 +1,8 @@
 ---
 title: "Getting back to normality.."
 tags: [normality]
+layout: post
+author: "Keith"
 ---
 
 아침 일찍 일어나서 출근해봤다. 아무도 없다 에상한 대로. 

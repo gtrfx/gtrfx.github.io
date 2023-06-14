@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Stereo Guitar?"
+author: "Keith"
 ---
 
 

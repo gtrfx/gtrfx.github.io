@@ -2,6 +2,7 @@
 layout: post
 title: "Logic Pro로 AU plugin 사용하여 녹음하기"
 tags: [audio recording, latency]
+author: "Keith"
 ---
 
 얼마전에 Ax8을 장만하면서 Logic 안에 있는 AU plugin을 거의 사용하지 않고 녹음하게 되었다. 사실 그 전까진 사실 raw guitar sound를 녹음하면서 귀로 들리는 소리는 모두 AU plugin에 의존해서 이펙트를 입혀서 작업했는데, 이미 녹음된 트랙도 플레이시에 플러그인을 가동해야 되고 내가 트래킹하고 있는 소리에도 역시나 이펙트를 입혀서 들으면서 해야 되니까 계산하기도 복잡한 추가적인 latency를 감수해야만 했다. 

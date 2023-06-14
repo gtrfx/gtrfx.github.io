@@ -4,6 +4,7 @@ title: "요즘 기타 세계의 특징"
 categories:
     - music
     - guitar
+author: "Keith"
 ---
 
 역시 요즘 들어서도 가장 선호되는 기타 플레이 스타일은 shredding + jazz licks + righthand/sweeping 라고 봐야할 것 같다.

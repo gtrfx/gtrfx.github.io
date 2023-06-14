@@ -2,6 +2,7 @@
 layout: post
 title: "컴프레서는 뭐하는 물건인가?"
 tags: [compressor, dynamic effect]
+author: "Keith"
 ---
 
 ## 들어가며

@@ -2,6 +2,7 @@
 title: "vmware fusion on catalina: 화면 안나올 때 (black screen)"
 layout: post
 tags: [vmware, black screen]
+author: "Keith"
 ---
 
 Catalina의 보안관련 기능이 VMWARE의 화면이 온통 까맣게 나오도록 도와준다.

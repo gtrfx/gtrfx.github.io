@@ -4,6 +4,7 @@ title: "최근 Ibanez Guitars"
 categories: 
     - music
     - guitar
+author: "Keith"
 ---
 
 매년 Ibanez의 신모델도 빠짐없이 살펴보고 있는데 최근 들어서는 개인 문제 때문에 거의 들여다보질 못했다. 더구나 저가 모델에는 별로 관심이 없었는데, 고가 모델로 별로 재미를 보고 있지 못하는 입장에서 저가 모델에 더 많은 관심이 간다.

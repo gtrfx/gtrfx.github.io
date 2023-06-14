@@ -2,6 +2,8 @@
 title: "부정적인 생각하기.."
 tags: [negative thoughts]
 published: false
+layout: post
+author: "Keith"
 ---
 
 얼마전에 내가 '부정적인 생각'을 하고 있어서 그 생각이 자신에게 옮아와서 기분이 다운되어 (불쾌하다)다라는 얘길 들었다.

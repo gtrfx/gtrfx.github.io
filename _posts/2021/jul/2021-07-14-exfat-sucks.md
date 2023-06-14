@@ -2,6 +2,7 @@
 title: "exFAT 말고 뭘 써야되나??"
 layout: post
 tags: [crappy exfat]
+author: "Keith"
 ---
 
 요즘 가장 흔한 파일 시스템은 아마도 다음 중 하나가 아닐까 하는데..

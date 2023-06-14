@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Black Friday sale.."
+author: "Keith"
 ---
 
 

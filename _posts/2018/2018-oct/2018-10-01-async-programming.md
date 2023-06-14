@@ -2,6 +2,7 @@
 layout: post
 title: "비동기 프로그래밍"
 tags: [async, node.js]
+author: "Keith"
 ---
 
 재미삼아 node.js와 javascript를 들여다보는데 비동기 프로그래밍에 대한 이야기가 나와서 재미있게 시간을 보내고 있다.

@@ -3,6 +3,7 @@ layout: post
 title: "Catalina beta 3 still doesn't support multi-music-libraries"
 tags: [iTunes, Music, Catalina]
 img: crash_report.png
+author: "Keith"
 ---
 
 Catalina beta 3 still supports only one music library (mostly local library). That means I can't use my own daap server that I've been using so far.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bumblefoot &quot;Real&quot;..video"
+author: "Keith"
 ---
 
 정말 대단한 기타리스트 중 하나인 Ron Thal (Bumblefoot)의 뮤직 비디오다.

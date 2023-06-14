@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lydian Dominant Scale"
+author: "Keith"
 ---
 
 Major Scale Mode 말고 Harmonic Minor, Melodic Minor Scale에 대해서도 8개의 Mode가 존재한다. 뭐 이거 말고도 스케일이 엄청 많고, 들어보면 어떤 곡에서 나왔던 분위기다 하며 반가움을 갖게 된다.

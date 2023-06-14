@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/3f79d63629748cec9947bd1a75491066.png
 title: "Speaker Simulator (from JMP1)"
+author: "Keith"
 ---
 
 Marshall의 JMP1 샘플들을 들어보니 스피커 시뮬이 괜찮길래 한번 분석해봤다.

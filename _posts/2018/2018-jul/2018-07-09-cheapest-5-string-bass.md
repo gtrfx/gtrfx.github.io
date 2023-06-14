@@ -4,6 +4,7 @@ title: "Cheapest 5 string bass??"
 tags: [cheapest gear, bass, 5 string bass]
 categories:
     - guitar
+author: "Keith"
 ---
 
 4현 베이스를 통산 3번 가져본 것 같다. 열심히 할 생각은 없었고 재미삼아 가지고 노는 곡들의 배킹 트랙을 직접 만들어야지 하는 생각에서 사봤다가 그외에는 영 칠 일이 없어서 내보내고 들이고 했던 것 같은데, 막상 4현을 들고 있으면 5현이 그리워지는 일이 있었는데, 4현 5현을 같이 가지고 있을 바엔 4현이 좋다는 말에 혹해서 5현은 좀 꺼렸던 것 같다. 

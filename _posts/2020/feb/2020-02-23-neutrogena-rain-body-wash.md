@@ -3,6 +3,7 @@ title: "Neutrogena Rainbath"
 tags: [샤워젤]
 image: https://www.southsmarket.com/wp-content/uploads/2015/07/IMG_2872.jpg
 layout: post
+author: "Keith"
 ---
 
 습도가 낮은 계절엔 혹시나 샤워젤(겔?)이 도움이 될까해서, 또 포장에 나온 사진이 너무 괜찮아서, 추천에 따르면 파랑색이 좋다고 했지만 갈색의 제품밖에 없어서 어쩔 수 없이 사봤는데, 음.. 혹시나 궁금한 이들을 위해 사용기를 적어본다.

@@ -6,6 +6,7 @@ categories:
     - music
     - gtrfx
     - raspberry_pi
+author: "Keith"
 ---
 
 이번에는 외부 컨트롤러와의 통신 방법으로 SPI를 이용하는 방법에 대해서 알아보기로 한다.

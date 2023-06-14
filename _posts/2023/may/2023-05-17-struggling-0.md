@@ -2,6 +2,8 @@
 title: "버티기...0"
 tags: [struggling]
 published: false
+layout: post
+author: "Keith"
 ---
 
 여자친구가 있다가 없어지면 벌어지는 일 중 가장 큰 불편함을 안기는 것이 뭘까 생각해봤다.

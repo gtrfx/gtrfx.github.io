@@ -2,6 +2,7 @@
 title: "오늘은 일하기 싫다..정말로.."
 layout: post
 tags: [dont wanna work]
+author: "Keith"
 ---
 
 일하기 싫어서 오전부터 음악을 틀어놓고 듣고 있다.

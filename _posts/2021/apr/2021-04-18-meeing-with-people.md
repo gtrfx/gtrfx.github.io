@@ -1,6 +1,8 @@
 ---
 title: "나이든(?) 사람과 대화하기..(호구의 대화)"
 tags: [conversation with an old man]
+layout: post
+author: "Keith"
 ---
 
 생리적으로 나이가 든 사람을 비하하려는 게 아니다. 정신적으로 나이가 든 사람들 이야기를 하려는 것이다. 특징을 들면

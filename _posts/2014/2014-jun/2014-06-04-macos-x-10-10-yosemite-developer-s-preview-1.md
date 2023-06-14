@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MacOS X 10.10, Yosemite..Developer's Preview #1"
+author: "Keith"
 ---
 
 

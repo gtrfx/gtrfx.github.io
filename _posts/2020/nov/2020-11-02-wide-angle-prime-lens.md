@@ -2,6 +2,8 @@
 title: "광각 렌즈 쇼핑 중.."
 image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Canon_17-40_f4_L_lens.jpg
 tags: [wide angle lens]
+layout: post
+author: "Keith"
 ---
 
 예전엔 Canon nFD 24mm f2.8을 가지고 있었다. 워낙 평이 좋은 렌즈이기도 했지만 크기도 작고 가격도 좋아서 거의 새것처럼 깨끗한 물건을 들고 있다가 싫증 나서 그냥 헐값에 던져버렸다. 그래봐야 경제에 전혀 도움안되는 물건인데, 지금 찾아보면 비슷한 물건은 구경도 할 수 없다.

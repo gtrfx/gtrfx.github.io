@@ -1,6 +1,8 @@
 ---
 title: "WSL2용 arch linux: systemd가 돌아간다"
 tags: [arch linux, wsl2]
+layout: post
+author: "Keith"
 ---
 
 제목과 같다. WSL로 arch linux를 쓰고 싶은 사람은 그냥 구글링하면 바로 쓸 수가 있다.

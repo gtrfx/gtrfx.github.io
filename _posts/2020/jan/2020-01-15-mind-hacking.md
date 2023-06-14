@@ -3,6 +3,7 @@ title: "Mind Hacking"
 tags: [hack your mind]
 image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501105661/mind-hacking-9781501105661_hr.jpg
 layout: post
+author: "Keith"
 ---
 
 이 책이 아마도 올해 읽은 첫번째 책인 듯 싶다. 책을 많이 읽어야 언어 생활(그렇다 영어)에 도움이 된다기에.

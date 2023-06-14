@@ -2,6 +2,7 @@
 layout: post
 title: "QuickSync vs. VCE on MacOS"
 tags: [vce, quicksync, macos]
+author: "Keith"
 ---
 
 인텔 CPU는 대부분 내장 그래픽을 포함하고 있고 AMD의 경우는 그렇지 않다. 사실 그걸 따지면 그만큼 가격이 싼 게 어떻게 보면 이해가 된다. 그런데 인텔 내장 그래픽을 제대로 GPU로 활용하기 어려운 까닭에 별도로 GPU를 구매하는 사람들이 많고 그렇다.

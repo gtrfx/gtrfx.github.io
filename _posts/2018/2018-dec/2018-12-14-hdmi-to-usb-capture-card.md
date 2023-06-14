@@ -2,6 +2,7 @@
 layout: post
 title: 'HDMI-ro-USB Capture card (frame grabber)'
 tags: [video processing, capture card, grabber]
+author: "Keith"
 ---
 
 재미삼아 OBS라는 프로그램을 써봤는데 아주 요긴해서 디지털 카메라에서 받은 신호를 인코딩해보려고 하나 구입했다.

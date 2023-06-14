@@ -4,6 +4,7 @@ title: "Docker on a mac"
 tages: [docker, mac, ubuntu]
 categories:
     - computer
+author: "Keith"
 ---
 
 Linux on windows 10을 경험해 본 바 docker와 크게 다를 것이 없어보이는 반면 설치가 간단하다는 장점과 마소가 뭔가를 지원한다는 차이점이 있었는데, 마찬가지로 linux를 natively 별도의 partition에 설치하지 않고 MacOS 안에서 편하게 사용하기 위하여 docker를 올려보았다.

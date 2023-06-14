@@ -2,6 +2,8 @@
 title: "Eric Marienthal의 음악을 듣다가.."
 image: https://www.alexlofoco.com/wp-content/uploads/2017/08/Erics-Promo-Pic-1.jpg
 tags: [Eric Marienthal, Hustlin]
+layout: post
+author: "Keith"
 ---
 
 재즈고 뭐고 음악 장르도 제대로 구분 못하던 어린 시절에 선물받은 재즈(?) 모음집을 듣다가 '와! 이거 뭐야!' 했던 음악이 있는데, 그게 Eric Marienthal의 Hustlin' 이란 곡이었다. 사실 곡의 흐름이나 코드, 접근 방식이 등등이 그냥 흔한 팝음악과는 다르니까 흔히들 contemporary jazz라고 부르는데, 또 흔히 알려진 contemporary jazz와도 살짝 다른 맛이 있다. 어쨌든 Jazz라는 음악이 포함하는 영역이 워낙 넓으니까 그렇다고 하면 그런가보다 하고 들을 뿐. 

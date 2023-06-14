@@ -1,6 +1,8 @@
 ---
 title: "verilator 쓰면 쓸수록 괜찮네.."
 tags: [verilator]
+layout: post
+author: "Keith"
 ---
 
 VCS가 너무 답답해서 알아보던 차에 verilator가 우연히 걸렸는데 iverilog 같은 물건인가 싶어서 우습게 알고 있다가 지금은 계속 그 진가를 확인해가고 있다.

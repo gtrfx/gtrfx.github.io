@@ -2,6 +2,7 @@
 layout: post
 title: "pacman: mirror site name resolve timed out"
 tags: [arch linux, systemd resolved]
+author: "Keith"
 ---
 
 고성능 컴퓨터 (대개 랩탑/데스크탑)의 경우 일부러 불편한 Linux를 사용할 필요가 없으니까 꼭 해야 되는 경우가 아니면 사용하지 않는다. 사실 응급처지를 해야하는 경우에 linux처럼 간편한 게 없다. Linux를 초경량 OS라고 말하기엔 좀 문제가 있긴 하지만 사실 잘 알려진 OS 중에서 가장 가볍게 꾸릴 수 있는 게 linux이고 필요할 때 마다 모듈을 다운로드 받아서 플러그인 해서 쓸 수 있는 OS도 linux 뿐이니 그러하다. 

@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/84b552cd78b3858669956e1596547c44.jpg
 title: "Ibanez S1XXV FYE.."
+author: "Keith"
 ---
 
 ![image](/assets/images/84b552cd78b3858669956e1596547c44.jpg)

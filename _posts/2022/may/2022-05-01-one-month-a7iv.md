@@ -2,6 +2,8 @@
 title: "Sony A7iv를 산지 두달이 넘었네.."
 image: https://3.img-dpreview.com/files/p/TC3840x2560S3840x2560~sample_galleries/3220969392/5299412470.jpg
 tags: [sony a7iv]
+layout: post
+author: "Keith"
 ---
 
 Sony A7을 구입한 게 2014년쯤이었던 것 같은데 지난 2월에 A7iv를 새로 구입했다. 20mm G 1.8과 함께.

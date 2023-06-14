@@ -2,6 +2,7 @@
 layout: post
 title: Unluckiness in Life
 categories: life
+author: "Keith"
 ---
 
 살아가다보면 나도 모르는 새에 연속적인 불운의 주인공이 내가 되어버렸다는 사실을 알게 될 때가 있다. 

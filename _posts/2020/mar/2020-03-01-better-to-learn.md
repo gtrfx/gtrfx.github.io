@@ -3,6 +3,7 @@ title: "배우길 잘했다 싶은 것들"
 layout: post
 tags: [learning]
 published: false
+author: "Keith"
 ---
 
 1. Regex + Perl

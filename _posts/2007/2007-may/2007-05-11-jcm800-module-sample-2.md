@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "JCM800 Module sample..2"
+author: "Keith"
 ---
 
 레독스 커스텀 (Riff: 리어, 코일탭, Solo: 싱글코일) + JCM800 Module

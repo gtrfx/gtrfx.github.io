@@ -1,6 +1,8 @@
 ---
 title: "수면부족과 재채기..."
 tags: [sneezing, sleep deprivation]
+layout: post
+author: "Keith"
 ---
 
 누군가의 말을 빌면 수면 부족은 몸에서 사이토카인의 분비를 떨어뜨려 면역력을 떨어뜨리는데, 그게 어느 정도냐면 철마다 맞는 독감백신의 효력도 떨어뜨릴 정도라고 한다. 

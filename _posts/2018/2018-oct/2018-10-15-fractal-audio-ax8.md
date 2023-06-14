@@ -3,6 +3,7 @@ layout: post
 title: "AX8: 일주일째"
 tags: [fractal audio, ax8]
 image: https://img.audiofanzine.com/images/u/product/normal/fractal-audio-systems-ax8-244920.jpg
+author: "Keith"
 ---
 
 AX8 구입후 일주일 정도 사용한 것 같다. 

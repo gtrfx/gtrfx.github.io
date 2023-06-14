@@ -3,6 +3,7 @@ layout: post
 title: "AX8: 3일째 사용기"
 tags: [fractal audio, ax8]
 image: https://img.audiofanzine.com/images/u/product/normal/fractal-audio-systems-ax8-244920.jpg
+author: "Keith"
 ---
 
 앰프 모델별로 이것저것 테스트해보다 보니 이제 겨우 3개 정도의 앰프 모델을 확인해본 것 같다. 전체적인 소감은 '매우 훌륭하다' 였고 파라미터가 워낙 많고 그게 실제의 앰프에 있는 노브와 다른 것들이 많아서 파라미터를 어떻게 세팅하느냐에 따라 세상에 없는 괴물 앰프를 만들어낼 수 있다 싶다. 사실 많은 이들이 그렇게 만들어 쓰고 있고 말이다.

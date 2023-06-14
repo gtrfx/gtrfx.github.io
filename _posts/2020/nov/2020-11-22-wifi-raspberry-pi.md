@@ -1,6 +1,8 @@
 ---
 title: "Raspberry pi의 wifi를 이용하고 있다면.."
 tags: [raspberry pi, wifi]
+layout: post
+author: "Keith"
 ---
 
 이것은 라스베리파이에 wifi adaptor를 붙이거나 raspberry pi 3/4에 해당하는 이야기가 되겠다.

@@ -1,6 +1,8 @@
 ---
 title: "Yamaha OPL/N/M/X.."
 tags: [ym3812]
+layout: post
+author: "Keith"
 ---
 
 일년 중에 잉여력이 돋는 시절이 아닌데, 재미삼아 이 세계를 들여다보니 의외로 재미있는 구석이 많겠다 싶어서 이것 저것 계속 찾아보고 있다.

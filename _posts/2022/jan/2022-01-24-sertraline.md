@@ -1,6 +1,8 @@
 ---
 title: "정치 프로만 너무 듣고/보고 있는 나.."
 tags: [politics]
+layout: post
+author: "Keith"
 ---
 
 길게 적었다가 다시 지웠다. 

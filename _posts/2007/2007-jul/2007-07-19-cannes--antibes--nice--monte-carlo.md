@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/3b58ca0ae69c2344575041b94b8b3409.jpg
 title: "Cannes - Antibes - Nice - Monte Carlo.."
+author: "Keith"
 ---
 
 이 부근을 두번 지나가 본 경험으로 혹시나 처음 여행을 떠나는 이들을 위해 도움이 될까 적어본다.

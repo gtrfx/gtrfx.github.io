@@ -4,6 +4,7 @@ title: "Bass amplifier에 대하여"
 tags: [bass, bass amplifier, amplifier, amplifier model]
 categories:
     - guitar
+author: "Keith"
 ---
 
 갑자기 궁금증이 생겨서 bass로 유명한 모델 몇 가지의 회로를 열어보았다. 

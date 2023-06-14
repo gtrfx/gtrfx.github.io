@@ -1,6 +1,8 @@
 ---
 title: "guitar wireless 라는 걸 사봤다."
 tags: [guitar wireless]
+layout: post
+author: "Keith"
 ---
 
 기타를 그렇게 오래 쳐왔지만 요즘 같이 좋은 세상에 wireless system 하나 장만하지 못하고 살아온 거 보면 나도 대단하다 싶다.

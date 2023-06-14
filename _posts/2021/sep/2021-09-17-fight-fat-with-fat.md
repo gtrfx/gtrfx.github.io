@@ -2,6 +2,8 @@
 title: "기름으로 기름을 물리치는.."
 tags: [weight loss, fat]
 image: https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/324844_2200-732x549.jpg
+layout: post
+author: "Keith"
 ---
 
 지방을 먹으면 몸에 지방이 끼는 것 아니냐 하는 말에 뚜렷한 대답을 찾지 못했는데, 이것만은 확실한 것 같다.

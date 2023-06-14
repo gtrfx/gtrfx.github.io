@@ -2,6 +2,7 @@
 layout: post
 title: "일드 Reverse"
 tags: [reverse, toda erika]
+author: "Keith"
 ---
 
 나온지 여러 해 되는 작품인 듯 한데, 어쩌다 한꺼번에 몰아봤다.

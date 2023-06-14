@@ -6,6 +6,7 @@ img: konomichiwo.jpg
 categories:
     - music
     - drama
+author: "Keith"
 ---
 
 아무 기대 없이 일드 하날 정주행 하게 됐다. 기대 없이 본 일드는 늘 기대 이상으로 빠져드는데 생각보다 재밌는 것이다. 어라?! 1회가 끝나가려는 무렵 카즈마사 오다 옹의 노래가 나오는 것이다. 

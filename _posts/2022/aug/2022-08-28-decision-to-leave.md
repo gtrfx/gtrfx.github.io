@@ -3,6 +3,7 @@ title: "헤어질 결심.."
 tags: [decision to leave]
 image: https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2Fc31Ch6%2FbtrJRKTdHKN%2Fr8VSfbM0Ut8kTcP8VUN4h0%2Fimg.jpg
 layout: post
+author: "Keith"
 ---
 
 여기 저기에서 올해 최고의 영화라기에 봤다. 열심히 집중해서 본 것은 아닌데 이야기를 따라가지 못해서 허우적대다가 나중엔 될대로 되라 하는 심정으로 봤다.

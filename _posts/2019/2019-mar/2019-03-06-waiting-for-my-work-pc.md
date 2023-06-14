@@ -2,6 +2,7 @@
 layout: post
 title: "업무용 PC를 기다리며"
 tags: [ThinkCentre, i7 8700]
+author: "Keith"
 ---
 
 업무용 PC를 바꾸겠다고 신청한지 두달째가 되어간다. 

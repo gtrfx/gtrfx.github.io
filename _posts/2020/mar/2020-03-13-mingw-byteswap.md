@@ -2,6 +2,7 @@
 title: "mingw32: byteswap.h 없을 때"
 layout: post
 tags: [mingw32, byteswap]
+author: "Keith"
 ---
 
 급할 때 다음을 갖다 붙이자. 아무 문제 안생긴다.

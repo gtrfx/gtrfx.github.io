@@ -2,6 +2,8 @@
 title: "Blog theme을 바꾸고나니.."
 tags: [jekyll, theme]
 image: https://jekyllthemes.io/images/themes/beautiful-jekyll-jekyll-theme.jpg
+layout: post
+author: "Keith"
 ---
 
 Github page는 jekyll을 지원해주니까 jekyll의 free theme 중 좀 괜찮겠구나 싶어서 가져온 것을 쓰는데 이거 생각보다 너무 화려한 것 같다. 옛날 사람이라 좀 단촐한 것을 좋아하는데, 이거 무슨 거의 웹진 같은 분위기가 난다.

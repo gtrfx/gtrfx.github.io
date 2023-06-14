@@ -3,6 +3,7 @@ title: "코로나 2가 백신 부스터 접종 후기"
 tags: [bivalent, vaccine, booster]
 image: https://gray-wgcl-prod.cdn.arcpublishing.com/resizer/Y6wLG54Z2TrKvbcX11AB3UKfK3M=/1200x900/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/DFXC4VVIYJHHZLYDRKPUJI7CBA.jpg
 layout: post
+author: "Keith"
 ---
 
 사람들은 이 백신을 updated booster 또는 bivalent booster라고 부르는 듯 하다. bi(2) + valent(value + adj?)로 이해하면 되는 모양이다. 2가지 변형에 대응하기 때문에 2가 백신이라고 부르는 모양인데 새로 추가된 것은 오미크론 BA.4, 5에 대한 것이라고 하는데 아마도 이 후자가 현재의 코로나 유행을 이끄는 대표적인 변종인가보다. 

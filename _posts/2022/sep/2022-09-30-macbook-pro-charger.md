@@ -2,6 +2,7 @@
 title: "Macbook pro charger"
 tags: [thunderbolt, USB, GaN]
 layout: post
+author: "Keith"
 ---
 
 16 inch macbook pro에는 140W 정격인 파워가 들어있다. 파워 자체가 무겁고 크기 때문에 휴대성은 좀 떨어진다. 요새 나오는 GaN charger들은 워낙 소형이라 비교가 되는데, 대개 소형의 GaN charger는 잘해야 65W 정도의 출력을 낸다니까 뭔가 더 출력이 큰 걸 구입해야 하는 거 아닌가 하는 생각도 하게 된다.

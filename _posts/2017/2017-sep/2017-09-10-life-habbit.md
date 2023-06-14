@@ -3,6 +3,7 @@ layout: post
 title: "삶은 끊기 힘든 습관의 집합인가?"
 categories:
     - life
+author: "Keith"
 ---
 
 살아가며 겪는 여러 가지 일들, 그리고 내 자신의 반응들을 보면 '나'라는 것은 습관의 집합체가 아닌가 하는 생각을 하게 된다. 

@@ -3,6 +3,7 @@ layout: post
 title: "치유받고 싶은 남자"
 tags: [iyasaretai otoko]
 image: https://1.bp.blogspot.com/-YJmuTwXVV1Q/XLneNFKQXOI/AAAAAAABUvk/iNx0LAq2QDInGWEeutkW3edymKCfCSghQCLcBGAs/s1600/iyasaretaiotoko_preview.jpg
+author: "Keith"
 ---
 
 글쎄 이 드라마는 몹시 솔직하다고 해야할까. 그런 생각이 든다.

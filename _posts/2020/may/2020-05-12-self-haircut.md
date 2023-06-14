@@ -1,6 +1,8 @@
 ---
 title: "Self Haircut"
 tags: [haircut]
+layout: post
+author: "Keith"
 ---
 
 목표치가 높으면 생각보다 어렵고 아니면 생각보다 쉽다. 

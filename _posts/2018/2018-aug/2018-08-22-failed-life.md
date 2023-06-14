@@ -3,6 +3,7 @@ layout: post
 title: "실패한 삶..?"
 categories:
     - life
+author: "Keith"
 ---
 
 누군가가 이렇게 말했다.

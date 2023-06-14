@@ -1,6 +1,8 @@
 ---
 title: "Multiplatform build"
 tags: [multiplatform build]
+layout: post
+author: "Keith"
 ---
 
 x86세계에서 존재하는 C/C++ 빌드 조건은 아마도 다음이 아닐까 한다.

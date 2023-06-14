@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Thin Lizzy &quot;Cold Sweat&quot;"
+author: "Keith"
 ---
 
 Thin Lizzy의 노래 중에 내가 좋아하는 발라드를 가져올까 했는데, 괜시리 거들먹거리는 Gary Moore가 나와서 관두고 John Sykes가 나오는 동영상을 퍼왔다.

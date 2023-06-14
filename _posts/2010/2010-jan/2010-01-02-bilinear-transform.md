@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/ff31ba1b02d60ee0af63972ae4d7c470.jpg
 title: "Bilinear Transform"
+author: "Keith"
 ---
 
 아날로그 필터를 디지털 필터로 옮겨오는 것 중에 가장 쓸만한 방법이 Bilinear transform이다. 

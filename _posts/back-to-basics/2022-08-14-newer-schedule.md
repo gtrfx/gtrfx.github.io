@@ -2,6 +2,7 @@
 title: "Back to Basics: 8월 계획"
 tags: [back to basics]
 layout: post
+author: "Keith"
 ---
 
 2020년 2월에 이런 계획을 세웠다니 매우 놀라운 일인데, 갑자기 팬대믹 모드로 돌입하고 업무가 갑자기 미친 듯이 늘어나다보니 사실 실행을 못 했다.

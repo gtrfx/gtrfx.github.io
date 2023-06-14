@@ -2,6 +2,7 @@
 layout: post
 title: "H.265 인코딩시 목표 data rate"
 tags: [h.265]
+author: "Keith"
 ---
 
 H.265 인코딩을 자체적으로 지원되는 CPU도 많아졌고 대부분의 폰과 PC는 H.265 디코딩을 지원한다. 

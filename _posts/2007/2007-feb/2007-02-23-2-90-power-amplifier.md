@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2:90 Power Amplifier"
+author: "Keith"
 ---
 
 앰프의 구조는 입력을 40~50배 증폭시키는 초단과 phase splitter,그리고 6L6 2 pair가 1 channel을 이루어, 총 2개 채널로 각각 약 90W의 출력을 내는 파워앰프이다.

@@ -1,6 +1,8 @@
 ---
 title: "지인들의 최근 근황을 듣다가.."
 tags: [magic scope]
+layout: post
+author: "Keith"
 ---
 
 뭐랄까 삶은 투쟁? 이라고 해야할 것 같다. 

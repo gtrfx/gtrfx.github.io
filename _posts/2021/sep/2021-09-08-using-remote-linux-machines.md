@@ -1,6 +1,8 @@
 ---
 title: "리눅스 원격머신 사용하기"
 tags: [using linux machine]
+layout: post
+author: "Keith"
 ---
 
 리눅스 원격 머신을 쓸 때 가장 답답한 것이 text based로 하다보면 내 머신에서 파일을 열어보거나 바꾸거나 해야 할 때다. 인터넷 접속 속도가 아주 우수하다면 모두 GUI로 연결해서 하고 그곳의 뷰어 같은 것들을 이용해서 그대로 열어서 작업하면 되지만, 그게 아니면 text based (ssh)만한 게 없으니까. 

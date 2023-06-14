@@ -1,6 +1,8 @@
 ---
 title: "Xcode를 외부 builder를 통해 굴리는 방법"
 tags: [xcode, docker]
+layout: post
+author: "Keith"
 ---
 
 별로 어렵지 않다. 프로젝트를 새로 만들 때 "Others"로 되어있는 것을 선택하면 된다. 이때 builder를 물어보는데, docker를 통해서 리눅스용 make를 부른다거나 그외 뭐든 할 수 있다.

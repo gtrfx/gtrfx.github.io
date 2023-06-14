@@ -1,6 +1,8 @@
 ---
 title: "Ryzen machine이 수시로 rebooting 되는 경우"
 tags: [ryzen]
+layout: post
+author: "Keith"
 ---
 
 Ryzen 5950x 머신을 10대 들여놓았는데 openmpi로 열일을 시켜보았더니 처음 한달 정도는 별 문제 없이 잘 돌아가나 싶었는데, 대충 1년쯤 되가니 문제를 일으킨다. 지금 2대가 문제였는데, 첫번째 것은 UEFI setup을 그냥 default로 놔준 뒤에 아무 문제없이 잘 돌아가고 있고 나머지 한 대도 마찬가지로 해주었지만 여전히 수시로 rebooting이 되어서 어쩔 수 없이 CPB (Core Performance Boost) 옵션을 꺼버린 뒤에 잠잠해졌다.

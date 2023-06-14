@@ -1,6 +1,8 @@
 ---
 title: "DLL 이름 바꾸기.."
 tags: [rename, dll, dynamic library, shared library]
+layout: post
+author: "Keith"
 ---
 
 # 들어가며

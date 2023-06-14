@@ -1,6 +1,8 @@
 ---
 title: "옛날 사진 들여다보기.."
 tags: [photos, memory]
+layout: post
+author: "Keith"
 ---
 
 뜻하지 않게 예전 사진을 들여다보는 경우가 1년에 한 두번은 생기는 것 같다. 

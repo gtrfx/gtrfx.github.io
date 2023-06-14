@@ -2,6 +2,7 @@
 title: "OpenMP vs MPI?"
 layout: post
 tags: [high performance computing]
+author: "Keith"
 ---
 
 OpenMP를 지원하는 게 흔한 일이 되었는지 이젠 리눅스 배포판에 gomp가 기본으로 붙어서 배포되는 것 같다. pthread와 fork를 쓰는 것보다 openmp를 쓰는 것이 간결(?)해 보이기도 하고 뭐 그런 이점이 있긴 하다.

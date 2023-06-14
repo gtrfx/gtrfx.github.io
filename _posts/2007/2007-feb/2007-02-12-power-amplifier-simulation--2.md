@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Power Amplifier Simulation...#2"
+author: "Keith"
 ---
 
 이번엔 앰프의 다이내믹한 특성에 대해서 실험해보았다..

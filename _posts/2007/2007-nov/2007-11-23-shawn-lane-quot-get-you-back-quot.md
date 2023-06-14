@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Shawn Lane &quot;Get You Back&quot;"
+author: "Keith"
 ---
 
 Shawn Lane의 역작 "Powers of Ten"이란 앨범 수록곡이다.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Metallica - Eye of the Beholder..."
+author: "Keith"
 ---
 
 이젠 Metallica의 4집도 엄청난 고전에 속하는 음악이 되었다..

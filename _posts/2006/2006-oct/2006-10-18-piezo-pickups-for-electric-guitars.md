@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Piezo Pickups for Electric Guitars.."
+author: "Keith"
 ---
 
 

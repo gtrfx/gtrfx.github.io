@@ -1,6 +1,8 @@
 ---
 title: "삶의 난이도.."
 tags: [difficult level]
+layout: post
+author: "Keith"
 ---
 
 그동안 삶을 쓸데없이 어렵게 살아온 게 아닐까 하는 결론에 도달했다.

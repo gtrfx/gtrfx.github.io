@@ -4,6 +4,7 @@ title: "오랜만에 파견의 품격"
 categories:
     - life
     - jdrama
+author: "Keith"
 ---
 
 오랜만에 다시 정주행 해봤다. 역시 2005년 근방에 나온 것들은 그 나름대로 어떤 비슷한 흐름을 타는 느낌이다.

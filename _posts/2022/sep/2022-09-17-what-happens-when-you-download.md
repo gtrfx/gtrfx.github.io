@@ -2,6 +2,7 @@
 title: "토렌트로 돌아다니는 소프트웨어를 설치했을 때.."
 tags: [MacOS, i2p, i2pd]
 layout: post
+author: "Keith"
 ---
 
 내가 확인해 본 것이 Mac에 logic pro x/final cut pro x를 설치하고 벌어진 일이니까. 나머지는 알아서 생각하시길 바란다.

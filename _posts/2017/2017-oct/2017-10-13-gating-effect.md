@@ -3,6 +3,7 @@ layout: post
 title: "Gating Effect"
 categories:
     - project
+author: "Keith"
 ---
 
 Gate라는 이펙트는 특정 조건의 신호가 들어오면 받아들이고 그것을 만족 못하면 받지 않는 기능을 하는 이펙트이다. Compressor라든가 Limiter, Expander 등등과 비슷한 기능을 하는 dynamic effect인데, 그 사용 형태가 다소 극단적이라는 차이가 있을 뿐이다.

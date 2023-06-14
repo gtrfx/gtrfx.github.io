@@ -3,6 +3,7 @@ layout: post
 title: "AMD 머신 해킨토시"
 tags: [amd, osx]
 image: https://avatars0.githubusercontent.com/u/32821593?s=400&v=4
+author: "Keith"
 ---
 
 원치 않게 나 혼자 4대의 PC를 거느리게 되었다. 새로 들어온 한 대를 빼고 모두 native OSX가 설치되어있다. 

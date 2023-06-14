@@ -2,6 +2,7 @@
 title: "할리벤튼 (Harley Benton) 싱글컷 1주 사용기"
 image: https://mthumbs.static-thomann.de/thumb/padthumb600x360/pics/prod/362633.jpg
 layout: post
+author: "Keith"
 ---
 
 할리벤튼의 제품명을 따라서 썼기에 싱글컷이지 레스폴 카피모델을 샀다는 말이다. 미국으로 배송비포함 $150에 구입했다.

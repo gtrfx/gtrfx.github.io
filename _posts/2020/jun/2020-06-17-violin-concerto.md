@@ -2,6 +2,8 @@
 title: "바이올린 협주곡"
 image: https://images-na.ssl-images-amazon.com/images/I/71x%2Byl3GtFL._SL1400_.jpg
 tags: [violin concetro]
+layout: post
+author: "Keith"
 ---
 
 나는 무슨 세계 3대, 5대 XXX 해서 랭킹을 먹인다거나 딱 꼬집어서 3개만 혹 5개만 엄청 좋다 이야기하는 걸 싫어한다. 대개 이런 경우 이 글을 쓴 사람이 딱 3개 혹은 5개 밖에 들어본 적이 없기 때문에 그런 소리를 하는 것이라 본다. 세상에 존재하는 모든 것을 아니 그의 1/4, 1/10이라도 잘 봤다면 함부로 그런 소릴 할 수 없을텐데 하지만. 

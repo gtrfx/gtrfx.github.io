@@ -3,6 +3,7 @@ title: "I-5 vs I-405"
 layout: post
 image: https://img.dtcn.com/image/digitaltrends/la-traffic-i405-750x402.jpg
 tags: [San Diego, LA]
+author: "Keith"
 ---
 
 LA를 관통하는 고속도로 중에서 I-5와 I-405가 아마도 가장 많이들 다니는 길이 아닐까 한다. 지도상으로 보면 I-5는 내륙을 지나가고 정체가 매우 심한 LA 중심부를 관통한다. I-405는 바닷가와 가까운 쪽을 지나가는데 거리상으로 보면 분명히 최단 거리가 아니라 돌아가게 된다. 운전해봐도 계속 방향을 바꾸게 되는 것만 봐도 이게 직진으로 최단 거리를 달리고 있는 게 아니란 느낌이 아주 명확하다. 그런데, Google map이 자주 I-405를 타고 가는 경로를 추천해 줄 정도로 I-5의 정체가 극심할 때가 많다.

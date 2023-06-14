@@ -2,6 +2,7 @@
 layout: post
 title: "GX85에서 Log 타입 picture profile"
 tags: [GX85, picture profile, loglike]
+author: "Keith"
 ---
 
 미러리스 카메라로 비디오를 찍는 일이 흔해지다보니 다이내믹 레인지에 대한 관심이 많아지고 LUT이라든가 색보정에 관한 관심도 많아진 듯 하다.

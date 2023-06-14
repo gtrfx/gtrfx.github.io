@@ -1,6 +1,8 @@
 ---
 title: "pulseaudio module"
 tags: [pulseaudio]
+layout: post
+author: "Keith"
 ---
 
 일단 라스베리파이에 simulated surround 모듈을 direct/BT path를 이용해서 quarophic으로 올려보겠다는 생각은 pulseaudio module을 만들어넣는 것으로 가능하게 되지 싶다. 대충 인터넷을 뒤져보니. pulseaudio용 module이 몇 개 있긴 하지만 그게 내 입맛에 떨어지는 것도 아니고 더욱이 이런 괴상한 경우에 맞춰서 모듈을 만들었을리도 없거니와.

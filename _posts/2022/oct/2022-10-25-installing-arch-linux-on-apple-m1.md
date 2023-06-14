@@ -1,6 +1,8 @@
 ---
 title: "Apple M1에서 Qemu에 Arch linux 설치해보기.."
 tags: [apple m1, linux]
+layout: post
+author: "Keith"
 ---
 
 이 토픽 자체가 철지난 거라 뭐 이런 걸 이제 적어올리냐 할 수 있는데, UTM처럼 누군가 다듬어 준 도구를 사용한다면 모를까 그냥 맨땅에 해당하는 식으로 설치하려고 보면 이게 쉽지 않은 일임을 알 수 있다.

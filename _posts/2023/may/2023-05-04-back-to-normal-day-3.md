@@ -2,6 +2,8 @@
 title: "다시 또 겨울..3"
 tags: [alone again]
 published: false
+layout: post
+author: "Keith"
 ---
 
 3일이 지나고 나니 마음이 한결 더 편해졌다. 뭐랄까 더 넉넉하고 당당해지는 느낌이라고 해야 되나?

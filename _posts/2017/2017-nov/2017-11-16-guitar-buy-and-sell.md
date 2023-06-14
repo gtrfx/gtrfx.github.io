@@ -4,6 +4,7 @@ title: "2017 한해 거래 한 기타들"
 categories:
     - life
     - guitar
+author: "Keith"
 ---
 
 그동안 기타에 전혀 신경 못 쓰고 지내다가 이제 좀 한숨 돌리다보니 또 기타 바꿈질에 열중하게 된다.

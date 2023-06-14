@@ -2,6 +2,8 @@
 title: "호세 바닐라 넛 커피.."
 image: https://richmedia.ca-richimage.com/ImageDelivery/imageService?profileId=12026540&id=751176&recipeId=728
 tags: [gift]
+layout: post
+author: "Keith"
 ---
 
 커피가 다 떨어져서 코스트코에 갔다가 향에 꽂혀서 충동 구매했다. 가격은 일반 프렌치 다크 로오스트에 비하면 제법 비싼 편인데 맨날 같은 것만 마시다보니 재미삼아 구입했다고 볼 수 있다.

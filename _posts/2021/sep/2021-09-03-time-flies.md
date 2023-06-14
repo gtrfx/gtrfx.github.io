@@ -1,6 +1,8 @@
 ---
 title: "2021년 9월."
 tags: [september]
+layout: post
+author: "Keith"
 ---
 
 올해도 어느 덧 9월이다. 그래도 나름 널널하게 살아서 매달 1일에는 기록을 남길 수 있겠지 했는데 벌써 3일이나 되었다. 

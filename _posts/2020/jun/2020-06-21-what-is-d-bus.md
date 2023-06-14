@@ -1,6 +1,8 @@
 ---
 title: "D-Bus는 뭐하는 것임?"
 tags: [d-bus]
+layout: post
+author: "Keith"
 ---
 
 d-bus 문제에 가끔 휘말릴 때가 있다. Docker container를 쓰거나 wsl로 linux를 불러서 쓸 때 그런데, 이런 저런 애플리케이션을 쓰다보면 가끔씩 warning이 뜨기도 한다. 또 어떤 일을 하려고 하면 dbus에 문제가 있어서 안된다는 경우도 생긴다.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Filter model: Bilinear transform"
+author: "Keith"
 ---
 
 

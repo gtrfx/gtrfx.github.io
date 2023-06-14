@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ubuntu slow boot problem"
+author: "Keith"
 ---
 # Ubuntu booting이 느려졌을 때..
 

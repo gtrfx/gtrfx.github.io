@@ -3,6 +3,7 @@ title: "Encoded RTL"
 tags: [terms, tools]
 layout: post
 published: false
+author: "Keith"
 ---
 
 RTL의 특정 부분을 encrypt해서 내용을 알 수 없게 해야 하는 경우 protected라는 예약어를 사용한다.

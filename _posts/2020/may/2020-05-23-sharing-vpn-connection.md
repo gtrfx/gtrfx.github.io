@@ -1,6 +1,8 @@
 ---
 title: "VPN 연결 공유하기"
 tags: [vpn, sharing]
+layout: post
+author: "Keith"
 ---
 
 특정 네트워크로 연결하게 해주는 VPN을 여러 기기를 통해 사용해야 한다고 할 때, 이것을 어떻게 공유하는지 정리해보기로 한다.

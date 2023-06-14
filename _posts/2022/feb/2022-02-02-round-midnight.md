@@ -1,6 +1,8 @@
 ---
 title: "Round Midnight"
 tags: [thelonious monk, round midnight]
+layout: post
+author: "Keith"
 ---
 
 이 곡에 대해서는 재즈라는 것이 무엇인가에 대해서 쓴 책을 읽다가 처음 알게 되었던 것 같은데 문득 어제 뭔가 열심히 들여다봐야겠다는 생각을 하게 되었다.

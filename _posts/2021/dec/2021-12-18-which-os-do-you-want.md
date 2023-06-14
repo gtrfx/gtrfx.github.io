@@ -1,6 +1,8 @@
 ---
 title: "좋은 하드웨어를 샀을 때 설치하고 싶은 OS?"
 tags: [best os]
+layout: post
+author: "Keith"
 ---
 
 MacOS는 진작부터 좋았으니까 얘기할 필요가 없고 Linux 세계가 많이 좋아져서 이젠 울며겨자먹기로 윈도우즈를 설치할 이유가 없다는 사실이 나를 즐겁게 한다.

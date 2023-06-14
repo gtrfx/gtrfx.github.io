@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Le Pou Plugiins.."
+author: "Keith"
 ---
 
 Le Pou라는 무료 기타 앰프 시뮬 VST 제작자가 있다. ([클릭](http://lepouplugins.blogspot.com)

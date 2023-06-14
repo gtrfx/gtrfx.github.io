@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Linux Boot strap"
+author: "Keith"
 ---
 
 bootstrap 과정을 정리하면 다음과 같다. 

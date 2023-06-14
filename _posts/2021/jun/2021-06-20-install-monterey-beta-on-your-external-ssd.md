@@ -2,6 +2,7 @@
 title: "M1 Mac에서 외장 SSD에 Monterey 설치하기"
 layout: post
 tags: [m1 mac, monterey]
+author: "Keith"
 ---
 
 Monterey beta를 주력 파일 시스템에 설치하긴 뭐하다보니 외장 SSD 혹은 HDD에 설치하려 할 것이다. (나는 주력 시스템도 외장 SSD로 쓰고 있다.)

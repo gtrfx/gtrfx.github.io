@@ -1,6 +1,8 @@
 ---
 title: "Water softner: 연수기에 대해서.."
 tags: [water softner]
+layout: post
+author: "Keith"
 ---
 
 이번에 이사를 가게 되면서 집안에 연수기를 설치하게 되는 상황에 놓이게 되어 알아보게 되었다. 

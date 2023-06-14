@@ -1,6 +1,8 @@
 ---
 title: "패스워드를 도난 당했다."
 tags: [password theft]
+layout: post
+author: "Keith"
 ---
 
 업무상으로 사용하던 외부 서비스가 하나 있는데, 갑자기 그곳에서 내 email이 변경이 되었다는 메시지가 날아왔다.

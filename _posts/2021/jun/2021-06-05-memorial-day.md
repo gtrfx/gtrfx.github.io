@@ -2,6 +2,7 @@
 title: "현충일과 memorial day"
 layout: post
 tags: [memorial day]
+author: "Keith"
 ---
 
 5월 31일은 memorial day라고 해서 work from home인 와중에 하루 노는 척을 했던 것 같다. 노는 척이라고 말한 이유는 노는 날이지만 노는 척하고 일을 했기 때문인데, memorial day party를 한답시고 (혹자들이) 한국에서 물의를 일으켰다는 뉴스를 들었다.

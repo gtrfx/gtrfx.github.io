@@ -2,6 +2,7 @@
 title: "Linux에 MATLAB 설치하기"
 layout: post
 tags: [matlab]
+author: "Keith"
 ---
 
 Linux에서는 docker로 matlab을 불러다 쓸 수 있으니까 최소희생으로 설치하게 되면 도움이 많이 된다. 

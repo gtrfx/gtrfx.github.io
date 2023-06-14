@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Academic Issue: Guitar Amplifier (Real-Time) Modeling"
+author: "Keith"
 ---
 
 

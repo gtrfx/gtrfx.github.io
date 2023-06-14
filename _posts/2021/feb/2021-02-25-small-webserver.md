@@ -1,6 +1,8 @@
 ---
 title: "간단한 웹서버는 역시 nodejs가 최고.."
 tags: [nodejs]
+layout: post
+author: "Keith"
 ---
 
 주제에 어긋난 이야기로 흘러가서 다시 쓴다. 어차피 읽을 사람은 없겠지만.

@@ -2,6 +2,7 @@
 layout: post
 title: "운동과 허리 통증"
 tags: [back pain, disc herniation]
+author: "Keith"
 ---
 
 다년간 허리가 아파봤던 사람으로서 운동과 허리 통증에 관한 썰을 풀어볼까 한다. 

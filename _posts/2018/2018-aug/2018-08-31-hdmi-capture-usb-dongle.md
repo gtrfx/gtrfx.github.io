@@ -4,6 +4,7 @@ title: "HDMI-to-USB capture card"
 tags: [usb, HDMI, webcam]
 categories:
     - computer
+author: "Keith"
 ---
 
 HDMI 신호를 받아서 UVC (USB Video Class) 표준에 맞는 포멧으로 어느 정도 압축을 한 뒤에 PC로 전달하는 물건이다. 이게 가격대가 스펙트럼이 꽤 넓어서 어느 것을 사야할지 좀 애매한 면이 있는데, 개인적인 경험으로 봤을 때 100불 이하의 물건은 비추한다.

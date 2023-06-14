@@ -2,6 +2,7 @@
 layout: post
 title: "Machine learning과 high power computing"
 tags: [deep learning, machine learning, GPU]
+author: "Keith"
 ---
 
 Machine learning 이 문제로 거의 10년 가까이 시끄러운 것 같다. 이미 대부분은 settle down되어서 또 이 세계에 어떤 큰 변혁이 일어날까 싶을 정도가 아닐까 싶기도 하고.

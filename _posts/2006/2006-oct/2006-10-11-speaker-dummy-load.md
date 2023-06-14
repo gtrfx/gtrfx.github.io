@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Speaker Dummy Load.."
+author: "Keith"
 ---
 
 

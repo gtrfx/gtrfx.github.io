@@ -3,6 +3,7 @@ layout: post
 title: "Catalina에서 Mojave로 다운 그레이드?"
 tags: [catalina is not good for upgrade right now]
 image: https://www.beyondtrust.com/docs/remote-support/resources/images/whats-new/macos-mojave-support.png
+author: "Keith"
 ---
 
 Catalina가 나온지 한달 좀 넘어가고 있다. 베타3까지 나왔다. 아쉽게도 베타3에도 문제가 매우 많다. 베타 3에 와서는 security 기능 때문에 키보드 조작 프로그램도 돌지 않고 Logic Pro도 녹음을 할 수 없게 되었다. 일단 맛은 봤으니까 그냥 뒤로 돌리는 게 나을 것 같단 결론을 봤다. 아마 메인 컴퓨터는 그냥 Mojave로 올해 내내 놔두게 될 것 같다. iPad가 없는 나로서는 Catalina로 크게 덕볼 일이 없다 솔직히. 손해보는 것은 많아도 말이다. 

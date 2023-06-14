@@ -3,6 +3,7 @@ layout: post
 title: "Flutter를 배워볼까?: Day 2"
 image: https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?w=578&strip=all
 tags: [flutter]
+author: "Keith"
 ---
 
 용기를 내어 안드로이드 스튜디오를 받아봤다. 개발환경이 얼마나 편안한지 테스트도 해볼 겸, 시뮬레이터도 쓸만한가 테스트 해볼 겸.

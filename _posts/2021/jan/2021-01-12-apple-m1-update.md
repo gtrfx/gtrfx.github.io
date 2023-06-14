@@ -2,6 +2,8 @@
 title: "Apple M1 관련: Docker"
 image: https://www.threatstack.com/wp-content/uploads/2017/06/docker-cloud-twitter-card.png
 tags: [apple m1]
+layout: post
+author: "Keith"
 ---
 
 대략 2주 전에 docker for apple m1이 나왔다. M1에서 docker desktop을 돌리는 것인데, hypervisor framework을 통해서 돌리는 것이라 QEMU로 AARCH64 가상 머신을 돌리는 것과 별 다르지 않다. 

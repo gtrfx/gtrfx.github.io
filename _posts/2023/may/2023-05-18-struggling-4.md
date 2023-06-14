@@ -2,6 +2,8 @@
 title: "버티기...4"
 tags: [struggling]
 published: false
+layout: post
+author: "Keith"
 ---
 
 아직은 재회의 바램이 있다. 이런 사람을 놓치고 싶은 사람은 없을테니까. 

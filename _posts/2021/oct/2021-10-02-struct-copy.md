@@ -1,6 +1,8 @@
 ---
 title: "struct의 복사 (copy)"
 tags: [cpp]
+layout: post
+author: "Keith"
 ---
 
 C/C++ 세계에는 복사와 지정(assignment)의 개념이 혼동되는 것이 흔하다.

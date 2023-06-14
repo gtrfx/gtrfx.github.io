@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Stereo imaging"
+author: "Keith"
 ---
 
 

@@ -2,6 +2,7 @@
 title: "openmpi가 말을 잘 안들을 때"
 tags: [openmpi]
 layout: post
+author: "Keith"
 ---
 
 OpenMPI가 매우 유용한 툴인데 가끔씩 문제가 생기면 해결하기 쉽지 않은 경우가 있어 정리해보기로 한다.

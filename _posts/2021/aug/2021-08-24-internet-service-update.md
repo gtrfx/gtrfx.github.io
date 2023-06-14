@@ -1,6 +1,8 @@
 ---
 title: "인터넷 서비스 업그레이드"
 tags: [comcast]
+layout: post
+author: "Keith"
 ---
 
 내가 살고 있는 지역은 comcast라는 케이블 모뎀 사업자가 소위 홈 인터넷을 서비스한다. 케이블 티비를 포함해서.

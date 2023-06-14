@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Clarke, Miller, and Wooten"
+author: "Keith"
 ---
 
 베이스 괴수 3기 모이다..

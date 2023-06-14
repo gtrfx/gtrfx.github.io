@@ -1,6 +1,8 @@
 ---
 title: "Eat mindfully...뭐냐?"
 tags: [eat, mindfully]
+layout: post
+author: "Keith"
 ---
 
 예전에 영어공부를 열심히 한답시고 TED talks를 열심히 보던 시절에 봤던 것 중 하나가 "eat mindfully"라는 내용의 것이었다. 체중과 먹는 것에 관한 이야기다.

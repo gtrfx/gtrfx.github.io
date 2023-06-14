@@ -1,6 +1,8 @@
 ---
 title: "Issue tracker"
 tags: [issue tracker]
+layout: post
+author: "Keith"
 ---
 
 살아가다가 issue tracker를 써 본 것은 작은 조직에서 (대기업인데 조직과 인력이 빠듯한) 써봤던 기억이 있다. 써봤다기 보단 쓰임 당했다고 봐야 할 것 같다. 

@@ -3,6 +3,7 @@ title: "mpi사용시 load balance에 대하여"
 tags: [mpi, load balance]
 image: https://www.biorxiv.org/content/biorxiv/early/2018/10/11/440701/F1.large.jpg
 layout: post
+author: "Keith"
 ---
 
 mpi를 사용하여 많은 개수의 장비를 이용해서 뽕을 뽑으려면 load balance를 해주는 것이 유리하다. 그것도 dynamic하게 말이다.

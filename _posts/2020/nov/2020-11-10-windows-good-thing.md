@@ -1,6 +1,8 @@
 ---
 title: "윈도우즈가 참 잘 한 일: WSL"
 tags: [windows subsystem for linux]
+layout: post
+author: "Keith"
 ---
 
 Mac을 처음 접했을 때 가장 맘에 들었던 것이 UI 말고도 terminal이었다. terminal은 사실 그냥 bash를 하나 여는 것이었는데, unix 명령을 그대로 쓸 수 있으니까 GUI도 쓰면서 unix (BSD가 맞다)의 훌륭한 command line 명령어도 쓸 수 있어서였다. 당시 윈도우는 cmd를 실행하는 게 전부였다. 유닉스를 쓰고 싶다면 remote machine에 terminal을 이용해서 접속해야 된다. 그 당시엔 docker도 없었기 때문에 잘해봐야 mingw나 cygwin 같은 것을 쓰는 방법이 있는데, 이 아이들은 뭐랄까 native linux와는 좀 달라서 중요한 지점에서 꼭 막히곤 했던 기억이 있다. 물론 대단한 작업이라고 할 수 있다.

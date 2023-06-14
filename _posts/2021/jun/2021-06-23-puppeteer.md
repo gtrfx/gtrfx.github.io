@@ -2,6 +2,7 @@
 title: "Puppeteer"
 layout: post
 tags: [nodejs,puppeteer]
+author: "Keith"
 ---
 
 Puppeteer는 근래 써본 node js 패키지 중에 가장 맘에 들었던 패키지라고 할 수 있을 것 같다. 정말 이 패키지는 사용자도 많고 기능도 풍부할 뿐더러 워낙 요긴하기 때문에 그렇기도 하지만.

@@ -1,6 +1,8 @@
 ---
 title: "Mac mini에서 Macbook으로 바꾸고 난 뒤.."
 tags: [m1 mac]
+layout: post
+author: "Keith"
 ---
 
 주력기를 Mac mini에서 macbook pro로 바꾼지 대략 2주 남짓 되어가는 듯 하다. 이미 Mac mini는 처분했다. 애플에서는 trade in시 200불을 쳐주겠다고 해서 냉큼 다른 사람에게 팔았다.

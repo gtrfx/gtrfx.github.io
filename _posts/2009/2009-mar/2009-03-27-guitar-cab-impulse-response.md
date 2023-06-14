@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Guitar Cab Impulse Response"
+author: "Keith"
 ---
 
 평소에 모아두었던 impulse response들을 공개한다.

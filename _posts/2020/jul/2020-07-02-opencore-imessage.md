@@ -1,6 +1,8 @@
 ---
 title: "OpenCore bootloader에서 iMessage/Facetime 활성화시키기"
 tags: [imessage, facetime, hackintosh]
+layout: post
+author: "Keith"
 ---
 
 OpenCore로 오기 전에 Ryzen CPU 머신에 macOS를 올렸는데, 당시에 imessage/facetime이 잘 되지 않아서 이게 CPU를 가리는 것인가 하고 말았던 것 같다. 이걸로 연락하는 사람들도 없었으니까.

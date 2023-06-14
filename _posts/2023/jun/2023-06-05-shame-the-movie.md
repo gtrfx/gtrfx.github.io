@@ -2,6 +2,8 @@
 title: "영화 Shame (2011).."
 tags: [shame, movie]
 image: https://www.highonfilms.com/wp-content/uploads/2016/06/Shame2.jpg
+layout: post
+author: "Keith"
 ---
 
 대배우였던 고 Steve Mcqueen이 감독한 영화 "Shame (2011)"을 봤다. 성중독인 주인공을 그린 영화라고 해서 봤는데, 전체적인 분위기나 느낌은 괜찮았는데, 아직 이 영화가 뭘 의도하고 만들어졌는지는 아직 잘 모르겠다.

@@ -4,6 +4,7 @@ title: "Manchester by the sea"
 categories:
     - life
     - movies
+author: "Keith"
 ---
 
 볼만한 영화가 없을까 인터넷에서 검색하던 중 우연히 얻어걸린 영화이다. 

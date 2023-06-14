@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Marshall JCM800 2203 Digital Emulation"
+author: "Keith"
 ---
 
 

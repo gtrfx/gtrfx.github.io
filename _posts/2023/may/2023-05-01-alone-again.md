@@ -2,6 +2,8 @@
 title: "다시 또 겨울.."
 tags: [alone again]
 published: false
+layout: post
+author: "Keith"
 ---
 오늘은 5월 1일
 

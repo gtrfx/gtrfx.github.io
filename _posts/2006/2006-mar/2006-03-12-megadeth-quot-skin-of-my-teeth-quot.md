@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Megadeth &quot;Skin of My Teeth&quot;"
+author: "Keith"
 ---
 
 Guitar: Ibanez RG450MH (EMG81)

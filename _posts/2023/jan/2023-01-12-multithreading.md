@@ -1,6 +1,8 @@
 ---
 title: "multithreading"
 tags: [multithreading]
+layout: post
+author: "Keith"
 ---
 
 CPU의 코어개수가 늘면서 multithreading을 하는 것이 보편적이 되었고 그걸 못해서 처리 속도가 느려지면 바보같은 application이 된다고 볼 수도 있을 것 같다.

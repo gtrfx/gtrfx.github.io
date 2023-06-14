@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Power Amplifier Simulation..."
+author: "Keith"
 ---
 
 Duncan Amp에서 제공한 50W Transformer Model을 이용해서 Dual Rectifier 50W Power Amplifer를 PSPICE로 Simulation해보았다..

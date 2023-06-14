@@ -3,6 +3,7 @@ layout: post
 title: "Flutter를 배워볼까?: Day 3"
 image: https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?w=578&strip=all
 tags: [flutter]
+author: "Keith"
 ---
 
 Flutter에 대해서 웹 검색을 해보니 또 실력자들만 몰래 암암리에 공부/실전 적용 중인지 별로 걸리는 게 없다. 걸려봐야 고작 피상적인 것들, 어디 가서든 얻어 들을 수 있는 것들 그런 것들이다. 그냥 플러터 커뮤니티에 가입해서 열심히 게시판 읽고 따라다니는 게 빠른 길이지 싶다.

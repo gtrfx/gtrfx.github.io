@@ -5,6 +5,7 @@ categories:
     - life
     - business
     - stock
+author: "Keith"
 ---
 
 여태 살아오면서 다니고 있던 회사가 갑자기 회사가 합병되는 경우는 처음이라 좀 얼떨떨한 기분이다. 

@@ -4,6 +4,7 @@ title: "Aliexpress Guitar"
 categories:
     - life
     - guitar
+author: "Keith"
 ---
 
 알리 익스프레스에서 팔리고 있는 기타를 한번 잡아봐야겠다는 생각을 하게 됐다. 왜? 재미로.

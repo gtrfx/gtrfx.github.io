@@ -1,6 +1,8 @@
 ---
 title: "마음에 맷집 키우기.."
 tags: [make myself robust to being beaten]
+layout: post
+author: "Keith"
 ---
 
 자존감, 자존감 하는데 나는 이것을 심리적인 맷집이라고 생각한다. 

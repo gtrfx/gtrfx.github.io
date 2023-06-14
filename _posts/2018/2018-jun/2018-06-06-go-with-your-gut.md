@@ -4,6 +4,7 @@ title: "Go with your gut!"
 categories:
     - life
     - music
+author: "Keith"
 ---
 
 책을 읽다가 유용한 표현을 하나 발견했다. 

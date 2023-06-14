@@ -2,6 +2,7 @@
 layout: post
 title: "John Sykes에 대해 잠시.."
 tags: [john sykes, thin lizzy, tygers of pan tang, whitesnake, blue nurder]
+author: "Keith"
 ---
 
 Blue Murder의 "Blue Murder" 앨범이 나온지 30년째가 되는 듯 하다. 이 앨범이 나올 때 내가 들어봤다는 것은 아니고 이런 앨범이 있다는 것을 물론 한참 뒤에 알게 되었고 그래서 듣고 좋아하게 되었지만.

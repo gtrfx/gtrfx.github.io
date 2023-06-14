@@ -3,6 +3,7 @@ layout: post
 title: "Greg Howe 새 앨범: Wheelhouse"
 categories:
     - music
+author: "Keith"
 ---
 
 Greg Howe가 얼마동안의 밴드 (Maragold) 활동을 끝내고 솔로 앨범을 발매했다.

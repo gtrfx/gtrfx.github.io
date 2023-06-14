@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Chairman's note for NR MIMO "
+author: "Keith"
 ---
 
 ###	MIMO

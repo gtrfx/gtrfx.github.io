@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Metallica Guitar Sounds from F. Rasmussen"
+author: "Keith"
 ---
 
 Hi Guys

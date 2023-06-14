@@ -2,6 +2,7 @@
 title: "안과 염증.."
 layout: post
 tags: [opthalmic inflammation]
+author: "Keith"
 ---
 
 대략 2-3년에 한번씩은 안과염증때문에 병원을 가야하는 것 같다. 경험상 별로 계절을 타는 것 같진 않다. 

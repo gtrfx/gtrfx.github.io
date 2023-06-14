@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I'm in Tallinn, Estonia, but.."
+author: "Keith"
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: "WSL2에서 docker가 오래된 (GLIBC < 2.17) linux distro를 못 돌릴 때"
 tags: [wsl, windows subsystem linux, docker]
+layout: post
+author: "Keith"
 ---
 
 WSL2에서 docker를 돌릴 수가 있다고 얘기했다. WSL에서는 못 한다 분명히. 이게 docker desktop을 쓰는 것보다 훨씬 빠르고 편리하다. Docker desktop for windows에서도 WSL2의 기능을 활용할 수 있는 옵션이 생겨있긴 하지만, WSL2에서 어떤 linux 배포판을 설치하고 그 위에 docker를 설치해서 docker를 쓰는 게 여전히 훨씬 간편하고 가볍다. 그래서 생각보다 쓰는 사람들이 꽤 많다.

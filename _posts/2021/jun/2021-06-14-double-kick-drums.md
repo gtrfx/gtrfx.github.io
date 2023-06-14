@@ -2,6 +2,7 @@
 title: "더블 킥 드럼 연습: 한달째?"
 layout: post
 tags: [double kickdrums]
+author: "Keith"
 ---
 
 대략 한달째 더블 킥을 연습하고 있다. 매일 매일은 못하고 3-4일 간격으로 한번 씩 하고 있다. 

@@ -2,6 +2,8 @@
 title: "Kirkland Craft Beer (커클랜드 시그니처 수제 맥주)"
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSojglCB86ZgXaaV8jjkzYNoiGpfMgPaq0dwQ&usqp=CAU
 tags: [APA, IPA, Session IPA, Pilsner]
+layout: post
+author: "Keith"
 ---
 
 작년에 이어 올해도 이걸 열심히 팔고 있는 것으로 봐서 나름 인기가 좋은 것 아닐까 한다. 예전에 팔던 40개 들이 캔맥주는 더 이상 안나오는 듯하다. 대신 이 수제 맥주 세트는 작년/올해 계속 가져다놓는 것으로 보아서 인기가 있이서 그런 것 아닐까 한다만.

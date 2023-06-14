@@ -3,6 +3,7 @@ layout: post
 title: "아는 것과 최종 결정"
 categories:
     - life
+author: "Keith"
 ---
 
 나란 사람의 바보같은 행동 방식에 대해 생각해보려한다. 

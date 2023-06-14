@@ -3,6 +3,7 @@ layout: post
 title: "Celldweller 음악 좋네!"
 categories:
     - music
+author: "Keith"
 ---
 
 좀 많이 늦기는 했는데 우연히 스타워즈 음악에 대해서 검색해보다가 Celldweller라는 뮤지션의 Imperial March를 듣게 됐다. 내가 듣기에는 오케스트라 곡인 Imperial March의 Electronic perody로 들렸다고 봐야 맞을 것 같다. Imperial March를 원작 그대로 일렉트릭 장르로 옮겨왔다기 보단 주요 테마만 빼와서 그것을 스타워즈 - 명확히는 Darth Vader - 의 특징과 결합시켜놓은 패러디라고 보면 좋지 않을까 한다.

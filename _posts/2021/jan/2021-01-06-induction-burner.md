@@ -2,6 +2,8 @@
 title: "인덕션 쿡탑"
 image: https://m.media-amazon.com/images/I/71myG3MbcJL.jpg
 tags: [induction cooktop]
+layout: post
+author: "Keith"
 ---
 
 주방기구에 별로 관심이 없던 사람으로써 우리집은 대충 10여년 전부터 인턱션 쿡탑을 써왔다고 생각했다. 그때 맞춰서 요리 기구도 인덕션 용으로 대거 개편을 했던 기억도 있다.

@@ -2,6 +2,8 @@
 title: "NVMe USB 3.2? 어댑터를 사봤다.."
 image: https://m.media-amazon.com/images/I/81dB7KtNPZS._AC_SS450_.jpg
 tags: [NVMe]
+layout: post
+author: "Keith"
 ---
 
 M1 Mac이 여러 대 생겼는데 경우에 따라 작업해야 할 파일 시스템을 옮겨가며 할 수 있게 하려다보니 MacOS를 외장 SSD에 설치하고 그것을 하드웨어를 옮겨가며 작업하게 되었다. 굴러다니는 SATA SSD가 있었던 탓에 SSD-USB 어댑터를 이용해서 이곳 저곳에 옮겨다닐 수 있게 했는데 Macbook에서는 더 이상 USB-A를 지원하지 않다보니 Thunderbolt 아니면 USB-C를 지원하는 어댑터를 써야 한다. 

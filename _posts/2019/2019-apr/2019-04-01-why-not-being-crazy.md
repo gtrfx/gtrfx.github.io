@@ -2,6 +2,7 @@
 layout: post
 title: "왜 기뻐 날뛰지 못 하는 것일까?"
 tags: [happiness]
+author: "Keith"
 ---
 
 정상인의 무드라는 것이 나름 정의가 되어있는 것 같다. 평상시에 어느 정도 기분이 좋고 나쁜지에 관한 기준. 그래서 그것보다 못하면 우울(depressive disorder)하다고 하고 그것보다 많이 좋다고 하면 '조증(manic disorder??)'이라고 하는데, 어떤 사람들은 조증와 우울증이 반복하면서 일종의 양극단에 이른다고 해서 조울증 (bipolar disorder/manic depression)이라고 한다. 

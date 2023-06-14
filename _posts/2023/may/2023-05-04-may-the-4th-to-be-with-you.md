@@ -2,6 +2,8 @@
 title: "May the 4th to be with you.."
 tags: [may the 4th]
 published: false
+layout: post
+author: "Keith"
 ---
 
 5월 4일에 흔히 한다는 얘기를 적어봤다. 뭐랄까 난 갑자기 '(인간관게에서) 공짜 점심은 없다'하는 생각이 떠올랐다.

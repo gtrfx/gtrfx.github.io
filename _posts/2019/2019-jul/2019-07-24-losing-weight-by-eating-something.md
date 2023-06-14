@@ -2,6 +2,7 @@
 layout: post
 title: "뭔가를 먹으면 살이 빠진다는 광고"
 tags: [fight fat by eating something, fight fire with fire]
+author: "Keith"
 ---
 
 티비광고 인터넷 광고에서 이런 거 흔히 본다. 누가 뭘 먹고 순식간에 엄청나게 감량했다.

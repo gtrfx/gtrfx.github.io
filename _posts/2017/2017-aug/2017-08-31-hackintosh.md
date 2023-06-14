@@ -4,6 +4,7 @@ title: "When you see - failed loading kernel cache at boot time"
 categories:
     - hackintosh
     - life
+author: "Keith"
 ---
 
 High sierra (MacOS 10.3)로 업데이트 한 이후에 발생한 문제이다. Developer beta 8에 와서 발생했는데, 업데이트 도중에 firmware가 맞지 않는다며 설치가 중단되고, 부팅할 때는 kernel cache를 loading하는데 문제가 생긴다며 부팅이 중단된다.

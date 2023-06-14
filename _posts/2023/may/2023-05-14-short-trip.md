@@ -2,6 +2,8 @@
 title: "짧은 여행..."
 tags: [short trip]
 published: false
+layout: post
+author: "Keith"
 ---
 
 왕복 10시간 넘게 운전해서 매우 짧은 여행을 다녀왔다.

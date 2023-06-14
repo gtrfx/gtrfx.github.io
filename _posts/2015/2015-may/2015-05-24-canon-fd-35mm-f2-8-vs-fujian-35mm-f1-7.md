@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/895fcd98e9232406cc932b5c0ed5a0a6.jpg
 title: "Canon FD 35mm f2.8 vs Fujian 35mm f1.7"
+author: "Keith"
 ---
 
 

@@ -3,6 +3,7 @@ layout: post
 title: "Djent"
 categories:
     - music
+author: "Keith"
 ---
 
 Djent metal이란 장르에 대해서 듣기 지삭한게 내가 기억으로는 대략 7-8년 되가지 싶다. 이것의 뿌리는 90년대의 메탈코어라고 하는데, Meshuggah라는 밴드가 저음현을 사정없이 몰아치는 연주/사운드로 부터 출발한 것처럼 이야기하고, 지금처럼 타이트한 사운드가 확립된 것은 Periphery라는 밴드의 음악이 대중적인 인기를 얻고 나서가 아닌가 한다. 

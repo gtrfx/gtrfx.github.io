@@ -2,6 +2,7 @@
 layout: post
 title: "잡설: 코드와 스케일.."
 tags: [chords, scale]
+author: "Keith"
 ---
 
 기타를 오래 쳐오다보니 코드와 스케일에 대해서 갖는 생각이 점점 바뀌어간다. 대충 정리해보면,

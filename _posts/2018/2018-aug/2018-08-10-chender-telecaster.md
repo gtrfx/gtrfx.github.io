@@ -5,6 +5,7 @@ tags: [aliexpress, telecaster, chender, fender]
 categories:
     - guitar
     - hobby
+author: "Keith"
 ---
 
 ![my new telecaster](/assets/img/telecaster2.jpg)

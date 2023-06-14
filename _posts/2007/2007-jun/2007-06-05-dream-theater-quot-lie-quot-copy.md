@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dream Theater &quot;Lie&quot; Copy"
+author: "Keith"
 ---
 
 7현 기타로 오랜만에 샘플 하나 만들어 올려본다..

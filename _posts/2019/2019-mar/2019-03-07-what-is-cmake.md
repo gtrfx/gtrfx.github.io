@@ -2,6 +2,7 @@
 layout: post
 title: "CMake란 무엇인가?"
 tags: [cmake]
+author: "Keith"
 ---
 
 cmake를 마주해본 적이 있던 사람이면 이게 무슨 역할을 하는 것인지 대충은 알 것이다.

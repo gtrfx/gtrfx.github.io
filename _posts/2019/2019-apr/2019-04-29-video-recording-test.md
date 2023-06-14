@@ -2,6 +2,7 @@
 layout: post
 title: "비디오 레코딩 테스트: Sony A7, A6300, Panasonic Gx85"
 tags: [video recording, h.264, fhd, 4k]
+author: "Keith"
 ---
 
 그동안 수많은 카메라 비교 유튜브 클립을 봐왔지만 사실 대략적인 차이만 인지할 뿐 실질적인 차이는 막상 내가 직접 해보지 않으면 알 수 없는 것이라 실제로 해보니 깨닫게 되는 게 많아서 적어보게 된다.

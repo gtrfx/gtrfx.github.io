@@ -2,6 +2,7 @@
 title: "오늘의 관심사: Loudness normalizer?"
 tags: [loudness, adaptive gain controller]
 layout: post
+author: "Keith"
 ---
 
 누군가가 앰프로 음악을 들을 때 노래/음악의 종류와 상관없이 같은 크기의 음량으로 들을 수 있는 방법이 있으면 좋을텐데, 그런 물건이 나오면 좋겠다고 어떻게 하면 되겠냐고 물어보았다. 

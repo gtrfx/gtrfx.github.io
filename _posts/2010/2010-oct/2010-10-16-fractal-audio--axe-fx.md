@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/12a7b59f6fff66130257524a1433f400.gif
 title: "Fractal Audio - Axe Fx"
+author: "Keith"
 ---
 
 Guitar와 관련된 signal processor로 line6의 제품들이 한동안 인기를 끌었던 것 같은데, 그렇다고 해서 그 제품들이 어떤 'ultimate treasure box of tones'라고 보기엔 미달한 점도 많았고 버전업이 되더라도 사실 거기서 거기였다는 평가도 많고 나 또한 그렇게 생각해왔다. 이번에 나온 HD는 엔지니어들이 이런 저런 앰프의 시뮬레이트를 하다가 가장 그럴싸한 것들만 뽑아서 만들었는지 인기도가 높은 앰프 순으로 뽑았다기 보단 그저 구색갖추는 수준에서 골라진 16개 앰프 모델로 구성이 되어있다. 

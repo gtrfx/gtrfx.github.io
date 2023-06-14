@@ -2,6 +2,7 @@
 layout: post
 title: "Harley Benton Custom Line Nashville Nylon Guitar"
 tags: [solid body, nylon string]
+author: "Keith"
 ---
 
 제목이 좀 길다. 나일론 줄을 쓰는 기타가 있었음 했었는데 사실 갖고 있지 않은 이유는 바디도 크고 소리도 커서 였다. 흔히 나일론 줄을 쓰는 기타는 클래식 기타라고 말 하는데, 대개 피에조 픽업을 붙여서 나오는 것은 많이 팔리지 않는다. 순수하게 어쿠스틱한 기타로 존재하는 경우가 많다. 그 이유는 연습용, 교습용으로 사는 것이라 일렉트릭이어야 할 필요가 없기 때문인 것이다. 밖에 나가서 performing할 일도 없고 recording할 이유도 없으니까. 

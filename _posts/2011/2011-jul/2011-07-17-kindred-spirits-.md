@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Kindred Spirits..."
+author: "Keith"
 ---
 
 믹싱과 녹음은 정말로 경험에서 우러나오는 방법 말곤 없는 듯하다..

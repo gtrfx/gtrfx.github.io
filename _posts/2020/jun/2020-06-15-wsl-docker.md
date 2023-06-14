@@ -1,6 +1,8 @@
 ---
 title: "WSL-Docker"
 tags: [docker, wsl]
+layout: post
+author: "Keith"
 ---
 
 WSL2에 와서 systemd가 제대로 되는 배포판이 몇 가지 있어서 이 덕택에 dockerd를 systemd로 불러서 WSL에서 쉽게 쓸 수 있다고 했다. 그런데, 문제가 하나 있다고 했다. 그 문제는 WSL을 쓰지 않는 동안에도 vmmem이 메모리와 시스템 로드를 점유하고 있는 것이라고 했다. WSL을 쓰지 않아도 일단 WSL을 한번이라도 불렀으면 메모리를 점유하게 된다. 모든 distro를 terminate하거나 WSL을 아예 shutdown하면 점유한 메모리가 없어지거나 줄어들게 되지만.

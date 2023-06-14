@@ -4,6 +4,7 @@ title: "Linux on Windows"
 tags: [linux on windows10, linux, windows, powershell, ubuntu]
 categories:
     - computer
+author: "Keith"
 ---
 
 windows 10에서 VM이 아닌 상태로 Linux를 기동할 수 있게 되었다는 얘긴 예전에 들은 바 있었는데, 실제로 linux distribution을 Windows상에 설치해서 동작해본 적은 없었다. 사실 윈도우즈를 10년간 안쓰고 있었으니 그럴 법도 하지만, 서울에 있을 때 은행일을 볼 때나 관공서 사이트에 들락거린다거나 회사에서 간혹 워드 혹은 Visio 같은 소프트웨어를 써야할 땐 어쩔 수 없이 윈도우즈를 어떻게든 썼었으니까 적어도 이 정도는 해봤어야 되지 싶었는데 나도 참 새소식에 느린 사람이구나 했다. (이미 고립되어버렸는지도 ㅠ)

@@ -1,6 +1,8 @@
 ---
 title: "Waveform (DAW) 30분 만져본 소감"
 tags: [waveform]
+layout: post
+author: "Keith"
 ---
 
 긴 말이 필요없을 것 같다. 리눅스에서도 쓸 수 있는 현대적인 인터페이스를 가진 DAW라 기대했는데 실망하게 되었다.

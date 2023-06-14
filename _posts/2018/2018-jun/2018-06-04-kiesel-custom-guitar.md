@@ -4,6 +4,7 @@ title: "Kiesel (ex. Carvin) 커스텀 기타에 대하여"
 categories:
     - life
     - guitar
+author: "Keith"
 ---
 
 커스텀 기타 하면 카빈, 그게 요샌 키젤이라고 이름이 바뀌어서 서비스하고 있는데, 디자인이 제법 세련되고 좋은 재료를 써서 그런 것인지 바디도 매우 화려하고 난리도 아니다. 

@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/815bf9c54d32237c99a1b6670c52a901.png
 title: "Stephen Fry in America..(2008)"
+author: "Keith"
 ---
 
 ![image](/assets/images/815bf9c54d32237c99a1b6670c52a901.png)

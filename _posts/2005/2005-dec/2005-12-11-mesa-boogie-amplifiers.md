@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mesa/Boogie Amplifiers"
+author: "Keith"
 ---
 
 Mesa/Boogie는 Fender 앰프를 수리/개조하던 끝에 Boogie amplifier란

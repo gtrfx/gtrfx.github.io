@@ -2,6 +2,8 @@
 title: "다시 또 겨울..6"
 tags: [alone again]
 published: false
+layout: post
+author: "Keith"
 ---
 
 이제 6일째에 접어든다. 잘 참았다. 불행히도 어제는 온종일 좀 많이 힘들었다. 왜 5일에 특히 힘들었는지 몰랐지만 대충 이해해보면 

@@ -2,6 +2,7 @@
 title: "iverilog vs VCS-MX"
 tags: [verilog]
 layout: post
+author: "Keith"
 ---
 
 공개용 시뮬레이터와 이 세상에서 가장 빠르다는 시뮬레이터와 간략히 비교를 해보았다.

@@ -2,6 +2,7 @@
 title: "Back-to-Linux: 리눅스로 돌아오다"
 layout: post
 tags: [linux, docker, kvm]
+author: "Keith"
 ---
 
 이 위중한 코로나 시국에 나는 열심히 쓰던 MacOS를 버려두고 우분투로 왔다. 이제 3일 정도 지났지만 아직까진 매우 만족스럽다.

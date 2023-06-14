@@ -1,6 +1,8 @@
 ---
 title: "15년만에 오디오 인터페이스를 바꿨다.."
 tags: [motu m2]
+layout: post
+author: "Keith"
 ---
 
 MOTU M2를 샀다. 15년만에 오디오 인터페이스를 바꾸는 걸로. 정말 정말 오래도 썼다.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bumblefeet??"
+author: "Keith"
 ---
 
 Bumblefoot의 Guitars Suck을 발로 연주해내는 기가막힌 동영상이다..

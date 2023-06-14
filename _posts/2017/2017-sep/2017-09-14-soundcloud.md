@@ -3,6 +3,7 @@ layout: post
 title: "Soundcloud 놀이"
 categories:
     - music
+author: "Keith"
 ---
 
 [Soundcloud](https://soundcloud.com)는 말 그대로 인터넷에 공개하여 올릴 만한 음악파일 (저작권 문제 없는)을 올릴 때 유용한 서비스이다라고 생각이 된다. 그곳에선 그 음악을 게시해주는 대신 그들 자신의 목적을 달성하고 나 역시 공짜로 클라우드를 이용할 수 있으니까 좋은 거고 그런 것이다.

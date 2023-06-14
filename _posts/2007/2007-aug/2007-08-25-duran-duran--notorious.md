@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Duran Duran..'Notorious'"
+author: "Keith"
 ---
 
 2006년의 Duran Duran의 Live이다..

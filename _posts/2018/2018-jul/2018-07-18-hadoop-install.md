@@ -4,6 +4,7 @@ title: "Hadoop을 설치하려고 보니..."
 tags: [hadoop, docker, it_survival]
 categories:
     - computer
+author: "Keith"
 ---
 
 세상 흐름에 도태되지 않으려고 발악 중이다. 휴가철인데다 중요한 일을 다 끝내놓아서 대낮에 한가롭게 자기계발(?)을 위해서 hadoop을 만지고 있다. 원래는 deep learning을 들여다보다가 이게 hadoop까지 확장이 되어버렸다. 아마도 이것 말고도 계속해서 확장이 될 것 같다.

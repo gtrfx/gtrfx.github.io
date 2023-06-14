@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2.1 Channel Speaker Modification"
+author: "Keith"
 ---
 
 ## 들어가며

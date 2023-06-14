@@ -1,6 +1,8 @@
 ---
 title: "file system merge script"
 tags: [merge]
+layout: post
+author: "Keith"
 ---
 
 File system merge 기능은 생각보다 매우 요긴하다.

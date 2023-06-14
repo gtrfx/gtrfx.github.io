@@ -1,290 +1,132 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5f205b3a-73c2-472c-b052-82b95bdf36b7/deploy-status)](https://app.netlify.com/sites/sleepy-bhabha-00eedf/deploys)
+# Tale
 
-### Hey guys, how are you? 🍽 🇧🇷
+[![Gem Version](https://badge.fury.io/rb/tale.svg)](https://badge.fury.io/rb/tale)
 
-As you know, this is a 100% free template, I earn nothing to maintain it. So, I have this idea and hope you can join me for a good cause.
+Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/).
 
-Every donation that I receive from this project from now on (04/11/21), I'll donate to NGOs that work against hunger in Brazil.
-
-If you feel the template is worth it and you could help people in need, here is the link:
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAKL66RSDGH48&source=url)
-
-Thank you!
-
-# Jekflix Template
-
-![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
-
-See the [demo here](https://jekflix.rossener.com/).
-
-## What is it?
-
-A theme for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance.
-
-![Jekflix Screenshot Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566390829/jekflix-screenshot-2_zfiog2.jpg)
+![Tale screenshot](http://i.imgur.com/pXZrtmo.png)
 
 ## Features
+- Easy installation
+- Compatible with GitHub Pages
+- Responsive design (looks just as good on mobile)
+- Syntax highlighting, with the help of Pygments
+- Markdown and HTML text formatting
+- Pagination of posts
+- Sticky posts
+- Tags
+- Excerpt management
+- [Disqus comments (can be enabled if needed)](#enabling-comments)
 
-- [Live Search](https://github.com/thiagorossener/jekflix-template/wiki/Features#live-search)
-- [Estimated Reading Time](https://github.com/thiagorossener/jekflix-template/wiki/Features#estimated-reading-time)
-- [Reading Progress Bar](https://github.com/thiagorossener/jekflix-template/wiki/Features#reading-progress-bar) *(optional)*
-- ["New Post" tag](https://github.com/thiagorossener/jekflix-template/wiki/Features#new-post-tag)
-- [Load images on demand](https://github.com/thiagorossener/jekflix-template/wiki/Features#load-images-on-demand)
-- [Push Menu](https://github.com/thiagorossener/jekflix-template/wiki/Features#push-menu)
-- [SVG icons](https://github.com/thiagorossener/jekflix-template/wiki/Features#svg-icons)
-- [Shell script to create posts](https://github.com/thiagorossener/jekflix-template/wiki/Features#shell-script-to-create-posts)
-- [Tags page](https://github.com/thiagorossener/jekflix-template/wiki/Features#tags-page)
-- [About page](https://github.com/thiagorossener/jekflix-template/wiki/Features#about-page)
-- [Contact page](https://github.com/thiagorossener/jekflix-template/wiki/Features#contact-page)
-- [404 error page](https://github.com/thiagorossener/jekflix-template/wiki/Features#404-error-page)
-- [Feed RSS](https://github.com/thiagorossener/jekflix-template/wiki/Features#feed-rss)
-- [Disqus](https://github.com/thiagorossener/jekflix-template/wiki/Features#disqus) *(optional)*
-- [Featured post](https://github.com/thiagorossener/jekflix-template/wiki/Features#featured-post) *(optional)*
-- [Home page pagination](https://github.com/thiagorossener/jekflix-template/wiki/Features#home-page-pagination) *(optional)*
-- [Posts sidebar](https://github.com/thiagorossener/jekflix-template/wiki/Features#posts-sidebar) *(optional)*
-- [Paginated posts](https://github.com/thiagorossener/jekflix-template/wiki/Features#paginated-posts) *(optional)*
-- ["Before you go" modal](https://github.com/thiagorossener/jekflix-template/wiki/Features#before-you-go-modal) *(optional)*
-- [Post recommendation](https://github.com/thiagorossener/jekflix-template/wiki/Features#post-recommendation)
-- [Netlify CMS ready](https://github.com/thiagorossener/jekflix-template/wiki/Features#netlify-cms-ready)
-- [Translations](https://github.com/thiagorossener/jekflix-template/wiki/setup#translations) **new!**
-- [Math Expressions](https://github.com/thiagorossener/jekflix-template/wiki/Features#math-expressions) *(optional)* **new!**
+## Installation
+There are 3 ways to install this theme
 
-## SEO
+1. Install it as a Ruby Gem (for self-hosted sites)
+2. Install it with the `jekyll-remote-theme` plugin (for GitHub Pages hosted sites)
+3. Fork the project directly
 
-- Google Analytics
-- Meta tags
-- JSON-LD
-- Sitemap.xml
-- Social Media ready
+### Ruby Gem method
+1. Add this line to your `Gemfile`:
 
-## Quick Install
-
-In the case you're installing to existing Jekyll project, add this line to your project's `Gemfile`:
-
-```
-gem "jekflix"
+```ruby
+gem "tale"
 ```
 
-Add this line to your project's `_config.yml`:
+2. Install the theme's gems and dependencies:
 
-```
-theme: jekflix
-```
-
-And then run:
-
-```
+```bash
 $ bundle
 ```
 
-Or install it yourself as:
+3. In `_config.yml` add these lines:
 
-```
-$ gem install jekflix
-```
+```yaml
+theme:      tale
 
-### Theme Colors
-
-Create the file `/assets/css/styles.scss` and add:
-
-```
----
----
-
-$themeColor: #ff0a16;
-$primaryDark: #141414;
-$accentDark: #ffffff;
-$lightGray: #f2f2f2;
-$texts: #333333;
-
-@import "jekflix";
+permalink:  /:year-:month-:day/:title
+paginate:   5
 ```
 
-Modify the variables above to change your theme colors.
+Remove any other `theme:` lines.
 
-### Site configuration
+4. Rename `index.md` to `index.html`. Without this, the `jekyll-paginate` gem will not work.
 
-Below are some properties you can change in your project `_config.yml`, check the [documentation](https://github.com/thiagorossener/jekflix-template/wiki/settings) for more details.
+5. In `about.md`, change the `layout:` field to `post`:
 
+```Markdown
+layout: post
 ```
-# Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
-tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
-show_hero: true
-menu:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
 
-# Social Media Settings
-# Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+### GitHub Pages method
+1. Add these 2 lines in to your `Gemfile`:
 
-# Posts Settings
-show_time_bar: true
-show_modal_on_exit: false
-show_modal_on_finish_post: true
-two_columns_layout: true
+```ruby
+gem "jekyll-remote-theme"
+gem "jekyll-paginate"
+```
 
-# Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
-language: "en"
-categories_folder: category
-sent_message_url: "/contact/message-sent/"
+2. Install the newly added gems:
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: /:title/
-collections:
-  authors:
-    output: true
-paginate_path: "/page/:num/"
-show_get_theme_btn: true
-use_logo: false
+```bash
+$ bundle
+```
 
-# Content paginator
-paginate_content:
-  enabled: true
-  debug: false
-  collections:
-    - posts
-  auto: false
-  separator: "--page-break--"
-  permalink: "/:num/"
-  seo_canonical: true
-  properties:
-    part:
-      is_generated: true
-    last:
-      is_generated: true
-    single:
-      is_generated: true
+3. In `_config.yml` add these lines:
 
-# SASS
-sass:
-  style: compressed
+```yaml
+remote_theme: chesterhow/tale
 
-# Plugins
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
 plugins:
   - jekyll-paginate
-  - jekyll-paginate-content
+  - jekyll-remote-theme
 ```
 
-## Setup
+Remove any other `theme:` or `remote_theme:` lines.
 
-In the case you're cloning this repo, follow those instructions:
+4. Rename `index.md` to `index.html`. Without this, the `jekyll-paginate` gem will not work.
 
-- [Environment](https://github.com/thiagorossener/jekflix-template/wiki/setup#environment)
-- [Installing template](https://github.com/thiagorossener/jekflix-template/wiki/setup#installing-template)
-- [Running local](https://github.com/thiagorossener/jekflix-template/wiki/setup#running-local)
+5. In `about.md`, change the `layout:` field to `post`:
 
-### Customization
+```Markdown
+layout: post
+```
 
-See the [settings documentation](https://github.com/thiagorossener/jekflix-template/wiki/settings) to customize layout, titles, social media and more.
+### Fork method
+1. Fork this repository
 
-### Theme
+2. Delete the unnecessary files/folders: `CODE_OF_CONDUCT.md`, `LICENSE`, `README.md`, `tale.gemspec`
 
-You can easily change the theme colors by changing the file `src/yml/theme.yml`, then running `gulp build` in your terminal.
+3. Delete the `baseurl` line in `_config.yml`:
 
-#### GitHub pages
+```yaml
+baseurl:  "/tale"   # delete this line
+```
 
-It's a known issue that you can't run Gulp when deploying the website into GitHub pages. So, you must change the theme colors and run `gulp build` locally, then push the changes into your repo, there is no other way.
+## Usage
+Once you've installed the theme, you're ready to work on your Jekyll site. To start off, I would recommend updating `_config.yml` with your site's details.
 
-To see how your website is going to look like when you deploy it, run `bundle exec jekyll serve` locally and access `http://127.0.0.1:4000/`.
+To build and serve your site, run:
 
-## Posts
+```bash
+$ bundle exec jekyll serve
+```
 
-Use the [Front Matter properties](https://github.com/thiagorossener/jekflix-template/wiki/post#front-matter-properties) to create posts.
+And you're all set! Head over to http://127.0.0.1:4000/ to see your site in action.
 
-> **Note:** In the case you're cloning this repo, you can use the available [script](https://github.com/thiagorossener/jekflix-template/wiki/post#creating-a-post) to generate posts automatically.
+### Enabling Comments
+Comments are disabled by default. To enable them, look for the following line in `_config.yml` and change `jekyll-tale` to your site's Disqus id.
 
-## Release notes
+```yml
+disqus: jekyll-tale
+```
 
-### v3.1.1
+Next, add `comments: true` to the YAML front matter of the posts which you would like to enable comments for.
 
-- Added `formspree_form_id` config
-- Bumped up dependencies
-- Fixed minor bugs
-
-### v3.1.0
-
-- Fixed hero URL, thanks to [@JoelSalzesson](https://github.com/JoelSalzesson)
-- Updated Google Analytics script, thanks to [@JHLeeeMe](https://github.com/JHLeeeMe)
-- Added MathJax library to render math expressions, thanks to [@XieGuochao](https://github.com/XieGuochao)
-
-### v3.0.2
-
-- Added assets folder
-
-### v3.0.1
-
-- Fixed post SVG icons
-
-### v3.0.0
-
-- Created theme `gem`
-- Enabled text translations
-- Added heading anchor links
-- Changed code highlight colors
-- Changed from Stylus to SASS
-
-### v2.0.1
-- Fixed bugs
-- Optimized to support disabled JS
-
-### v2.0.0
-- Added optional [sidebar](https://github.com/thiagorossener/jekflix-template/wiki/Features#posts-sidebar)
-- Added optional [Featured post](https://github.com/thiagorossener/jekflix-template/wiki/features#featured-post)
-- Added optional ["Before you go" modal](https://github.com/thiagorossener/jekflix-template/wiki/features#before-you-go-modal)
-- Added optional [post pagination](https://github.com/thiagorossener/jekflix-template/wiki/features#paginated-posts)
-- Added [post recommendation](https://github.com/thiagorossener/jekflix-template/wiki/features#post-recommendation)
-- Added meta keywords to improve SEO
-- Added JSON-LD to improve SEO
-- Changed pagination to be [optional](https://github.com/thiagorossener/jekflix-template/wiki/features#home-page-pagination)
-- Improved [Tags page](https://github.com/thiagorossener/jekflix-template/wiki/features#tags-page)
-- Cleaned up and improved [Front Matter properties](https://github.com/thiagorossener/jekflix-template/wiki/post#front-matter-properties)
-- Set up [Netlify CMS](https://github.com/thiagorossener/jekflix-template/wiki/features#netlify-cms-ready)
-- Improved customization settings
-- Minor design updates
-
-### v1.0.1
-- Fixed bugs
-- Upgraded to Gulp 4
-
-### v1.0.0
-- Initial release
-
-## Questions?
-
-File a [GitHub issue](https://github.com/thiagorossener/jekflix-template/issues/new) please.
-
-## Author
-
-[Thiago Rossener](https://rossener.com/)
+## Contributing
+Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
 
 ## License
-
-*Jekflix Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
+See [LICENSE](https://github.com/chesterhow/tale/blob/master/LICENSE)

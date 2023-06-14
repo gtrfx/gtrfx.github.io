@@ -4,6 +4,7 @@ title: "Akira-and-Akira (あきらとアキラ)"
 categories:
     - life
     - drama
+author: "Keith"
 ---
 
 어제부터 달린 드라마인데 나름 볼만한 것 같다. 익명의 자막제작자께 감사드린다 (~~익명으로 말할 수 밖에 없어 미안합니다~~).

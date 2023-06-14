@@ -1,6 +1,8 @@
 ---
 title: "Mrs. Doubtfire (1993).."
 tags: [mrs doubtfire]
+layout: post
+author: "Keith"
 ---
 
 이 영화를 언제 봤는지 기억은 나지 않지만 요 근래 우울증으로 힘들다가 돌아가셨다는 Robin Williams의 영화와 그의 유튜브 비디오를 보고 있는 와중에 보게 되었다.

@@ -1,6 +1,8 @@
 ---
 title: "Tax 시즌이네 아.."
 tags: [tax, shit]
+layout: post
+author: "Keith"
 ---
 
 W2가 나왔다길래 재미삼아 터보택스를 돌려봤더니 ㅆㅂ 차 한 대 값을 개워내야 할 판이라 기운이 쭉 빠졌다.

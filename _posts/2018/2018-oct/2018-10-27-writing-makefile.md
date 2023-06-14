@@ -2,6 +2,7 @@
 layout: post
 title: "Makefile 잘 만들기"
 tags: [makefile]
+author: "Keith"
 ---
 
 IDE 환경을 주로 쓰는 사람들은 Makefile을 만들 이유가 없다. Makefile이 해야할 일을 IDE에 내가 일일이 알려주고 있기 때문에 IDE가 알아서 만들어주거나 make가 해야할 일을 대신 해주기 때문이다.

@@ -2,6 +2,7 @@
 title: "Raspberry pi: 보안 취약점(?)"
 tags: [raspberry,pi]
 layout: post
+author: "Keith"
 ---
 
 나와 같은 실수를 하는 사람이 있을까 싶어 포스팅해본다. 

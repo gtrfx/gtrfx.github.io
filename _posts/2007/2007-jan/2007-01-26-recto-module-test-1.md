@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Recto Module Test..1"
+author: "Keith"
 ---
 
 Recto+Fender 모듈을 시도했으나 하울링이 심해서 Fender sub-part는 죽이고 recto mode (lead only)만으로 동작시킴..

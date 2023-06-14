@@ -4,6 +4,7 @@ title: "QuickQuak Upstereo"
 categories:
     - music
     - audio-plugins
+author: "Keith"
 ---
 
 모노로 무엇인가를 녹음하면 매우 단조로운 느낌이 드는데 이것을 강제로 스테레오로 바꿔주는 기능을 하는 이펙트를 stereo enhancement 혹은 pseudo stereo effect라고 한다. 

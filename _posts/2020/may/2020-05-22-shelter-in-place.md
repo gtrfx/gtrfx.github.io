@@ -1,6 +1,8 @@
 ---
 title: "1년 내내 재택근무?"
 tags: [work at home everyday]
+layout: post
+author: "Keith"
 ---
 
 어제 심심해서 밖에 나가보니 아직 경제활동 재개가 이루어진 지역이 아니지만 많은 사람들이 나와있었고 "Open"이란 네온등을 켜놓은 가게들이 꽤 많이 보였다. 하기사 이 동네와 가까운 Fremont의 테슬라 공장도 문을 곧 열게 된다고 하고, Costco에서 장보는 사람들도 social distancing이런 것과는 거리가 먼 행동을 하는 것을 보고, 다들 이만하면 전염병이 지나갔겠구나 하는 것 같다.

@@ -2,6 +2,7 @@
 layout: post
 title: "OS for single board computer"
 categories: technology
+author: "Keith"
 ---
 
 Single board computer 쓸만한 것들이 많이 나왔다. 그런데, flash card의 속도가 느려서인지 GUI는 생각보다 빠르지 않다. 특히 X를 구동하면 그렇게 느껴진다. Android는 감내할만 하고 Chrome OS도 느린 느낌이 난다. 아마도 빠른 media를 사용하면 쓸만하지 않을까 하는 생각도 든다.

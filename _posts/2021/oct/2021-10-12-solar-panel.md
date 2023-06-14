@@ -1,6 +1,8 @@
 ---
 title: "솔라 패널: 발전 3일차"
 tags: [solar panel]
+layout: post
+author: "Keith"
 ---
 
 집에 solar panel이 설치된 것은 대략 2개월 전쯤이었던 것 같은데, 막상 허가 받고 기동하게 되기 까지 꽤 오랜 시간이 걸린 듯 하다. 이제 겨우 발전 3일차라니.

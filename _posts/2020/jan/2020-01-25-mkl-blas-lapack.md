@@ -3,6 +3,7 @@ title: "MKL vs. BLAS vs. LAPACK"
 layout: post
 image: https://software.intel.com/sites/default/files/managed/d1/24/components-offered-mkl.png
 tags: [mkl, blas, lapack]
+author: "Keith"
 ---
 
 아마도 Octave라든가 scientific library 같은 것들을 build해 본적이 있다면 잘 알만한 용어(?)들이다.

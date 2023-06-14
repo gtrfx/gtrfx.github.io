@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dual Rectifier 3 Ch"
+author: "Keith"
 ---
 
 

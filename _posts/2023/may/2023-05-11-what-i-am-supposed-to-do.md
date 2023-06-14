@@ -2,6 +2,8 @@
 title: "내가 고쳐야 할 것들.."
 tags: [mood swing]
 published: false
+layout: post
+author: "Keith"
 ---
 
 어제 내가 1년간 같이 했던 사람에게 이야기 들은 것들을 잘 녹음해서 두었어야 하는데 미쳐 해당 부분을 녹취하지 못해서 다소 아쉽다. 다소 모자라는 기억으로 정리해보고자 한다.

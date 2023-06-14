@@ -2,6 +2,8 @@
 title: "Fry's Electronics 폐업.."
 image: https://s.hdnux.com/photos/01/15/77/02/20443299/6/1200x0.jpg
 tags: [frys]
+layout: post
+author: "Keith"
 ---
 
 미국가면 재미삼아 가봤던 곳이었는데, 사실 그곳에서 물건을 몇 번 사봤던 기억도 있다. 정상가로 물건을 사기 보단 재고처분할 때 어쩌다 줍줍하는 그런 걸로. 

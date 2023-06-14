@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Major Scale Modes"
+author: "Keith"
 ---
 
 음계를 흔히 Scale이라고 하고, 이것을 Mode라고도 부르며 어떤 사람들은 Modal Scale이라고도 부른다. 음계에 의해서 코드가 결정되는 것이니 꽤나 중요하다고 할 수 있다.

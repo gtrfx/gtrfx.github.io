@@ -3,6 +3,7 @@ layout: post
 title: "새로운 데스크탑: AMD Ryzen 7 2700X + RX580 - 조립"
 tags: [new desktop pc, AMD, Ryzen]
 image: https://c1.neweggimages.com/NeweggImage/ProductImage/19-113-499-V01.jpg
+author: "Keith"
 ---
 
 마지막에 사용한 PC가 베어본 PC이고 5년을 썼으니까 거의 8년 가까이 컴퓨터 조립을 안했었구나 싶다. 정말 시간 빠르단 말 밖엔 다른 말이 생각이 안나는데, 어쨌든 컴퓨터를 조립하려고 박스를 뜯고 있으니 감회가 새로웠다.

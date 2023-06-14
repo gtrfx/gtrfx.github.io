@@ -2,6 +2,7 @@
 title: "근육 메모리??"
 layout: post
 tags: [muscle memory]
+author: "Keith"
 ---
 
 소위 머슬 메모리(muscle memory)라고 해서 원래 엄청난 근육의 소유자가 장기간 운동을 쉬게 되어 많은 양의 근육을 잃더라도 다시 운동을 시작하면 사라졌던 근육들이 빠르게 복구된다는 썰이 있다. 

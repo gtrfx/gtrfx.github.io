@@ -2,6 +2,8 @@
 title: "버킷리스트 실행 중"
 image: https://img.audiofanzine.com/images/u/product/normal/millenium-mps-850-e-drum-set-285455.jpg
 tags: [drumset]
+layout: post
+author: "Keith"
 ---
 
 어려서 드럼이 치고 싶었었는데, 그 꿈을 이제야 이루게 되었다. 치지도 않으면서 쓸데 없이 들고 있던 스티브 바이 시그니쳐 기타 한 대를 적당한 가격에 넘기고 나름 괜찮은 일렉드럼 셋을 들였는데도 제법 남았다. 실제 어쿠스틱 드럼 셋이 사실 일렉 드럼 셋보다 싸다. 대신 엄청나게 소리가 요란해서 집에서 연습할 방법이 없어서 정말 집과 집 간격이 멀리 떨어진 곳으로 이사가기전엔 사실 방법이 없다고 본다. 

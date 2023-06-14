@@ -3,6 +3,7 @@ title: "1년간의 House shopping"
 layout: post
 image: http://www.contemporist.com/wp-content/uploads/2016/08/contemporary-house_080816_01-800x534.jpg
 tags: [housing issue]
+author: "Keith"
 ---
 
 생각해보니 pandemic으로 lockdown이 되고 2-3달이 지난 후엔 pandemic이 장기화되고 그 현실이 굳어져서 구태여 직장과 가까운 곳에 집을 두지 않아도 되겠구나 싶어서 house shopping을 시작한지 대략 1년이 되어가고 있다. 1년 내내 이런 저런 곳을 알아봤지만 별다른 소득은 없고 캘리포니아의 남쪽 지역, Orange county만을 쳐다봤던 것 같다.

@@ -5,6 +5,7 @@ tags: [tech, acronyms]
 categories:
     - computer
     - technology
+author: "Keith"
 ---
 
 늘상 새로운 문물과 세상 변화에 열심히 적응하고 있다고 생각하더라도 가끔씩 아무렇지도 않게 새로 등장한 acronym들을 마주할 때마다 '그동안 뭐하며 살아온 것인가?' 할 때가 있다.

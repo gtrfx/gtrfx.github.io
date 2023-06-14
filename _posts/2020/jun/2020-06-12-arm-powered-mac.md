@@ -1,6 +1,8 @@
 ---
 title: "ARM powered MAC이 나온다고 한다.."
 tags: [arm, mac, macOS]
+layout: post
+author: "Keith"
 ---
 
 해킨을 즐겨쓰는 입장에서 ARM powered Mac(Book)/MacOS가 나온다니 한편으로는 반갑기도 하고 한편으로는 좀 아쉽기도 하다. 분명히 지금 ARM Mac이 나와서 신제품이 모두 Arm powered Mac으로 바뀌고 intel MacOS가 단종되려면 대충봐도 10년은 더 가지 싶으니까 죽기전에 OS가 단종되서 해킨 못하겠다 그런 일은 생기지 않으리라 본다만.

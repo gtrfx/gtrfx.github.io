@@ -3,6 +3,7 @@ layout: post
 title: "삶의 목적? 의미?"
 categories:
     - life
+author: "Keith"
 ---
 
 철학적인 이야기를 하고 싶어서가 아니다. 물론 알지도 못한다. 

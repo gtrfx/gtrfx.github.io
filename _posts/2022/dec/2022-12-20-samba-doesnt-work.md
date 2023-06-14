@@ -1,6 +1,8 @@
 ---
 title: "갑자기 smb (samba)가 동작 안한다면.."
 tags: [linux, samba, smb, apparmor]
+layout: post
+author: "Keith"
 ---
 
 arch linux를 개인적으로 선호하고 있고 GUI가 필요한 시스템에서는 manjaro를 애용하고 있다. 문제는 워낙 업데가 잦고 뭐가 업데되고 안되는지 확인하기가 쉽지 않다는 것이다. 이렇게 뭔가 업데가 되면 보안 기능은 날로 강화되고 있는데 사실 여기에 전념해서 팔로우업을 하지 않는다면 당연히 시대에 뒤쳐질 수 밖에.

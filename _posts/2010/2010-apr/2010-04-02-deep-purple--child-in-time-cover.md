@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Deep Purple - Child in Time (cover)"
+author: "Keith"
 ---
 
 이거 예전에 스티브 모스와 딥퍼플 할배들 오셔서 잠깐 부르는 거 본 적 외엔 거의 모르는 노래다.

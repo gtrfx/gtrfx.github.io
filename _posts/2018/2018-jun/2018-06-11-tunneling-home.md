@@ -3,6 +3,7 @@ layout: post
 title: "집에 터널링하기"
 categories:
     - computer
+author: "Keith"
 ---
 
 집에 있는 컴퓨터나 자료들에 접근한다거나 불가피하게 집을 통해서 프락시를 써야한다거나 할 때 여러 가지 방법을 생각해볼 수 있는데, 흔한 방법은 

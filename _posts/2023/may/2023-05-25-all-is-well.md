@@ -2,6 +2,8 @@
 title: "모든 건 잘 될 거야.."
 tags: [everything_is_gonna_be_all_right]
 published: false
+layout: post
+author: "Keith"
 ---
 
 요즘은 '모든 일이 잘 될 거야'라는 말을 끊임없이 반복해주는 프로그램을 온종일 내 귓가에 틀어놓고 살고 싶어진다. 그만큼 뭔가가 간절해진거다. 

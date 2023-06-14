@@ -5,6 +5,7 @@ tags: [George Benson, Royal Albert Hall, Lost voice]
 categories:
     - music
     - guitar
+author: "Keith"
 ---
 
 얼마전에 George Benson이 런던의 Royal Albert hall에서 공연을 한 모양이다. 

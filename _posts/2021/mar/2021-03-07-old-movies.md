@@ -2,6 +2,8 @@
 title: "옛날 영화 한자락: King solomon's mines (1985)"
 image: https://bestsimilar.com/img/movie/thumb/d3/16685.jpg
 tags: [richard chamberlain, sharon stone]
+layout: post
+author: "Keith"
 ---
 
 갑자기 유튜브에서 추천이 떠서 잠시 봤는데, 글쎄 뭐랄까 이 영화는 1985년 작으로 Raiders of the lost ark (1981) 라든가 Indiana Jones and the temple of the doom (1984)의 아류작? 카피? 오마쥬? 쯤 되는 영화로구나 했다.

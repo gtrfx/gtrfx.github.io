@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Amplifier Simulator Sample.."
+author: "Keith"
 ---
 
 

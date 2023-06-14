@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ezdrummer Superior 2.0?"
+author: "Keith"
 ---
 
 방구석 기타쟁이 아저씨들의 애용품인 Ezdrummer가 버전업을 하여 Superior v2.0을 쓰시는 분들도 날로 늘어가는 것 같다. 경험차 잠깐 사용해봤는데 소감은 아래와 같다.

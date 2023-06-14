@@ -1,6 +1,8 @@
 ---
 title: "2022년의 거의 절반을 보내며.."
 tags: [may, memorial day]
+layout: post
+author: "Keith"
 ---
 
 5월 30일이라는 memorial day에 있는 세일 때문에 계속해서 메일을 받고 있는데, 생각해보니 올해의 거의 절반이 가까와지고 있구나 싶다. 

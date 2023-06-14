@@ -1,6 +1,8 @@
 ---
 title: "M1 Mac에서 어떤 Office가..더..좋을까?"
 tags: [office]
+layout: post
+author: "Keith"
 ---
 
 단연코 MS office가 좋은 것은 맞지 싶다. M1 mac에 최적화된 office가 나오고 있기도 하고.

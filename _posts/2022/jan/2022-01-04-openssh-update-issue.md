@@ -1,6 +1,8 @@
 ---
 title: "OpenSSH update issue.."
 tags: [openssh]
+layout: post
+author: "Keith"
 ---
 
 무슨 이유에서인지 알 수 없으나 openssh가 판올림을 하면서 예전 openssh 서버에 접속할 때 매끄럽지 않은 모양새를 보여주고 있다.

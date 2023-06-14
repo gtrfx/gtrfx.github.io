@@ -1,6 +1,8 @@
 ---
 title: "clang format.."
 tags: [clang tools]
+layout: post
+author: "Keith"
 ---
 
 clang에 포함된 유틸리티가 제법있는데, 그 중에서 clang-format, clang-tidy 이라든가 scan build 등등은 아주 유용하게 사용할 수 있다.

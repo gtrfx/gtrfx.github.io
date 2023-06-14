@@ -4,6 +4,7 @@ title: "오래된 노래들을 연습하면서"
 categories:
     - life
     - guitar
+author: "Keith"
 ---
 
 알리에서 공수한 잉베이 시그니쳐 덕택에 80년대 잉베이의 곡들을 연습하며 즐거운 시간을 보내고 있다.

@@ -2,6 +2,7 @@
 title: "SOCKS로 터널 뚫기"
 layout: post
 tags: [socks]
+author: "Keith"
 ---
 
 SOCKS라는 프로토콜이 있다. 프락시로 사용하라고 만든 프로토콜인데, 일반적으로 알려져있기로는 TCP proxy용도다. 어떤 사람은 이것을 dynamic port fowarding이라고 말하기도 하는데, SOCKS라는 프로토콜을 쓰면 TCP 프로토콜을 모두 캡슐화해서 하나의 포트로 주고받게 되기 때문에 사실상 proxy를 위해서 뚫린 포트는 한개이지만 다양한 포트로 프락시를 할 수 있게 된다. 

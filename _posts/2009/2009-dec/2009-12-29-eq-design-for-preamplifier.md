@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "EQ Design for Preamplifier.."
+author: "Keith"
 ---
 
 일단 inductor를 구하기 힘들고 가격이 힘들다고 해서 포기하긴 아직 무리인 것 같아서, 잠시 꽁수를 부려봤다.

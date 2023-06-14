@@ -3,6 +3,7 @@ title: "덜 늙는 방법?"
 tags: [antiaging]
 layout: post
 image: https://1.bp.blogspot.com/-p8TxHi7WPP4/WN54hdtHxyI/AAAAAAAAUUc/LoaquEpqoZEICHkOkdqQL7-KRIaXo730gCLcB/s1600/Photo%2B1.png
+author: "Keith"
 ---
 
 20대가 벌써 anti-aging하는 방법에 대해 궁금해하는 시절이다. 누군가의 글을 맘대로 퍼왔다. 

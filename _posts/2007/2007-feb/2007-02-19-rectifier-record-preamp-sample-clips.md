@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rectifier Record Preamp Sample Clips"
+author: "Keith"
 ---
 
 You Tube에 누군가 친절하게 올려놓은 동영상이다.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Line6 Spider Valve.."
+author: "Keith"
 ---
 
 Line6에서 기존 Spider (POD보다 다소 기능이 작은 디지털 이펙트에 저가 IC 파워앰프를 붙인 제품)에 6L6GC power amplifier를 붙여서 출시한 제품이다. 진공관 부는 이 계통에 유명인인 Reinhold Bogner가 담당했다고 한다. 하지만 어차피 기타앰프에 쓰는 6L6GC의 power stage는 어차피 벗어날래야 벗어날 데가 없는 설계라 값올리기를 위한 작전이라고 밖엔 보여지지 않는다고나 할까.

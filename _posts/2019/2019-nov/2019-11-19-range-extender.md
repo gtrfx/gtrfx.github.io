@@ -2,6 +2,7 @@
 layout: post
 title: "Range Extender in 5G systems"
 tags: [range extender]
+author: "Keith"
 ---
 
 한국에서는 4G에 와서는 이통사들이 초반기에 엄청난 출혈경쟁을 하였기에 사실상 이동통신을 책이나 논문으로 배워온 사람들의 입장에선 다소 난감하긴 하지만 기지국 물량을 엄청 때려넣어서 아주 작은 홀에도 전부 다 새로운 cell이 생겨나게끔 그렇게 deploy를 해놨다.

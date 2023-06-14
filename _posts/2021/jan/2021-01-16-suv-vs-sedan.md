@@ -1,6 +1,8 @@
 ---
 title: "SUV냐 세단이냐: 나에 대해서 알아가기"
 tags: [suv, corssover, sedan]
+layout: post
+author: "Keith"
 ---
 
 차를 살까 말까 뭘로 살까 하는 궁리를 하는 것도 역시 삶이 잉여롭다보니 그러지 싶다.

@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/45c1bdd56692184c87150ee9cb7e5adc.jpg
 title: "Fractal Audio AX8"
+author: "Keith"
 ---
 
 ![image](/assets/images/45c1bdd56692184c87150ee9cb7e5adc.jpg)

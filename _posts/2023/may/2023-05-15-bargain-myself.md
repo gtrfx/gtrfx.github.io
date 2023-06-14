@@ -2,6 +2,8 @@
 title: "내 자신을 팔아보기.."
 tags: [sell yourself]
 published: false
+layout: post
+author: "Keith"
 ---
 
 예전에 그런 말을 들어본 것 같다. 회사 면접을 준비하는 사람들에게 자신을 잘 포장해서 팔아보라고. 

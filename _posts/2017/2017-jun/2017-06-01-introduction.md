@@ -2,6 +2,7 @@
 layout: post
 title: "Introduction"
 tags: [circuit, intuition]
+author: "Keith"
 ---
 # 전기 회로 읽기: 들어가며
 

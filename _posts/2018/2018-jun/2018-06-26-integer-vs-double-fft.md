@@ -3,6 +3,7 @@ layout: post
 title: "Integer vs. Double FFT 중 누가 빠를까?"
 categories:
     - computer
+author: "Keith"
 ---
 
 호기심이 발동해서 integer number (fixed point)로 연산하면 floating point보다 얼마나 빠를까 테스트 해봤다.

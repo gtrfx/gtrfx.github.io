@@ -3,6 +3,7 @@ title: "대량 이미지 변환"
 tags: [image, convert, imagemagick]
 image: https://www.brianlinkletter.com/wp-content/uploads/2015/12/logo_liquid-60.gif
 layout: post
+author: "Keith"
 ---
 
 linux에서 하길 바란다. 아니 적어도 imagemagick을 쉽게 설치할 수 있는 환경에서 하길 바란다. 왜? 쉽고 편하고 빠르니까.

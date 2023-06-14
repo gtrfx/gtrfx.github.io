@@ -3,6 +3,7 @@ title: "옛날 컴퓨팅 자원으로 일하기"
 layout: post
 image: https://www.itzgeek.com/wp-content/uploads/2011/11/RHEL6_Install_2011_11_Cover2.png
 tags: [old computing]
+author: "Keith"
 ---
 
 작년 말에 RHEL 6의 지원이 끝났다며 사실상 retire되었다고 했는데, 지금도 잘들 쓰고 있다. 신기하게 OS를 한번 설치하면 업데라는 것을 모르고 쓰는 덕택에 모든 게 다 옛날 거다. 그래서 회사 네트워크는 철저하게 보안을 해야 되는 것이다. 보안에 취약한 정도가 아니라 보안이란 개념자체가 회사의 주력 전산 자원에 들어있지 않기 때문이다. 오직 업데라는 것은 돈을 주고 구입해서 사용하는 것만 (업체에서 업데해주니까) 업데할 뿐이다.

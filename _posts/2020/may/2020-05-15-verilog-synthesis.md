@@ -1,6 +1,8 @@
 ---
 title: "verilog와 synthesis"
 tags: [verilog]
+layout: post
+author: "Keith"
 ---
 
 요 며칠 verilog를 가지고 잘 놀고 있다. 

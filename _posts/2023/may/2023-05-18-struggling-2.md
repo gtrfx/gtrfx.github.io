@@ -2,6 +2,8 @@
 title: "버티기...2"
 tags: [struggling]
 published: false
+layout: post
+author: "Keith"
 ---
 
 기왕에 이렇게 된 거 나의 장점에 대해서 열거해볼까 한다.

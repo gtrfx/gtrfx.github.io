@@ -3,6 +3,7 @@ title: "Bose speaker에 관해서"
 tags: [bose speaker]
 layout: post
 image: https://media.bizj.us/view/img/10649398/bose04*750xx5184-2916-0-270.jpg
+author: "Keith"
 ---
 
 어렸을 시절에 Bose의 bookshelf speaker (301)을 사볼까 했던 기억이 있다. Bose는 최고급 오디오 메이커는 아니지만 '재미있는' 또 뭔가 '혁신적인' 오디오라고 생각했던 것 같다. 그 이후로는 쓸데없이 비싸게 받는 회사(?)의 대명사가 되었는데, 살다보니 눈내리던 3월 말에 보스턴에 출장 갔다가 Bose engineering을 지나쳐갔던 기억도 있다. '어 이 회사 아직 안망했네?' 이런 생각이 번뜩 들었으니까.

@@ -1,6 +1,8 @@
 ---
 title: "과몰입(overthinking)..."
 tags: [stop overthinking]
+layout: post
+author: "Keith"
 ---
 
 우울하게 되는 원인은 과한 반추에 있다고 한다. 반추라는 것은 과거에 대한 생각을 꼬리에 꼬리를 물듯이 하는 거란 말이다. 그냥 쉽게 말해서 같은 내용에 대한 생각을 계속 곱씹는 것이다.

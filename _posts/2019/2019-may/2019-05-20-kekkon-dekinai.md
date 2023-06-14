@@ -2,6 +2,7 @@
 layout: post
 title: "와 결혼 못하는 남자와 한자와 나오키 속편이 나온다니!!"
 tags: [kekkon dekinai otoko, hanjawa naoki]
+author: "Keith"
 ---
 
 와!! 이럴 수가..

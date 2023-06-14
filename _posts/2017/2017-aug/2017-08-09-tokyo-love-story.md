@@ -2,6 +2,7 @@
 layout: post
 title: "Tokyo Love Story-II"
 categories: life
+author: "Keith"
 ---
 
 5화 까지 보다가 6화부터 지지부진이다. 재미가 없다기 보단 슬슬 짜증이 난다. 내가 원하는 드라마의 진행 방향이 아니다 이건. 

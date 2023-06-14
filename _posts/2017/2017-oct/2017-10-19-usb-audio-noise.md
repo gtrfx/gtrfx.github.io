@@ -3,6 +3,7 @@ layout: post
 title: "USB audio interface: power noise problem"
 categories:
     - technology
+author: "Keith"
 ---
 
 상용제품으로 나와있는 오디오 인터페이스를 열어서 확인해보니 USB로부터 들어오는 5V power의 노이즈를 간단하게 해결했다.

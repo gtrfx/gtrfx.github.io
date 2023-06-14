@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "NI plugins/instruments + MacOS 10.11 beta = validation failure"
+author: "Keith"
 ---
 
 

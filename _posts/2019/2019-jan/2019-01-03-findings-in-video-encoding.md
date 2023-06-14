@@ -2,6 +2,7 @@
 layout: post
 title: "비디오 실험 놀이: 오늘의 깨닫은 점"
 tags: [video editing experiment]
+author: "Keith"
 ---
 
 카메라와 파이널컷/프리미어로 이런 저런 실험을 하는 중이다. 오늘 깨닫은 점들 정리.

@@ -2,6 +2,7 @@
 layout: post
 title: "저가 기타 탐구: Harley Benton Guitar"
 tags: [harley benton]
+author: "Keith"
 ---
 
 알리 익스프레스에 이어 저가 기타 탐색중이다. Harley Benton의 Electric-Nylon 기타를 근 한달간 사용하고 있는데, 나름 아쉬운 점도 있지만 만족스럽게 쓰고 있다. 아쉬운 점은 그 기타의 구조 때문에 생기는 것이지 build-quality에 따른 문제는 아니다. 사실 녹음 장비와 연결해서 쓸 수 있는 조용한 기타를 원했고 이게 가장 좋은 답이었으니까 그렇게 한 것이다. 가격은 Nylon 기타 치고는 꽤 비싼 편이라고 볼 수 있다. 

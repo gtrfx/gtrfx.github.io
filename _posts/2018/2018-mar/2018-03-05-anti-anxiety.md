@@ -4,6 +4,7 @@ title: "불안을 없에는 조건식"
 categories:
     - life
     - anxiety
+author: "Keith"
 ---
 
 ```

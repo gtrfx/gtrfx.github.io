@@ -1,6 +1,8 @@
 ---
 title: "Jenkins agent 만들기"
 tags: [jenkins]
+layout: post
+author: "Keith"
 ---
 
 재미삼아 Jenkins로 자동화를 했는데 어쩌다보니 1년 넘게 사용하고 있고 이를 통해서 제법 시간을 벌고 있다. 

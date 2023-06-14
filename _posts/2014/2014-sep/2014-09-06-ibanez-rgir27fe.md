@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/def4396cd78a8d2907f15f7ce2ba3233.jpg
 title: "Ibanez RGIR27FE"
+author: "Keith"
 ---
 
 ![image](/assets/images/def4396cd78a8d2907f15f7ce2ba3233.jpg)Ibanez RGIR27FE

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AppleIntelCpuPowerManagement.kext...."
+author: "Keith"
 ---
 
 MacOS kernel이 부팅할 때 보면, 제목의 kext를 불러오게 된다. 그러나 NullPowerManagement.kext를 불러다쓰는 일반 해킨토시에서는 AppleIntelCpuPowerManagement가 로딩되려다가 timed out 메시지를 내뿜으며 포기하게 된다.

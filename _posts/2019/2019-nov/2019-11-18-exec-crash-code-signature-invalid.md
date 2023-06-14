@@ -2,6 +2,7 @@
 layout: post
 title: "Code signature invalid"
 tags: [MacOS]
+author: "Keith"
 ---
 
 필요에 따라서 바이너리를 좀 수정해서 슬쩍 넘어가야 할 경우가 왕왕 있다. 지금은 AMD CPU 때문에 그렇다.

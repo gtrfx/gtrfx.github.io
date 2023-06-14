@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/a1d9092569b5eeff9d6569b614f1fdcc.png
 title: "Ibanez RG450MH + Epiphone Les Paul Standard"
+author: "Keith"
 ---
 
 2005년부터 주력기가 된 Ibanez RG450MH (EMG 픽업으로 개조)와

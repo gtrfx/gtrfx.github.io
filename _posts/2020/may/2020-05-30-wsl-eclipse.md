@@ -3,6 +3,7 @@ title: "WSL에서 Eclipse 쓰기"
 layout: post
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRd41rbKb83I4VggG4tgI208cOCEKMix3q1Sb9iI0_EkP8HTnDP&usqp=CAU
 tags: [WSL, eclipse, Linux]
+author: "Keith"
 ---
 
 Eclipse가 여전히 많이 사용 중인 것은 eclipse외에 뚜렷한 대안이 없기 때문이지 싶다. 지금보면 vs code보다 답답한 인터페이스와 쓸데없는 무거움을 가지고 있는데, vs code가 못하는 일이 있으니 어쩔 수 없이 써야할 경우가 생긴다. 

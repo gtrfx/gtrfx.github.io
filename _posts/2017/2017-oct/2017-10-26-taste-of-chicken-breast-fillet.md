@@ -4,6 +4,7 @@ title: "닭가슴살은 역시 맛이 없다."
 categories:
     - life
     - health
+author: "Keith"
 ---
 
 고기는 소고기가, 그것도 립아이 정도 되야 만족스러운 지경이 되었다니 웃을 노릇이다.

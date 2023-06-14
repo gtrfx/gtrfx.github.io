@@ -3,6 +3,7 @@ layout: post
 title: "Guitar Amplifier Simulator on a Raspberry Pi (6)"
 categories:
     - project
+author: "Keith"
 ---
 
 자연스럽게 방향이 정해지기 시작한다. 이미 얘기한 바와 같이 다양한 앰프 모델을 이런 소형의 이펙트에서 반영할 수 있게 하자면 많은 컨트롤이 요구되는데, 그것을 만든다는 것은 실험적인 측면에서는 의미가 있을 수 있지만 실용성은 대단히 떨어진다. 

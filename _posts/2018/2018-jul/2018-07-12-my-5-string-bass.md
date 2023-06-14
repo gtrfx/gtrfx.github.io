@@ -4,6 +4,7 @@ title: "주문한 베이스가 왔다.."
 tags: [bass guitar, 5 string bass]
 categories:
     - guitar
+author: "Keith"
 ---
 
 요새 느끼는 것이지만 악기를 외관이나 가격으로 판단하지 말아야겠단 생각을 했다. 물건값과 품질이 늘상 linear하게 매칭하겠거니 착각하면서 살아온 것 같다. 그 사람의 능력을 그 사람이 가진 돈이나 사회적 지위와 linear하게 매칭되는 것으로 생각하는 것 처럼이나 말이다. 

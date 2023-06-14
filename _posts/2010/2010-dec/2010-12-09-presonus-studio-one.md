@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/7825cde94c33145551472610d984eb69.png
 title: "PreSonus Studio One"
+author: "Keith"
 ---
 
 Cubase와 Nuendo의 초창기 개발 멤버가 Steinberg를 나와서 만든 DAW라고 하는데, 생각보다 직관적이고 빠르고 가볍고 쓸만한 것 같다. 일단 Mac과 PC에서 모두 동작하는데, 기존의 DAW 대비 최신 경향이 많이 반영되었다고 볼 수 있다. DAW를 기동시키자마자 뜨는 초기 화면도 인터넷과 연계되어 유용한 면이 있고, 사운드 클라우드라고 하는 별도의 클라우드 서비스를 사용할 수도 있게 되어있다. 

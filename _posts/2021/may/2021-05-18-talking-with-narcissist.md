@@ -2,6 +2,7 @@
 title: "다 늙은 나르시시스트와 이야기하기.."
 layout: post
 tags: [narcissist]
+author: "Keith"
 ---
 
 코로나 때문에 집에 갇혀 사는 사람들이 많은 건 인정하겠는데, 그래서 나르시시스트가 늘어가는 건 참지 못하겠다.

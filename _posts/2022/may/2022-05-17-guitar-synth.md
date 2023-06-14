@@ -1,6 +1,8 @@
 ---
 title: "Guitar Synth"
 tags: [guitar synth]
+layout: post
+author: "Keith"
 ---
 
 요즘에는 이 악기를 사용하는 사람을 보기 드문 편이긴 한데, 과거에 Pat Metheny가 애용하던 Guitar Synth라는 악기가 있다. 

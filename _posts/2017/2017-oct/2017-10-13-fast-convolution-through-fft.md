@@ -3,6 +3,7 @@ layout: post
 title: "Fast convolution with FFT"
 categories:
     - project
+author: "Keith"
 ---
 
 FFT로 컨볼루션을 하는 방법은 잘 알려져있다. 그러나 실제로 real-time signal processing을 할 때 어떻게 적용해야 하는지에 대해서는 별로 이야기 하지 않는다. 그냥 원리적인 관점에서 time-domain에서 convolution이 frequency domain에서 multiplication으로 바뀔 수 있다고 얘기할 뿐이다.

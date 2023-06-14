@@ -4,6 +4,7 @@ title: "보컬 트랙 지우기"
 categories:
     - audio
     - music
+author: "Keith"
 ---
 
 제목은 보컬 트랙이라고 하였으나 실제로는 중심 채널 지우기가 맞겠다.

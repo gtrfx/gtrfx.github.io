@@ -3,6 +3,7 @@ layout: post
 title: "NPU는 무엇인가?"
 tags: [npu, deep learning]
 image: https://www.neuraldesigner.com/images/neural-network-graph.png
+author: "Keith"
 ---
 
 NPU라고 해서 Neural processing unit이라고 한다. 어떤 사람들은 network processing unit이라고 하기도 하는데, 요새 사람들이 이야기하는 것은 전자가 맞다고 봐야할 것이다.

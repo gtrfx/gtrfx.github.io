@@ -2,6 +2,8 @@
 title: "다시 또 겨울..2"
 tags: [alone again]
 published: false
+layout: post
+author: "Keith"
 ---
 
 이렇게든 저렇게든 받았던 물건들을 가져다주었다. 뭔가 comment가 있을까 했지만 역시나 없었다.

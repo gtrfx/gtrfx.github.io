@@ -3,6 +3,7 @@ layout: post
 title: "값싼 동영상용 mirrorless camera??"
 categories:
     - life
+author: "Keith"
 ---
 
 일반 용도로 쓸 카메라 때문에 여러 날 리서치 중이다. 스펙에 현혹되다보면 문제의 본질, '왜 내가 카메라를 필요로 하는가?'를 잊게 된다. 물론 그 때문에 스펙 위주, 감성적인 부분을 자극해서 마케팅을 하는 것이겠지만.

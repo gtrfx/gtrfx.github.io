@@ -2,6 +2,8 @@
 title: "MacOS가 새로 나왔네..."
 tags: [sonoma]
 image: https://photos5.appleinsider.com/gallery/54689-110832-000-lead-macOS-14-xl.jpg
+layout: post
+author: "Keith"
 ---
 
 MacOS의 첫 시작이 인텔맥 시절의 Snow Leopard였던 것 같은데 당시 버전이 10.6? 이었던 것 같은데 새로 나온 Sonoma는 MacOS14라고 한다.

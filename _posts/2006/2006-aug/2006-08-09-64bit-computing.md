@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "64bit computing.."
+author: "Keith"
 ---
 
 

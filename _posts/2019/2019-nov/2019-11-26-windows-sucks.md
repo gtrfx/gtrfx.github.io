@@ -3,6 +3,7 @@ layout: post
 title: "Windows 도무지 왜 써야 되나"
 tags: [macOS, linux, windows]
 image: https://cdn.arstechnica.net/wp-content/uploads/2019/07/windows-10-s-wallpaper-800x450.jpg
+author: "Keith"
 ---
 
 3대 OS를 모두 설치하고 안정화시키느라 열심히 맹컴중에 있다. 계속해서 느끼게 되는 것은 '윈도우즈는 왜 써야 되나?' 다.

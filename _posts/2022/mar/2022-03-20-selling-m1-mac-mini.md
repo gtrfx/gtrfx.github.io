@@ -1,6 +1,8 @@
 ---
 title: "Mac 고르기 간단 계산.."
 tags: [news]
+layout: post
+author: "Keith"
 ---
 
 예상하지 않게 Macbook이 한대 생기고 이러저러한 이유로 그게 +가 되지 못하다보니 멀쩡한 컴퓨터 업그레이드 심리가 발동해서 계산 중이다.

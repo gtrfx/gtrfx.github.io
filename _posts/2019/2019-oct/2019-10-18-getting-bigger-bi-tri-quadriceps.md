@@ -2,6 +2,7 @@
 layout: post
 title: "몸 키우기??"
 tags: [biceps, triceps, quadriceps]
+author: "Keith"
 ---
 
 얼마전에도 비슷한 생각을 했던 것 같다. 살을 빼려면 운동량을 늘리고 먹는 것을 줄이는 것이 답이지 그 외의 것은 다 무의미하다는 것 말이다. 

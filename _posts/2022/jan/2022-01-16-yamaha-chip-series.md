@@ -1,6 +1,8 @@
 ---
 title: "Yamaha YM 시리즈"
 tags: [retro sound]
+layout: post
+author: "Keith"
 ---
 
 누군가의 자료를 무단으로 퍼왔다.

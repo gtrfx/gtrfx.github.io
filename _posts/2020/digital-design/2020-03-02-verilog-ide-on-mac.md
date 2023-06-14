@@ -2,6 +2,7 @@
 title: "Verilog 통합환경 on Mac"
 tags: [verilog, macos]
 layout: post
+author: "Keith"
 ---
 
 윈도우즈만 가도 좋은 FPGA 툴들이 통합환경을 제공하고 있고 linux는 gui가 약간 아쉽지만 역시나 존재한다.

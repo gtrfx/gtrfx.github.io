@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bi-amping and Layering"
+author: "Keith"
 ---
 
 

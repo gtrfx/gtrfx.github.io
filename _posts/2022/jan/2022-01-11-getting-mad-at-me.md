@@ -1,6 +1,8 @@
 ---
 title: "나 스스로에게 화가 난다..."
 tags: [getting angry]
+layout: post
+author: "Keith"
 ---
 
 아침에 눈을 떠서 잠자리에서 열어본 메일함에 이것 저것 해달라는 게 잔뜩 쌓여있다면 아침부터 화가 난다. 

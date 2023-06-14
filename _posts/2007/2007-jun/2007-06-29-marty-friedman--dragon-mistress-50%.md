@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Marty Friedman - Dragon Mistress 50%"
+author: "Keith"
 ---
 
 Used Gear:

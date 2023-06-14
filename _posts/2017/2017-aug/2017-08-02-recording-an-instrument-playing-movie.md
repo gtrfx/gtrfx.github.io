@@ -3,6 +3,8 @@ titile: "Recording an musical instrument playing movie"
 categories: 
     - life
     - music
+layout: post
+author: "Keith"
 ---
 
 음악을 연주하는 동영상을 촬영할 때 얻게된 팁 몇 가지를 공개하려 한다.

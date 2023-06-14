@@ -4,6 +4,7 @@ title: "Cheap trim/grip locking tuner from China"
 categories:
     - music
     - guitar
+author: "Keith"
 ---
 
 튜닝이 불안정한 기타가 있어서 trim(grip) locking tuner를 한번 사봤다. 정상적인 locking tuner들은 소매로 사면 배송비포함 대략 6개의 가격이 $60 사이를 왔다갔다 하는데, 쉽게 말하면 한 개에 만원 정도 한다고 볼 수 있다.

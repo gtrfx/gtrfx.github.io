@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pantera - Mouth For War (copy)"
+author: "Keith"
 ---
 
 오늘의 아저씨 발악..

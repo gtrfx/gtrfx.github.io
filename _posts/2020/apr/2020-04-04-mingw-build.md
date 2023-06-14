@@ -2,6 +2,7 @@
 title: "MinGW build on Linux"
 layout: post
 tags: [mingw]
+author: "Keith"
 ---
 
 MinGW라고 해서 gnu의 환경을 윈도우즈에 구현해놓은 것이 있다. 예전에 보면 이 툴체인을 이용해서 만들어진 게임도 있었을 정도로 사용율이 높았다. 그러니까 이 사람들의 개발환경이 unix/linux쪽이었는데 윈도우 세계로 흘러들어왔다면 분명히 이 툴체인을 썼을 것이라고 보여진다.  이 사람들의 커리 시작이 GCC와 상관없는 곳이었다면 그렇지 않았겠지만.

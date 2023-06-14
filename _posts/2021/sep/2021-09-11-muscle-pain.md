@@ -1,6 +1,8 @@
 ---
 title: "과한 육체 노동의 결과..."
 tags: [moving alone]
+layout: post
+author: "Keith"
 ---
 
 나홀로 이사가기의 결과로 얻어진 근육통. 

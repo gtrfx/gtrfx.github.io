@@ -5,6 +5,7 @@ categories:
     - guitar
     - music
     - technology
+author: "Keith"
 ---
 
 Kemper profiling amp (KPA)은 아마도 그 가격으로 봤을 때 정말 많이 팔린 기타 이펙트/앰프/프리앰프인 것으로 판단된다. 어찌보면 참 간단한 아이디어인데 그것을 잘 상품화했고 평가를 잘 받아서 웬만한 뮤지션이며 스튜디오에서는 전부 이 제품을 구매하여 쓰고 있는 것으로 안다.

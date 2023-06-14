@@ -2,6 +2,7 @@
 layout: post
 title: "세상을 살아가다보니.."
 tags: [optimism, pessimism, glorious old days]
+author: "Keith"
 ---
 
 오늘 알게 된 말 중에서 머리에 남은 게 있다면 아마 다음의 말일 것이다. 

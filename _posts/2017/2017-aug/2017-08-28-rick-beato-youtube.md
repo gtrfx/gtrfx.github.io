@@ -4,6 +4,7 @@ title: "Rick Beato의 Youtube 강좌"
 categories:
     - music
     - learning
+author: "Keith"
 ---
 
 Rick Beato라는 뮤지션이 올리는 유튜브 강좌가 요새 인기다. 예전에 뮤지션이었다는데 지금은 엔지니어링을 주로 하신단다. 여러가지 강좌와 더불어 여러가지 조언도 많이 하고 있다. 유튜브에서 이렇게 값진 지식을 얻어가긴 쉽지 않았던 이들에게 엄청나게 반가운 소식이지 싶다.

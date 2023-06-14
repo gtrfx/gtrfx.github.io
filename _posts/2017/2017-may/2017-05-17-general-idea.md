@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "General idea"
+author: "Keith"
 ---
 
 ## 들어가며

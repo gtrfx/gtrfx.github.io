@@ -2,6 +2,7 @@
 title: "MPI의 꽃은 MPI_REDUCE가 아닐까?"
 layout: post
 tags: [mpi]
+author: "Keith"
 ---
 
 MPI를 써야할 시즌이 다가 오고 있다. 대충 기억을 되살려보면 다음과 같다.

@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/3966550dfdfd47bdc390d3dbc6a41e90.png
 title: "Kemper Rig player ??"
+author: "Keith"
 ---
 
 ![image](/assets/images/3966550dfdfd47bdc390d3dbc6a41e90.png)PS와 knobman으로 10분만에 후딱 그린 플러긴의 스킨

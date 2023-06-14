@@ -2,6 +2,8 @@
 title: "영화 Most wanted man"
 image: https://images-na.ssl-images-amazon.com/images/I/51MrmhXbpcL._SY445_.jpg
 tags: [philip hoffman]
+layout: post
+author: "Keith"
 ---
 
 주인공으로 나오는 Philip Hoffman이 2014년 약물과다복용으로 세상을 떠났다고 했을 때 봐야지 했던 영화인데 어제서야 봤다.

@@ -3,6 +3,7 @@ layout: post
 title: "Micromouse를 다시 들여다보니: 개론"
 tags: [micromouse]
 image: https://www.geek.com/wp-content/uploads/2011/11/Min7-625x352.jpg
+author: "Keith"
 ---
 
 하루 종일 일에 매달려 있다 문득 마이크로 마우스 생각이 떠올랐다. 마이크로 마우스가 나름 개인/동아리 단위로 재미있게 만들던 시절이 있었다. 사실 마이크로프로세서를 재미있게 활용할 수 있는 좋은 응용분야였던 것 같은데, 어느 시점 이후로는 인기가 시들해졌던 것 같다.

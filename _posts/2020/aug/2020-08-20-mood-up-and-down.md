@@ -1,6 +1,8 @@
 ---
 title: "C++: copy constructor/operator="
 tags: [c++, static code analysis]
+layout: post
+author: "Keith"
 ---
 
 static code analysis tool을 써보고 있다. 역시 많은 것을 경험하는 것은 좋은 것이구나 싶다. 

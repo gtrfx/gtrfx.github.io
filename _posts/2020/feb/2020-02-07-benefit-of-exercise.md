@@ -1,6 +1,8 @@
 ---
 title: "진작 운동에 관심이 있었더라면.."
 tags: [exercise]
+layout: post
+author: "Keith"
 ---
 
 1. 몸의 이곳 저곳 팔 다리 허리 관절이 지금보단 훨씬 좋았을텐데.

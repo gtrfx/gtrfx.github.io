@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/3b02370dc8156b68ec50cb8ccc187661.png
 title: "Modified TSL Preamp"
+author: "Keith"
 ---
 
 TSL 회로도를 그냥 보기엔 이런 저런 컨넥터며 스위치가 많아서 대폭 단순화시켜서 그렸다. 시뮬레이션이 불가능한 스위치나 pot은 그리지 않았으니 알아서 판독하시기 바람.

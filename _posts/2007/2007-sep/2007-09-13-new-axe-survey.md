@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "New Axe Survey.."
+author: "Keith"
 ---
 
 계속 기타 서베이중이다. 알아봤던 Jackson의 SL3는 브릿지가 오리지널 플로이드 로즈가 아니고 Floyd Rose사의 FRT-O2000이란 기종이고 결정적으로 일본산이라는 것 때문에 유저들 사이에서 논란이 많았던 기타란 것을 알았다. Soloist도 SL2 정도는 되어줘야 Soloist라고 할 수 있는 것 같다.

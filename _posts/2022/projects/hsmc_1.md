@@ -1,6 +1,8 @@
 ---
 title: "행렬 연산기를 만들어볼까?...1"
 tags: [matrix, linear algebra]
+layout: post
+author: "Keith"
 ---
 
 ## 이거 왜 만드나?

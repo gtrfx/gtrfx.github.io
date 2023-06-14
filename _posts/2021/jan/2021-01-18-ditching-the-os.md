@@ -1,6 +1,8 @@
 ---
 title: "OS 날리기.."
 tags: [delete Windows]
+layout: post
+author: "Keith"
 ---
 
 OS를 여러 종류로 오랜 기간 사용해보면 얻어지는 하나의 결론이 있다.

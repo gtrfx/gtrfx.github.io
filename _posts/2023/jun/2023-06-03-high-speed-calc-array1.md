@@ -1,6 +1,8 @@
 ---
 title: "초고속 연산기 프로젝트..1"
 tags: [floating point]
+layout: post
+author: "Keith"
 ---
 
 일반적인 행렬연산을 하는 연산기를 가정하면 모양새는 다음과 같아진다. 그러니까 현재 입력 두 개의 곱을 더하는 방식으로 가는 거다.

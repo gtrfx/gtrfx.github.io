@@ -2,6 +2,8 @@
 title: "옛날 노래를 듣다가 갑자기 생각난 꼰대 이야기..."
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mr._Big_-_Lean_Into_It.jpg/1200px-Mr._Big_-_Lean_Into_It.jpg
 tags: [old story]
+layout: post
+author: "Keith"
 ---
 
 요샌 어쩌다 떠오른 옛날 이야기를 꺼내놓으면, 듣는 사람들은 일종의 사례 학습으로 해석하기보단 '꼰대 썰 늘어놓기'로 '귀를 틀어막아야 할 시간'으로 받아들여기지 일쑤라 이런 이야기는 그냥 나의 추억 꾸러미 속에 넣어두거나 그냥 아무 일도 없었던 것처럼 꽁꽁 묻어두는 것이 상책이다. 

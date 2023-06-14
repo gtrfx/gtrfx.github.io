@@ -2,6 +2,8 @@
 title: "Mad about you.."
 tags: [sting, mad about you]
 published: false
+layout: post
+author: "Keith"
 ---
 
 Sting의 solo album 수록곡 중에 'mad about you'라는 노래가 있다. 누구한테 (잠시) 미쳤다는 뜻이다. 화가 났다는 게 아니라.

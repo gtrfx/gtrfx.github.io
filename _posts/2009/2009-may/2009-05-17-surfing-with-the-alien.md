@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Surfing with the Alien"
+author: "Keith"
 ---
 
 Freeware VST 플러긴으로만 만들어봤다.

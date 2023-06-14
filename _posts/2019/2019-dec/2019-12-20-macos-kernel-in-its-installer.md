@@ -1,6 +1,8 @@
 ---
 title: "Where is MacOS kernel in OS installer?"
 tags: [kernel, installer]
+layout: post
+author: "Keith"
 ---
 
 아래의 위치에서 찾으면 된다. Pacifist를 이용하거나 전부 열거나 해야한다.

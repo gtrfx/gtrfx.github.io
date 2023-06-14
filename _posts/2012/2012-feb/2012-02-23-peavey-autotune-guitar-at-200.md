@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/b12aa0a6b685e44a30aae898f33ad3d9.jpg
 title: "Peavey AutoTune Guitar AT-200"
+author: "Keith"
 ---
 
 Peavey와 Antares의 기술이 만난 자동 튜닝 기타란다.

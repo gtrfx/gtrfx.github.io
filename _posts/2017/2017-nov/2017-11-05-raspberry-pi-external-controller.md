@@ -4,6 +4,7 @@ title: "Raspberry Pi external controller DIY (1)"
 categories:
     - project
     - raspberry_pi
+author: "Keith"
 ---
 
 소형 파워앰프를 붙이 개인용 앰프 시뮬레이터를 만드려고 하다보니 결국 라스베리파이를 쓰는 상황에 이르렀고, 결과적으로 외부 컨트롤러가 필요해서 이미 여러 번 블로그에 언급한 바와 같이 다음의 부품들을 사용하기로 결정했다.

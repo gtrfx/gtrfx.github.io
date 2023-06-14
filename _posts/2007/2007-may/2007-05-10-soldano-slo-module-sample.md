@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Soldano SLO Module Sample.."
+author: "Keith"
 ---
 
 자작의 세계는 귀차니즘과는 정말 거리가 먼 것 같다..

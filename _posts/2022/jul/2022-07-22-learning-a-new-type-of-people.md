@@ -2,6 +2,8 @@
 title: "새롭게 알게 된 여자와의 대화.."
 tags: [new type]
 published: false
+layout: post
+author: "Keith"
 ---
 
 새롭게 알게 되었지만, 또 그럴거라 생각했지만 그냥 전형적인 속물 그 이상도 이하도 아닌. 

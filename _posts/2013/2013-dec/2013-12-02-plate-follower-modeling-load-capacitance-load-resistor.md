@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Plate Follower Modeling: Load capacitance/Load Resistor"
+author: "Keith"
 ---
 
 

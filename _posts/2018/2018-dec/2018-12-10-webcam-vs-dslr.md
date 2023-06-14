@@ -2,6 +2,7 @@
 layout: post
 title: "웹캠이냐 DSLR (or mirrorless)냐?"
 tags: [dslr, mirrorless, hdmi out]
+author: "Keith"
 ---
 
 책상 앞에서 하는 일들을 촬영한다고 할 때 어떤 것이 좋을까 따져보면 가장 쉽게 웹캠과 DSLR 혹은 미러리스 카메라를 비교할 수 있게 된다. 컴퓨터 작업과 동기화하려면 사실 웹캠이 좋다. 그런데 좋은 렌즈와 카메라를 가지고 있다면 그것을 썩히는 게 아깝다는 생각이 드니까 DSLR(혹은 mirrorless)를 생각할 수 있는데, 컴퓨터 작업과 동기화하려면 동영상을 촬영해서 그것을 SD card에 저장하고 촬영이 끝나면 그것을 컴퓨터로 import.....아아 생각만해도 너무 복잡하다.

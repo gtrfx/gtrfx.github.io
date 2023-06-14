@@ -2,6 +2,7 @@
 layout: post
 title: "풀프레임 센서 + HD 냐 아니면 크롭센서 + 4k냐?"
 tags: [camera]
+author: "Keith"
 ---
 
 동영상 놀이를 해볼까 하면서 이런 저런 실험을 하다가 생긴 궁금증이다. 

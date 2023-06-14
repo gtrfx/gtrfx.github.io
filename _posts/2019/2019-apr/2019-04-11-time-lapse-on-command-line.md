@@ -2,6 +2,7 @@
 layout: post
 title: "Command line에서 Time Lapse 만들기"
 tags: [time lapse]
+author: "Keith"
 ---
 
 생활의 기록을 남긴다고 했을 때, 4k video clip보단 time lapse가 유리할 때가 많다. 시간이 흐른 뒤에 살펴보기도 편리하고 말이다. 저장 용량도 작고 오랜 시간 기록이 가능하고 쉽게 말해 자동으로 요약이 되는 셈이다보니 나는 이 방법을 더 선호한다. 

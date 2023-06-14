@@ -2,6 +2,7 @@
 title: "AUR에서 패키지 가져다 빌드할 때"
 tags: [verilog]
 layout: post
+author: "Keith"
 ---
 
 make할 때 무조건 -j1로 되어있어서 매우매우 느리다. 어떻게 하냐고?

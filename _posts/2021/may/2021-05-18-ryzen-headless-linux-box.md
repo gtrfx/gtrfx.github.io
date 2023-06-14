@@ -2,6 +2,7 @@
 title: "Ryzen 헤드리스 리눅스 박스?"
 layout: post
 tags: [linux, ryzen, headless]
+author: "Keith"
 ---
 
 결론부터 말하면 UEFI BIOS가 GPU가 없다며 동작하지 않는다. 어떻게 사용자에게 알릴 길이 없으니 Beep이 삑! 나온다.

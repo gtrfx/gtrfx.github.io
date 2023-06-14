@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Spider II 15watt combo.."
+author: "Keith"
 ---
 
 Schematic Heaven에서 가져온 Spider II 15watt combo의 회로도..

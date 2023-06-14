@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/b2976adc45cdfe0e6b1f3b5245d8bde1.jpg
 title: "Ibanez Universe - UV777 PBK"
+author: "Keith"
 ---
 
 Steve Vai Signature 중 하나인 UV777이다.

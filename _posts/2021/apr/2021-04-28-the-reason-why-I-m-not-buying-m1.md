@@ -1,6 +1,8 @@
 ---
 title: "내가 아직도 M1을 못 사고 있는 이유.."
 tags: [m1, docker]
+layout: post
+author: "Keith"
 ---
 
 M1에서 docker를 쓸 수 있게 된지는 좀 됐다. qemu로 hypervisor framework을 쓸 수 있게 hack이 나온 뒤에 얼마되지 않아서 docker로 풀렸다. 사실 Docker는 linux가 아닌 환경에서는 linux kernel을 돌릴 VM이 필요하기 때문이다.

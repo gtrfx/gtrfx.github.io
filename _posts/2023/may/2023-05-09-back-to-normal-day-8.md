@@ -2,6 +2,8 @@
 title: "다시 또 겨울..8"
 tags: [alone again]
 published: false
+layout: post
+author: "Keith"
 ---
 
 5월 8일 적어야 할 내용을 결국 9일이 되어서야 적게 되었다. 뜻하지 않게 많은 일들이 단시간에 생겨버렸다.

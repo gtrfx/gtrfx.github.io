@@ -2,6 +2,8 @@
 title: "VPN 연결 나눠쓰기"
 image: https://www.vandyke.com/support/tips/images/socks_proxy/proxy01.jpg
 tags: [vpn, sharing]
+layout: post
+author: "Keith"
 ---
 
 예전에도 이것에 대해서 정리한 적이 있는데 또 금새 잊게 될 것 같아서 다시 적어본다.

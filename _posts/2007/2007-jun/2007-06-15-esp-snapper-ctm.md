@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/f21293caa7c08c41faecb4ea619f5d90.png
 title: "ESP Snapper CTM.."
+author: "Keith"
 ---
 
 1시간도 못 되게 만져보긴 했지만..필이 팍 꽂힌다..

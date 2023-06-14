@@ -1,6 +1,8 @@
 ---
 title: "덧없는 목숨.."
 tags: [valueless lives]
+layout: post
+author: "Keith"
 ---
 
 어제인가 독감 백신을 맞고 사망하신 분들의 이야기를 듣다보니 목숨이란 게 참으로 허무하구나 하는 생각이 또 들이닥쳤다.

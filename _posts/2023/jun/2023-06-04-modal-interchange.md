@@ -1,6 +1,8 @@
 ---
 title: "Modal interchange"
 tags: [modal interchange]
+layout: post
+author: "Keith"
 ---
 
 이 주제에 대해서 2005년에 적어놓은 바가 있었다. 이것을 다시 상기하려는 것은 뭐랄까 어떤 정해진 chord progression을 이해하려 함과 동시에 이 chord progression으로 짦막한 곡을 만들어보고 싶기 때문이다.

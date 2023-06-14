@@ -2,6 +2,7 @@
 layout: post
 title: "AARCH64 kernel build"
 tags: [am64,armv8,aarch64,kernel,linux]
+author: "Keith"
 ---
 
 kernel.org에서 kernel source를 받았다고 해서 그것을 arm64로 바로 빌드할 수 있진 않다. 몇 가지 작업을 해주어야 되는데 일단 다음을 참조하자.

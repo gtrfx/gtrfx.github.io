@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Never Enough..."
+author: "Keith"
 ---
 
 Dream Theater의 Never Enough를 쳐봤다..

@@ -2,6 +2,7 @@
 title: "Matlab 2020b on an M1 Mac"
 layout: post
 tags: [matlab]
+author: "Keith"
 ---
 
 요약해서 말하면,

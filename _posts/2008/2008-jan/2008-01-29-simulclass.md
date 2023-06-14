@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SimulClass.."
+author: "Keith"
 ---
 
 SimulClass라 함은 class A와 class B amplifier가 섞여있는, 즉 동시에 class A와 class AB 앰프의 특징을 맛볼 수 있는 그런 앰프 되겠다.

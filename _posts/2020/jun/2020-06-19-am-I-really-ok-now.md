@@ -1,6 +1,8 @@
 ---
 title: "나 지금 이대로 괜찮은 걸까?"
 tags: [am I ok now, anxiety, useless]
+layout: post
+author: "Keith"
 ---
 
 이런 질문만 수도 없이 던지는 때가 있다. '안되면 말고'하는 생각을 할 때도 많지만.

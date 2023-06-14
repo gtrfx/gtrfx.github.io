@@ -2,6 +2,8 @@
 title: "mex 만들어 쓰기"
 tags: [mex, MATLAB]
 image: https://research-it.berkeley.edu/sites/default/files/styles/large/public/matlab-logo.jpg?itok=Zse5goL-
+layout: post
+author: "Keith"
 ---
 
 헬스 초보자들을 '헬린이'라고 부르듯 엔지니어 초년병들을 '엔린이'라고 불러야 맞지 싶은데, 어쨌든 SoC 만드는 회사에 있는 입장에서 '엔린이' 고객들이 원하면 뭐든 만들어줘야 하는 의무 아닌 의무가 있는 관게로 mex 같은 걸 만들어줄 때가 있다.

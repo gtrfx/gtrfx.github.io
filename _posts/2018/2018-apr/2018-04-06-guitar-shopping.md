@@ -4,6 +4,7 @@ title: "올해의 기타쇼핑"
 categories:
     - guitar
     - music
+author: "Keith"
 ---
 
 기타를 열심히 치고 있진 않지만 열심히 쇼핑은 하고 있다. 그 반대가 되어야 맞는 것 같은데 그렇게 되었다. 

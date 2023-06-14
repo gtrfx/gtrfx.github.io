@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Composing a song"
+author: "Keith"
 ---
 연습도 잘 안되고 그렇다고 새로운 것들을 연습하자니 재미도 없고 힘들고 해서 곡을 써보기로 한다.
 

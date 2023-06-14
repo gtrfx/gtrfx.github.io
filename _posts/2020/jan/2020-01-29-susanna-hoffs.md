@@ -3,6 +3,7 @@ title: "뱅글스와 Susanna Hoffs"
 tags: [susanna hoffs]
 image: https://cdn.images.express.co.uk/img/dynamic/79/590x/Susanna-Hoffs-in-The-Bangles-714329.jpg
 layout: post
+author: "Keith"
 ---
 
 뱅글스의 음악은 정말 아주 아주 어렸을 적 티비 광고에 나왔었어서 기억에 있는데, 음악의 분위기로 보든 그 그룹의 분위기로 볼 때 레코드 회사에서 돈 좀 써서 만든 걸그룹 아닐까 했다. 

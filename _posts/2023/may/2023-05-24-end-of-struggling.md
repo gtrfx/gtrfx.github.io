@@ -2,6 +2,8 @@
 title: "버티기의 끝..."
 tags: [struggling]
 published: false
+layout: post
+author: "Keith"
 ---
 
 그동안 질질한 버티기의 종지부를 찍기 위해 마지막 만남을 제안하였다. 

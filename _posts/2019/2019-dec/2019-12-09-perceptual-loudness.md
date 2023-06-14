@@ -2,6 +2,7 @@
 title: "몇 가지 음향 신호에 대한 용어와 상식 정리"
 tags: [AR model, Yule Walker, perceptual loudness, equal-loudness curve]
 layout: post
+author: "Keith"
 ---
 
 주변 지인이 '이런 물건 하나 있으면 좋겠다' 한 것에 대해서 여러 날 생각하다보니 떠오른 것들이 있어서 좀 찾아보니 '추억의' 용어들이 마구 튀어나왔다. 당시엔 별로 관심없던 것들이라 대놓고 수업시간에 배웠지만 그 의미가 뭔지 생각조차 해보지 않았던 것인데, 생각해보니 나도 그렇게 그렇게 원리보단 용어 암기에 보다 더 빨랐구나 싶다. 

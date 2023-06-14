@@ -2,6 +2,8 @@
 title: "Eternal child"
 image: https://i.scdn.co/image/ab67616d00001e02d7df37e014b04aba1e6c72c9
 tags: [chick corea]
+layout: post
+author: "Keith"
 ---
 
 먼저 타계한 Chick Corea의 명복을 빈다.

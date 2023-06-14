@@ -2,6 +2,8 @@
 title: "R.I.P. Edward Van Halen"
 image: https://www.rollingstone.com/wp-content/uploads/2019/01/eddie-van-halen-greatest-solos1.jpg
 tags: [may-you-rock-the-heaven]
+layout: post
+author: "Keith"
 ---
 
 에드워드 밴 해일런이라고 써야 맞을 것 같다. 드럼을 치는 그의 형 알렉스는 아직 살아있으니까. 

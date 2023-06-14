@@ -3,6 +3,7 @@ layout: post
 title: "C/C++에서 복소수 빠르게 쓰기"
 tags: [complex, gcc]
 image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fspiderlabweb.com%2Fcpp-program-add-two-complex-numbers-classes%2Fcomplex-number%2F&psig=AOvVaw2nRZzdG1a4tzF7p9HWC_zS&ust=1573613234514000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj5g6TU4-UCFQAAAAAdAAAAABAD
+author: "Keith"
 ---
 
 복소수는 사실 자연계에서는 일반인의 자연수와 같은 것이라 그냥 모든 수는 복소수로구나 알고 살게 된다. 컴퓨터 능력이 점점 더 좋아지다보니 64bit integer도 사실 밥먹듯 사용하게 된다. 

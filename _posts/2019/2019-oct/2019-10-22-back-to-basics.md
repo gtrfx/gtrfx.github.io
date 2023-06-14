@@ -2,6 +2,7 @@
 layout: post
 title: "기본으로 다시 돌아가서"
 tags: [back-to-basic]
+author: "Keith"
 ---
 
 대략 2년간 날림으로 운동하다가 큰 착각을 했구나 싶어서 기본으로 돌아오자 외친지 이제 딱 1주일 되간다. 

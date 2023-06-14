@@ -1,6 +1,8 @@
 ---
 title: "M1 pro Macbook pro..1년 넘게 지났네.."
 tags: [macbookpro]
+layout: post
+author: "Keith"
 ---
 
 최근의 MacOS는 쓰면 쓸 수록 놀랍다는 생각만 든다. 내가 가장 처음으로 MacOS를 제대로 접한 게 2009년, 막 퇴역시키려는 PC에 MacOS를 설치했을 때다. 

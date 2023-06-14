@@ -4,6 +4,7 @@ title: "7 string guitars"
 categories: 
     - music
     - hobby
+author: "Keith"
 ---
 
 일렉기타 중에서도 계륵이 있었으니 그 이름 찬란하게도 7현기타라 하겠다. 

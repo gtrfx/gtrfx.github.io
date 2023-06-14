@@ -3,6 +3,7 @@ layout: post
 title: "기술 정보를 빼돌리는 게 의미가 있을까?"
 tags: [stealing tech. info]
 published: false
+author: "Keith"
 ---
 
 다양한 회사를 다녀보지만 보안프로그램을 미친 듯 깔아대는 회사는 싫어한다. 회사 기밀을 빼돌리면 안된다고 그런 짓을 하는 회사 치고 빼앗길 만한 정보가 있는 회사를 못 봤다. 

@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/8a916c77c0a76402bf22655a065f10e3.jpg
 title: "Plate follower modeling"
+author: "Keith"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Iphone SDK.."
+author: "Keith"
 ---
 
 맥에서 프로그램 같은 거 짜본적 있다..

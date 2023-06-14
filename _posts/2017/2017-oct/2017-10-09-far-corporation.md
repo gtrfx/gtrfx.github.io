@@ -3,6 +3,7 @@ layout: post
 title: "Far Corporation: Stairway to heaven"
 categories:
     - music
+author: "Keith"
 ---
 
 Stairway to Heaven이란 곡은 Led Zeppelin의 곡들 중 가장 대중적으로 널리 알려진 곡이라 할 수 있다. Led Zeppelin IV 앨범 수록곡으로 71년에 발표되었다. 

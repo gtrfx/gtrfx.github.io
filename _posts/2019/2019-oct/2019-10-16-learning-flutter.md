@@ -3,6 +3,7 @@ layout: post
 title: "Flutter를 배워볼까?: Day 1"
 image: https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?w=578&strip=all
 tags: [flutter]
+author: "Keith"
 ---
 
 phone app을 만드는 방법은 최소한 하나라도 알고 있는 게 좋지 싶었는데, Google에서 발표한 Flutter가 쓸만한 듯하여 막 시작했다.

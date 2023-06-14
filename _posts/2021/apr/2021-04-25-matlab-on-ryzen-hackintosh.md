@@ -1,6 +1,8 @@
 ---
 title: "MATLAB 2020b on Ryzen Hackintosh"
 tags: [matlab]
+layout: post
+author: "Keith"
 ---
 
 결론:

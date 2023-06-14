@@ -2,6 +2,7 @@
 layout: post
 title: "Lenovo Thinkcentre Hackintosh"
 tags: [thinkcentre, m920]
+author: "Keith"
 ---
 
 일하는데 필요하다고 신청해서 받은 데스크탑에 MacOS를 올려봤다. 정확히는 10.14.3이다.

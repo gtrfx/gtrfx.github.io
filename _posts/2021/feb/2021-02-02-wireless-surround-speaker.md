@@ -2,6 +2,8 @@
 title: "Wireless Surround Speaker"
 images: https://images-na.ssl-images-amazon.com/images/I/813j-GmBawL._AC_SL1500_.jpg
 tags: [audio, speakers]
+layout: post
+author: "Keith"
 ---
 
 무선 서라운드 스피커라는 게 있는가에 대해서 생각하다가 장문의 글을 쓰게 되어 모두 지우고 다시 작성하게 되었다.

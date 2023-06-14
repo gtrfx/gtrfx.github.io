@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Marco Sfogli &quot;Still Hurts&quot; (50%)..."
+author: "Keith"
 ---
 
 도저히 프레이즈가 안 따지는 것 + 안 외워지는 것과의 싸움이다..

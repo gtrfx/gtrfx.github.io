@@ -1,6 +1,8 @@
 ---
 title: "Liquid Tension Experiment (LTE)"
 tags: [LTE]
+layout: post
+author: "Keith"
 ---
 
 Liquid tension experiment의 첫 앨범이 98년에 나온 것으로 검색이 된다. 그 다음 앨범이 99년에 나왔는데 2021년에 그 후속작이 나오려는지 SNS에서 광고가 되고 있다. 

@@ -2,6 +2,7 @@
 layout: post
 title: "4월이 되었다.."
 tags: [simon and garfunke, april come she will]
+author: "Keith"
 ---
 
 4월하면 봄비도 생각나고 제법 기온이 올라가는 달 이 정도만 생각이 난다. 좀 더 생각해보면 벛꽃 때문에 여기 저기 놀이가는 달. 그렇지만 정작 벛꽃 놀이는 한 번도 가 본 적이 없다. 

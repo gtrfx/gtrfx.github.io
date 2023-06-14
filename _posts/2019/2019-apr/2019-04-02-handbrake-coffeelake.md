@@ -2,6 +2,7 @@
 layout: post
 title: "i7 8700 H.265 transcoding"
 tags: [h.265]
+author: "Keith"
 ---
 
 거의 한달 동안 테스트 해본 것 같은데, 결론은 이렇다.

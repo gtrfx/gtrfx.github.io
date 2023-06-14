@@ -1,6 +1,8 @@
 ---
 title: "August Rush (2007)"
 tags: [august rush]
+layout: post
+author: "Keith"
 ---
 
 이 영화가 처음 나왔을 때는 대충 대충 보다가 결국에 중간에 꺼버렸던 기억이 있는데, 그래도 이번엔 좀 착실히 보려고 하다가 못 견디고 중간부터 끝까지 넘겨봤다.

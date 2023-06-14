@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Coffine..Coffin.."
+author: "Keith"
 ---
 
 Coffine이 Coffee+Wine을 조합한 단어란다..

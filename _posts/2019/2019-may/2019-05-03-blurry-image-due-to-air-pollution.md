@@ -2,6 +2,7 @@
 layout: post
 title: "공기 오염이 가져다주는 optical low pass filtering"
 tags: [air pollution]
+author: "Keith"
 ---
 
 내가 서울에서 살면서 아주 어렸을 때가 아닌 시절엔 아무리 화창한 날이라도 사진을 찍으면 '쨍'하다는 느낌을 받은 적이 없었다.

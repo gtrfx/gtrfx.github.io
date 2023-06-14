@@ -2,6 +2,7 @@
 layout: post
 title: "Google Translate + Automation: API Key"
 tags: [google translate]
+author: "Keith"
 ---
 
 구글 번역기의 수준이 완벽하진 않아도 적어도 수고를 들인 이상의 결과는 뽑을 수 있는 것이라 많은 양의 내용을 번역해야할 필요가 있다 싶으면 perl 같은 스크립트 언어를 이용해서 번역기능을 자동화할 수 있다.

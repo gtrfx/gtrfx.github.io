@@ -2,6 +2,7 @@
 layout: post
 title: "Bill Champlin에 대해서"
 tags: [bill champlin]
+author: "Keith"
 ---
 
 80년대 팝음악을 차근차근 챙겨듣다가 이분의 이름을 발견했다. Chicago라는 밴드를 좋아했다거나 1988년 빌보드 차트에 관심이 많았다면 알 수도 있는 이름이지 싶은데, 대개 그렇듯 이분은 California Oakland 출생이고 San Francisco Bayarea에서 활동하다가 LA에서 활동하게 되신 분이니 밴드 이름인 Chicago라는 동네와는 상관이 없지 싶다. 이거 저거 다 떠나서 나는 이분의 시원하기 그지 없는 보컬을 매우 좋아한다.

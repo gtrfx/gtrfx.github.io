@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Piezo Pickup DIY??"
+author: "Keith"
 ---
 
 FISHMAN, LRBaggs 등에서 파는 Piezo Bridge는 Piezo 소자를 saddle에 올려서 브릿지에서의 현 진동을 전기 신호로 바꾸어 출력을 모두 합(sum)해서 출력하도록 되어있다. 따라서 bridge와 saddle의 조합만 맞으면 piezo saddle만 구해서 쓸 수 있다.

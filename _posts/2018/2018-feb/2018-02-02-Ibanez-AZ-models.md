@@ -4,6 +4,7 @@ title: "Ibanez AZ models"
 categories:
     - guitar
     - music
+author: "Keith"
 ---
 
 기타에 대한 유행도 사실 많이 바뀌어서 사실 80-90년대 또는 2천년대 초반처럼 수퍼스트랫이 그렇게나 위력있는 기타가 아닌 상황이 되어버렸다. 오히려 빈티지함과 모던함이 섞여있는 그런 기타 - 아마도 Suhr guitar가 그러한 스타일의 대표격이 아닌가 한다만 - 들이 크게 유행을 했다.

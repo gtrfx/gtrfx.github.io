@@ -2,6 +2,8 @@
 title: "버티기...9"
 tags: [struggling]
 published: false
+layout: post
+author: "Keith"
 ---
 
 오늘은 제대로 잠을 이루지 못하고 새벽 4시에 일어났다. 대충 12시쯤에 잠이 든 것 같은데 사실 8시반부터 잠자기 위해서 애써봤지만 결국엔 그렇게 됐다.

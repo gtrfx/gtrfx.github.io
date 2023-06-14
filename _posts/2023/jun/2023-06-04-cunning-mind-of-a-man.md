@@ -2,6 +2,8 @@
 title: "간사한 사람의 마음이란.."
 tags: [cunning, cheating]
 published: false
+layout: post
+author: "Keith"
 ---
 
 6월 2일에 그 사람을 한국으로 보내고 온 지 이틀만에 match maker가 새로운 상대를 물색해주었다. 인근 지역의 orthodontist로 일하는 사람이라고 하는데, 생각보다 가까운 곳에 살고 있는 사람이었다.

@@ -4,6 +4,7 @@ title: "Synergy Preamp/Modules"
 categories:
     - music
     - amplifier
+author: "Keith"
 ---
 
 Synergy라는 곳에서 예전 Egnator의 modular amplifier를 또 만들어낸 모양이다. 2015년에 발표했다는데 여태도 회사 홈페이지가 열리는 걸 보면 아직 망하지 않은 모양이다. 

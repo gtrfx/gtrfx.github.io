@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Her Favorite Song"
+author: "Keith"
 ---
 
 Guitar: Ibanez RG450MH (EMG89/81)

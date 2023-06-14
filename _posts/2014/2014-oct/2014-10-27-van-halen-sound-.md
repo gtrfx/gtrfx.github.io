@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Van Halen Sound..."
+author: "Keith"
 ---
 
 밴 헤일런의 초창기 사운드를 흉내내는 것은 어떨까 하는 생각을 잠시 해봤다.

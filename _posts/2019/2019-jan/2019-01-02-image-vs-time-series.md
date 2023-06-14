@@ -2,6 +2,7 @@
 layout: post
 title: "영상 신호 처리 vs (일반)신호 처리"
 tags: [image processing]
+author: "Keith"
 ---
 
 영상처리를 음성신호처리의 관점에서 바라보게 되는데, 다루는 데이터의 크기라든가 처리 방법 말고도 여기에는 아주 큰 차이가 있다. 

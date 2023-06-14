@@ -2,6 +2,8 @@
 title: "여태 이 세상에 filemerge 같은 툴이 없다니"
 image: https://eclecticlightdotcom.files.wordpress.com/2018/04/compareff02.jpg?w=912
 tags: [filemerge]
+layout: post
+author: "Keith"
 ---
 
 Filemerge라는 툴은 내가 MacOS에서 손에 꼽는 툴 중에 하나다. 살아오면서 정말 여러 가지 툴을 써보게 되지만 Filemerge처럼 좋은 비교툴은 못 봤다. 

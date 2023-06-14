@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Marc Bonilla &amp; Keith Emerson"
+author: "Keith"
 ---
 
 Marc Bonilla는 우리 나라에 그리 잘 알려진 주자는 아니지만, 이미 그의 연주곡 중 하나가 Guitar Practicing Musicians vol.2의 머릿곡으로 실릴 정도로 저력있는 주자이다. 

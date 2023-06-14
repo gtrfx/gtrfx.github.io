@@ -1,6 +1,8 @@
 ---
 title: "정신 차리자.."
 tags: [alone again]
+layout: post
+author: "Keith"
 ---
 
 이렇게 마음이 여러 가지로 복잡하고 힘들 때에 내가 나에게 하고 싶은 말 한 가지.

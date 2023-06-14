@@ -4,6 +4,7 @@ title: "Numi Ginger Lemon tea 이거 좋네!"
 tags: [ginger, lemon, tea]
 categories:
     - life
+author: "Keith"
 ---
 
 사실 요새 감량을 위해 굶고 있다보니 물이라도 마셔주어야 하는 신세이기에 쓰디쓴 커피로 일종의 자학을 하고 있기에 커피를 물처럼 마시고 있다. 그런데, 누군가가 매일 아침 내려놓는 (brewing하는) 커피가 오늘은 없었기에 급한 마음에 (아니 너무 배가 고프기에) 아무거나 눈에 보이는 티백을 집어들었다. 

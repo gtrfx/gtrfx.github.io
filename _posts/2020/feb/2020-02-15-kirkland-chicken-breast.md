@@ -3,6 +3,7 @@ title: "커클랜드 냉동 닭가슴살"
 tags: [kirkland, chicken breast]
 image: https://images.costcobusinessdelivery.com/ImageDelivery/imageService?profileId=12028466&itemId=382861&recipeName=680
 layout: post
+author: "Keith"
 ---
 
 오늘 costco를 돌다가 발견했다. 냉장용 닭가슴살은 양은 많은 것 같은데 물이 많아서 무겁고 어차피 한번에 다 먹을 수 없을 정도로 많으니까 결국 다 냉장실 행인데 기왕에 그럴바에 물이 없는 게 더 좋구나 했다. 물이 빠져있는 상태라 (내부엔 적당히 물이 있음) 다루기도 편리하고 조리할 때 물이 많이 나오지 않으니까 좋은 것 같다.

@@ -3,6 +3,7 @@ layout: post
 title: "AX8: 앰프 모델"
 tags: [fractal audio, ax8]
 image: https://img.audiofanzine.com/images/u/product/normal/fractal-audio-systems-ax8-244920.jpg
+author: "Keith"
 ---
 
 주문한 AX8이 우여곡절 끝에 도착했다. 

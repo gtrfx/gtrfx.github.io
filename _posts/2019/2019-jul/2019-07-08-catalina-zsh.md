@@ -3,6 +3,7 @@ layout: post
 title: "Zshell과 Catalina (10.15)"
 tags: [zshell, macos 10.15, Catalina]
 image: https://cnet2.cbsistatic.com/img/uku7sSxJf3Y_lnD_KQ2I8RYbdL4=/1092x0/2019/10/07/fc04b95e-1b6f-4ed7-8c1a-be77243b4291/macos-catalina.png
+author: "Keith"
 ---
 
 Linux 세계 (Windows는 말할 것도 없고)는 생각보다 보수적인데, 그에 비해 Mac의 세계는 세상 변화에 보다 빠르게 대응하는 것 같다. 물론 많은 하드웨어를 다양하게 서포트해야 할 필요가 없으니 (그렇다고 아주 다양하지 않은 것도 아니다) 그런 이유도 있겠지만, 지금 시장에서 크게 유행하고 있는 하드웨어를 쓰고 있으면, 또 그게 대충 7년 이내의 것들이라면 큰 무리 없이 최근의 Mac에 호환되고 있으니까 생각보다 그다지 closed한 ecosystem이라고 보기도 어렵다(고 생각한다).

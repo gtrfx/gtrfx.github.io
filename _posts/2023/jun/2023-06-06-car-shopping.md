@@ -1,6 +1,8 @@
 ---
 title: "카 쇼핑..."
 tags: [car, model s]
+layout: post
+author: "Keith"
 ---
 
 갑자기 차를 사야겠다는 바람이 들어서 열심히 갈등(?) 중이다.

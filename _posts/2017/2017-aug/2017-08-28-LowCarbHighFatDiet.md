@@ -4,6 +4,7 @@ title: "Low Carb High Fat diet"
 categories:
     - life
     - health
+author: "Keith"
 ---
 
 대략 2-3년전부터 LCHF 다이어트가 일대 유행으로 번진 것 같다. 한국에서는 티비에 소개된지 대략 1년 정도 되는 것 같고 효과를 봤다는 사람부터 병원에 실려갔다는 사람들까지 반응은 다양한 것 같다.

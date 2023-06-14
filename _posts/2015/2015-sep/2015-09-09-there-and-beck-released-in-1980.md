@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/847d724765fb3538c01efcb80f01d249.jpg
 title: "There and Beck (released in 1980)"
+author: "Keith"
 ---
 
 ![image](/assets/images/847d724765fb3538c01efcb80f01d249.jpg)

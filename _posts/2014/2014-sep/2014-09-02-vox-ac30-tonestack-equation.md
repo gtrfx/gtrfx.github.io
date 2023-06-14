@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Vox AC30 Tonestack Equation"
+author: "Keith"
 ---
 
 

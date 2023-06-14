@@ -2,6 +2,8 @@
 title: "재미로 노래 떠보기: Can't Fight the Moonlight"
 image: https://www.etonline.com/sites/default/files/styles/max_970x546/public/images/2020-10/coyote-ugly-gettyimages-163000217.jpg?h=92306eb3&itok=EPQATaSL
 tags: [hit song]
+layout: post
+author: "Keith"
 ---
 
 유명한 풋볼 선수 중에 살아있는 전설의 쿼터백 Tom Brady라는 선수가 있다. 이 분의 경기를 보다가 크게 감동을 먹고 검색해보니 Coyote Ugly라는 영화에 나오셨던 분이 검색이 되었고, 당시 이 영화와 함께 히트했던 "Can't fight the moonlight"이란 노래도 아울러 검색이 되었다.

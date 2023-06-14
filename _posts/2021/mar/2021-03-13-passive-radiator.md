@@ -2,6 +2,8 @@
 title: "Passive Radiator"
 image: https://images-na.ssl-images-amazon.com/images/I/612J-8FIsqL._AC_SL1100_.jpg
 tags: [passive radiator]
+layout: post
+author: "Keith"
 ---
 
 지인 중에 블투스피커를 몹시 좋아하는 사람이 있다. 아마도 가지고 있는 블투 스피커만 수십개 되는 듯 하다. 가격이 싸고 이것 저것 해볼 게 많으니까 계속 사는 것 같다. 너무 많이 사서 사방팔방 주변 사람들에게 나눠주기도 할 정도다. 나도 2개나 선물을 받았을 지경이니까. 그러나 집안 어디엔가 쳐박혀있다.  

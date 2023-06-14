@@ -4,6 +4,7 @@ title: "Linux Audio"
 categories:
     - learning
     - technology
+author: "Keith"
 ---
 
 Linux의 audio 계층은 다른 OS에 비해 많이 노출되어있는 편이다. 접근 방법도 워낙 다양해서 ALSA, JACK, PULSEAUDIO, LAPSD(?) 등등 다양하다. 다른 OS들과 비교하면 MacOS처럼 오디오 계층이 깔끔한 경우가 있는가 하면, 여전히 ASIO와 이런 저런 오디오 계층이 공존하는 윈도우즈도 있다. 

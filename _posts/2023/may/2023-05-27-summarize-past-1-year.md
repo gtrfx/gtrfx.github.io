@@ -2,6 +2,8 @@
 title: "지난 1년간의 정리.."
 tags: [summary]
 published: false
+layout: post
+author: "Keith"
 ---
 
 지난 1년간을 정리해야 할 때다. 한동안 계속 힘들었고 앞으로도 힘들 수 있겠지만. 이렇게라도 정리를 하는 것이 좋을 듯 하다.

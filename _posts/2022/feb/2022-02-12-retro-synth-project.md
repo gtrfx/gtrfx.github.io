@@ -1,6 +1,8 @@
 ---
 title: "레트로 신디 프로젝트.."
 tags: [retro synth]
+layout: post
+author: "Keith"
 ---
 
 연초부터 여가시간에 보람되게 할 수 있는 게 무엇일까 생각하다가 얻은 결론이 옛날 synth 칩을 모델링해서 가지고 놀아보자였다. 그후 몇 가지 survey를 해봤고 얻은 결론은 다음과 같다.

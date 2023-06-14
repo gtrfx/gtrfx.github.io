@@ -3,6 +3,7 @@ title: "기탑재 개념의 변화"
 layout: post
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRStqvQlIAtDFrpcTvv7SUHi5B4s_D64McIy_mQ5MGLIEbJlMqS&usqp=CAU
 tags: [WSL, MacOS, Linux]
+author: "Keith"
 ---
 
 Covid19 덕택에 집에 반강제로 갇히게 된 이후로 하루의 대부분을 컴퓨터와 보낸다. 물론 이전에도 하루의 대부분의 시간을 컴퓨터와 보내왔지만, 더 많은 시간을 컴퓨터와 같이 보내고 있다. 사실 스마트폰이며 티비며 컴퓨터가 없는 곳은 없으니까 눈떠서 잠들 때까지 컴퓨터와 같이 보내고 있는 시절이긴 하다만.

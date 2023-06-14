@@ -2,6 +2,7 @@
 layout: post
 title: "Rectifying Circuit"
 tags: [rectifier, diode]
+author: "Keith"
 ---
 # 전기 회로 읽기: 정류회로
 

@@ -2,6 +2,7 @@
 layout: post
 title: "일렉기타에 피에조 픽업 붙이기"
 tags: [piezo pickup]
+author: "Keith"
 ---
 
 일렉기타에서 가장 하기 쉬운 개조 작업 중 하나이다. 어쿠스틱 기타에 붙이는 under-saddle-type piezo stick을 일렉기타의 브릿지 아래에 어떻게든 넣고 프리앰프를 하나 달아주는 것으로 끝난다. 프리앰프는 이베이에서 7불도 안되는 가격에 4 band EQ가 붙어있고 battery compartment가 있는 것으로 살 수 있다. 배터리 수납처가 따로 있는 것보단 이것이 훨씬 좋아보이는데, 아쉬운 것은 튜너를 합체하지 않았다이지 싶다. 

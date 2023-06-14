@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Piezo pickup + Preamp test #2"
+author: "Keith"
 ---
 
 Piezo transducer와 Built-in preamp (simple non-inverting amplifier)를 테스트해보았다. 실제 장착이나 제작은 1시간도 안걸려 완료 되었으나, 튜닝하는데 꼬박 3시간동안 꼼짝안고 붙어있다가 결국 휴식하지 않은 덕택에 손가락에 작은 부상을 입고나서야 결국 마무리했다.

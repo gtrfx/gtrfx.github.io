@@ -2,6 +2,8 @@
 title: "배터리 데이..?"
 image: https://images.hgmsites.net/lrg/25000-tesla-teased-for-2023--battery-day_100762595_l.jpg
 tags: [tesla, battery day]
+layout: post
+author: "Keith"
 ---
 
 살다보니 별 신기한 날이 다 생긴다 싶다. 주주들에게 전기차에 들어가는 배터리에 대해서 이야기하겠다며 날을 잡은 건데 이게 초미의 관심사가 되었다. 

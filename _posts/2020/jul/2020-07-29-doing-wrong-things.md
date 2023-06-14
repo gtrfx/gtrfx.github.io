@@ -1,6 +1,8 @@
 ---
 title: "허튼 짓을 하면서 살아야 제맛인데.."
 tags: [weird, thats what i am]
+layout: post
+author: "Keith"
 ---
 
 재택근무를 하는 와중에도 요즘처럼 바쁜 적이 없어서 일어나서 눈 뜨고 졸려서 쓰러질 때까지 내내 일만 하고 있다.

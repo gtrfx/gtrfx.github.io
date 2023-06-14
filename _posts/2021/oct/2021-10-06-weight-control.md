@@ -2,6 +2,8 @@
 title: "체중 조절"
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCylU88UaSVCiDCmkQjgLBKrGvD2EvWMe8RuI65ebvCRq3-5co2nTnid3vv3zyRb1YFCk&usqp=CAU
 tags: [weight control]
+layout: post
+author: "Keith"
 ---
 
 체중 조절을 위해 참 오랜 기간 애를 쓰고 있지만 효과는 예전 같지 않다. 한 때는 거의 매일 매일 체중이 감소되고 있는 것을 아침마다 확인했던 적이 있는데, 지금은 그렇지 않다. 

@@ -4,6 +4,7 @@ title: "베이스 기타에 대하여: 일반적인 일렉트릭 베이스"
 tags: [bass guitar, bass, P bass, J bass, MM bass]
 categories:
     - guitar
+author: "Keith"
 ---
 
 잉여력이 돋는 가운데 베이스기타를 또 한 대 구입해보려고 이번엔 나름 간단한 연구를 해보았다. 물론 일렉트릭 베이스 기타이고 피콜로라든가 바이올린 베이스라든가 마이크로 (스케일) 베이스라든가 Fretless 베이스들은 모두 논외로 한다. (~~관심도 없다 솔직히~~)

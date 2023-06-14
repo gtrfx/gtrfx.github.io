@@ -2,6 +2,7 @@
 layout: post
 title: "라스베리파의 용도: node js"
 tags: [raspberry pi]
+author: "Keith"
 ---
 
 Node Js를 쓰면 편리한 게 이만저만이 아니지만, 내 입장에서는 웹 인터페이스를 이용해서 외부에서 일을 시키기가 아주 편하다는 것이다.

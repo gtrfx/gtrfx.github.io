@@ -3,6 +3,7 @@ layout: post
 title: "갑자기 모차르트 교향곡 40번이 듣고 싶어졌다.."
 tags: [mozart, symphony 40]
 image: https://is1-ssl.mzstatic.com/image/thumb/Features/36/11/aa/dj.rjrvtugr.jpg/268x0w.jpg
+author: "Keith"
 ---
 
 아주 어렸을 적엔 클래식 음악을 듣는 것을 좋아했다. 그렇다고 정식으로 음악 교육을 받은 것은 아니지만, 음악을 해야 맛이 아니라 듣는 그 자체도 즐거움이니까 지금 생각해봐도 잘한 일이라고 생각한다.

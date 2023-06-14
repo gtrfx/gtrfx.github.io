@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/1b96f47cebe6729956ad00eac0804214.PNG
 title: "Tetrode/Pentode"
+author: "Keith"
 ---
 
 

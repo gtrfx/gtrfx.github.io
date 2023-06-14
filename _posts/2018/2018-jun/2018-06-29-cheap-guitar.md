@@ -4,6 +4,7 @@ title: "알리익스프레스로부터 온 기타: 두번째"
 tags: [aliexpress, guitar, stratocaster, strat]
 categories:
     - guitar
+author: "Keith"
 ---
 
 지난 번 Yngwie signature model 이후에 또 한 대의 strat을 더 샀다. 그냥 strat을 쓰기 위함인건데 Squier를 사더라도 최소 $300 은 주어야 하기 때문에 알라익스프레스에 의지한 것이다.

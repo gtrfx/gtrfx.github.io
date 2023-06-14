@@ -1,6 +1,8 @@
 ---
 title: "안드로이드 폰으로 스테레오 레코딩 하기.."
 tags: [stereo recording]
+layout: post
+author: "Keith"
 ---
 
 이 무슨 엉뚱한 이야기를 하고 있느냐 할 것 같은데, 안드로이드 폰이 스테레오 오디오를 다룰 수 있고 OS에서 stereo audio가 기본인데 무슨 말을 하는 것이냐 할 것 같지만, 신기하게도 playback sound는 stereo로 설정되어있는 반면 recoding으로 일반적으로 허용되는 것은 mono가 기본이라 stereo로 하려면 별도의 작업을 해주어야 한다. 

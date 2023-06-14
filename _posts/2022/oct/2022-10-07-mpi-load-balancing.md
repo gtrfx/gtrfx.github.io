@@ -1,6 +1,8 @@
 ---
 title: "MPI load balancing"
 tags: [MPI, openmpi, load balancing]
+layout: post
+author: "Keith"
 ---
 
 제목을 이렇게 정하니 좀 거창한데 사실 내용은 간단하다.

@@ -1,6 +1,8 @@
 ---
 title: "나는 어떻게 술을 마시게 되었는가?"
 tags: [why-am-i-drinkin]
+layout: post
+author: "Keith"
 ---
 
 길게 적었다가 모두 지워버리고 그냥 핵심만 요약하려고 한다.

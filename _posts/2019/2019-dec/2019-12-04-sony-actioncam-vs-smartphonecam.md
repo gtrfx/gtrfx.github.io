@@ -3,6 +3,7 @@ title: "Sony X3000 vs. 스마트폰 폰카"
 tags: [x3000, xiaomi]
 image: https://assets.pcmag.com/media/images/459375-sony-fdr-x3000.jpg?width=1538&height=865
 layout: post
+author: "Keith"
 ---
 
 X3000을 근 1년간 사용하다가 요즘엔 폰카로 일반 사진/동영상을 찍어보고 있다. 많이 좋아졌다는 이야기를 들어왔기에. X3000은 크기도 작고 휴대하기 용이한 카메라이지만 그 역시도 별도로 소지하고 다녀야되는 번거로움 때문에 그냥 폰카로 모든 일상 기록을 담고 있다. 편리한 기능들이 많이 있어서 (H.265로 자동으로 기록된다든가 time lapse도 자동으로 동영상 변환해주고) 시간 절약이 많이 된다.

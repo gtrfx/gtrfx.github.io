@@ -2,6 +2,7 @@
 title: "Video Capture Card: 비디오 캡쳐 카드에 대해서"
 layout: post
 tags: [video capture card, h.264, bitrate]
+author: "Keith"
 ---
 
 비디오 캡쳐 카드에 대해서 생각하는 사람들을 위해서 적어본다.

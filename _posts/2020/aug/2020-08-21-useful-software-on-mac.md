@@ -1,6 +1,8 @@
 ---
 title: "유용한 Mac 유틸리티: XLD"
 tags: [XLD]
+layout: post
+author: "Keith"
 ---
 
 Mac 세계에도 가만히 보면 양질의 소프트웨어를 오랜 시간동안 끊임없이 제공하고 있는 사람들이 있다. Karabiner key라든가 한참 전에 지원이 중단되긴 했지만 perian이라든가 등등.

@@ -1,6 +1,8 @@
 ---
 title: "다 늦게 m7b5 chord에 대해 어렴풋이"
 tags: [minor7b5]
+layout: post
+author: "Keith"
 ---
 
 m7b5 라는 코드가 diatonic chord에 있는데 이것을 효과적으로 사용하는 방법에 대해서 알려준 책을 못 만났다. 이게 diantonic chord에 있는 것이면 상당히 흔히 쓰이는 코드일 수 있지만, 여간해서 보기 어렵다.

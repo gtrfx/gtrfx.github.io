@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Free VST Host - Cantabile"
+author: "Keith"
 ---
 
 공짜 VST Host이다..

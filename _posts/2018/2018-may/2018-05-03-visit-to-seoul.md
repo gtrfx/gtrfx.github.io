@@ -3,6 +3,7 @@ layout: post
 title: "오랜만에 서울에 가보니"
 categories:
     - life
+author: "Keith"
 ---
 
 거의 2년만이니 오랜만이라 할 수 있을 것 같다. 요약해보면

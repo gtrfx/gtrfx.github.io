@@ -1,6 +1,8 @@
 ---
 title: "Ethernet speed check.."
 tags: [linux, ethernet, mii-tool]
+layout: post
+author: "Keith"
 ---
 
 일반적으로 네트워크 스피드를 나는 다음과 같이 체크한다.

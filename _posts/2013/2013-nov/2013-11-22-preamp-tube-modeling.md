@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Preamp tube modeling?"
+author: "Keith"
 ---
 
 

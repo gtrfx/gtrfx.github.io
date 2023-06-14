@@ -1,6 +1,8 @@
 ---
 title: "휴일에도 일하기."
 tags: [working on holidays]
+layout: post
+author: "Keith"
 ---
 
 휴일에 일을 하려고 맘을 먹으면 시작하기가 힘이든다. 꾸역꾸역하려고 하다가 일도 하지 않은 상태로 반나절 이상을 날리고 나서야 슬슬 시동이 걸린다.

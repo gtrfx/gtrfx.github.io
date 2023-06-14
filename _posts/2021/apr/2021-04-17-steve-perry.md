@@ -1,6 +1,8 @@
 ---
 title: "Steve Perry라는 보컬리스트.."
 tags: [steve perry, ainsley dunbar]
+layout: post
+author: "Keith"
 ---
 
 역시 밴드음악이라고 해서 밴드가 원하는 대로 음악을 할 수 있는 것은 아니구나 싶다. 레코드 회사들이 열심히 신인을 발굴하고 그들이 적당히 구조조정을 함으로써 마침내는 상업적으로 성공하게 되는 것이구나 싶다.

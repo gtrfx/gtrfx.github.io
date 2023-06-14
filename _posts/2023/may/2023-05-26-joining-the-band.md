@@ -2,6 +2,8 @@
 title: "밴드 가입 해봤다.."
 tags: [joining the band]
 published: false
+layout: post
+author: "Keith"
 ---
 
 글쎄 밴드에라도 가입해야 뭔가 좀 바빠질 것 같아서 해봤는데 뭐랄까 달라지는 그런 기분은 별로 없고 그냥 무늬뿐인 가입 뭐 그런 기분이다. 

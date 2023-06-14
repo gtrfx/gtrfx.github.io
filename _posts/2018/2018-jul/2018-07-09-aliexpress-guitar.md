@@ -3,6 +3,7 @@ layout: post
 title: "Aliexpress Guitar"
 categories:
     - guitar
+author: "Keith"
 ---
 
 알리익스프레스 기타에 대해서 갖게 된 느낌을 또 적어보려고 한다.

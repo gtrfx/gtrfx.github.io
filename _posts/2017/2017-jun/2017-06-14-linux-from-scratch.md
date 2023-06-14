@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Linux From Scratch"
+author: "Keith"
 ---
 # Linux from Scratch (LFS)
 

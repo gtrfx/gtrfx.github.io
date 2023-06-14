@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Speaker Simulation.."
+author: "Keith"
 ---
 
 Axetrak이 요새 한창 인기다..

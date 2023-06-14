@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "CAE 3+ SE Preamplifier Simulation Model"
+author: "Keith"
 ---
 
 

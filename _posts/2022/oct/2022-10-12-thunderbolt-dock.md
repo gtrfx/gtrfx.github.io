@@ -1,6 +1,8 @@
 ---
 title: "Thunderbolt dock.."
 tags: [thunderbolt dock, starttech]
+layout: post
+author: "Keith"
 ---
 
 StarTech이란 곳에서 만든 thunderbolt dock을 쓰고 있다. 회사 사이트를 검색해보니 중국 어딘가에 있는 OEM 업체에서 다양한 모델로 제품을 공급받고 미국에서 팔고 있는 듯 하다. 이미 윈도우즈 세계도 USB 3 덕택에 디스플레이며 키보드 등등 USB 악세사리들과 단 하나의 케이블로 연결이 가능해졌다. 그러나 여전히 USB 3와 thunderbolt 세계에는 차이가 있다는 것을 어렴풋이 알고 있다.

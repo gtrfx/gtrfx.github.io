@@ -2,6 +2,8 @@
 title: "거지 근성..."
 tags: [dont ask anyone to pay for your stuff]
 published: false
+layout: post
+author: "Keith"
 ---
 
 내가 어느 정도 충분히 사회생활도 해보고 많은 사람들을 만나봤구나 하는 생각을 하고 있는 와중에 또 특이한 인간형을 마주하게 되었다는 사실은 참으로 놀랍다. 그만큼 내가 이 세상에서 살아가고 있는 사람들의 다양성에 대해서 너무 간과하고 있었던 것이다.

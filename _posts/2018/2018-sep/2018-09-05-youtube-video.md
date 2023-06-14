@@ -4,6 +4,7 @@ title: "유튜브 슬슬 짜증나는데.."
 tags: [video, encoding]
 categories:
     - life
+author: "Keith"
 ---
 
 유튜브가 돈이 된다는 이야기가 돌면서 많은 사람들이 이 바닥으로 많이들 유입이 된 모양이다.

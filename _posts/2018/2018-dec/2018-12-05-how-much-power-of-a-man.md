@@ -2,6 +2,7 @@
 layout: post
 title: "사람의 힘은 몇 마력일까?"
 tags: [horsepower, manpower]
+author: "Keith"
 ---
 
 궁금해서 찾아보니 누군가가 질문한 것에 대해 아래와 같이 답이 나와있다. 정확하진 않지만.

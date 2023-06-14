@@ -2,6 +2,7 @@
 layout: post
 title: "MacOS High Sierra Installation"
 categories: life
+author: "Keith"
 ---
 
 6월에 발표한 것인데 APFS만을 지원한다기에 설치하지 않고 있다가 어차피 9월에 발표가 되면 설치하게 될 것 같으니 한달 정도 앞서간다 생각하고 설치해 보았다.

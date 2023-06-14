@@ -4,6 +4,7 @@ title: "저탄수화물 다이어트"
 categories:
     - life
     - health
+author: "Keith"
 ---
 
 저탄수화물 다이어트 1.5주째 진행 중이다. 대략 1kg 정도 빠진 듯 싶다.

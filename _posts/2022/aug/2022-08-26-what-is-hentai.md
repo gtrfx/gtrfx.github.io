@@ -3,6 +3,7 @@ title: "Hentai가 뭘까??"
 tags: [hentai]
 image: 
 layout: post
+author: "Keith"
 ---
 
 Hentai라는 말은 "변태"의 일본어 독음에서 오는 것이라는 것을 익히 알고 있다. 문제는 이게 그냥 '변태'를 의미한다기 보단 성에 과몰입한 일본 만화/애니메이션 장르를 의미한다는 데서 출발한다고 한다.

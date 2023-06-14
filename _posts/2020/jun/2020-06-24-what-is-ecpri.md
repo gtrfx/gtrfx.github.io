@@ -1,6 +1,8 @@
 ---
 title: "eCPRI 는 무엇인가?"
 tags: [eCPRI]
+layout: post
+author: "Keith"
 ---
 
 블로그 접속 통계를 보니 eCPRI에 대한 조회수가 가장 높다고 나온다. eCPRI는 이미 주기적으로 나오고 있는 spec이 있으니 그것을 참조하기 바란다. 혹시나 낚시용으로 작성한 게 아닐까 의심을 받기 싫어서 내용을 다시 작성한다.

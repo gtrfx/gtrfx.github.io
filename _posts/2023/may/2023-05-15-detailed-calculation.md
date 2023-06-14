@@ -2,6 +2,8 @@
 title: "그 여자가 날 구워삶았을 때 어떤 금전적 이익이 있는지 계산해보자.."
 tags: [monetary gain from me]
 published: false
+layout: post
+author: "Keith"
 ---
 
 대충 계산을 해볼까?

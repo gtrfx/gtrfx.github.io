@@ -3,6 +3,7 @@ layout: post
 title: "Snapdragon: Kryo/Krait/Adreno 이게 뭐냐?"
 tags: [kryo, krait, adreno]
 image: https://www.extremetech.com/wp-content/uploads/2019/07/565864-snapdragon-845-640x360.png
+author: "Keith"
 ---
 
 스마트폰도 종류가 많아지다보니 별별 용어가 다 튀어나오는데, 그냥 정리하고 넘어가볼까 한다. 

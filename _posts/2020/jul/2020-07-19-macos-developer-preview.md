@@ -1,6 +1,8 @@
 ---
 title: "Big Sur: macOS developer preview 2"
 tags: [big sur, macOS10.16, developer preview]
+layout: post
+author: "Keith"
 ---
 
 DP2 부팅해봐야 별 것 없다. Big Sur가 Catalina 대비 별 다른 게 없고, Catalina는 또 Mojavi 대비 별 다른 게 없다.

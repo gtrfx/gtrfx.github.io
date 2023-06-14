@@ -2,6 +2,7 @@
 layout: post
 title: "Synth programming"
 tags: [synth, programming, plugin, langauge]
+author: "Keith"
 ---
 예전 음반들을 보면 synthesizer를 프로그래밍했다고 하는 사람의 크레딧이 있었다. 사실 그 시절만해도 뭔가 어려울 것 같은 synthesizer를 다루려면 머리가 비상해야 할 것 같다는 생각도 하고, 쉽게 다뤄지지 않으니까 프로그래밍까지 해야되나보다 했었다. 사실상 synthsizer가 컴퓨터이긴 했으니까. 우리가 잘 알고 있는 그런 컴퓨터라기 보단 일종의 마이컴인데, UI는 좀 불편하고 그런 컴퓨터 말이다. 소리를 내주는 부분은 따로 만들어져있고 말이다.
 

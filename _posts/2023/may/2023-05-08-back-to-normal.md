@@ -2,6 +2,8 @@
 title: "이별의 감정?"
 tags: [alone again]
 published: false
+layout: post
+author: "Keith"
 ---
 
 영문 제목과 블로그의 국문 제목이 다르게 적어놨는데, 뭐랄까 영문 제목이 난 더 이성적이라고 생각된다. 

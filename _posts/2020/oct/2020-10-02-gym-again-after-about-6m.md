@@ -2,6 +2,8 @@
 title: "6개월만에 짐에 가니.."
 image: https://s7d2.scene7.com/is/image/TWCNews/brooklyn-gym-generic-file-covidjpg
 tags: [live-with-your-gym-forever]
+layout: post
+author: "Keith"
 ---
 
 코로나 + 재택근무 때문에 멀쩡한 짐에 가볼 기회가 없었는데, 전염이 더 악화되다보니 사용인원을 소수 + 예약제로 바꿔준다고 해서 요 며칠 이용 중이다. 물론, 감염의 위험성은 언제나 도사리고 있다. 

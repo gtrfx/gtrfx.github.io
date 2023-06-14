@@ -2,6 +2,7 @@
 title: "대충 살아.."
 tags: [lifestyle]
 layout: post
+author: "Keith"
 ---
 
 요새 내가 가장 많이 하는 말이 "대충 살아...", "편하게 살아..."인 듯하다.

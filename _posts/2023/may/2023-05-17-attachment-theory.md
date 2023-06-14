@@ -1,6 +1,8 @@
 ---
 title: "애착이론...?"
 tags: [struggling]
+layout: post
+author: "Keith"
 ---
 
 어제 인터넷을 뒤져보니 인간 관계에서 '애착이론(attachment theory)'이라는 게 있는 데 이것으로 서로의 관계를 분석하는 도구로 삼고 있다고 한다는 얘길 들었다. 

@@ -3,6 +3,7 @@ title: "좋은 베이스 음색?"
 tags: [bass]
 image: https://www.schecterguitars.com/images/store/product/STILETTO%20EXTREME%204%20BCH%20TILT.png
 layout: post
+author: "Keith"
 ---
 
 기타만 주로 다루다가 막상 베이스를 다루게 되면 악기가 너무 조촐하게 되는 것에 놀라고 또 뭘 어찌해야지 좋은 소릴 낼 수 있을까 하는 고민에 빠지게 된다. 달랑 기타와 앰프 뿐이니까 뭔가 달아줘야 될 것 같고 그게 안되면 베이스라도 아주 좋은 것을 써야 되는 것 아닌가 하고 말이다.

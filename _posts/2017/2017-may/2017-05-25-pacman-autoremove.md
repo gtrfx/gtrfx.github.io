@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "pacman autoremove??"
+author: "Keith"
 ---
 
 아쉽게도 pacman에는 autoremove가 없다. 대신 다음과 같이 활용이 가능하다.

@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/b1eb65d0cf946d32f74c78b05fabb776.jpg
 title: "Laurence Archer - Laurence Archer (1986)"
+author: "Keith"
 ---
 
 Laurence Archer라면 국내 인지도는 거의 없는 기타리스트 중 하나일 것이다. 하지만 잘 알아보면 Phil Lynnott의 'Grandslam' 이란 밴드에서도 활동했었고, 'UFO'에서도 활동했었던 것을 알 수 있다. 이 앨범은 일본에서 발매된 앨범으로, 국내에는 전영혁씨의 음악 세계에 앨범 수록록 중 일부가 여러 번 방송되면서 알려졌다..

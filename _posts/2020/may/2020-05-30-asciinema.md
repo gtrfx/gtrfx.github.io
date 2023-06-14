@@ -3,6 +3,7 @@ title: "터미널 화면 움직 gif로 캡쳐하기"
 layout: post
 image: /assets/img/test.gif
 tags: [asciinema, asciicast2gif]
+author: "Keith"
 ---
 
 이런 저런 방법들이 많이 소개가 되어있고 쓰는 사람마다 이게 좋다 저게 좋다 하는 것 같은데, 내가 봤을 땐

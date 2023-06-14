@@ -4,6 +4,7 @@ title: "Tokyo Sonata (2008)"
 categories:
     - life
     - jmovie
+author: "Keith"
 ---
 
 2008년 작임에도 웬지 1990년대를 연상시키는 화면이었다고나할까 아마도 의도한 것이라 보여지지 싶다.

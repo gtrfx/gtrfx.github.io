@@ -2,6 +2,7 @@
 layout: post
 title: "Video의 bitrate와 화질"
 tags: [video, bitrate, h.265]
+author: "Keith"
 ---
 
 Video의 bitrate가 낮을 수록 화질이 떨어지게 된다는 것은 잘 알고 있는 일인데, 정확히 얼마가 되면 어느 정도의 화질이 나온다에 대한 개념은 확실히 잘 없다. 또 흔히 잘못 알고 있는 것이 4k가 필요없으면 FHD로 촬영하는 게 좋다 (왜냐면 결과물이 작으니까)도 있고 4k라도 bitrate를 낮게 하면 좋다 (화질은 생각않고 결과물이 작으니까)라는 것이지 싶다.

@@ -2,6 +2,8 @@
 title: "집 인테리어../landscaping?"
 images: https://d2s94cyhu2tzlj.cloudfront.net/assets/photos/2020/home-depot-announces-changes/_articlePhotoFull/df.jpg?mtime=20200401142201
 tags: [home improvement]
+layout: post
+author: "Keith"
 ---
 
 다른 사람이 살던 집에 이사 들어가면 이런 고민(?)은 안해도 됐을텐데. 새로 분양 받은 집에 들어가면 이런 고민을 한다.

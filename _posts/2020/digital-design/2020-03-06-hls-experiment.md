@@ -2,6 +2,7 @@
 title: "HLS: 1주째 (2)"
 tags: [HLS, stratus]
 layout: post
+author: "Keith"
 ---
 
 여러 가지 예제를 가져다놓고 실험해보고 있다. 결과는 verilog로 직접 들어가는 것보다 그다지 깔끔하지 못하고 쓸데없이 옵션들이 많아서 피곤하게 한다는 것. 

@@ -2,6 +2,7 @@
 title: "그럴 거면 왜 결혼 했어?.."
 layout: post
 tags: [marry]
+author: "Keith"
 ---
 
 불현듯 이런 말들을 듣고 있을 때가 떠올랐다.

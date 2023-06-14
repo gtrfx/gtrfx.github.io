@@ -3,6 +3,7 @@ layout: post
 title: "Ryzen hackintosh: 5일째 - MATLAB"
 tags: [amd, ryzen, hackintosh, matlab]
 image: https://static.bhphoto.com/images/images1000x1000/1545834915_1404638.jpg
+author: "Keith"
 ---
 
 MATLAB을 실행하면 죽는 현상을 발견했다. 죽는 위치가 정확히 libiomp5.dylib의 _intel_fast_memcpy였다.

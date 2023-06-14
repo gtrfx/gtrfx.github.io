@@ -2,6 +2,7 @@
 layout: post
 title: "80년대 pop 따라하기: We built this city"
 tags: [starship, 80s]
+author: "Keith"
 ---
 
 이곡은 정말 80년대를 대표하는 팝음악이 아닐까 싶은데, 

@@ -1,6 +1,8 @@
 ---
 title: "Ryzen에서 multithreading"
 tags: [ryzen]
+layout: post
+author: "Keith"
 ---
 
 pthread 또는 openmpi 같은 것으로 Ryzen 위에서 병렬 작업을 시켜보면 실제로 thread 수를 32개로 할 수 있다고 하더라도 core 수가 16이라고 하면 16일 때의 효율이 가장 좋다. 32로 하면 성능이 절반으로 떨어지면 그나마 다행인데 그것보다 더 아래로 떨어진다. 

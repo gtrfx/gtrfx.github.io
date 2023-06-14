@@ -1,6 +1,8 @@
 ---
 title: "내가 일중독/번아웃 상태에 있다는 것을 알았다.."
 tags: [burnout]
+layout: post
+author: "Keith"
 ---
 
 지금은 나름 회복기에 있는 상황이니까 이젠 말해도 될 것 같아서 적어본다.

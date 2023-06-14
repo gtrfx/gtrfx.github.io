@@ -2,6 +2,7 @@
 layout: post
 title: "세탁물 냄새 제거: 식초 쓰지 마세요"
 categories: life
+author: "Keith"
 ---
 
 확인이나 실험도 안해보고 정보랍시고 글 올리는 사람 좀 제발 자제하시길.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "New York, New York...-_-"
+author: "Keith"
 ---
 
 10여년 전에 LA에 학회 참석차 갔던 적이 있는데 당시 그보다도 10년전쯤에 이민가셨던 분 하나가 선뜻 자신의 차로 가이드를 해주셨던 기억이 있다.

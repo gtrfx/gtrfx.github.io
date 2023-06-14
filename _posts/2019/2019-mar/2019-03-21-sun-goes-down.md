@@ -2,6 +2,7 @@
 layout: post
 title: "Sun Goes Down - Thin Lizzy"
 tags: [thin lizzy]
+author: "Keith"
 ---
 
 Thin Lizzy는 7-80년대 열심히 활동하다 사라진 밴드라 지금으로치면 거의 4-50년전이니 아는 사람이 그리 많이 있지도 않은 듯 하다. 사실 나도 이런 밴드가 있다는 것은 내가 좋아하던 아티스트들의 과거와 연관된 뮤지션들을 캐다가 알게된 것이니까. 

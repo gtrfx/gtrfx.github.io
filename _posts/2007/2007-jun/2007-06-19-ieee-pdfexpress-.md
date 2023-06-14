@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "IEEE pdfExpress..."
+author: "Keith"
 ---
 
 IEEE 관련 journal, conference에 올라가는 논문들의 PDF quality를 높이는 차원에서 site를 개설한 것 같다. 예전 같으면 LaTeX 원본을 editor에게 보내서 처리했던 것 같은데, 요새는 일단 논문이 완성되면 IEEE pdfExpress에 접속해서 해당 journal에 올려도 별 문제 없을 수준인지 check 받을 수도 있고, word나 postscript 출력등을 해당 journal/conference에 올려도 문제가 없게끔 PDF로 변환해주기도 한다.

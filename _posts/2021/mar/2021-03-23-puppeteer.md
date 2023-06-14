@@ -1,6 +1,8 @@
 ---
 title: "Puppeteer.."
 tags: [nodejs, puppeteer]
+layout: post
+author: "Keith"
 ---
 
 아마도 사용하는 사람들이 제법 많지 싶다. 뭐하는 거냐면 크롬 웹 브라우저를 원격조종하는 라이브러리? 정도로 보여진다.

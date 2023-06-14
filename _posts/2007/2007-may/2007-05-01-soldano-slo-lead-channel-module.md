@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/8639b879fa98afcced9cc7cc1d2282f5.png
 title: "Soldano SLO Lead Channel Module.."
+author: "Keith"
 ---
 
 근로자의 날을 맞아..잠시 짬을 봐서 1시간만에 뚝딱..

@@ -1,6 +1,8 @@
 ---
 title: "USB audio interface"
 tags: [audio interface, usb]
+layout: post
+author: "Keith"
 ---
 
 USB audio interface가 보편화된 것은 한참된 이야기지 싶다. 그전까진 PCI interface를 통해서 했고 그 전엔 ISA라는 bus를 통해서 했다. 그게 조금 더 발전해서 firewire라는 LVDS 전송방식을 쓰다가 이젠 다 사라지고 오직 USB만 남았다. 그만큼 USB가 직렬로 데이터를 전송하지만 전송속도가 빠르다보니 구태여 카드의 타입으로 병렬 전송을 할 필요가 없어졌기 때문이다. 그게 다 LVDS (Low voltage differential signaling) 덕택이기도 하다. 사실 LVDS 덕택에 정말 세상이 갑자기 엄청 빠르게 발전되었다고 해도 과언이 아니다.

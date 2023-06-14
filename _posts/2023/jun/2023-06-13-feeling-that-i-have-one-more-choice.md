@@ -2,6 +2,8 @@
 title: "선택권이 있다는 여유.."
 tags: [choice, benefit]
 published: false
+layout: post
+author: "Keith"
 ---
 
 5월달까지 1년 넘게 열심히 만나오던 사람에게 난데없이 이별 통보를 받고 한동안 고통이 컸다. 더 웃긴 건 

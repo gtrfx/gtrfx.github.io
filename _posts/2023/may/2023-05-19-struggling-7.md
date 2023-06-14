@@ -2,6 +2,8 @@
 title: "버티기...7"
 tags: [struggling]
 published: false
+layout: post
+author: "Keith"
 ---
 
 상대방의 머리속에서 무슨 일이 일어나는지 한번 분석해보자.

@@ -2,6 +2,7 @@
 layout: post
 title: "심도 표현 (depth of field)"
 tags: [DOF, depth of field]
+author: "Keith"
 ---
 
 요 몇 달 카메라에 관심을 갖기 시작하면서 1개 뿐이던 카메라가 3개로 늘었다. 심심하니까 이런 저런 비교를 해보았는데, 풀프레임 카메라의 심도 표현 능력은 정말 엄청나다 였다. APS-C와 같은 노출 같은 focal length일 때의 심도 차이가 이렇게 심할 줄 몰랐다. 따라서 APS-C에서 FF의 3.5 정도의 심도로 가려고 해도 밝기가 2.0 근처까지 가야된다. 

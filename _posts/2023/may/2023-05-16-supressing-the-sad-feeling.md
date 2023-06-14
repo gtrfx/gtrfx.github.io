@@ -2,6 +2,8 @@
 title: "나쁜 감정 억누르기.."
 tags: [suppressing]
 published: false
+layout: post
+author: "Keith"
 ---
 
 억누르다 라든가 강제로 못하게 한다 라는 말의 느낌 자체가 원인을 제거하기 보단 일종의 미봉책을 제공해서 당장의 어려움을 줄여보자 하는 의미를 주고 있긴 하다.

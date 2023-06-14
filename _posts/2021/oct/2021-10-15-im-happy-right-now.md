@@ -1,6 +1,8 @@
 ---
 title: "난 요즘 \"아 좋아!\"를 연발하며 살고 있다.."
 tags: [happiness]
+layout: post
+author: "Keith"
 ---
 
 어차피 길게 이야기 해봐야 의미가 없으니 그냥 요약하면 자유를 발견/얻었기 때문이다.

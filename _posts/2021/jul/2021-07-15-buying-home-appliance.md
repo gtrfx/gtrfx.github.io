@@ -2,6 +2,7 @@
 title: "일생 최대의 가전 제품 구입"
 layout: post
 tags: [home appliance]
+author: "Keith"
 ---
 
 결혼할 때 혼수장만 하는 것도 아니고 어쩌다보니 이 나이에 결혼할 때보다 더 많은 전기제품을 한꺼번에 구입하게 되었다.

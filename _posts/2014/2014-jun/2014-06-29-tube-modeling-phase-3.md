@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tube Modeling..phase 3"
+author: "Keith"
 ---
 
 일단 가장 어려운 Tube 모델에서 출발해서 그것을 tube만이 아니라 plate follower를 통째로 modeling하는 과정을 통해서 앰프 시뮬레이션을 해보려는 시도를 해왔다. 

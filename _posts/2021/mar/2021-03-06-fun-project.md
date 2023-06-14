@@ -1,6 +1,8 @@
 ---
 title: "요새 해외 송금"
 tags: [fun project]
+layout: post
+author: "Keith"
 ---
 
 주로 송금은 은행을 통해서 했는데 수수료라든가 좀 별로 맘에 안든다 싶어 찾아보니 WireBarley라는 곳을 선전하는 걸 많이 봤다.

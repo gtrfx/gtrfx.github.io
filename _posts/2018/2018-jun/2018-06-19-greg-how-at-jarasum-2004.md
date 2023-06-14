@@ -4,6 +4,7 @@ title: "Greg Howe at Jarasum Jazz Festival in 2004"
 categories:
     - music
     - guitar
+author: "Keith"
 ---
 
 2004년 있었던 일이니까 벌써 14년 전의 일이 되었다. 세월 정말 엄청나게 빠르다. Greg Howe를 생전 처음 보는 날이었는데 공연장엔 연주 라인업의 엄청난 인지도 (Dennis Chambers를 포함하면)를 생각하면 사람들이 별로 없었고 그날 거의 마지막 공연이었기에 더 그랬는지도 모르겠다.

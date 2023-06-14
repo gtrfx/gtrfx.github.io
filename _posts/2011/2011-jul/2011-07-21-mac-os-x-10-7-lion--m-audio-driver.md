@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mac OS X 10.7 Lion + M-Audio Driver"
+author: "Keith"
 ---
 
 Mac OS X에 관심이 있는 이들은 이미 DP4라든가 GM 버전을 설치했을 것으로 아는데, 이번에 릴리즈된 Lion의 빌드넘버가 사실상 GM(511)보다 과거의 버전(494, DP4)라고 하니 이미 설치하신 분들은 큰 기대하실 필요 없을 것으로 본다.

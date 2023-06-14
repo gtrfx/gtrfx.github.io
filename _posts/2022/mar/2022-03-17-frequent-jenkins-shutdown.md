@@ -1,6 +1,8 @@
 ---
 title: "Jenkins의 잦은 shutdown"
 tags: [jenkins]
+layout: post
+author: "Keith"
 ---
 
 Jenkins는 뭐니 뭐니해도 자동화를 할 때 graphic user interface를 최소의 노동력으로 굴릴 수 있다는 장점이 있다. cron의 힘을 빌지 않아도 되고, 모든 자동화 작업을 깔끔하게 정리할 수 있다는 장점도 아울러.

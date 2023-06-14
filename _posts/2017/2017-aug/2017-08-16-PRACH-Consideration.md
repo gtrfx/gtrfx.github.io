@@ -4,6 +4,7 @@ title: "Consideration on PRACH Detection Design"
 categories:
     - technology
     - 5G
+author: "Keith"
 ---
 
 ##	Physical random access channel and random access procedure

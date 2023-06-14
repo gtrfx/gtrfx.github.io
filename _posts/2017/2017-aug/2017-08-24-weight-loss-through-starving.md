@@ -4,6 +4,7 @@ title: "하루 굶으면 얼마나 빠질까?"
 categories: 
     - life
     - health
+author: "Keith"
 ---
 
 가끔 이것이 궁금할 때가 있어서 간단히 계산해보려 한다.

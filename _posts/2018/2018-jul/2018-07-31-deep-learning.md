@@ -5,6 +5,7 @@ tags: [deep learning, neural network]
 categories:
     - computing
     - deep_learning
+author: "Keith"
 ---
 
 ### Deep learning history

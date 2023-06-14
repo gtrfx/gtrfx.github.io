@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/6006ba8163a762df8438a051c3d9020f.jpg
 title: "Jeff Loomis &quot;Zero Order Phase (2008)&quot;"
+author: "Keith"
 ---
 
 Nevemore의 Guitarist Jeff Loomis의 솔로 앨범이다.

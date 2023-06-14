@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/ca3839af62378ad945b5e88a9b49a5e4.jpg
 title: "Bogner FISH Brown Channel Module.."
+author: "Keith"
 ---
 
 JCM800 모듈을 만들어 볼까 SLO 모듈을 만들어 볼까 하다가 Bogner fish preamp의 brown channel을 모듈로 만들어보았다. 사실 Bogner Uberschall의 Lead channel 모듈을 만드려고 했었으나 회로도를 구하는 것에 일단 실패했다.

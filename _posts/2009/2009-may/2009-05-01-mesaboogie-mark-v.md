@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/dac07b9a45a2463ae2fbcbc3748c6fd6.jpg
 title: "MesaBoogie Mark V"
+author: "Keith"
 ---
 
 MesaBoogie (흔히 비싸부기로 불리움) 2009년 신제품이다. 메사의 물건이 그러하듯, 먼저 나온 앰프의 특성을 그 다음 나온 앰프가 이어받아 계량하는 식으로 값도 비싸지고 기능도 좋아지는그런 성질을 가지고 있는 물건으로 보인다.

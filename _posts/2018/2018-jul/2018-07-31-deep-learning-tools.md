@@ -4,6 +4,7 @@ title: "Learning Deep Learning: tools?"
 tags: [deep learning, machine learning]
 categories:
     - computer
+author: "Keith"
 ---
 
 ## python/anaconda

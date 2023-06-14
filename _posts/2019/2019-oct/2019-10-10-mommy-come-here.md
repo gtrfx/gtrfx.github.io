@@ -2,6 +2,7 @@
 layout: post
 title: "엄마 엄마 이리와 요것 보셔요."
 tags: [mommy, getting old, depressing]
+author: "Keith"
 ---
 
 제목의 동요를 어린 나이에 다들 배운다. 

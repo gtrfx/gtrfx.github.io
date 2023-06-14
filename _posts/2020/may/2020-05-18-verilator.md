@@ -1,6 +1,8 @@
 ---
 title: "집에서 verilog하기"
 tags: [verilog, verilator]
+layout: post
+author: "Keith"
 ---
 
 verilog를 재미로 하고 있는 중이다. 틈나는 대로 잠깐씩. 왜? 머릿속에서 사고의 패턴을 좀 바꿔보고 싶은 생각이 있어서.

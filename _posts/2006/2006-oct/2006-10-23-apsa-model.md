@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "APSA Model.."
+author: "Keith"
 ---
 
 대인관계의 기술이란다..

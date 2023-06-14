@@ -4,6 +4,7 @@ title: "brew install gcc..."
 tags: [gcc, g++, brew, MacOS, openmp]
 categories:
     - computer
+author: "Keith"
 ---
 
 i5 랩탑에서 brew install gcc 하면 대략 200분이 넘는 시간동안 컴파일한다. 

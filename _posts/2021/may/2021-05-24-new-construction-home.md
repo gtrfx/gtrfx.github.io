@@ -3,6 +3,7 @@ title: "21세기 신형 주택의 홈 네트워크"
 layout: post
 image: /assets/images/IMG_20210521_192400_DRO.jpg
 tags: [network]
+author: "Keith"
 ---
 
 9월 입주를 목표로 짓고 있는 집이 있다. 지금 뼈대를 완성하고 전기 배선이 어느 정도 이루어져있다. 

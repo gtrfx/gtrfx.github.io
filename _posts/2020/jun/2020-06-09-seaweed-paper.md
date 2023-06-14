@@ -2,6 +2,8 @@
 title: "오랜만에 김을 먹고 있다..."
 image: https://richmedia.ca-richimage.com/ImageDelivery/imageService?profileId=12026540&id=1389099&recipeId=728
 tags: [mono sodium glutamate, MSG,]
+layout: post
+author: "Keith"
 ---
 
 2016년부터 살을 빼야겠다는 강한 욕구에 힘 입어 내 세끼 혹은 두끼 식사는 대부분 단백질 위주였고 실험단계에 따라 지방(키토제닉 다이어트)을 많이 먹었던 적도 있고, 그냥 탄수화물만 엄청나게 제한해서 먹었던 때도 있다. 쌀밥으로 식사를 한 적은 그 이후로 거의 없었다. 그러나 그렇게 3-4년이 지나고 나니 귀찮음 때문에서인지 지금은 다시 예전 한국 사람의 식단으로 돌아오고 있다. 

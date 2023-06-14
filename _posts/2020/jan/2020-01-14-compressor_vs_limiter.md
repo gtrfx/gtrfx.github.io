@@ -2,6 +2,7 @@
 title: "Compressor와 Limiter"
 tags: [compressor, limiter]
 layout: post
+author: "Keith"
 ---
 
 이와 관련해서 예전에도 생각하던 것을 적어봤던 적이 있다. 그냥 간단히 요약하겠다.

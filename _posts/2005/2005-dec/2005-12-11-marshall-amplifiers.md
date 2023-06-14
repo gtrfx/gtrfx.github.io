@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Marshall Amplifiers"
+author: "Keith"
 ---
 
 기타 앰프를 만드는 회사로서 가장 많은 모델을 가지고 있는 메이커가

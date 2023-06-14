@@ -2,6 +2,7 @@
 layout: post
 title: "음을 길게 끄는 팁.."
 tags: [long sustain]
+author: "Keith"
 ---
 
 이번에 재미삼아 30년 묵은 Joe Satriani옹의 "Flying In a Blue Dream"을 작업해 봤다. 

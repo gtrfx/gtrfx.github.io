@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MATLAB on a MAC"
+author: "Keith"
 ---
 
 요새 흔히 쓰는 MATLAB 2008a/2009a 까진 Mac에서 32 bit binary만이 지원이 된다. 따라서, MATLAB이 자체적으로 지원하는 연산을 사용하면 64bit 연산이 되지 않으니 계산 속도가 다소 떨어진다고 할 수 있겠다. 좀 더 신기한 것은 Java도 32bit만 지원한다. 흔히 Mac에 MATLAB을 설치하고도 실행이 되지 않는다 (특히 특정 위치에 log를 적어놓았으니 읽어보라는 메시지와 함께)는 문제는 대개 Java VM을 64 bit으로 설정해놨기 때문이다. 이럴 땐 Java Preference에 가서 32bit VM의 우선 순위를 높여주면 해결이 된다.

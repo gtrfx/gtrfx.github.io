@@ -1,6 +1,8 @@
 ---
 title: "ARM powered Mac의 시절이 왔다. "
 tags: [arm, aarch64, macOS]
+layout: post
+author: "Keith"
 ---
 
 내눈엔 그냥 쉽게 PC용의 macOS가 aarch64로 포팅되었구나로 해석되는데, 어떤 세상에선 이게 큰 난리가 난 것이고 뭐 성능이 떨어지고 어쩌고 인텔맥보다 나쁘다 좋다 하는 것 같다. 

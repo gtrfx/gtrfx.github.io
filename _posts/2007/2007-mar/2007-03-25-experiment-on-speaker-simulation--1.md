@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Experiment on Speaker Simulation..(1)"
+author: "Keith"
 ---
 
 프리앰프 프로젝트 2단계 (phase 2?)라고 볼 수 있겠다.

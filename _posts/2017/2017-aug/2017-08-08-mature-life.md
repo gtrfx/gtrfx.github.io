@@ -2,6 +2,7 @@
 layout: post
 title: "Mature Life"
 categories: life
+author: "Keith"
 ---
 
 성숙한 삶이란 과연 무엇일까? 난 이런 생각을 해본다. 내 마음속에서 일어나는 일에 너무 신경쓰지 않는 삶. 그것이 성숙한 삶이라 생각한다.

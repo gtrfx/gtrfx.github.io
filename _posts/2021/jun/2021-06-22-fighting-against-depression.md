@@ -2,6 +2,7 @@
 title: "우울한 감정과의 싸움"
 layout: post
 tags: [depression]
+author: "Keith"
 ---
 
 우울한 감정과 참으로 오래도 싸워왔던 것 같다. 한 때는 약의 도움도 받아보기도 했고.

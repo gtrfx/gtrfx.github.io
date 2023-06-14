@@ -4,6 +4,7 @@ title: "인간관계라는게..."
 tags: [인간관계, 외로움, 정따위]
 categories:
     - life
+author: "Keith"
 ---
 
 길게 적었다가 지우고 다시 쓴다.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mesa Boogie LoneStar"
+author: "Keith"
 ---
 
 

@@ -2,6 +2,8 @@
 title: "중독(addiction)과 의존성(dependence)"
 tags: [addiction, dependence]
 published: false
+layout: post
+author: "Keith"
 ---
 
 두 가지 용어에 대한 정의가 어떻게 되어있는지 찾아보니 사실상 두 개의 용어의 구분이 모호해서 혼용해서 쓰기도 하고 아니면 둘 다 다 쓰지 않는 경우도 있다고 한다. 그 대신 '장애(disorder)'라는 용어를 쓴다고도 한다.

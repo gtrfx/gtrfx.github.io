@@ -2,6 +2,8 @@
 title: "내가 생각하는 cinema look"
 tags: [cinema look, full frame]
 image: https://3.img-dpreview.com/files/p/E~TS590x0~articles/2862078074/Beauty/IMG_0039.acr.jpeg
+layout: post
+author: "Keith"
 ---
 
 뭐 별 거 있을까?

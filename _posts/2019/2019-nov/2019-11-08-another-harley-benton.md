@@ -3,6 +3,7 @@ layout: post
 title: "Harley Benton 한 대 더 지름^^"
 tags: [harley benton]
 image: https://tcdn.storeden.com/gallery/5ce7c3f8ffe48e479c46d5df
+author: "Keith"
 ---
 
 Harley Benton이 이걸로 4대째가 된다. 방구석 기타쟁이에게 싸고 좋은 악기만큼 큰 선물이 있을까? 

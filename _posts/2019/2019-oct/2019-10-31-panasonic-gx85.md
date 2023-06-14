@@ -2,6 +2,8 @@
 title: "Panasonic GX85 사용기"
 tags: [panasonic, gx85]
 image: https://assets.pcmag.com/media/images/425700-panasonic-lumix-dmc-gx85.jpg?width=810&height=456
+layout: post
+author: "Keith"
 ---
 
 사실 이 카메라는 재미삼아 충동구입했다. 4k video가 그렇게 잘 나온다고 해서 샀다고 봐도 된다.

@@ -4,6 +4,7 @@ title: "Chrome에서 radio button/check box가 안 보일 때"
 tags: [chrome, mojave, "10.14", MacOS]
 categories:
     - computer
+author: "Keith"
 ---
 
 Radio button이라든가 check box가 갑자기 화면에 안나타나기 시작하더라도 이것을 눈치채기 쉽지 않다. 사실 누를 일이 그다지 많지 않아서인데, 회원 가입이라든가 설문 조사 같은 것을 어쩌다 하게 되면 알게 된다.

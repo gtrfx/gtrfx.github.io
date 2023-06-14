@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/79718ef2e4df12370055cf2d3ce8d519.gif
 title: "Built-in Preamplifier for Piezo Pickup"
+author: "Keith"
 ---
 
 프리앰프를 대충 만들어봤다. 그림에서는 TL071을 쓰는 것으로 했는데, 실제로는 OPA134를 쓸 생각이다. 게이지를 보니 게인이 약 20 dB 정도 필요할 것 같은데, 일단 트리머로 박아넣고 조정해봐야 할 것 같다. 일단 마그네틱 픽업과 믹싱할 방안도 생각해봐야 겠다.

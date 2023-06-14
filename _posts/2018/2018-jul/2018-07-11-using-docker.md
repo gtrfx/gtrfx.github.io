@@ -4,6 +4,7 @@ title: "Docker에 관해서"
 tags: [docker, eclipse]
 categories:
     - computer
+author: "Keith"
 ---
 
 Docker를 개인 입장에서 사용할 때의 이득은 특정 OS를 native하게든 VM으로든 설치하지 않아도 되면서도 충분히 빠른 속도로 구동이 가능하고 내가 원하는 형태로 설치해놓고 그것을 이미지의 형태로 보관하면서 필요할 때마다 그 변종도 만들어낼 수 있으면서 또 그 이미지를 다른 H/W에 가져가도 설정을 바꾸지 않고 그대로 쓸 수 있다는 등등의 장점 때문이다.

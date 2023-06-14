@@ -2,6 +2,7 @@
 layout: post
 title: "Blogging with Git"
 categories: life
+author: "Keith"
 ---
 
 예전 블로깅 플랫폼에서도 간신히 글을 쓰던 터라 블로깅을 git으로 하는 것으로 보고 솔직히 뭐 이런 걸? 하는 생각을 했는데, 막상 이렇게 하니까 생각보다 여러 모로 요긴하구나 하는 생각을 하게 됐다. 

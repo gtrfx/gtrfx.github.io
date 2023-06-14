@@ -2,6 +2,7 @@
 layout: post
 title: "High Sierra"
 tags: [high_sierra, MacOSX, "10.13"]
+author: "Keith"
 ---
 
 WWDC17은 예전과 달리 San Francisco가 아닌 San Jose에서 열렸다. 그것도 다운 타운에 있는 San Jose Convention Center에서 말이다. 오전에 얼마나 길이 막혔는지는 모르겠지만, 이 동네에 없던 5천 여명의 사람들이 몰려들었으니 분명 그 효과가 있었지 싶은데, WWDC에 참여한다는 친구와 같이 사전 등록하는 곳에 가봤더니 역시나 많은 사람들이 있었다. 무슨 일인지 컨벤션 센터 앞의 도로는 봉쇄되어 있었고.

@@ -2,6 +2,8 @@
 title: "코털 왁싱"
 tags: [most recommended]
 image: https://i.insider.com/5a1452d845fccf39008b46bd?width=1080&format=jpeg
+layout: post
+author: "Keith"
 ---
 
 코털 왁싱에 대해서 지난 번에 이야기 한 적이 있었던 것 같은데, 마지막 왁싱 후에 대략 2달정도 지나면 자각 증상 (콧속이 간질 거림)이 오는 것 같다. 요샌 늘 마스크를 착용하기 때문에 코가 살짝 눌리면서 코털이 코속 벽을 자극하는 것에 더 민감하게 반응하기 때문에 이 간격이 더 짧아지는 것 같기도 하다.

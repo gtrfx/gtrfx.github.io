@@ -4,6 +4,7 @@ title: "C++: try throw/catch"
 categories:
     - computer
     - learning
+author: "Keith"
 ---
 
 C++의 C에 대한 장점 중 하나가 exceptional case에 대한 대응 방법이 아닐까 한다. 즉, C에서 예외적인 경우가 발생하면 프로그램이 그냥 죽든가 오작동을 하게 되는데, C++에서는 이것에 대해서 별도의 대처가 가능하다는 이야기이다.

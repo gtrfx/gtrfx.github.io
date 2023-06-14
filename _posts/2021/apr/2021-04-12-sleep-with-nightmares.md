@@ -1,6 +1,8 @@
 ---
 title: "밤새 악몽으로 뒤척임.."
 tags: [night terror]
+layout: post
+author: "Keith"
 ---
 
 꿈속에서 이러지도 저러지도 못하는 상황에 처해있는 상황을 자다깨다 자다깨다 하면서 겪다보면 나에 대해서 잘 알게 된다.

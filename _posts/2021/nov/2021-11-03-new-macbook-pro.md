@@ -2,6 +2,7 @@
 title: "Macbook Pro 2021: M1 pro"
 layout: post
 tags: [macbook pro]
+author: "Keith"
 ---
 
 올핸 무슨 일인지 뜻하지 않게 (내 지갑을 열지 않았는데도 불구하고) 애플 물건을 여러 개 손에 쥐게 되었다. M1 Mac mini도 아주 즐겁게 잘 쓰고 있는데 M1 pro가 달린 16 inch macbook pro가 생겼다. 성능이 정말 amazing하게 좋아졌다. M1도 좋은데 M1 pro는 max까지 가지 않아도 충분히 좋다. 나중에 Mac pro는 얼마나 엄청난 컴퓨팅 파워로 무장하고 나타날지 늘 기대가 된다.

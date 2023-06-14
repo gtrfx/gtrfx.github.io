@@ -3,6 +3,7 @@ layout: post
 title: "Graphtech TUSQ nut"
 categories:
     - guitar
+author: "Keith"
 ---
 
 물건을 받고 보면 생각보다 가격이 매우 비싸구나 하는 생각을 하게 된다. 매우 작은 플라스틱 쪼가리 처럼 보이는게 10불도 넘게 한다는 것이 말이다.

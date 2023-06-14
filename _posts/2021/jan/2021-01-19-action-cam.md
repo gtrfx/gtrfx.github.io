@@ -1,6 +1,8 @@
 ---
 title: "폰 캠 vs 액션캠"
 tags: [action cam]
+layout: post
+author: "Keith"
 ---
 
 비교적 구형 폰을 가지고 있는지라 (Xiaomi Redmi K20/Mi 9T) 적당한 비교일지는 모르지만 일단 비교해보기로 한다.

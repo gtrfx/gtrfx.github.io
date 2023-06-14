@@ -5,6 +5,7 @@ tags: [deep learning, neural network]
 categories:
     - computing
     - deep_learning
+author: "Keith"
 ---
 
 80년대말 90년대 초에 전기전자공학과에 교수가 된 분들의 이력을 보면 80년대에 인공지능 붐이 일어서 패턴인식과 관련된 연구 내용으로 외국 학교에서 박사를 받아온 사람들이 제법 많다. (인공) 신경망을 하다 온 사람, Wavelet이란 것을 하다 온 사람들 등등인데 아쉽게도 90년대 중반을 넘어가면서 이 분야는 아예 죽어버린 듯 했다. 

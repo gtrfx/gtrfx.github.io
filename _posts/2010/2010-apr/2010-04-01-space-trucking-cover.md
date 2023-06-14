@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Space Trucking (cover)"
+author: "Keith"
 ---
 
 Deep Purple 맞이 2탄...잠이 안와 책상에 앉아 1시간 작업..T.T

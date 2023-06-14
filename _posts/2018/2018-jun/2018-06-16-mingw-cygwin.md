@@ -4,6 +4,7 @@ title: "MinGW(w32/w64)/Cygwin 속도 비교"
 categories:
     - computer
     - compiler
+author: "Keith"
 ---
 
 개인적인 호기심으로 별 대수롭지도 않은 걸로 덕질을 하는 것 같다.

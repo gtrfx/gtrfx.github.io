@@ -1,6 +1,8 @@
 ---
 title: "ubuntu-arch-manjaro-mint-..."
 tags: [linux, distros]
+layout: post
+author: "Keith"
 ---
 
 생각보다 리눅스 배포판의 종류가 매우 많아졌다. 이것 저것 시험삼아 가상머신에 올려보면 desktop의 차이빼고는 사실 그다지 큰 차이는 못 느끼겠다.

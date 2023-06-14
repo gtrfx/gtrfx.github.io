@@ -2,6 +2,7 @@
 title: "forked-dappd: 엄청 좋아졌네"
 tags: [itunes, apple music]
 layout: post
+author: "Keith"
 ---
 
 아무 생각없이 raspberry pi에 clone해놓고 가끔씩 git pull해서 업데해서 쓰고 있었는데, 최근에 좋은 기능이 많이 생겨났다.

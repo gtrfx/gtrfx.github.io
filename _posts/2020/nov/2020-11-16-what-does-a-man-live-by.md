@@ -2,6 +2,8 @@
 title: "사람은 무엇으로 사는가.."
 image: https://lh3.googleusercontent.com/proxy/EZ5b9YYdnpMa4orqS6pvGZq7BTnMASWn6MXeYcl5IogLVagOJQm7qFCHS6EqBkFOktLfh4KMtK033n7Iidl3ZX5Y4slfNNzUo4dqK_NJ9-xesa3nhXK32AqdWU2w5ySZVhFdN_104bji5raxkQ
 tags: [tolstoy]
+layout: post
+author: "Keith"
 ---
 
 톨스토이 단편선은 몇 번을 읽었는지 기억이 안날 정도로 많이 읽었던 것 같다. 초등학생때부터 읽었던 것 같은데 책을 많이 읽어대던 고등학생 시절에도 여러 번. 그래도 읽을 때 마다 새롭다. 왜? 기억력이 정말 형편없으니까. 반복학습을 그렇게 했는데도 대부분의 내용을 다 잊었단 말이다.

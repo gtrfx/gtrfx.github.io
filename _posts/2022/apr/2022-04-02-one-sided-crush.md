@@ -2,6 +2,8 @@
 title: "짝사랑(?).."
 tags: [onesided crush]
 published: false
+layout: post
+author: "Keith"
 ---
 
 ㅆㅂ 힘들다.

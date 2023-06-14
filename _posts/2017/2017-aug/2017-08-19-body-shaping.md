@@ -2,6 +2,7 @@
 layout: post
 title: "Body shaping"
 categories: life
+author: "Keith"
 ---
 
 나에게도 몸관리라는 것을 하게 되는 날이 오게 될 줄이야. 

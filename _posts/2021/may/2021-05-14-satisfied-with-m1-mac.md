@@ -2,6 +2,7 @@
 title: "여전히 만족스러운 M1 Mac"
 layout: post
 tags: [m1 mac, brew]
+author: "Keith"
 ---
 
 Brew 관련 작업하는 분들은 칭송받아야 마땅하다고 본다. 수많은 어플리케이션들이 이미 전부 m1 mac을 위해 brew 작업이 완료되어있다.

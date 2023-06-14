@@ -3,6 +3,7 @@ layout: post
 title: "그 때 내가 더 현명했더라면..."
 categories:
     - life
+author: "Keith"
 ---
 
 그 때 내가 더 현명했더라면 뭔가 다른 결과를 얻게 되었을까? 

@@ -5,6 +5,7 @@ title: "Learning a Synthesizer: Example #1"
 categories:
     - learning
     - music
+author: "Keith"
 ---
 
 ## 개요

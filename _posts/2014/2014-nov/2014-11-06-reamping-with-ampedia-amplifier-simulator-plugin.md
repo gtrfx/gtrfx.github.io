@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reamping with Ampedia Amplifier Simulator Plugin"
+author: "Keith"
 ---
 
 

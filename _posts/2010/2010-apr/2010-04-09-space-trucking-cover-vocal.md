@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Space Trucking (cover+vocal)"
+author: "Keith"
 ---
 
 Mule에 rock1974님이 녹음해서 보내주신 보컬 트랙을 입혀봤다.

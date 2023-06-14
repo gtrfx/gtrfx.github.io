@@ -3,6 +3,7 @@ title: "마소 모던 마우스"
 layout: post
 image: https://i04.hsncdn.com/is/image/HomeShoppingNetwork/prodzoom/microsoft-bluetooth-modern-mobile-mouse-in-pastel-blue-d-2020062612121191~9664645w.jpg
 tags: [modern mouse]
+author: "Keith"
 ---
 
 멀쩡한 마우스가 서너개 있는데 이상하게 끈적임이 시작되어서 다 퇴역시키고 이 물건을 한번 사봤다.

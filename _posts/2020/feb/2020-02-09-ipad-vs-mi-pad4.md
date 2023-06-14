@@ -3,6 +3,7 @@ title: "iPad 많이 싸졌네."
 tags: [ipad]
 layout: post
 image: /assets/images/asdfasdf.png
+author: "Keith"
 ---
 
 올해는 공부를 열심히 해야지 하는 생각을 계속해서 하고 있는데, 그런 목적으로 책읽기 용으로 태블릿을 하나 살까 해서 (iPad는 비쌀 테니까 생각도 하지 않고) mi pad를 찾아보니 10인치는 wifi only가 없어서 $299 정도의 가격인데, 동네 코스트코에서는 iPad wifi only + 32GB는 $249에 팔리고 있었다. 

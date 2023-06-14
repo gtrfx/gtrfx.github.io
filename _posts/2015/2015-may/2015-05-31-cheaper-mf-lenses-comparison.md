@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/ed2b54f3151e921562fc5a58c567c36c.jpg
 title: "Cheaper MF Lenses Comparison"
+author: "Keith"
 ---
 
 

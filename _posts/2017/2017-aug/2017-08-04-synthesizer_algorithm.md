@@ -4,6 +4,7 @@ title: "Learning a Synthesizer: Programming"
 categories:
     - learning
     - music
+author: "Keith"
 ---
 
 ## Algorithm

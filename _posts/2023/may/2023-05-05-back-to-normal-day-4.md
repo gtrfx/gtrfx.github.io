@@ -2,6 +2,8 @@
 title: "다시 또 겨울..4"
 tags: [alone again]
 published: false
+layout: post
+author: "Keith"
 ---
 
 4일째 되고보니 마음은 한결 더 편해졌다. 뭐랄까 후유증 같다고 해야하는 것도 사라지고. 

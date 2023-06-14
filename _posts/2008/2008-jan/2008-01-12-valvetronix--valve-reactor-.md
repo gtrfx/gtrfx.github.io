@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/f7c5c6a4a07457629db4ec1696eb23cb.jpg
 title: "Valvetronix - Valve Reactor..?"
+author: "Keith"
 ---
 
 영국의 Vox사가 일본 Korg사에 넘어간 뒤에 나온 제품들은 Valvetronix라고 하는 기술을 채용하여 제작되고 있다. 명기로 불리우는 AC15니 AC30같은 풀진공관 앰프만 생산해서는 지금과 같은 경쟁체제 속에서 살아남기 어렵다보니 결국 Korg에 넘어갔으리라 추측된다.

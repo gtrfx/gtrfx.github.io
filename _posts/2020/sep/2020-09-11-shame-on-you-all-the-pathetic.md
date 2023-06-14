@@ -2,6 +2,7 @@
 title: "하다하다 안되니 이제 사병 휴가 쓴 걸 가지고 물고 늘어지는 구나."
 tags: [shame on you, pathetic]
 layout: post
+author: "Keith"
 ---
 
 얼마나 공격할 거리가 없으면 장관 자녀가 아파서 휴가 쓴 걸로 물고 늘어지나?

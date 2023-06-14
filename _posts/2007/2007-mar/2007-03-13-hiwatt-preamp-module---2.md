@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "HiWatt Preamp Module..? (2)"
+author: "Keith"
 ---
 
 Preamplifier를 추가로 더 분석해보도록 하자.

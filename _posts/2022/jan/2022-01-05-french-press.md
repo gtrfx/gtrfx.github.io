@@ -2,6 +2,8 @@
 title: "프렌치 프레스를 깨먹었네"
 image: https://d9pl0lig74xnv.cloudfront.net/catalog/product/cache/91e9c011f0ac998e686df01a906b8401/1/1/11195-16_c_1.jpg
 tags: [french press]
+layout: post
+author: "Keith"
 ---
 
 내 주위에서 프렌치 프레스를 쓰는 사람은 아무도 없다. 대부분 네스프레소/큐릭 팟을 사다가 먹는다. 

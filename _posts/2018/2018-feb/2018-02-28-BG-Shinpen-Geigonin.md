@@ -4,6 +4,7 @@ title: "BG 신변 경호인"
 categories:
     - life
     - jdrama
+author: "Keith"
 ---
 
 이번 분기 드라마 중 하나로 5화까지 달렸다. 

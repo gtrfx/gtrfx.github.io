@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Drumkit From Hell..Superior"
+author: "Keith"
 ---
 
 

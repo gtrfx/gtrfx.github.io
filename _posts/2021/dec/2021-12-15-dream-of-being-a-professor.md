@@ -1,6 +1,8 @@
 ---
 title: "교수의 꿈.."
 tags: [being a professor]
+layout: post
+author: "Keith"
 ---
 
 누군가가 그렇게 허울 뿐인 교수가 되고 싶어서 자신의 모든 수단을 동원해서 살아왔다는 뉴스를 매일 매일 접하고 있으려니 이런 생각이 들었다.

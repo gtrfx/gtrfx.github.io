@@ -1,6 +1,8 @@
 ---
 title: "ECO (Engineering change order)"
 tags: [ECO, semiconductor, metal change]
+layout: post
+author: "Keith"
 ---
 
 ECO라고 하는 것은 일반적으로 chip이 나오고 그 이후에 칩의 버그가 별견되어서 수정이 필요할 경우에 쓰이는 용어가 되겠다. ECO가 없이 한방에 설계한 그대로 칩이 나오게 된다면 상당히 이상적인 경우인데, 일반적으로 그러한 경우는 매우 드물고 대개 엔지니어링 샘플이 나오고 나서 하드웨어를 테스트하고 그 때 발견된 오작동의 원인을 분석해서 어떻게 ECO할지 결정하게 된다.

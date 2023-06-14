@@ -3,6 +3,7 @@ layout: post
 title: "Wes Montgomery"
 categories:
     - music
+author: "Keith"
 ---
 
 웨스 몽고메리가 재즈 음악사에 매우 큰 획을 그었다는 것에 사실 대학다닐 때부터 이분의 음악을 들어왔던 것 같은데, 사실 좋다니까 그냥 들으려했을 뿐 정말 좋은지 아닌지 그저 유명한 곡만 대충 들어 외우고 있을 뿐이었다.

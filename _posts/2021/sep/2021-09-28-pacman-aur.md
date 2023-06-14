@@ -1,6 +1,8 @@
 ---
 title: "arch linux에서 package에 포함되지 않은 유틸 사용하기.."
 tags: [arch linux]
+layout: post
+author: "Keith"
 ---
 
 arch linux는 pacman 덕택에 참으로 쓸만한 OS라고 생각하고 즐겨 사용중이다. 내가 사용하는 거의 모든 linux는 arch linux가 기반을 이루고 있다.

@@ -2,6 +2,7 @@
 layout: post
 title: "메일로 화내기.."
 tags: [anger, misery, you'll suffer unto me]
+author: "Keith"
 ---
 
 요즘엔 부쩍 메일로 화내는 일이 늘은 것 같다. 

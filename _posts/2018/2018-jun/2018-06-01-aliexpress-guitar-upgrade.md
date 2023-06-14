@@ -4,6 +4,7 @@ title: "Aliexpress guitar upgrade"
 categories:
     - life
     - guitar
+author: "Keith"
 ---
 
 알리 익스프레스에서 기타를 한 대 사고 보니 여러 가지로 만족스러운데 역시 사용하는 시간이 길어질 수록 이미 타협하고 넘어간 부분에 대해 업그레이드를 하고 싶은 생각이 솟구치게 된다.

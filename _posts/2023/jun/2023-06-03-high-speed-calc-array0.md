@@ -1,6 +1,8 @@
 ---
 title: "초고속 연산기 프로젝트..0"
 tags: [highspeed, array]
+layout: post
+author: "Keith"
 ---
 
 일단 프로젝트 시작해본다. 서론이나 배경 같은 거 쓰느라 힘빼지 말고 핵심 위주로만.

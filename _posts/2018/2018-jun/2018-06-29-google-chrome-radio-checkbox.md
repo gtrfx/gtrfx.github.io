@@ -4,6 +4,7 @@ title: "크롬에서 라디오버튼/체크박스가 보이지 않을 때"
 tags: [chrome, macos, radio, checkbox]
 categories:
     - computer
+author: "Keith"
 ---
 
 급한 분을 위해 거두절미하고 먼저 적는다. 

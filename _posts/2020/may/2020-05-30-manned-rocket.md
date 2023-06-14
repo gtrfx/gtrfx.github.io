@@ -3,6 +3,7 @@ title: "기탑재 개념의 변화2"
 layout: post
 image: https://cms.qz.com/wp-content/uploads/2018/06/spacex-falcon-heavy-elon-musk-china-europe-esa-nasa-mars-sls-boeing.jpg?quality=75&strip=all&w=1600&h=900&crop=1
 tags: [space X, manned rocket]
+author: "Keith"
 ---
 
 몇 시간 전에 Space X에서 유인 로켓을 발사해서 우주 정거장으로 이동하고 있는 중이다. 토요일에도 일을 하기 위해 자리에 앉아서 여기 저기 컴퓨터나 뚜닥이던 동안 벌어진 일이다. 재택근무라고 해서 시간이 널럴하겠구나 생각하는 것은 오산이다. 자택에 감금된 상황에선 할 수 있는 거라곤 오직 일하는 것과 밥먹는 것 밖엔 없다. 뭘 하고 싶다는 의욕이란 게 생기지도 않고. 물론 밖에 나가면 마스크도 쓰지 않고 돌아다니는 사람들이 제법 보인다. 

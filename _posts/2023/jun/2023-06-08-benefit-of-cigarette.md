@@ -1,6 +1,8 @@
 ---
 title: "담배의 좋은 점..?"
 tags: [cigarette]
+layout: post
+author: "Keith"
 ---
 
 제목으로 이런 거 해도 되나 싶다만. 담배를 찬양하자는 게 아니라는 것을 밝혀둔다.

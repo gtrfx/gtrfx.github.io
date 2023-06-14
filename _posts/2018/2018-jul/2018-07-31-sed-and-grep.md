@@ -4,6 +4,7 @@ title: "sed와 grep"
 tags: [unix, utilities, computing, regex, sed, grep]
 categories:
     - computer
+author: "Keith"
 ---
 
 regex (regular expression)에 대해서 감사하는 사람들이 많을 것으로 안다. 이 뛰어난 표현 방법으로 원하는 문자열을 찾아내거나 치환할 수 있다. 매우 치밀하게 말이다. 

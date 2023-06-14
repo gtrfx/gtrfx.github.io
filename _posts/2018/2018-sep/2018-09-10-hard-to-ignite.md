@@ -4,6 +4,7 @@ title: "실행이 늦어진다.."
 tags: [나태, 태만, 늙어감]
 categories:
     - life
+author: "Keith"
 ---
 
 이게 나이들어감? 아니 (추하게) 늙어감? 일까? 

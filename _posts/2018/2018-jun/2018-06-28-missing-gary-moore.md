@@ -5,6 +5,7 @@ img: gary_moore.jpg
 categories:
     - music
     - guitar
+author: "Keith"
 ---
 
 어린 시절 기타에 빠지게 된 것에 한 몫 하신 분이 Gary Moore이다. 우연히 라디오에서 아주 오랜 (80년대) 하드록 음악을 소개한다며 Gary Moore의 "End of the world"를 들려주었다. 그 시절 사운드와도 많이 차이가 있고 어떻게 들으면 매우 촌스럽지만 진솔하고 직설적(?)인 맛이 있었다. 

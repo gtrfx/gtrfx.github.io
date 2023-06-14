@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Kernel Panic.."
+author: "Keith"
 ---
 
 I'm in 'Double fault' kernel panic..who cares?

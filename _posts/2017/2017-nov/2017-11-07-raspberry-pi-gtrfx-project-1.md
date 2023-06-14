@@ -6,6 +6,7 @@ categories:
     - music
     - gtrfx
     - raspberry_pi
+author: "Keith"
 ---
 
 이번엔 외부 컨트롤러를 만들기 위해서 GPIO를 다루는 방법에 대해서 이야기하기로 한다.

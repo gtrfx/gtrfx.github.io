@@ -2,6 +2,7 @@
 title: "가상머신/Docker를 즐겨쓴다면.."
 layout: post
 tags: [go linux go]
+author: "Keith"
 ---
 
 근 2년간을 macOS에서 docker desktop과 parallels/virtualbox 마지막엔 qemu로 VM을 열심히 써왔던 것 같다. 윈도우즈 VM이거나 linux docker container였으니까 MacOS에서 두 개의 VM을 굴렸던 것이라고 보면 된다.

@@ -1,6 +1,8 @@
 ---
 title: "OS 업뎃했다가 하루 날려먹음.."
 tags: [manjaro, os update]
+layout: post
+author: "Keith"
 ---
 
 해킨 토시 시절에나 OS update로 하루를 망가뜨리게 되나 했는데 linux도 별 다르지 않다는 사실을 알게 되었다.

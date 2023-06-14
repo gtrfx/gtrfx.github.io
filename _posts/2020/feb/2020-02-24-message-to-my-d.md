@@ -3,6 +3,7 @@ title: "너에게 보내는 편지"
 tags: [letter]
 layout: post
 published: false
+author: "Keith"
 ---
 
 전에도 이런 글을 한번 써야겠다 생각했었는데, 막상 실행에 옮기긴 오늘이 처음이다. 

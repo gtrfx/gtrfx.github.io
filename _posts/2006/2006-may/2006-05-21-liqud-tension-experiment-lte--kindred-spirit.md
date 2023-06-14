@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Liqud Tension Experiment (LTE) - Kindred Spirit"
+author: "Keith"
 ---
 
 Liquid Tension Experiment의 Kindred Spirit에 도전해봤다..

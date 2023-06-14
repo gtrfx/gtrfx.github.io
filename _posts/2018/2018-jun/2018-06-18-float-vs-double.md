@@ -3,6 +3,7 @@ layout: post
 title: "Float vs. Double"
 categories:
     - computer
+author: "Keith"
 ---
 
 floating point number를 다루는 type이 일반적으로 두 가지가 있다. float와 double이다. 이것 말고도 long double이라는 타입이 있긴 하다. 비교를 하자면 float는 4 byte로 floating number를 표현한다. 32bit에 해당하는데, 이걸 두 배로 늘린 것이 double 되시겠다. 8byte를 쓴다. long double은 10byte (80bits)를 쓴다.

@@ -3,6 +3,7 @@ layout: post
 title: "Guitar Amplifier Simulator on Raspberry Pi (5)"
 categories:
     - project
+author: "Keith"
 ---
 
 현재 매일 같이 퇴근 후에 이것 저것 실험 중에 있는데 얻은 결론은

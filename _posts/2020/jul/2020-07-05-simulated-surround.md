@@ -1,6 +1,8 @@
 ---
 title: "Simulated Surround"
 tags: [surround]
+layout: post
+author: "Keith"
 ---
 
 5.1채널 오디오들은 simulated surround 모드가 있어서 스테레오 소스를 5.1 채널로 출력해주는 기능이 있다. 

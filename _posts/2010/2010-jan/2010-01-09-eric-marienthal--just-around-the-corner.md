@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/fb726bb8dcc08b8ca307e7bf8bd57c6b.jpg
 title: "Eric Marienthal - Just Around the Corner"
+author: "Keith"
 ---
 
 ![image](/assets/images/fb726bb8dcc08b8ca307e7bf8bd57c6b.jpg)

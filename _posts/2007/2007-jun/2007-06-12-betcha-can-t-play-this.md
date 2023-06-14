@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Betcha Can't Play This.."
+author: "Keith"
 ---
 
 해볼 수 있으시겠습니까? 이렇게? -_-;

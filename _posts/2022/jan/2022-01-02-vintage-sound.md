@@ -1,6 +1,8 @@
 ---
 title: "Vintage sound의 원리"
 tags: [vintage sound]
+layout: post
+author: "Keith"
 ---
 
 혹자는 8bit sound라고 하는 것 같다. old school sound 혹은 old chip sound라고 하는 것 같기도 하고.

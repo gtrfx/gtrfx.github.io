@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Guitar Amplifier Simulator"
+author: "Keith"
 ---
 # Guitar amplifier Simulator
 

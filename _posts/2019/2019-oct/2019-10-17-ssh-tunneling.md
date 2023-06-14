@@ -2,6 +2,7 @@
 layout: post
 title: "SSH tunneling: 어디까지 할 수 있는 건가?"
 tags: [tunneling, ssh]
+author: "Keith"
 ---
 
 보안이 중요시 되는 곳에서 외부로 접속이 되는 것은 가능하지만, 반대로 밖에서 그 안으로 접속하는 것은 불가능하도록 만들어져있다.

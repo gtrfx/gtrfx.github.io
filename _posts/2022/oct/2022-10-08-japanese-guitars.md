@@ -1,6 +1,8 @@
 ---
 title: "Ibanez를 쇼핑할 때?"
 tags: [steve vai, signature]
+layout: post
+author: "Keith"
 ---
 
 미국이 금리를 계속 올리고 있는 반면 일본은 그렇지 못한 상황이라 당장에 엄청난 달러강세가 지속될 상황이고 그 때문에 최근 8-9개월간 엔화 대 달러가치가 엄청나게 변화했다.

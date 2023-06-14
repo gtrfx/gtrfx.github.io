@@ -3,6 +3,7 @@ title: "Out of the blue"
 tags: [out of the blue, Debbie Gibson]
 image: https://images-na.ssl-images-amazon.com/images/I/41Ij6E%2BWxwL.jpg
 layout: post
+author: "Keith"
 ---
 
 Out of the blue라는 제목을 가지고 있는 곡을 기억속에 꺼내보자면 ELO의 앨범 제목과 Debbie Gibson이란 분의 빌보드 No 1 힛곡이 있다.

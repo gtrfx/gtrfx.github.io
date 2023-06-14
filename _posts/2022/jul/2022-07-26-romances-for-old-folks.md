@@ -2,6 +2,8 @@
 title: "늙은 이들 간의 로맨스.."
 tags: [romance]
 published: false
+layout: post
+author: "Keith"
 ---
 
 대충 4개월 간의 경험담으로 늘어놓아보자면..

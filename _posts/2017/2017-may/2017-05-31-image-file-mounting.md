@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Image File Mounting"
+author: "Keith"
 ---
 
 Linux에서는 img file을 mount를 이용해서 mounting할 수 있다. 아주 쉽게 다음과 같이 한다.

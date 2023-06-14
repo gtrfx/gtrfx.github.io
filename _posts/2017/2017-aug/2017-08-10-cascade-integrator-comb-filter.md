@@ -2,6 +2,7 @@
 layout: post
 title: "Cascade Integrator Comb filter"
 categories: technology
+author: "Keith"
 ---
 
 CIC filter라고 부르는 필터가 있다. 이 필터의 용도는 oversampling 혹은 downsampling을 할 때 image에 의해 신호가 왜곡되는 것을 막아주는 필터이다. 쉽게 말해서 그 자체가 oversampler이거나 downsampler 역할을 한다. 

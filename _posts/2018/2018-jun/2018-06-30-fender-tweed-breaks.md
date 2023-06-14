@@ -5,6 +5,7 @@ tags: [amplifier, fender, twin, twin reverb, tweed, distortion]
 categories:
     - guitar
     - electronics
+author: "Keith"
 ---
 
 기타를 취미로 하고 나서 가장 처음 알게 된 것이 앰프와 발로 밟는 컴팩트 이펙터(꾹꾹이)였던 것 같다. 앰프라는 것은 hifi amplifier만을 생각해서 입력을 스피커로 잘 증폭/전달해주는 물건이라고만 생각했지 악기적인 요소를 갖고 있다고 생각하진 않았다. 그게 깨진 것은 어느 정도 시간이 흘러서였는데, 왜 사람들이 앰프 메이커에 저리 집착을 할까 생각한 뒤였던 것 같다. 즉, 당시 생각은 꾹꾹이가 모든 소리를 만들어내고 앰프는 그것을 전달만한다고 생각했던 것이다.

@@ -1,6 +1,8 @@
 ---
 title: "Mac Studio..."
 tags: [mac studio]
+layout: post
+author: "Keith"
 ---
 
 GPU가 쓸데없이 비싼 시절이라 PC가 2천불 하더라도 별로 비싸다는 생각을 하기 어려운 시절이다. 더구나 엄청난 인플레이션이 시작된 터라 이 정도야 감수해야 되는 것 아닌가 싶기도 하고.

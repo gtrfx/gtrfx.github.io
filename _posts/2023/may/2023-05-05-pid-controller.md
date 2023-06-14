@@ -1,6 +1,8 @@
 ---
 title: "PID controller...가 뭘까?"
 tags: [automatic control systems, PID]
+layout: post
+author: "Keith"
 ---
 
 PID controller에 대해서 학교를 졸업하고 이렇게나 오랜 뒤에 일종의 일상(?)용어로 듣게 된 것에 놀라지 않을 수 없었다. 그것도 젼혀 상관없을 것 같은 곳에서.

@@ -2,6 +2,7 @@
 layout: post
 title: "2019년 9월의 끝"
 tags: [september]
+author: "Keith"
 ---
 
 Earth/Wind and Fire의 유명한 곡 "September"가 있다. 내가 알아오던 9월의 끝은 나름 좀 쌉쓰름한 맛인데 이 곡은 아주 발랄하기 그지 없는 곡이다. 차라리 9월과 상관없는 노래인 "Soft rains of April"이 떠오른다. 

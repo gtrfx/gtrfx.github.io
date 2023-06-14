@@ -1,6 +1,8 @@
 ---
 title: "당신은 나중에 어떤 모습이 되어야겠다 계획한 적이 있는가..?"
 tags: [future plan]
+layout: post
+author: "Keith"
 ---
 
 이 질문에 대한 나의 대답은 '아니오'다. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Triode modeling"
+author: "Keith"
 ---
 
 

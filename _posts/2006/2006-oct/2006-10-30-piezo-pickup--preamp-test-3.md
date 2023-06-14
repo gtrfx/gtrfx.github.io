@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Piezo pickup + Preamp test #3"
+author: "Keith"
 ---
 
 0..

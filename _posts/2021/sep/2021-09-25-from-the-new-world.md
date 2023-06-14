@@ -2,6 +2,8 @@
 title: "드보르작 '신세계에서'"
 image: https://lh3.googleusercontent.com/proxy/cl9DDNQEGONJIfSir0GkG-wVzmJmohhBXK_0oJ0_9yKafjMDk-MUKyvlYZqtpR8ZpDI5PDvLyN2N3BJGnY7owUyW-rVgV9M9qOcOXfcyFDZIUCneq9D4KTKiYRaLQMxIeybemXFwxcihOQ7d
 tags: [from the new world]
+layout: post
+author: "Keith"
 ---
 
 갑자기 드보르작의 교향곡 9번의 첫부분이 떠올라 찾아보니 그라모폰 레이블로 나온 라파엘 쿠벨릭 지휘의 베를린 필하모닉 오케스트라의 연주가 있었다. 그런데 들어보니 뭔가 좀 느린 듯 하고 엉거주춤 한 것 같아 내가 가장 처음 들었던 음반을 찾아보았다.

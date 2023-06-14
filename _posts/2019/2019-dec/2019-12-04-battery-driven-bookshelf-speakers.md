@@ -2,6 +2,7 @@
 title: "오늘의 관심사: 배터리로 동작하는 블투 북쉘프 스피커?"
 layout: post
 tags: [battery, speaker, bt]
+author: "Keith"
 ---
 
 ### 스피커

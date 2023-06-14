@@ -3,6 +3,7 @@ layout: post
 title: "마이크로 마우스를 디벼볼까?: Day 2"
 tags: [micromouse]
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrrejIeKDOLNswewGcNmMoJEwAhKxSS3vATE8ENqACKQtnaaIY
+author: "Keith"
 ---
 
 어제 대략적으로 살펴본 것은 기술의 어마어마한 발전으로 마우스를 구현하는데 필요한 부품들의 가격이 너무나도 싸졌기에 기계적인 정밀도를 요하는 모터를 빼면 비용이라고 보기도 뭐하구나 했다. 특히나 공통 플랫폼으로 대량으로 PCB를 뜨면 정말 사정없이 싸지는데 그 때문인가 마이크로마우스의 대중화(?)를 꾀하는 이들이 저렴이 DC 모터를 붙여서 대략 개당 $150 정도에 맞출 수 있다고 프로젝트를 진행 중이다. 무려 7.4V LiPo cell 3셋트까지 포함해서 말이다. 여기에 USB 충전기, USB 디버거 + Bluetooth 디버깅 키트도 포함이다. 아래 링크를 클릭해보시라.

@@ -1,6 +1,8 @@
 ---
 title: "Makefile로 incremental build 하기"
 tags: [Makefile]
+layout: post
+author: "Keith"
 ---
 
 프로젝트를 빌드할 때 GUI 툴도 좋긴 하지만, Xcode가 아닌 이상에는 (심지어는 Xcode도 가끔) 꼬이는 경우가 많다. 그러나 Makefile은 매우 간단하면서도 정직해서 딱 정해놓으면 배신하는 경우가 없다. 내가 실수해서 꼬이게 만들지 않는 이상에는.

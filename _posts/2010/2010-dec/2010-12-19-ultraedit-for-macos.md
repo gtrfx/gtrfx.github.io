@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/c536995e18fac1f087b1fa155d9a0bf0.png
 title: "UltraEdit for MacOS"
+author: "Keith"
 ---
 
 여태 오랜 시간동안 써오던 울트라 에디터가 맥버전으로 발매가 되었다. $19.99 에 풀린다는 iWorks 씨리즈 (Keynote/Pages/Numbers)에 비하면 좀 비싼 가격인데, 어찌되었든 환영할 만한 일 아닐까? 

@@ -2,6 +2,7 @@
 layout: post
 title: "카메라 쇼핑"
 tags: [camera, mirrorless]
+author: "Keith"
 ---
 
 갑자기 카메라 병이 도져서 근 1주 넘게 카메라 쇼핑을 하고 있다. 내가 가지고 있는 Sony A7으로도 좋은 비디오를 찍을 수 있겠지 했는데, 이게 생각만큼 쉽질 않아서 다른 세계를 쳐다보게 된 것이다.

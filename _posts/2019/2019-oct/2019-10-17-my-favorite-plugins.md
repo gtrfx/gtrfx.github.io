@@ -3,6 +3,7 @@ layout: post
 title: "내가 좋아하는 audio plugins/virtual instruments"
 tags: [audio plugin, vst, au, rtas]
 image: https://www.native-instruments.com/typo3temp/pics/img-ce-kontakt-6_subpage_buildingwithkontakt_02_sampleplayback-378687b2845d22aabf64618f932e1e54-m@2x.jpg
+author: "Keith"
 ---
 
 오디오 플러그인이라는 게 대개 DAW를 써서 음악을 만들거나 편집해본 사람들은 다들 잘 아는 것일 것 같다. 나 같은 사람들은 대개 Cubase가 3.0에 들어가면서 일반 PC에서 ASIO 드라이버와 함께 빠르게 돌기 시작한 이후로 알게 되었다고 말하면 될 것 같다. 그 전엔 좀 비싼 하드웨어를 가지고 있었어야 실시간에 가깝게 녹음도 하고 플레이/편집을 했었으니까. 

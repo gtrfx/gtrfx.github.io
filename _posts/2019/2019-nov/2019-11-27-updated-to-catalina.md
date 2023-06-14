@@ -3,6 +3,7 @@ layout: post
 title: "Catalina로 모두 업데이트"
 tags: [macOS, catalina, AMD OSX]
 image: https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_684,q_50,w_1903/v1/clients/catalinaislandccvb/West_End_Aerial_1024x708_1833b187-ebe4-453c-8a2d-eafc8453652a.jpg
+author: "Keith"
 ---
 
 우여곡절 끝에 올해가 끝나기 전에 Catalina로 업데이트 했다. 내가 가진 모든 PC들 (엄밀해 말해 모두 해킨들).

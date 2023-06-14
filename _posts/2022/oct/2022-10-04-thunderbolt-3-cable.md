@@ -1,6 +1,8 @@
 ---
 title: "Thunderbolt 3/USB-C cable"
 tags: [thunderbolt, USB C]
+layout: post
+author: "Keith"
 ---
 
 Macbook을 구입한 뒤로는 thunderbolt 3 dock을 두 개 사용하고 있다. 대개의 dock들은 다음과 같은 단자를 달고 있다.

@@ -1,6 +1,8 @@
 ---
 title: "clang"
 tags: [clang]
+layout: post
+author: "Keith"
 ---
 
 clang에 이런 저런 툴이 붙어있다는 사실은 익히 알았지만 써 볼 생각은 한번도 하지 않았다. klockwork 대신에 쓸만한 static analysis가 가능한 툴이 있나 찾다보니 clang-tidy가 걸렸다.

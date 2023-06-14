@@ -5,6 +5,7 @@ tags: [aliexpress, telecaster, chender, fender]
 categories:
     - guitar
     - hobby
+author: "Keith"
 ---
 
 솔직히 텔레캐스터는 너무 스타일이 빈티지해서 기타를 사더라도 이것만은 절대 사지 않겠지 했는데, 결국에 사게 되었다. 알리익스프레스 기타 3대째다. 다음 타자는 Sandoval Engineering의 Polka dot Randy Rhoads signature 모델이다. 

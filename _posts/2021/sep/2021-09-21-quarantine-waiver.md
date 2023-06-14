@@ -1,6 +1,8 @@
 ---
 title: "격리 면제 신청시 팁"
 tags: [quarantine waiver]
+layout: post
+author: "Keith"
 ---
 
 급하게 서울에 갈 일이 생겨서 격리면제 신청을 접수했다.

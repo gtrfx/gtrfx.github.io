@@ -2,6 +2,7 @@
 title: "Pro Tools First라는 게 나왔다. "
 layout: post
 tags: [Pro Tools, Pro Tools First]
+author: "Keith"
 ---
 
 세상이 많이 변했다. Pro Tools에 대한 기억을 떠올리면 윈도우즈 PC가 대세이던 시절에 홀로 MacOS 위에서만 돌아가며, 독자적인 하드웨어가 있어야만 돌릴 수 있는 일종의 귀족 DAW였다.

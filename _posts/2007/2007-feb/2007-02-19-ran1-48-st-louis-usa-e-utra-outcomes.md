@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "RAN1#48 (St.Louis, USA) E-UTRA Outcomes.."
+author: "Keith"
 ---
 
 LTE session started inthe evening on the first day and Tuesday through Thursday it was discussedparallel. The outcomes are as followed: 

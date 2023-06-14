@@ -1,6 +1,8 @@
 ---
 title: "GPU architecture"
 tags: [GPU, architecture, computer]
+layout: post
+author: "Keith"
 ---
 
 연말에 이런 저런 일로 머리가 복잡했던 이유로 새해 들어서 갑자기 뭔가 새로운 것을 배우려하거나 몰두해보려고 하니 시동이 잘 안 걸린다. 그래도 서두르면 그래도 이렇게 시동이 안걸린채로 의미없이 흘려버릴 시간을 줄일 수 있지 않을까 해서 스스로 채찍질 중이다.

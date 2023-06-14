@@ -4,6 +4,7 @@ title: "기타 줄에 대하여"
 categories:
     - life
     - guitar
+author: "Keith"
 ---
 
 아무 생각 없이 다다리오만 오랜시간 써 온 것 같다. 

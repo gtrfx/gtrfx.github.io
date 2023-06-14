@@ -2,6 +2,8 @@
 title: "타케우치 유코가 자살했다.."
 image: https://asianwiki.com/images/6/68/Thequeenofthelunchtime.jpg
 tags: [lunch no joou]
+layout: post
+author: "Keith"
 ---
 
 런치의 여왕으로 잘 알려진 타케우치 유코가 자살했다. 그렇게 수 많은 사람들의 가슴을 설레이게 해놓고 40세의 나이에 자살한 거다. 

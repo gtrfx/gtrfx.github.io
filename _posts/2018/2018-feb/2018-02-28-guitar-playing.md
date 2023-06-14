@@ -4,6 +4,7 @@ title: "요새 기타 치다 느낀 것"
 categories:
     - music
     - guitar
+author: "Keith"
 ---
 
 요새는 기타 4대를 가지고 재미 삼아 바꿔가며 치고 있다. 

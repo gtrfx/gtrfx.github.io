@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SoloC + awesome (?) IR sample"
+author: "Keith"
 ---
 
 SoloC라는 Soldano SLO-100 시뮬(?)과 누군가 awesome하다고 올려놓은 IR을 이용해서 만든 마구리 샘플이다.

@@ -5,6 +5,7 @@ tags: [chorus, signal processing, guitar effect]
 categories:
     - guitar
     - electronics
+author: "Keith"
 ---
 
 Chorus effect는 modulation effect group에 속해있다. Modulation한다는 것은 위상이라든가 진폭을 바꿔주는 것으로 특이한 효과를 얻겠다는 말이다. 

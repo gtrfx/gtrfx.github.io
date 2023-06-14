@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/678e656d06511ab2140c8df091220be1.png
 title: "Accurate Plate Follower C Mode (2)"
+author: "Keith"
 ---
 
 

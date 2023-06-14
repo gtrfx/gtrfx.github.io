@@ -3,6 +3,7 @@ layout: post
 title: "STL: vector file writing"
 categories:
     - learning
+author: "Keith"
 ---
 
 STL에서 조금 애매한 게 이것을 어떻게 pointer 개념으로 바라볼 것이냐 하는 것이다. File writing도 마찬가지 문제다.

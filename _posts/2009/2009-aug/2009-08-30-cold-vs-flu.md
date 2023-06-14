@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Cold vs. Flu"
+author: "Keith"
 ---
 
 이런 거 맘대로 펌질해도 될까? 되겠지? 어차피 약 파는데 도움이 되면 되었지 손해나게 하진 않을테니까.

@@ -2,6 +2,7 @@
 title: "구글 어낼리틱스 결과"
 layout: post
 tags: [blog, analytics]
+author: "Keith"
 ---
 
 구글 analytic에서 배포하는 코드를 블로그에 심어놓으면 알아서 방문자에 대한 분석을 해준다. 유브트에 영상을 올려놓으면 해당 컨텐츠의 소비자들을 분석해주는 것과 같은 맥락이라고 보면 된다. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pentode vs. Triode"
+author: "Keith"
 ---
 
 진공관 앰프의 출력단에 보면 대개 class AB 구성으로 pentode의 screen grid에 적정 DC 전압을 가해 높은 출력을 내게 설계되어있는 것이 있는가 하면 (pentode mode), pentode의 일부 전극을 plate에 연결해서 마치 triode인 것인양 동작시키는 경우도 있다. 

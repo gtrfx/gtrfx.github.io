@@ -2,6 +2,8 @@
 title: "AX8/FM3, Quad Coretex"
 image: https://www.fractalaudio.com/wp-content/uploads/2020/01/FM3-800.jpg
 tags: [ax8]
+layout: post
+author: "Keith"
 ---
 
 AX8을 사실상 다 늦게 2017년에 구입했던 것 같은데, 곧 얼마 안 있어서 아담한 사이즈의 FM3가 나왔고 Neural DSP란 회사에서 어여쁜 모양을 한 Quad Coretex란 제품을 내놓았다.

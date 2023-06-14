@@ -3,6 +3,7 @@ title: "샤오미 폰 쓰기.."
 layout: post
 image: https://technastic.com/wp-content/uploads/2020/07/xiaomi-bloatware.jpg
 tags: [xiami, bloatware]
+author: "Keith"
 ---
  
 샤오미 폰을 좋아한다. 물론 가성비 때문이다. 비록 딱 한 대 쓰고 있지만. 내가 체감하기엔 GPU와 AP의 성능이 거의 포화되어가고 있는 상황이 아닌가 싶을 정도로 성능이 좋아졌다고 해도 더 좋아진 것을 느끼기가 어렵고 배터리 성능도 마찬가지로 충분히 좋아졌다고 느끼고 있다. 지금 2-300불 수준의 소위 저가 폰을 사더라도 2-3년 전의 flagship model의 성능을 넘어설 정도로 좋다. 아니 고가의 폰이 그보다 가격이 1/3 혹은 1/4 정도 수준인 것들에 비해 특별히 더 좋지 못하다가 맞지 싶다.

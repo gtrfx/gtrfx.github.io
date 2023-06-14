@@ -2,6 +2,7 @@
 title: "삶은 끊임없는 거래의 연속일까?"
 layout: post
 tags: [life is a series of bargains]
+author: "Keith"
 ---
 
 문득 예전을 떠올려보면 살아가면서 해왔던 이성에 대한 구애 활동이 다 거래였던 것일까 하는 생각을 해본다. 

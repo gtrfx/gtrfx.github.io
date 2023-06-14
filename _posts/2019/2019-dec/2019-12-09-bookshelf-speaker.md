@@ -3,6 +3,7 @@ title: "재미로 북쉘프 스피커 하나 지름"
 tags: [bookshelf speaker]
 layout: post
 image: https://www.picclickimg.com/d/l400/pict/253586306345_/Dayton-Audio-B652-AIR-6-1-2-Bookshelf-Speaker-Pair-with.jpg
+author: "Keith"
 ---
 
 심심해서 배터리로 구동되는 class-D amp를 테스트 해 보는 겸해서 이웃 사람이 주차장에 12년 넘게 보관만 해두었다는 븍쉘프 스피커를 가져다놓고 잠시 써봤는데, 그냥 준다는 소리는 하지 않기에 곱게 다시 포장해서 가져다 주었다. 당시 가격으로도 $150 가까이 했던 물건인 것 같은데, 실제 물건을 보면 우퍼의 크기가 작아서 그다지 맘에 드는 소리가 나진 않았다. 

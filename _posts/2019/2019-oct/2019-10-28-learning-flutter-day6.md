@@ -3,6 +3,7 @@ layout: post
 title: "Learning Flutter: Day 6"
 image: https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?w=578&strip=all
 tags: [flutter]
+author: "Keith"
 ---
 
 오늘은 간단히 Scaffold라는 클래스를 하나 보도록한다. 내가 이해하는 바 이것은 일반적인 앱의 전형적인 모양을 이루게 해주는 클래스다 라고 본다.

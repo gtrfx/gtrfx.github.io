@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MacOS X 10.6.7 Released.."
+author: "Keith"
 ---
 
 최신형 MBP에 있는 문제를 잡기 위함이라는데, 나야 MBP를 쓰지 않으니 별 다른 변화는 잘 안보인다.

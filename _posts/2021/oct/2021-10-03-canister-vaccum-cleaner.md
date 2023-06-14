@@ -2,6 +2,8 @@
 title: "건/습식(? dry and wet) 진공청소기?"
 image: http://cdn.shopify.com/s/files/1/0057/0333/6025/products/DXV08S_grande.jpg?v=1622143757
 tags: [vacuum, canister]
+layout: post
+author: "Keith"
 ---
 
 예전 같으면 당구장의 카펫을 청소할 때 가끔 보이던 업소용 진공청소기가 있음 했는데, 이사오는 김에 하나 샀다. 일반 가정용 진공청소기에 비해 가격은 매우 싼 편이지만 힘도 좋고 먼지통이 커서 매우 유용하다. 먼지 청소 말고도 물을 빨아들인다거나 하는 일도 잘 할 뿐더러 차량 내부를 청소할 때도 매우 유용하다.

@@ -1,6 +1,8 @@
 ---
 title: "이 메일 씹기..."
 tags: [no remorse]
+layout: post
+author: "Keith"
 ---
 
 쉽게 말해서 사람들에 대한 정을 끊어내는 것이라고 생각하면 될 것 같다. 신기하게 block해 놓아도 어떻게든 자꾸 내용을 보여주려고 하는 이 gmail은 뭐하는 건가.

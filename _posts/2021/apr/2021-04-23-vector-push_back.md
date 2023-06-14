@@ -1,6 +1,8 @@
 ---
 title: "vector와 push_back()"
 tags: [vector, push_back, c++]
+layout: post
+author: "Keith"
 ---
 
 vector는 C++ standard에 들어있는데 사용법이 매우 간단하고 template library라 그 활용 범위가 대단히 넓다. list라는 것도 있는데, 사실 나는 개인적으로 vector를 더 자주 사용한다. 어차피 그놈이 그놈인지라 약간의 차이만 있을 뿐.

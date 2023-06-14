@@ -3,6 +3,7 @@ layout: post
 title: "Black Friday에 대한 생각"
 categories:
     - life
+author: "Keith"
 ---
 
 Black Friday가 제법 남았다. 그런데 올해는 아마존이 일찍 세일을 한다고 해서 다들 일찍부터 관심이 생기는 모양이다. 그래야 손님들도 끌어서 하나라도 더 사게 만들테니 파는 입장에서는 좋은 일이다만.

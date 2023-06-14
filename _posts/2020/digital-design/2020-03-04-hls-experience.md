@@ -2,6 +2,7 @@
 title: "HLS: 1주째"
 tags: [HLS, stratus]
 layout: post
+author: "Keith"
 ---
 
 HLS tool을 본격적으로 돌려본지 1주째 되고 있다. 여태 이런 저런 제반 지식만 탐독하고 있다가.

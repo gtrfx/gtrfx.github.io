@@ -1,6 +1,8 @@
 ---
 title: "Class D amplifier: PAM8403, 8610, OEP20W/30W, 30Wx2"
 tags: [class D]
+layout: post
+author: "Keith"
 ---
 
 요지는 전원을 쓸만한 것으로 해야 한다. 그렇지 않으면 입력이 조금만 커져도 popping하고 난리가 난다. 

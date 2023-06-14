@@ -1,6 +1,8 @@
 ---
 title: "살 빼기 참 힘들다.."
 tags: [weight control]
+layout: post
+author: "Keith"
 ---
 
 순수한 나의 의지로 10kg 넘게 감량했던 적이 있음에도 지금의 상황은 여러 가지로 체중 조절에 쉽지 않은 상황인 듯 싶다. 

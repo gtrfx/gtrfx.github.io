@@ -1,6 +1,8 @@
 ---
 title: "Sumatra Blend??"
 tags: [sumatra blend]
+layout: post
+author: "Keith"
 ---
 
 원래 수마트라 블랜드라고 하는 커피가 이런 맛인지는 모르겠다. 내돈 내산 해서 마셔본 게 아니라. 회사에 가면 이상하게 Sumatra blend를 놓아두는 경우를 많이 봤다. Ground coffee 상태로 놓아두거나 누군가 진하게 brew해서 놓은 것이 있다거나 하는데, 맛이 '한 마디로..J..입니다'라고 할 수 있을 것 같다.

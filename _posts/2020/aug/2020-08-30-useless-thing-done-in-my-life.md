@@ -1,6 +1,8 @@
 ---
 title: "살아가면서 하면 안되는 쓸데 없는 생각"
 tags: [useless-things-done-in-life]
+layout: post
+author: "Keith"
 ---
 
 난 과거를 생각하는 일이라고 본다. 과거에 있었던 일을 좋지 못한 기억으로 되살려 곱씹는 일 말이다.

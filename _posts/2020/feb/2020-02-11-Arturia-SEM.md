@@ -2,6 +2,7 @@
 title: "Arturia SEM"
 tags: [arturia, sem]
 layout: post
+author: "Keith"
 ---
 
 내가 좋아하는 Synth 중에 하나다. 물론 원본이 되는 신디는 Oberheim이라는 유명한 vintage synth 회사의 SEM이란 신디사이저이다. (또 하나 유명한 신디사이저로 Matrix라는 모델이 있다)

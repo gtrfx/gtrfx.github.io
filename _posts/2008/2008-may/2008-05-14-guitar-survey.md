@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/776815d43d925aaf7664ef38e2d21554.gif
 title: "Guitar Survey.."
+author: "Keith"
 ---
 
 지금 가지고 있는 안쓰는 기타들을 싹 정리하고, 수퍼스트랫 2대로 가련다..

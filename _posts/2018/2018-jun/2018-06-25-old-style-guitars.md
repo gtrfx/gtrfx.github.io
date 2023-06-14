@@ -3,6 +3,7 @@ layout: post
 title: "Old style/legendary guitars"
 categories:
     - music
+author: "Keith"
 ---
 
 비교적 유명한 빈티지 기타들의 형태는 다음과 같다. 말이 빈티지이지 아직도 대부분은 여태 (잘) 팔리고 있고 많은 주자들이 그대로 사용하고 있다. 

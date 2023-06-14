@@ -1,6 +1,8 @@
 ---
 title: "짜증나서 와인 마시다 키토 아웃 됐다."
 tags: [low carb, wine]
+layout: post
+author: "Keith"
 ---
 
 누군가 dry wine를 마시면 keto safe하다고 해서 짜증나는 김에 이번엔 와인을 마셔봤다.

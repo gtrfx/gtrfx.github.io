@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/9cd32422000fd187fe29c03367564012.png
 title: "Accurate Plate Follower C Model (1)"
+author: "Keith"
 ---
 
 

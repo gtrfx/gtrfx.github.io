@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FLOYD ROSE ORIGINAL TREMOLO - TROUBLESHOOTING TIPS"
+author: "Keith"
 ---
 
 Trouble Shooting the Floyd Rose Tremolo

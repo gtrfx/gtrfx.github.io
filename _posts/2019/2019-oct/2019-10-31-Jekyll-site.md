@@ -2,6 +2,8 @@
 title: "Blog 하자는데 Jekyll 같은 거 알아야 되나?"
 tags: [jekyll, ruby, blog]
 image: https://jekyllrb.com/img/jekyll-og.png
+layout: post
+author: "Keith"
 ---
 
 ## 0

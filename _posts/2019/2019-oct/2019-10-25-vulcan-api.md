@@ -3,6 +3,7 @@ layout: post
 title: "이게 뭘까?: Vulcan API"
 tags: [vulcan API]
 image: https://www.khronos.org/assets/uploads/apis/Vulkan-Wide.png
+author: "Keith"
 ---
 
 Vulcan API라는 말을 쉽게 접할 수 있다. C로 쓰여진 3D용 API라고 보면 된다. 그래픽용 공통 API에는 OpenGL이 있는데 이건 또 뭐냐 할 수 있는데 OpenGL의 확장판이라고 볼 수 있고, 주로 모바일 디바이스처럼 효율성을 따져야되는 쪽으로 개발되었다고 한다. 

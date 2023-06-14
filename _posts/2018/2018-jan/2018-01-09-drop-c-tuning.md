@@ -4,6 +4,7 @@ title: "요즘 기타 강호에선"
 categories:
     - music
     - guitar
+author: "Keith"
 ---
 
 유튜브에 방구석 고수들의 연주들이 가끔씩 올라오는 것을 보고 있느라면 가끔씩 탄성을 금치 못하는 경우가 있다. 

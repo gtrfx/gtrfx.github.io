@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "HiWatt Module Sample.."
+author: "Keith"
 ---
 
 70년대 초기버전 프리앰프 회로를 조금 변형해서 만들어봤습니다..

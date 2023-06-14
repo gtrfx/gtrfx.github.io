@@ -4,6 +4,7 @@ title: "Improvement: nut"
 tags: [guitar, nut, improvement]
 categories:
     - guitar
+author: "Keith"
 ---
 
 Nut을 TUSQ XL로 바꾼지 3-4일 된 것 같다. 튜닝이 전혀 나가지 않았다. 그러나, 트레몰로를 쓰면 튜닝이 틀어지는 것은 어찌할 수가 없다. 이것은 튜너 때문은 아닌 듯 하고 브릿지 때문인 듯 한데, 6 point vintage tremolo라 그다지 improve하고 싶은 생각이 들지 않는다. 

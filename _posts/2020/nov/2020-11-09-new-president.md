@@ -1,6 +1,8 @@
 ---
 title: "미국 대통령 선거..끝났나?"
 tags: [president election]
+layout: post
+author: "Keith"
 ---
 
 글쎄..이걸 신기한 일이라고 해야할까 말아야할까?

@@ -2,6 +2,7 @@
 title: "AMD-MacOS에서 가상머신"
 tags: [virtual machine, amd-osx, hackintosh]
 layout: post
+author: "Keith"
 ---
 
 간편하게 Linux상에서 QEMU/KVM, MacOS 상에서 Parallels Desktop/VMware Fusion을 올려보고 여기에 아무런 변형을 가하지 않고 있는 그대로의 상태에서 윈도우즈를 설치한 뒤에 Geekbench 5를 돌려봤다.

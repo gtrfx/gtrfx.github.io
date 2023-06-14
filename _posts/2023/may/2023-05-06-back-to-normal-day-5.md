@@ -2,6 +2,8 @@
 title: "다시 또 겨울..5"
 tags: [alone again]
 published: false
+layout: post
+author: "Keith"
 ---
 
 대충 5일째인데 기대 이상으로 잘 버텨내고 있는 것처럼 보여지긴 한다. 그래도 혹여나 병(?)이 재발하지 않게끔 입으로 말하고 손으로 쓰면서 마음을 다독여야지 한다.

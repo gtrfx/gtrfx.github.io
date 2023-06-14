@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Equation for Mesa EQ"
+author: "Keith"
 ---
 
 

@@ -2,6 +2,8 @@
 title: "SF Bay coffee..."
 image: https://images-na.ssl-images-amazon.com/images/I/61nyH3l-IkL._SL1100_.jpg
 tags: [coffee]
+layout: post
+author: "Keith"
 ---
 
 SF Bay coffee라는 게 있다. 이 회사는 찾아보니 California의 Lincoln이란 곳에 있는데 찾아보니 Sacremento의 더 동쪽에 있는 곳으로 실제로 SF Bay와는 많이 떨어져있다. 많이 떨어져있다라는 게 서울-부산 거리보다도 훨씬 더 멀단 이야기다. 부산에서 만든 우유를 서울 우유라고 하는 것도 난리날 일인데 (서울에서 낳은 아이를 부산에서 낳았다고 하는 사람도 있긴 하다).

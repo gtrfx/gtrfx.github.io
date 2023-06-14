@@ -3,6 +3,7 @@ title: "맥북 클램쉘(clamshell) 모드로 사용해보니.."
 tags: [macbook]
 image: https://live.staticflickr.com/2450/3888548831_5684a96247_b.jpg
 layout: post
+author: "Keith"
 ---
 
 도대체 이 말은 어디서 나온 것인가 유추해보니 과거의 macbook (iBook)이 말 그대로 조개껍데기 (clamshell) 모양을 하고 있었기 때문이지 싶다.

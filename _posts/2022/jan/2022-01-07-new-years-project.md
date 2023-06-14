@@ -1,6 +1,8 @@
 ---
 title: "올해의 프로젝트 #1: 야매 simulated surround system"
 tags: [project]
+layout: post
+author: "Keith"
 ---
 
 갑자기 떠오른 것인데 simulated surround system을 만들어보려고 한다. 뭘로? Raspberry pi로. 이걸로 실시간 audio signal processing 가능하다. load가 많이 걸리냐고? 별로 그렇지 않을 것으로 예상한다.

@@ -2,6 +2,8 @@
 title: "버티기...5"
 tags: [struggling]
 published: false
+layout: post
+author: "Keith"
 ---
 
 오늘은 유난히 글을 많이 쓰고 있다. 상황이 상황이니만큼 머릿속의 생각이 터져나오는 중이다. 이렇게 하루가 길어보긴 또 오랜만이다.

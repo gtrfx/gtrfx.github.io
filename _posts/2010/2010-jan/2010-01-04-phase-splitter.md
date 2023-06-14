@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Phase Splitter.."
+author: "Keith"
 ---
 
 Dual rectifier power amplifier의 phase splitter 증폭률은 약 46배 정도가 된다. 약 33.3 dB가 되는 것이지.

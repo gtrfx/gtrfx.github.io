@@ -4,6 +4,7 @@ title: "WDL-OL: 어찌될 것인지?"
 categories:
     - computer
     - music
+author: "Keith"
 ---
 
 WDL-OL이라고 해서 음악용 플러긴을 만드는 일종의 파운데이션 같은 게 있다. 그러니까 MacOS라든가 iOS, Windows programming뿐 아니라 Cubase, Logic, Pro Tools등의 DAW의 API를 빠삭하게 알지 못하더라도 플러긴을 작성할 수 있는, 또 필요에 따라서 큰 어려움 없이 거의 모든 DAW의 플러긴을 제작할 수 있게 도와주는 기반이란 것이다. 나는 핵심이 되는 부분과 유저 인터페이스, 그리고 그림만 그려주면 그럴싸한 플러긴이 생기는 것이다.

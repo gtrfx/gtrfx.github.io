@@ -1,6 +1,8 @@
 ---
 title: "Hackintosh에서 surround audio"
 tags: [AppleALC, macOS]
+layout: post
+author: "Keith"
 ---
 
 갑자기 옛날 영화들을 5.1채널로 볼까하는 생각이 들어 시도해보았다.

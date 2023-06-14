@@ -1,6 +1,8 @@
 ---
 title: "Running Cadence stratus/genus on CentOS7 Docker Container"
 tags: [docker, candence, stratus]
+layout: post
+author: "Keith"
 ---
 
 centos6에서 더 잘 돌아가는 것 같은데, WSL위에서는 centos7만 돌아간다. Docker를 쓰지 않고 CentOS7 WSL을 써도 된다 (이게 더 낫다).

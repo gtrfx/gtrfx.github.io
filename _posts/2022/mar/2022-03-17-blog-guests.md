@@ -1,6 +1,8 @@
 ---
 title: "블로그 고객 급감..."
 tags: [permalink]
+layout: post
+author: "Keith"
 ---
 
 귀찮아서 Jekyll theme을 거의 그대로 가져다 덮어쓰기 했더니만 permalink가 날짜별 구분으로 되어있다가 title로 변경되었던 모양이다. 

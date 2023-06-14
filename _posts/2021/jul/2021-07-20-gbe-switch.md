@@ -2,6 +2,7 @@
 title: "100Mbps switch 절대로 사지마라..GbE 스위치도 충분히 싸고 좋다.."
 layout: post
 tags: [gbe switch]
+author: "Keith"
 ---
 
 GbE가 대세인 시대다. 돈 좀 더 쓰면 10GbE면 좋고. 다만 스위치와 인터페이스가 비싸지는데, 적어도 집안에서 이런 저런 컴퓨터를 만지고 노는 입장이라면 꼭 필요하다.

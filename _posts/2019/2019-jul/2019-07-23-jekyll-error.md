@@ -3,6 +3,7 @@ layout: post
 title: "Jekyll로 블로깅하기"
 tags: [Jekyll, github]
 image: https://jekyllrb.com/img/jekyll-og.png
+author: "Keith"
 ---
 
 Github domain에 블로깅을 하려고 Jekyll로 갈아탄지 한참인듯 한데, 이게 무슨 온라인 에디터로 글을 쓰는 게 아니라 실수를 하는 경우가 종종 있다.

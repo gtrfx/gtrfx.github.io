@@ -3,6 +3,7 @@ layout: post
 title: "삶의 문제에 대한 고민"
 categories:
     - life
+author: "Keith"
 ---
 
 유튜브에 보면 자신의 삶의 고민을 털어놓은 동영상 클립들이 제법 있다. 유명인에게 자신의 문제를 털어놓고 답을 얻고자 하는 것이다.

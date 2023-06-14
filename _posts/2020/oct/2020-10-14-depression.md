@@ -2,6 +2,8 @@
 title: "우울하게 살지 않았으면.."
 image: https://www.health.harvard.edu/media/content/images/Sad-borderline-personality-disorder-Woman-In-Depression-And-Despai-63903205.jpg
 tags: [get-out-of-depression]
+layout: post
+author: "Keith"
 ---
 
 한동안 기분이 너무 안 좋길래 이틀 계획으로 잠시 자동차 여행을 했다. 길을 떠나는 처음 몇 시간은 기분이 참 좋았다.

@@ -2,6 +2,8 @@
 title: "버티기...8"
 tags: [struggling]
 published: false
+layout: post
+author: "Keith"
 ---
 
 연인과 깨어지고 나서 마음이 힘든 이유 중 큰 것 중 하나가 집중을 잘 하지 못한다는 것이다. 

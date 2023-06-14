@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ALSA programming"
+author: "Keith"
 ---
 
 ALSA 프로그래밍은 다음과 같다. 오디오 디바이스를 열고 필요한 파라미터를 설정해준 뒤에 필요한 작업을 끝이 날 때까지 수행하다가 끝이나면 디바이스를 클로우즈하고 빠지는 것이다.

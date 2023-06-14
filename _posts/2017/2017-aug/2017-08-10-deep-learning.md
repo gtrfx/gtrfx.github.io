@@ -4,6 +4,7 @@ title: "Deep Learning"
 categories: 
     - technology
     - learning 
+author: "Keith"
 ---
 
 여러 번에 걸쳐 딥 러닝에 대해서 학습 해보도록 하자. 물론 기초부터.

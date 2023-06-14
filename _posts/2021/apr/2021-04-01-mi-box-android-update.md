@@ -1,6 +1,8 @@
 ---
 title: "Mi Box Android update"
 tags: [Mi Box]
+layout: post
+author: "Keith"
 ---
 
 샤오미가 Amlogic의 칩으로 뒤늦게 android tv box을 발표한 덕택에 유사한 하드웨어를 쓰는 이들도 감사하게 android Tv OS 9을 받아서 쓸 수 있게 되었다. 나도 물론 그 수혜자 중 하나인데 이번에 안드로이드 업데이트가 떴다. 혹시나 하고 설치해봤는데 역시나 하고 설치되지 않았다. 왜? checksum이 틀려서 안된단다.

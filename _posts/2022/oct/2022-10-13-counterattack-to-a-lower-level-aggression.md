@@ -1,6 +1,8 @@
 ---
 title: "저급한 선공에 대한 역공.."
 tags: [counterattack]
+layout: post
+author: "Keith"
 ---
 
 인간관계 중에 일어나는 일 중 하나가 저급한 공격을 통해서 스스로의 자존감 내지는 존재감을 확보하려고 하는 것이다.

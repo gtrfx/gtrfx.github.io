@@ -3,6 +3,7 @@ title: "Microwave popcorn vs. Popcorn Kernels"
 layout: post
 image: https://images-na.ssl-images-amazon.com/images/I/71EgKLbasEL._SL1500_.jpg
 tags: [microwave popcorn]
+author: "Keith"
 ---
 
 마이크로웨이브 팝콘을 경험해 본 적이 제법 있다. 얼마전엔 심심풀이로 코스트코에서 44개 들이 팩을 사본 적도 있다. 사실 이 큰 팩 하날 언제 다 먹을 수 있을까 싶었는데, 다 먹는 데 꼬박 2주가 걸리지 않았으니까, 쉽게 말해서 하루에 대략 3-4봉지싹 먹어버린 셈이다. 워낙에 한번에 섭취하는 소금의 양이 많아서 그 이후로는 다시는 사지 않지만 그래도 가끔씩 생각날 때가 있다. 그럴 때마다 예전엔 재미로 popcorn kernel이라고 불리우는, 쉽게 말해 말린 옥수수 알을 사다가 터뜨려 먹었던 기억도 있다. 사실 그 땐 마이크로웨이브 팝콘을 사기가 쉽지 않았다. 

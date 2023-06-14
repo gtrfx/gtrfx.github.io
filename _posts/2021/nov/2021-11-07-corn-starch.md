@@ -2,6 +2,7 @@
 title: "옥수수 전분.."
 layout: post
 tags: [corn starch]
+author: "Keith"
 ---
 
 감자 전분과 옥수수 전분의 차이를 만들어보지 않고 알아보기 위해 여러 인터넷 문서들을 뒤져봤는데 나온 결과는..

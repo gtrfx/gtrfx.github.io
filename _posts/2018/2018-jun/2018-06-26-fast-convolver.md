@@ -4,6 +4,7 @@ title: "Fast Convolver"
 tags: [FFT, convolution, audio, signalprocessing]
 categories:
     - computer
+author: "Keith"
 ---
 
 Convolution 연산은 실제로 많은 연산량 (곱하기+더하기)이 필요한 연산으로 알고 있다. 실제로 FIR filter와 같은 것이 digital 영역에서 convolution을 실현한 것인데, 실용적으로 사용되는 FIR filter의 경우에는 convolution 연산을 수행하는 filter의 길이를 최대한 (계산량 때문에) 짧게 디자인한다. 얻고 싶은 필터 성능을 만족하는 정도에서 최대한 짧은 것을 선택한다. 그래야 계산량도 작고 응답특성 (주로 delay)도 좋아지기 때문이다. 물론 짧으면 다른 단점이 생길 수 밖에 없지만 (주파수에 따라 세밀하게 제어할 수 있는 정도가).

@@ -2,6 +2,7 @@
 layout: post
 image: /assets/images/b88ea927a9640cb1a93dfc9c92d80771.jpg
 title: "Kustom 1x12 Defender Cabinet"
+author: "Keith"
 ---
 
 

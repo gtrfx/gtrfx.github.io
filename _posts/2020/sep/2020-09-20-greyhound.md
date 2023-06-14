@@ -2,6 +2,8 @@
 title: "영화 greyhound를 보다가.."
 tags: [movie, greyhound]
 image: https://saportakinsta.s3.amazonaws.com/wp-content/uploads/2020/07/apple-tv-greyhound.jpg
+layout: post
+author: "Keith"
 ---
 
 잘 아는 지인이 미 해군 출신인데 (한국 사람 아님), 이 영화를 두 번째 보고 있다기에 나도 한번 봐봤다. 딱히 기대가 있었던 것은 아니고. 도무지 무슨 이유로 이 영화를 두 번 봤다고 하는지 알고 싶었다. 

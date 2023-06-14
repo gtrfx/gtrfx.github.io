@@ -2,6 +2,7 @@
 title: "Manjaro Linux와 보낸 한달??"
 layout: post
 tags: [linux, docker, kvm]
+author: "Keith"
 ---
 
 Linux을 주로 사용한지 한달 다 되어가는 것 같다. 역시 한달 넘게 써보니, Linux를 컴퓨터를 공부하려는 목적으로 사용하는데 필요한 OS로구나 다시금 실감했다.

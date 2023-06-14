@@ -2,6 +2,7 @@
 title: "RTL과 일반 프로그래밍 언어의 차이"
 tags: [letter]
 layout: post
+author: "Keith"
 ---
 
 RTL (register transfer level)이란 게 이름 그대로 register transfer가 이루어지는 level을 추상화한 것이기 때문에 대부분의 기술 내용이란 것이 어떤 logic 상태의 변동을 register에 기록했다가 다음에 꺼내서 또 바꾸고 하는 일들의 연속이 된다. 

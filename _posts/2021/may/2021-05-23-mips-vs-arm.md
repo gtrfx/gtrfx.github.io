@@ -2,6 +2,7 @@
 title: "MIPS vs ARM?"
 layout: post
 tags: [mips,arm]
+author: "Keith"
 ---
 
 ARM이란 단어가 기술계통에 스며들게 된 것은 내가 알기로 Qualcomm이 이 RISC architecture를 적용한 CPU를 사용하게 된 다음이 아닌가 한다. 지금의 Snapdragon이 나오게 되기 전에 이미.

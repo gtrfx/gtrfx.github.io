@@ -3,6 +3,7 @@ layout: post
 title: "Flutter를 배우자: Day 4"
 image: https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?w=578&strip=all
 tags: [flutter, web]
+author: "Keith"
 ---
 
 Flutter가 browser를 활용해서 개발할 수 있고 Web app을 만들 수 있도록 도와준다기에 시도해봤다.

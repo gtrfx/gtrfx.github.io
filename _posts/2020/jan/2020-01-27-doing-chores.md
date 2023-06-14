@@ -1,6 +1,8 @@
 ---
 title: "남의 코드로 작업해야 할 때"
 tags: [hobby, c/c++, lapack]
+layout: post
+author: "Keith"
 ---
 
 #### 남의 C 소스로 작업할 때
