@@ -2,6 +2,7 @@
 title: "진화 심리학을 읽고 있는 중.."
 tags: [evolutionary psychology]
 layout: post
+image: https://m.media-amazon.com/images/I/41wnH3T8W6L._AC_UF1000,1000_QL80_.jpg
 author: "Keith"
 ---
 

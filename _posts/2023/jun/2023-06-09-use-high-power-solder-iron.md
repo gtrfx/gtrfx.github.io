@@ -1,6 +1,7 @@
 ---
 title: "USB 포트 수리하려다 망함.."
 tags: [USB port fix]
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf2NwLxo4bF76NnNS59dYEssOeXJ_vbrLkulR3K_Rjc3oeP7tYCyUCxcKZiLtCDTPid70&usqp=CAU
 layout: post
 author: "Keith"
 ---
