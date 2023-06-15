@@ -1,6 +1,7 @@
 ---
 title: "내게 믹서가 필요할까?..."
 tags: [mixer]
+image: https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/51006/article_full%401x.jpg
 layout: post
 author: "Keith"
 ---

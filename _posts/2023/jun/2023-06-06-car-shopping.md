@@ -2,7 +2,7 @@
 title: "카 쇼핑..."
 tags: [car, model s]
 layout: post
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomZMpkNXSSsPIXQQYuT8tN3jOT0dZuA2uyA&usqp=CAU
+image: https://imagescdn.dealercarsearch.com/dealerimages/9280/23228/banner2.jpg
 author: "Keith"
 ---
 
