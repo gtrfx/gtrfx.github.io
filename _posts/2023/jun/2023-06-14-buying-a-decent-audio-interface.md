@@ -2,7 +2,7 @@
 title: "15년만에 오디오 인터페이스를 바꿨다.."
 tags: [motu m2]
 layout: post
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVaYSKb5di35vfvYlUU1zc3lMS7rIhmHvFFQreyQsrTreUJiC2XDa0pdSYrSE75ojgR74&usqp=CAU
+image: https://m.media-amazon.com/images/I/61uOZCxx-IL._AC_UF350,350_QL80_DpWeblab_.jpg
 author: "Keith"
 ---
 
