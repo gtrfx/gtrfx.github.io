@@ -4,7 +4,7 @@ tags: [coffee, espresso, latte]
 layout: post
 ---
 
-커피 마시는 게 modern한 사람이라면 늘상 해야 하는 일처럼 받아들여진지 오래 된 것 같다. 사실 pourover coffee를 직접 whole beans를 사다가 갈아서 해먹는 것이 나름 '애쓴다' 하던 게 대충 20년 전이었는데 지금은 집집마다 espresso machine이라든가 특별한 grinder를 가지고 있는 게 흔한 광경이 되었으니까. 
+커피 마시는 게 나름 modern한 사람이라면 늘상 해야 하는 일처럼 받아들여진지 오래 된 것 같다. 사실 pourover coffee를 직접 whole beans를 사다가 갈아서 해먹는 것이 나름 '애쓴다' 하던 게 대충 20년 전이었는데 지금은 집집마다 espresso machine이라든가 특별한 grinder를 가지고 있는 게 흔한 광경이 되었으니까. 
 
 어쨌든 나도 기껏해야 커피 메이커 (그러니까 pourover coffee를 만들어주는) 가지고 있었다가 수많은 사람들이 Nespresso를 구입해서 마실 땐 그러나 보다 하던 시절을 거쳐 너도 나도 에스프레소 머신을 구입하던 시절을 한참 지나 하나 갖게 되었다. 그것도 모잘라서 그라인더도 하나 구입하게 되고. 남들 다 한다는 라떼아트도 해보고 있고 말이다.
 
