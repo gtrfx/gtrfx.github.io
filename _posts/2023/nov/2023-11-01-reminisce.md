@@ -1,6 +1,7 @@
 ---
 title: "과거를 들여다보기.."
 tags: [reminisce]
+published: false
 layout: post
 author: "Keith"
 ---
