@@ -1,6 +1,7 @@
 ---
 title: "안되는 것에 너무 애쓰지 말자.."
 tags: [computer]
+published: false
 layout: post
 author: "Keith"
 ---
