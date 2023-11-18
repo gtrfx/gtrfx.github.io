@@ -2,6 +2,7 @@
 title: "7년전의 나를 기억 속에 묻고.."
 tags: [bye bye my depressed and old me]
 layout: post
+published: false
 author: "Keith"
 ---
 
