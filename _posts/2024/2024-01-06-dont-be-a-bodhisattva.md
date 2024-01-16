@@ -1,6 +1,7 @@
 ---
 title: "보살처럼 살지마라. 너 그러다 뻥 터질라.."
 tags: [partner, bodhisattva]
+published: false
 layout: post
 author: "Keith"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "나에게 누군가가 필요할까?.."
 tags: [partner]
+published: false
 layout: post
 author: "Keith"
 ---
