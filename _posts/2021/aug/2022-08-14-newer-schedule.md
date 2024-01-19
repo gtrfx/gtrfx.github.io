@@ -1,6 +1,7 @@
 ---
 title: "Back to Basics: 8월 계획"
 tags: [back to basics]
+published: false
 layout: post
 author: "Keith"
 ---
