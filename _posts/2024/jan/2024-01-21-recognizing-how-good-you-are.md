@@ -1,6 +1,6 @@
 ---
 title: "스스로 얼마나 잘 났는지 깨닫기.."
-tags: [motivation]
+tags: [relationship]
 published: false
 layout: post
 author: "Keith"
