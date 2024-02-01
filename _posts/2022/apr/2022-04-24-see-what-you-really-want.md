@@ -1,6 +1,7 @@
 ---
 title: "내가 정말로 원했던 것은 무엇일까?"
 tags: [dont be a fool]
+published: false
 layout: post
 author: "Keith"
 ---
