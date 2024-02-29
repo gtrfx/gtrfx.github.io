@@ -1,6 +1,7 @@
 ---
 title: "누군가에게 헌신하겠다고 마음 먹는 것.."
 tags: [life]
+published: false
 layout: post
 author: "Keith"
 ---
