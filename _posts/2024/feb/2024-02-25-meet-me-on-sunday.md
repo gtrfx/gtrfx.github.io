@@ -1,5 +1,5 @@
 ---
-title: "일요일에 만나요.."
+title: "일요일에 만났어요.."
 tags: [life]
 published: false
 layout: post
