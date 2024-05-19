@@ -23,3 +23,4 @@ tccutil reset Microphone
 잠시 SIP을 enable하면 원하는 마이크로폰/카메라의 허가권을 모두 새로 설정할 수 있다. 물론 wifi card가 제대로 동작하지 않게 된다.
 
 그렇다. 내가 사용하는 모든 앱에 마이크로폰/카메라의 허가권을 모두 설정하고 다시 SIP을 disable하면 된다.
+
