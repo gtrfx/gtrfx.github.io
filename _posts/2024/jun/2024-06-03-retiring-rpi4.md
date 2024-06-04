@@ -1,6 +1,6 @@
 ---
 title: "Raspberry Pi 4를 퇴역시키며..."
-tags: [raspberrypi]
+tags: [raspberrypi, rpi4]
 layout: post
 author: "Keith"
 ---
