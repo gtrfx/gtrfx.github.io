@@ -1,6 +1,6 @@
 ---
 title: "어떻게 일을 하는 것이 옳을까?..."
-tags: [chip design]
+tags: [chip, design]
 layout: post
 author: "Keith"
 ---
