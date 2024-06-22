@@ -17,6 +17,6 @@ author: "Keith"
 
 그 모양새가 흡사 midi connnector와 유사하여 픽업에서 곧장 midi로 변환되는 것이 아닐까 하는 생각을 할 수 있는데, 그 제품이 발매될 시절에 그렇게 좋은 기술이 나왔을리 만무하다. 그냥 아날로그 시그널이 흘러나올 뿐이다. 그것도 piezon 센서 답게 high impedance 출력으로 말이다. 
 
-원리는 매우 간단해서 기타 출력을 digital 영역에서 다루기 쉬운 square wave로 만들고 그 파형을 원하는 다른 파형으로 바꾸는 과정만이 필요하다. 톱니파를 쓴다거나 아니면 임의의 wave pattern을 만들어넣거나 하는 일들을 포함한다. 최종적으로 LPF를 걸어놓을 떄 filter opening이라거나 filter의 Q를 조정하는 식으로 음색을 조정할 수도 있고 envelope control도 할 수 있게 하면 사실상 midi signal이 아닐 뿐 synthesized signal이라고 할 수 있다. 밴딩이나 dive도 가능하고 비브라토도 가능하다.
+원리는 매우 간단해서 기타 출력을 digital 영역에서 다루기 쉬운 square wave로 만들고 그 파형을 원하는 다른 파형으로 바꾸는 과정만이 필요하다. 톱니파를 쓴다거나 아니면 임의의 wave pattern을 만들어넣거나 하는 일들을 포함한다. 최종적으로 LPF를 걸어놓을 때 filter opening이라거나 filter의 Q를 조정하는 식으로 음색을 조정할 수도 있고 envelope control도 할 수 있게 하면 사실상 midi signal이 아닐 뿐 synthesized signal이라고 할 수 있다. 밴딩이나 dive도 가능하고 비브라토도 가능하다.
 
 만일 이 신호를 midi signal로 바꾼다고 하면 
