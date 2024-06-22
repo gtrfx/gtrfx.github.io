@@ -1,5 +1,5 @@
 ---
-title: "여러 개의 망을 써야 될 떄..."
+title: "여러 개의 망을 써야 될 때..."
 tags: [hackintosh]
 layout: post
 author: "Keith"
