@@ -25,5 +25,5 @@ author: "Keith"
 
 그렇게 해서 cron으로 평일 오전에 무조건 예약을 걸어두도록 했다. 줄서기가 필요없으면 나중에 해지하면 되니까 어떻게든 아침에 걸어놓기만 하면 된다. 너무 일찍 걸어놓으면 곧바로 당첨! 이 되니 적당한 시간대를 알아내는 것이 중요하다고 본다.
 
-이젠 뭘하려면 컴퓨터 언어도 다국적(?)으로 구사해야 한다. javascript도 쓰고 python도 쓰고 perl도 쓰고 C/C++도 쓰고 shell script도 쓰고, ... 이젠 applescript까지. windows의 batch는 안녕이고. 
+이젠 뭘하려면 컴퓨터 언어도 다국적(?)으로 구사해야 한다. javascript도 쓰고 python도 쓰고 perl도 쓰고 C/C++도 쓰고 shell script도 쓰고 groovy도 쓰고 rust도 쓸 줄 알아야 되고 R도 쓸 줄 알아야 되고, ... 이젠 applescript까지. windows의 batch는 안녕이고. FORTRAN/COBOL 그런 원시시절 언어는 다 어디 간 것 같고.
 
