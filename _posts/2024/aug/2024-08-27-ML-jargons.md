@@ -21,8 +21,6 @@ author: "Keith"
 * NLP involves the development of algorithms and statistical models that enable computers to process, understand, and generate natural language data.
 * NLP tasks include text classification, sentiment analysis, language translation, named entity recognition, and text summarization.
 
-NLP는 자연어 (인간이 사용하는 언어)를 처리하는 과정이라고 볼 수 있다. 
-
 **LSTM (Long Short-Term Memory)**:
 
 * A type of Recurrent Neural Network (RNN) architecture designed to handle the vanishing gradient problem in traditional RNNs.
