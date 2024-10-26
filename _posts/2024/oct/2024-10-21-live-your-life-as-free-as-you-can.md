@@ -1,6 +1,7 @@
 ---
 title: "지 잘난 맛에 살기..."
 tags: [life]
+published: false
 layout: post
 author: "Keith"
 ---
