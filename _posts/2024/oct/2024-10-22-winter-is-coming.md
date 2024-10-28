@@ -1,6 +1,7 @@
 ---
 title: "겨울이 온다..."
 tags: [life]
+published: false
 layout: post
 author: "Keith"
 ---
