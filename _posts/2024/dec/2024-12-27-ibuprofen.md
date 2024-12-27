@@ -1,5 +1,5 @@
 ---
-title: "진통소염제 (NSAID)..."
+title: "감기약?..."
 tags: [life]
 author: "Keith"
 layout: post
