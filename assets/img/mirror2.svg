@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:s="https://github.com/nturley/netlistsvg" width="295" height="363">
+  <style>svg {
+    stroke: #000;
+    fill: none;
+  }
+  text {
+    fill: #000;
+    stroke: none;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: "Courier New", monospace;
+  }
+  .nodelabel {
+    text-anchor: middle;
+  }
+  .inputPortLabel {
+    text-anchor: end;
+  }
+  .splitjoinBody {
+    fill: #000;
+  }
+  .symbol {
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-width: 2;
+  }
+  .detail {
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    fill: #000;
+  }</style>
+  <g s:type="resistor_v" s:width="10" s:height="50" transform="translate(17,57)" id="cell_R1">
+    <s:alias val="r_v"/>
+    <text x="15" y="15" s:attribute="ref" class="cell_R1">R1</text>
+    <text x="15" y="30" s:attribute="value" class="cell_R1">R</text>
+    <path d="M0,10 V40 H10 V10 Z" class="symbol cell_R1"/>
+    <path d="M5,0 V10 M5,40 V50" class="connect cell_R1"/>
+    <g s:x="5" s:y="0" s:pid="A" s:position="top"/>
+    <g s:x="5" s:y="50" s:pid="B" s:position="bottom"/>
+  </g>
+  <g s:type="transistor_npn" s:width="32" s:height="32" transform="translate(201,254)" id="cell_Q1">
+    <s:alias val="q_npn"/>
+    <text x="35" y="20" s:attribute="ref" class="cell_Q1">Q1</text>
+    <circle r="16" cx="16" cy="16" class="symbol cell_Q1"/>
+    <path d="M0,16 H12 M12,6 V26" class="detail cell_Q1"/>
+    <path d="m12,10 11,-8" class="detail cell_Q1"/>
+    <path d="m12,21 11,8" class="detail cell_Q1"/>
+    <path d="m23,29 -6,-1 3,-5 z" style="fill:#000000" class="cell_Q1"/>
+    <g s:x="22" s:y="2" s:pid="C" s:position="top"/>
+    <g s:x="0" s:y="16" s:pid="B" s:position="left"/>
+    <g s:x="23" s:y="29" s:pid="E" s:position="bottom"/>
+  </g>
+  <g s:type="transistor_npn" s:width="32" s:height="32" transform="translate(167,189)" id="cell_Q3">
+    <s:alias val="q_npn"/>
+    <text x="35" y="20" s:attribute="ref" class="cell_Q3">Q3</text>
+    <circle r="16" cx="16" cy="16" class="symbol cell_Q3"/>
+    <path d="M0,16 H12 M12,6 V26" class="detail cell_Q3"/>
+    <path d="m12,10 11,-8" class="detail cell_Q3"/>
+    <path d="m12,21 11,8" class="detail cell_Q3"/>
+    <path d="m23,29 -6,-1 3,-5 z" style="fill:#000000" class="cell_Q3"/>
+    <g s:x="22" s:y="2" s:pid="C" s:position="top"/>
+    <g s:x="0" s:y="16" s:pid="B" s:position="left"/>
+    <g s:x="23" s:y="29" s:pid="E" s:position="bottom"/>
+  </g>
+  <g s:type="transistor_npn" s:width="32" s:height="32" transform="translate(104,127)" id="cell_Q2">
+    <s:alias val="q_npn"/>
+    <text x="35" y="20" s:attribute="ref" class="cell_Q2">Q2</text>
+    <circle r="16" cx="16" cy="16" class="symbol cell_Q2"/>
+    <path d="M0,16 H12 M12,6 V26" class="detail cell_Q2"/>
+    <path d="m12,10 11,-8" class="detail cell_Q2"/>
+    <path d="m12,21 11,8" class="detail cell_Q2"/>
+    <path d="m23,29 -6,-1 3,-5 z" style="fill:#000000" class="cell_Q2"/>
+    <g s:x="22" s:y="2" s:pid="C" s:position="top"/>
+    <g s:x="0" s:y="16" s:pid="B" s:position="left"/>
+    <g s:x="23" s:y="29" s:pid="E" s:position="bottom"/>
+  </g>
+  <g s:type="transistor_npn" s:width="32" s:height="32" transform="translate(52,127)" id="cell_Q4">
+    <s:alias val="q_npn"/>
+    <text x="35" y="20" s:attribute="ref" class="cell_Q4">Q4</text>
+    <circle r="16" cx="16" cy="16" class="symbol cell_Q4"/>
+    <path d="M0,16 H12 M12,6 V26" class="detail cell_Q4"/>
+    <path d="m12,10 11,-8" class="detail cell_Q4"/>
+    <path d="m12,21 11,8" class="detail cell_Q4"/>
+    <path d="m23,29 -6,-1 3,-5 z" style="fill:#000000" class="cell_Q4"/>
+    <g s:x="22" s:y="2" s:pid="C" s:position="top"/>
+    <g s:x="0" s:y="16" s:pid="B" s:position="left"/>
+    <g s:x="23" s:y="29" s:pid="E" s:position="bottom"/>
+  </g>
+  <g s:type="transistor_npn" s:width="32" s:height="32" transform="translate(251,127)" id="cell_Q5">
+    <s:alias val="q_npn"/>
+    <text x="35" y="20" s:attribute="ref" class="cell_Q5">Q5</text>
+    <circle r="16" cx="16" cy="16" class="symbol cell_Q5"/>
+    <path d="M0,16 H12 M12,6 V26" class="detail cell_Q5"/>
+    <path d="m12,10 11,-8" class="detail cell_Q5"/>
+    <path d="m12,21 11,8" class="detail cell_Q5"/>
+    <path d="m23,29 -6,-1 3,-5 z" style="fill:#000000" class="cell_Q5"/>
+    <g s:x="22" s:y="2" s:pid="C" s:position="top"/>
+    <g s:x="0" s:y="16" s:pid="B" s:position="left"/>
+    <g s:x="23" s:y="29" s:pid="E" s:position="bottom"/>
+  </g>
+  <g s:type="transistor_npn" s:width="32" s:height="32" transform="translate(199,127)" id="cell_Q6">
+    <s:alias val="q_npn"/>
+    <text x="35" y="20" s:attribute="ref" class="cell_Q6">Q6</text>
+    <circle r="16" cx="16" cy="16" class="symbol cell_Q6"/>
+    <path d="M0,16 H12 M12,6 V26" class="detail cell_Q6"/>
+    <path d="m12,10 11,-8" class="detail cell_Q6"/>
+    <path d="m12,21 11,8" class="detail cell_Q6"/>
+    <path d="m23,29 -6,-1 3,-5 z" style="fill:#000000" class="cell_Q6"/>
+    <g s:x="22" s:y="2" s:pid="C" s:position="top"/>
+    <g s:x="0" s:y="16" s:pid="B" s:position="left"/>
+    <g s:x="23" s:y="29" s:pid="E" s:position="bottom"/>
+  </g>
+  <g s:type="vcc" s:width="20" s:height="30" transform="translate(12,22)" id="cell_vcc0">
+    <s:alias val="vcc"/>
+    <text x="10" y="-4" class="nodelabel cell_vcc0" s:attribute="name">VCC</text>
+    <path d="M0,0 H20 L10,15 Z M10,15 V30" class="cell_vcc0"/>
+    <g s:x="10" s:y="30" s:pid="A" s:position="bottom"/>
+  </g>
+  <g s:type="vcc" s:width="20" s:height="30" transform="translate(64,67)" id="cell_vcc1">
+    <s:alias val="vcc"/>
+    <text x="10" y="-4" class="nodelabel cell_vcc1" s:attribute="name">VCC</text>
+    <path d="M0,0 H20 L10,15 Z M10,15 V30" class="cell_vcc1"/>
+    <g s:x="10" s:y="30" s:pid="A" s:position="bottom"/>
+  </g>
+  <g s:type="gnd" s:width="20" s:height="30" transform="translate(180,321)" id="cell_gnd0">
+    <s:alias val="gnd"/>
+    <text x="30" y="20" class="nodelabel cell_gnd0" s:attribute="name">GND</text>
+    <path d="M0,0 H20 M3,5 H17 M7,10 H13 M10,0 V-15" class="cell_gnd0"/>
+    <g s:x="10" s:y="-15" s:pid="A" s:position="top"/>
+  </g>
+  <g s:type="gnd" s:width="20" s:height="30" transform="translate(117,204)" id="cell_gnd1">
+    <s:alias val="gnd"/>
+    <text x="30" y="20" class="nodelabel cell_gnd1" s:attribute="name">GND</text>
+    <path d="M0,0 H20 M3,5 H17 M7,10 H13 M10,0 V-15" class="cell_gnd1"/>
+    <g s:x="10" s:y="-15" s:pid="A" s:position="top"/>
+  </g>
+  <line x1="22" x2="22" y1="52" y2="57" class="net_1"/>
+  <line x1="22" x2="22" y1="107" y2="270" class="net_2"/>
+  <line x1="22" x2="201" y1="270" y2="270" class="net_2"/>
+  <line x1="22" x2="22" y1="107" y2="179" class="net_2"/>
+  <line x1="22" x2="157" y1="179" y2="179" class="net_2"/>
+  <line x1="157" x2="157" y1="179" y2="205" class="net_2"/>
+  <circle cx="22" cy="179" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="157" cy="179" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="157" cy="205" r="2" style="fill:#000" class="net_2"/>
+  <line x1="157" x2="167" y1="205" y2="205" class="net_2"/>
+  <line x1="22" x2="22" y1="107" y2="117" class="net_2"/>
+  <line x1="22" x2="94" y1="117" y2="117" class="net_2"/>
+  <line x1="94" x2="94" y1="117" y2="143" class="net_2"/>
+  <circle cx="22" cy="117" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="94" cy="117" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="94" cy="143" r="2" style="fill:#000" class="net_2"/>
+  <line x1="94" x2="104" y1="143" y2="143" class="net_2"/>
+  <line x1="22" x2="22" y1="107" y2="117" class="net_2"/>
+  <line x1="22" x2="33" y1="117" y2="117" class="net_2"/>
+  <line x1="33" x2="33" y1="117" y2="143" class="net_2"/>
+  <circle cx="33" cy="117" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="33" cy="143" r="2" style="fill:#000" class="net_2"/>
+  <line x1="33" x2="52" y1="143" y2="143" class="net_2"/>
+  <line x1="22" x2="22" y1="107" y2="117" class="net_2"/>
+  <line x1="22" x2="241" y1="117" y2="117" class="net_2"/>
+  <line x1="241" x2="241" y1="117" y2="143" class="net_2"/>
+  <circle cx="241" cy="143" r="2" style="fill:#000" class="net_2"/>
+  <line x1="241" x2="251" y1="143" y2="143" class="net_2"/>
+  <line x1="22" x2="22" y1="107" y2="117" class="net_2"/>
+  <line x1="22" x2="189" y1="117" y2="117" class="net_2"/>
+  <line x1="189" x2="189" y1="117" y2="143" class="net_2"/>
+  <circle cx="189" cy="117" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="189" cy="143" r="2" style="fill:#000" class="net_2"/>
+  <line x1="189" x2="199" y1="143" y2="143" class="net_2"/>
+  <line x1="201" x2="22" y1="270" y2="270" class="net_2"/>
+  <line x1="22" x2="22" y1="270" y2="244" class="net_2"/>
+  <line x1="22" x2="223" y1="244" y2="244" class="net_2"/>
+  <circle cx="223" cy="244" r="2" style="fill:#000" class="net_2"/>
+  <line x1="223" x2="223" y1="244" y2="256" class="net_2"/>
+  <line x1="201" x2="22" y1="270" y2="270" class="net_2"/>
+  <line x1="22" x2="22" y1="270" y2="244" class="net_2"/>
+  <line x1="22" x2="147" y1="244" y2="244" class="net_2"/>
+  <line x1="147" x2="147" y1="244" y2="179" class="net_2"/>
+  <line x1="147" x2="189" y1="179" y2="179" class="net_2"/>
+  <circle cx="189" cy="179" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="147" cy="179" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="147" cy="244" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="22" cy="244" r="2" style="fill:#000" class="net_2"/>
+  <line x1="189" x2="189" y1="179" y2="191" class="net_2"/>
+  <line x1="167" x2="157" y1="205" y2="205" class="net_2"/>
+  <line x1="157" x2="157" y1="205" y2="244" class="net_2"/>
+  <line x1="157" x2="223" y1="244" y2="244" class="net_2"/>
+  <circle cx="157" cy="244" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="157" cy="205" r="2" style="fill:#000" class="net_2"/>
+  <line x1="223" x2="223" y1="244" y2="256" class="net_2"/>
+  <line x1="167" x2="157" y1="205" y2="205" class="net_2"/>
+  <line x1="157" x2="157" y1="205" y2="179" class="net_2"/>
+  <line x1="157" x2="189" y1="179" y2="179" class="net_2"/>
+  <circle cx="157" cy="205" r="2" style="fill:#000" class="net_2"/>
+  <line x1="189" x2="189" y1="179" y2="191" class="net_2"/>
+  <line x1="104" x2="94" y1="143" y2="143" class="net_2"/>
+  <line x1="94" x2="94" y1="143" y2="179" class="net_2"/>
+  <line x1="94" x2="223" y1="179" y2="179" class="net_2"/>
+  <circle cx="94" cy="179" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="223" cy="179" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="94" cy="143" r="2" style="fill:#000" class="net_2"/>
+  <line x1="223" x2="223" y1="179" y2="256" class="net_2"/>
+  <line x1="104" x2="94" y1="143" y2="143" class="net_2"/>
+  <line x1="94" x2="94" y1="143" y2="179" class="net_2"/>
+  <line x1="94" x2="189" y1="179" y2="179" class="net_2"/>
+  <circle cx="94" cy="143" r="2" style="fill:#000" class="net_2"/>
+  <line x1="189" x2="189" y1="179" y2="191" class="net_2"/>
+  <line x1="52" x2="33" y1="143" y2="143" class="net_2"/>
+  <line x1="33" x2="33" y1="143" y2="179" class="net_2"/>
+  <line x1="33" x2="223" y1="179" y2="179" class="net_2"/>
+  <circle cx="33" cy="179" r="2" style="fill:#000" class="net_2"/>
+  <circle cx="33" cy="143" r="2" style="fill:#000" class="net_2"/>
+  <line x1="223" x2="223" y1="179" y2="256" class="net_2"/>
+  <line x1="52" x2="33" y1="143" y2="143" class="net_2"/>
+  <line x1="33" x2="33" y1="143" y2="179" class="net_2"/>
+  <line x1="33" x2="189" y1="179" y2="179" class="net_2"/>
+  <circle cx="33" cy="143" r="2" style="fill:#000" class="net_2"/>
+  <line x1="189" x2="189" y1="179" y2="191" class="net_2"/>
+  <line x1="251" x2="241" y1="143" y2="143" class="net_2"/>
+  <line x1="241" x2="241" y1="143" y2="179" class="net_2"/>
+  <line x1="241" x2="223" y1="179" y2="179" class="net_2"/>
+  <circle cx="241" cy="143" r="2" style="fill:#000" class="net_2"/>
+  <line x1="223" x2="223" y1="179" y2="256" class="net_2"/>
+  <line x1="251" x2="241" y1="143" y2="143" class="net_2"/>
+  <line x1="241" x2="241" y1="143" y2="179" class="net_2"/>
+  <line x1="241" x2="189" y1="179" y2="179" class="net_2"/>
+  <circle cx="241" cy="143" r="2" style="fill:#000" class="net_2"/>
+  <line x1="189" x2="189" y1="179" y2="191" class="net_2"/>
+  <line x1="199" x2="189" y1="143" y2="143" class="net_2"/>
+  <line x1="189" x2="189" y1="143" y2="179" class="net_2"/>
+  <line x1="189" x2="223" y1="179" y2="179" class="net_2"/>
+  <circle cx="189" cy="143" r="2" style="fill:#000" class="net_2"/>
+  <line x1="223" x2="223" y1="179" y2="256" class="net_2"/>
+  <line x1="199" x2="189" y1="143" y2="143" class="net_2"/>
+  <circle cx="189" cy="143" r="2" style="fill:#000" class="net_2"/>
+  <line x1="189" x2="189" y1="143" y2="191" class="net_2"/>
+  <line x1="74" x2="74" y1="97" y2="107" class="net_4"/>
+  <line x1="74" x2="126" y1="107" y2="107" class="net_4"/>
+  <circle cx="74" cy="107" r="2" style="fill:#000" class="net_4"/>
+  <circle cx="126" cy="107" r="2" style="fill:#000" class="net_4"/>
+  <line x1="126" x2="126" y1="107" y2="129" class="net_4"/>
+  <line x1="74" x2="74" y1="97" y2="129" class="net_4"/>
+  <line x1="74" x2="74" y1="97" y2="107" class="net_4"/>
+  <line x1="74" x2="273" y1="107" y2="107" class="net_4"/>
+  <line x1="273" x2="273" y1="107" y2="129" class="net_4"/>
+  <line x1="74" x2="74" y1="97" y2="107" class="net_4"/>
+  <line x1="74" x2="221" y1="107" y2="107" class="net_4"/>
+  <circle cx="221" cy="107" r="2" style="fill:#000" class="net_4"/>
+  <line x1="221" x2="221" y1="107" y2="129" class="net_4"/>
+  <line x1="224" x2="224" y1="283" y2="296" class="net_3"/>
+  <line x1="224" x2="190" y1="296" y2="296" class="net_3"/>
+  <circle cx="190" cy="296" r="2" style="fill:#000" class="net_3"/>
+  <line x1="190" x2="190" y1="296" y2="306" class="net_3"/>
+  <line x1="190" x2="190" y1="218" y2="306" class="net_3"/>
+  <line x1="127" x2="127" y1="156" y2="189" class="net_5"/>
+  <line x1="75" x2="75" y1="156" y2="169" class="net_5"/>
+  <line x1="75" x2="127" y1="169" y2="169" class="net_5"/>
+  <circle cx="127" cy="169" r="2" style="fill:#000" class="net_5"/>
+  <line x1="127" x2="127" y1="169" y2="189" class="net_5"/>
+  <line x1="274" x2="274" y1="156" y2="169" class="net_5"/>
+  <line x1="274" x2="127" y1="169" y2="169" class="net_5"/>
+  <line x1="127" x2="127" y1="169" y2="189" class="net_5"/>
+  <line x1="222" x2="222" y1="156" y2="169" class="net_5"/>
+  <line x1="222" x2="127" y1="169" y2="169" class="net_5"/>
+  <circle cx="222" cy="169" r="2" style="fill:#000" class="net_5"/>
+  <line x1="127" x2="127" y1="169" y2="189" class="net_5"/>
+</svg>
