@@ -3,6 +3,7 @@ title: "하루도 생각보다 꽤 길다..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 남의 생각을 이해하려다보면,    

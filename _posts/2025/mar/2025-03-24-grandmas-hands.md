@@ -3,6 +3,7 @@ title: "종교..종교모임..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 ‘종교’라는 것의 정의를 내가 잘 몰랐던 것일까.

@@ -3,6 +3,7 @@ title: "LLM 맛이나 보기..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 재미삼아 LLM 맛보기로 간단한 Training을 해보았다. 대충 써놓고 chatgpt에게 만져달라고 했더니 이렇게 적어주었다. 잘 모르겠다. 원래 내가 이것을 쓰려고 한 것이었는지는.

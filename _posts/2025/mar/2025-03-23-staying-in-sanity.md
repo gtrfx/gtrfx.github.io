@@ -3,6 +3,7 @@ title: "건강한 상태로 머물고 싶다..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 몸과 마음이 모두 건강한 상태로 머물고 싶어하는 바람과 의지는 누구에게나 강할 것이라고 생각한다. 나 역시 그러하고.

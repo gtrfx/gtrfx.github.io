@@ -3,6 +3,7 @@ title: "기술 서적은 이제 그만 사야 되나..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 작년에 한국에 갔을 때 관심있는 기술분야에 대한 책을 몇 개 사볼까 하다가 결국은 헌책방에서 몇 권 사가지고 간 기억이 있다.

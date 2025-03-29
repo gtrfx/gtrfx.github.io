@@ -3,6 +3,7 @@ title: "내가 원한다고 모든 일이 다 잘 되지만은 않는다..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 너무나 뻔한 이야기인데,

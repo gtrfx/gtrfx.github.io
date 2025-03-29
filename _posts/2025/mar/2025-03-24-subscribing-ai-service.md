@@ -3,6 +3,7 @@ title: "AI 서비스를 구독했다..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 나란 사람은… 글쎄, 나와 비슷한 나이와 조건의 사람들의 평균이 어떤지는 잘 모르겠지만, 여간해서는 지갑을 잘 열지 않는 타입이다.

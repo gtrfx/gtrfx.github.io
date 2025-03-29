@@ -3,6 +3,7 @@ title: "긍정적 사고도 그냥 '묻지마'는 안된단다..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 ### 무조건 긍정하라는 말이 불편한 이유

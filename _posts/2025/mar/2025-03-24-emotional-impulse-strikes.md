@@ -3,6 +3,7 @@ title: "감성 뿜뿜..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 개인적인 신상의 변화는 내게 서서히 다가오는 법이 별로 없었다.

@@ -3,6 +3,7 @@ title: "최악의 상황을 그대로 직면하기..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 예전에도 자주 들었던 삶의 기술 중 하나인데, 오늘은 그냥 내 생각대로 한 번 풀어볼까 한다.

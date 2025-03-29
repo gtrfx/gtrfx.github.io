@@ -3,6 +3,7 @@ title: "나의 말과 생각의 속도는 왜 이리 느릴까?..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 아침에 문득 이런 저런 강연들을 보고 있자니 '나의 말과 행동은 (이 사람들에 비해) 왜 이리 느린 걸까?'하는 생각을 해봤다.

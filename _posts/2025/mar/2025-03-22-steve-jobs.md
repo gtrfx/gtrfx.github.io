@@ -3,6 +3,7 @@ title: "스티브 잡스의 발표를 보다가..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 아무 생각 없이 유튜브를 보다가, 예전 스티브 잡스의 발표 장면들이 추천 영상으로 떠서 한참을 보게 되었다.
