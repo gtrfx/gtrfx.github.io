@@ -16,3 +16,19 @@ pytorch가 특별히 좋다라고는 말을 못하겠지만 이렇게 편한 게
 뭐가 되었든 NVIDIA GPU를 안쓸 수 없는 상황이다.
 
 그러나, linux 설치하고 이거 저거 하다보면 솔직히 Mac이 얼마나 좋고 편한지 알게 된다.
+
+conda로 설치하면 최근 제품은 지원이 안된다. pytorch site에 가서 선택하면 nightly 버전을 pip으로 설치하는 커맨드를 알려준다.
+
+일단 설치 내용은 이렇다: 
+```
+>>> torch.cuda.device_count()
+1
+>>> torch.cuda.device(0)
+<torch.cuda.device object at 0x77e88b0429f0>
+>>> torch.cuda.get_device_name(0)
+'NVIDIA Graphics Device'
+```
+
+아주 간단한 벤치를 돌려보면 5070 ti CUDA에서 걸리는 시간이 pytorch-mps에서 돌리면 대충 15배 정도 나온다. 복잡한 걸 아직 안돌려봐서 모르지만 보나마나 이것보다 훨씬 더 날 것으로 보여진다.
+
+colab에 가서 무료로 제공되는 T4를 가지고 돌렸더니 대충 8배 정도 걸리는 걸로 나온다. MLX는 안 돌려봤지만 잘 해봐야 7-8배쯤 나올 것 같다.
