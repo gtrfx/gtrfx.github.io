@@ -3,7 +3,6 @@ title: "matplotlib이 제대로 동작하지 않는 경우..."
 tags: [life]
 layout: post
 author: "Keith"
-published: false
 ---
 
 먼저 내 컴퓨팅 환경을 요약하면:

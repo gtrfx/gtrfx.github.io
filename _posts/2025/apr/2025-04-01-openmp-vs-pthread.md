@@ -3,7 +3,6 @@ title: "OpenMP vs pthread..."
 tags: [life]
 layout: post
 author: "Keith"
-published: false
 ---
 
 요약해서 얘기하면 OpenMP가 간단하고 세련된 모양을 하고 있고 pthread는 다소 primitive한 모양을 하고 있다.

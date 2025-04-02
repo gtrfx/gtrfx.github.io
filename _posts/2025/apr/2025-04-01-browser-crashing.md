@@ -3,7 +3,6 @@ title: "Linux: browser를 띄우면 Xorg가 crashing하는 경우..."
 tags: [life]
 layout: post
 author: "Keith"
-published: false
 ---
 
 먼저 내 컴퓨팅 환경을 요약하면:
