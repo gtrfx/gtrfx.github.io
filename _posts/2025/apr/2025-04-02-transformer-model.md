@@ -54,14 +54,16 @@ transformer라는 것이 처음 나온 것은 번역기를 만들면서 부터�
 
 #### 파라미터의 양
 
-일반적으로 파라미터의 양은 이 scaled dot attention을 계산하는데 들어가는 linear weight + bias와 그 다음으로 연결되는 feed-forward network의 weight/bias가 대부분을 차지한다. 이것을 얼마나 길게 볼 것이냐 얼마나 많은 layer를 놓고 볼 것이냐에 따라 파라미터의 양이 비례하게 된다. 
+파라미터의 양은 기본적으로 transformer layer를 몇 개를 쌓느냐, 그리고 token embedding size가 얼마가 되느냐에 따라 결정된다.
+Transformer의 구조는 대동소이 하다.
 
-주로 LLM 학습용으로 쓰이는 GPT-2 model을 보면 12 head, 12 layer (of multi-head attention)이다.
+Layer norm -> multi-head attention -> layer norm -> Feedforwad network 의 흐름으로 굴러간다.
 
-대충 생각해봐도 하나의 scaled-dot-attention에 
+이렇게 해서 정해진 개수의 layer를 통과해서 나온 결과를 최종적으로 linear norm/matrix multiplication을 해서 내보낸다.
 
 #### 계산량을 생각해볼까?
 
 그림에서 봐도 scaled-dot-attention 블록이 가장 많은 연산을 하게 된다. 또 이 블록이 가장 많은 개수로 들어가 있게 된다. 만약에 하드웨어로 만든다고 하면 이 부분을 얼마나 야무지게 만드느냐에 따라서 해당 학습/추론 머신의 성능이 결정될 것이다. 내가 이해하기로 deepseek model에서는 이 안에 들어가는 계산량을 줄이는 노력을 한 것으로 알고 있다 (나중에 알아보기로 하자). 불필요한 연산이나 메모리 액세스를 살짝 줄이는 것만으로 학습/추론 속도 증가와 엄청난 에너지 절감을 가져올 것이다.
 
-개념적으로 구현되는 블록들에 대한 신호처리 하드웨어적인 최적화를 하면 지금처럼 (CUDA) GPU가 고생하는 것에 비해 훨씬 작은 수고로도 원하는 목표를 이룰 수 있을 것이다. 실제로 그런 노력이 이루어지고 있고. 
+개념적으로 구현되는 블록들에 대한 신호처리 하드웨어적인 최적화를 하면 지금처럼 (CUDA) GPU가 고생하는 것에 비해 훨씬 작은 수고로도 원하는 목표를 이룰 수 있을 것이다. 실제로 그런 노력이 이루어지고 있고. (FA/FA2/3)
+
