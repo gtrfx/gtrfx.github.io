@@ -3,6 +3,7 @@ title: "고통속에서 정신건강..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 누군가는 이렇게 간단하게 말할지도 모른다.
