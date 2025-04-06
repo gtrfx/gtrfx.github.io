@@ -3,6 +3,7 @@ title: "LLM이 코딩을 해주긴 하는데..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 LLM이 점점 신적인 존재처럼 여겨지고 있는데, 동시에 LLM에 대한 정보가 끊임없이 쏟아져 나와서… 뭐랄까, 병 주고 약 주는 느낌이랄까?

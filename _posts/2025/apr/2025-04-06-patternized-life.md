@@ -3,6 +3,7 @@ title: "길을 잃어서 불안한 마음으로 방황하고 있다고 느껴질
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 ### 길을 잃어서 불안한 마음으로 방황하고 있다고 느껴질 때
