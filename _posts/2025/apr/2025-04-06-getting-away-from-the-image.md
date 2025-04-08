@@ -3,6 +3,7 @@ title: "생각의 생각을 거듭하다보니..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 불교대학도 다니고, 좋다는 책이나 강의도 열심히 읽고 들었다.      

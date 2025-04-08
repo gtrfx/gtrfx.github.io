@@ -3,6 +3,7 @@ title: "부정적인 미래의 예측..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 좌뇌는 과거와 미래를 넘나들며 끊임없이 계산하고 예측하는 일을 맡고 있다고 한다.     
