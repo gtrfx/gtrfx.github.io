@@ -3,6 +3,7 @@ title: "중용의 덕..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 내 삶을 대충 대충 살아야겠다.
