@@ -1,5 +1,5 @@
 ---
-title: "오늘의 학습 내용..."
+title: "오늘의 학습 내용(4/15/2025)..."
 tags: [study]
 layout: post
 author: "Keith"
@@ -31,4 +31,25 @@ stable_sort: merge sort --> stable by creating another memory space
 - shell sort:
 
 일반적으로 sort를 내가 구현할 이유는 없지만 머리로 생각이나 한번 해보라는 용도로 이 예제를 활용하는 것 같음. 대개는 sort 아니면 stable_sort (=비교대상의 값이 같다면 원래 데이터의 순서를 유지함)를 불러내어씀.
+
+**소프트웨어의 4대 본질적 어려움**   
+1.	Complexity (복잡성)      
+•	상태 공간이 기하급수적으로 커짐      
+•	인간의 이해 한계를 넘어서기 쉬움      
+2.	Conformity (환경 적응성)      
+•	외부 시스템, 조직 규칙, 법규 등에 맞춰야 함      
+•	자연 법칙이 아닌 인위적 복잡성에 끌려다님      
+3.	Changeability (변화 용이성 부족)      
+•	소프트웨어는 자주 변경되며, 변경은 오류를 유발      
+•	유지보수가 항상 동반됨      
+4.	Invisibility (비가시성)      
+•	물리적 구조물이 아니라 시각적으로 파악이 어려움      
+•	복잡도 시각화가 어렵고 의사소통에 장애      
+
+**개선 가능 요소들:**        
+1.	Requirements refinement (요구사항 명확화)       
+2.	Rapid prototyping (빠른 프로토타이핑)       
+3.	Incremental development (점진적 개발)       
+4.	Great designers (우수한 개발자 양성)       
+•	“한 명의 뛰어난 개발자가 열 명의 평균 개발자보다 낫다”       
 
