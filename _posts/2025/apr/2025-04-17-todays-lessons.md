@@ -11,6 +11,7 @@ author: "Keith"
   - dma controller: A/D port 한 개 뿐이라 이걸 multiplexing해서 1 word씩 데이터를 복사함.
   - 필요에 따라 FIFO를 넣어서 완충할 수 있음.
   - verilog에 inout port는 define은 되어있지만 잘 쓰지 않음
+  - inout port를 써서 만들더라도 동작은 잘 함. 합성했을 때 모양새가 좋지 못함.
 - 작성하는 것은 쉽지만 대부분 test/debug하는데 많은 시간을 씀
 - copilot이 코드 작성의 많은 부분을 돕긴 하지만 실제로 debug하는 데 도움을 주진 못함. 따라서, 아주 약간의 생산성 증가만 있음.
 
@@ -27,6 +28,9 @@ RISC-V라고 해서 특이한 instruction을 가지고 있진 않으므로 assem
 CPU가 사실 엄청난 많은 기능을 가지고 있을 것 같지만, 그것은 software와 주변기기와 결합되었을 때 엄청난 능력을 보여줄 뿐 사실상 구성은 매우 간단하다.
 크게 나눠서 ALU와 PC를 조작하는 FSM으로 나눠보면 될 것 같다 (data path + control logic).
 여러 개의 instruction으로 구현 가능한 것들을 죄다 빼버리면 ALU도 간단하게 만들 수 있다.
+
+**UVM**:    
+- 개념과 실무에서의 적용예의 상관관계를 아직 찾지 못하고 있다.
 
 **책 모으기**:    
 - verilog/FPGA 관련 서적: 5권
