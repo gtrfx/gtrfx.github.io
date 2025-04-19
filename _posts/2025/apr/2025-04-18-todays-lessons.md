@@ -14,26 +14,20 @@ inout port 동작 실험을 통해 확인, synthesis 결과는 tri-state port �
 
 
 **오늘 본 책들**:
-- FPGA EDA란 책 읽어봄:   
+- FPGA EDA란 책 읽어봄:     
+내용은 굉장히 많은데 뭐가 도움이 되는 부분인지 찾기가 힘들었다.
 - LLVM17:    
 일반적인 컴파일러 방법론을 학습하기 위해서 읽어 봄. 일단 중간 챕터까지 읽어봄. LLVM으로 자기 언어를 만들었을 때 컴파일러(front/middle/backend)를 어떻게 해야할지 등등에 대해 알려줌.
 컴파일러의 일반 체계는 다음과 같음. 
-   - lexical analysis:    
-   단어와 숫자, 기호들을 구분하여 분석함
-   - syntactical analysis:     
-   문법상의 오류를 분석함
-   - semantic analysis:    
-   의미상의 오류를 분석함
-   - IR(intermediate representation) generation:   
-   중간 단계의 결과물을 만들어 냄
-   - IR optimization
-   - Code generation     
-
+   - lexer --> parser --> sema --> IR generation --> IR optimize --> code generation     
+다루는 내용이 굉장히 많지만 나한테 유용한 것은 못 찾겠음.
+- 
 
 **잡용어/앱들**:     
 - DSL: domain specific language
 - Reveal.js: HTML로 발표자료 만들기 (별로)
 - Marp: 이거 조금 괜찮음.
+- LLVM JIT(lli): LLVM IR을 주면 JIT가 돈다.
 
 **잡소리 적어보기**:   
 > 경험적으로 보면 프로그램을 모두 내손으로 작성한다기 보단 일련의 함수들과 type/template을 정의해서 일반적인 컴퓨터 언어의 형태로 구현하고, 각각의 함수들에서 실질적으로 일어나는 일들을 IR의 형태로 기록하고, 그 결과를 가지고 optimize/code generation을 하는 것이 내가 보기엔 빠른 approach로 보여진다.    
