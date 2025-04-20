@@ -8,10 +8,8 @@ author: "Keith"
 **verilog 실습**:    
 - SRAM module:     
 inout port 동작 실험을 통해 확인, synthesis 결과는 tri-state port 때문에 매우 지저분함. 내부 모듈로 사용할 때는 쓸데없는 게이트를 낭비하면서 bidirection일 이유가 없음.
-- 
-
-**computer architecture**:
-
+- VGA module:    
+초호화 스펙으로 완성.
 
 **오늘 본 책들**:
 - FPGA EDA란 책 읽어봄:     
