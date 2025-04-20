@@ -8,10 +8,11 @@ author: "Keith"
 **verilog 실습**:    
 - SRAM module:     
 inout port 동작 실험을 통해 확인, synthesis 결과는 tri-state port 때문에 매우 지저분함. 내부 모듈로 사용할 때는 쓸데없는 게이트를 낭비하면서 bidirection일 이유가 없음.
-- 
 
-**computer architecture**:
-
+**computer architecture**:       
+- RISC-V architecture 학습:     
+RISC-V는 성능이 특별히 뛰어나다든가 앞서간 아키텍쳐를 갖고 있다기 보단 open source로 누구든 가져다 쓸 수 있는 장점 때문에 널리 알려졌다고 봐야지 싶다.
+향후 컴퓨터 아키텍쳐를 가르칠 때 사용하기 좋은 모델이라고나 할까. 또 verilog/Chisel implementation을 쉽게 구할 수 있어서 자신의 FPGA에 구현해 넣기 편하다. 문제는 이젠 소규모 기업에서 칩을 찍어낸다는 것 자체가 비용상의 문제로 사실상 불가능해졌고 FPGA를 쓰더라도 그안에 modern architecture의 CPU를 합성해넣는다는 것이 (적어도 내가 보기엔) 별로 실용적이지 못하다는 것이다. FPGA가 비약적으로 발전해서 32bit RISC를 한 구석에 넣는 게 아무런 부담이 없는 일이라면 모를까. 그런 의미에서 차라리 ZYNQ처럼 성능이 괜찮은 ARM core가 내장된 SoC type의 FPGA가 훨씬 더 매력적으로 보여진다.
 
 **오늘 본 책들**:
 - FPGA EDA란 책 읽어봄:     
