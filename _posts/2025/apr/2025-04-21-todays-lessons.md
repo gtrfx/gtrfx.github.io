@@ -7,12 +7,14 @@ author: "Keith"
 
 **HBM**:    
 - DRAM을 stacking, TSV(through-silicon via)를 통해서 적층 기판처럼 CPU/SoC와 연결됨
-- HBM3: 1024 data pins, 6.4 Gbps/pin
-- Bus bandwidth: 1024 x 6.4G /8 = 819.2 GBps
+- HBM3: 1024 data pins, 6.4 Gbps/pin, Bus bandwidth: 1024 x 6.4G /8 = 819.2 GBps
+- HBM4: 2048 data pins, 9.6, 12.8 Gbps/pin, Bus bandwidth: 2049 x 9.6G /8 = 2.45T GBps
+
 
 **HBM controller**:     
 - HBM의 읽기/쓰기 효율을 높여주는 기능을 담당
 - FIFO, FSM, SRAM, ...
+- D2D, DFI, ...
 
 **AXI**:
 - 기본 구조: AW, W, B / AR, R 채널
