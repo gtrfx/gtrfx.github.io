@@ -1,5 +1,5 @@
 ---
-title: "오늘의 학습 내용(4/19/2025)..."
+title: "오늘의 학습 내용(4/22/2025)..."
 tags: [study]
 layout: post
 author: "Keith"
