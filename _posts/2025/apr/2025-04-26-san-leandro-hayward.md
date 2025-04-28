@@ -1,5 +1,5 @@
 ---
-title: "샌 레안드로와 헤이워드에 가봤다..."
+title: "San Leandro and Hayward..."
 tags: [life]
 layout: post
 author: "Keith"
