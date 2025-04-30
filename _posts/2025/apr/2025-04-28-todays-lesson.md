@@ -3,6 +3,7 @@ title: "오늘 배운 내용..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 - Ray Dalio:    
