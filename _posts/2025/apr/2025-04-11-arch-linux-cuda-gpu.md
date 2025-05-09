@@ -13,15 +13,13 @@ arch linux를 잘못 업데하다가 드라이버가 죄다 꼬여서 부팅도 
 
 CUDA를 쓰려면, 그것도 최신 GPU로 CUDA를 arch linux에서 쓰려면 좀 복잡하다.
 
-일단 아래의 링크를 참조해서 드라이버를 설치한다.
+다음을 pacman으로 잘 설치하면 문제 없이 된다.
 
-https://github.com/korvahannu/arch-nvidia-drivers-installation-guide
+nvidia-open-dkms
 
-불행히도 이게 끝이 아니다. 이렇게 설치했는데 nvidia-smi에서 아무런 device가 나타나지 않는다면 nvidia 홈페이지에 가서 직접 linux driver를 받아야 한다.
+대개 nvidia-dkms를 설치하라고 권하는데, 이것은 proprietary driver로 예전 모델만 적용된다.
 
-받아온 linux driver를 실행하면 이것 저것 물어보는데, 뭐가 자신에게 맞는지 모르므로 결국 될 때까지 모든 선택을 다 해봐야 한다.
-
-설치가 완료되면 nvidia-smi를 실행했을 때 내 GPU의 상태가 제대로 보고 되어야 한다.
+설치가 완료되면 nvidia-smi를 실행했을 때 내 GPU의 상태가 제대로 보고 되어야 한다. 잘 안되면 재부팅 한 번 해보고.
 
 만일 이게 안되면 계속해서 위에 정리한 작업들 중에서 빼먹은 것이 있는지 나에게 맞지 않는 것이 있는지 찾아내서 다시 해줘야 한다.
 
