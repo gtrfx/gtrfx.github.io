@@ -5,6 +5,7 @@ layout: post
 author: "Keith"
 ---
 
+- 읽은 책: programming massively parallel processing
 - 읽은 책: the mind is flat
 
 1. 우리는 뇌가 만들어낸 ‘즉흥극’의 피해자
