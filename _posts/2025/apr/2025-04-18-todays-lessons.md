@@ -3,6 +3,7 @@ title: "오늘의 학습 내용(4/18/2025)..."
 tags: [study]
 layout: post
 author: "Keith"
+published: false
 ---
 
 **verilog 실습**:    
