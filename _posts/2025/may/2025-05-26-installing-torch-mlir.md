@@ -47,12 +47,15 @@ MLIR을 활용하는 데 있어 **PyTorch는 현재 가장 적합한 DSL(Domain-
       -DCMAKE_BUILD_TYPE=RelWithDebInfo \
       -DLLVM_ENABLE_ASSERTIONS=ON \
       -DPython3_FIND_VIRTUALENV=ONLY \
+      -DPython_FIND_VIRTUALENV=ONLY \
       -DMLIR_ENABLE_BINDINGS_PYTHON=ON \
       -DLLVM_TARGETS_TO_BUILD=host \
       externals/llvm-project/llvm \
       -DLLVM_ENABLE_PROJECTS=mlir \
       -DLLVM_EXTERNAL_PROJECTS="torch-mlir" \
-      -DLLVM_EXTERNAL_TORCH_MLIR_SOURCE_DIR="$PWD"
+      -DLLVM_EXTERNAL_TORCH_MLIR_SOURCE_DIR="$PWD" \
+      -DTORCH_MLIR_ENABLE_PYTORCH_EXTENSIONS=ON \
+      -DTORCH_MLIR_ENABLE_JIT_IR_IMPORTER=ON
 
     cmake --build build
     ```
