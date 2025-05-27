@@ -3,6 +3,7 @@ title: "오늘의 학습 내용 (05/25)..."
 tags: [life]
 layout: post
 author: "Keith"
+published: false
 ---
 
 여러 가지 열띤 토론 내용이 있긴 하지만 기록하긴 뭐하고 일단 기록할만한 것들만 뽑아보면.
