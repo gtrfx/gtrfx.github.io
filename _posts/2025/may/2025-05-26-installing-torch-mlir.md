@@ -9,8 +9,6 @@ author: "Keith"
 
 MLIR을 활용하는 데 있어 **PyTorch는 현재 가장 적합한 DSL(Domain-Specific Language) 중 하나**로 평가받고 있습니다. 그러나 PyTorch MLIR을 성공적으로 설치하는 과정은 때때로 복잡할 수 있습니다. `pip`을 통한 설치가 원활한 경우도 있지만, 그렇지 않을 경우 상당한 시간을 소모하게 됩니다.
 
-다년간의 경험을 바탕으로, 안정적인 PyTorch MLIR 설치를 위한 핵심 사항과 권장 빌드 절차를 정리했습니다.
-
 ---
 
 ### **PyTorch MLIR 로컬 빌드 권장 절차**
