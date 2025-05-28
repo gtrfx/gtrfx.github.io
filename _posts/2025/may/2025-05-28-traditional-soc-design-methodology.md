@@ -1,9 +1,11 @@
 ---
-title: "pytorch 관련 compile 기능 정리...."
+title: "전통적 칩 개발 방법론...."
 tags: [mlir]
 layout: post
 author: "Keith"
 ---
+
+심심해서 정리해본다.
 
 ### **1. 요구사항 분석 (Requirements Analysis)**
 

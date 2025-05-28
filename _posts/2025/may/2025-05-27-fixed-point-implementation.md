@@ -3,6 +3,7 @@ title: "fixed point implementation..."
 tags: [mlir]
 layout: post
 author: "Keith"
+published: false
 ---
 
 fixed point 연산을 사용하는 가장 큰 이유는 다루기 편하고 크기가 작고 싸게 만들 수 있기 때문이다. 모두가 그것의 한계(쉽게 말해 resolution이 떨어지는 것, dynamic range가 줄어드는 것)를 
