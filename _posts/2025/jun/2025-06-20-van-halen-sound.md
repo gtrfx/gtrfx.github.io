@@ -57,8 +57,8 @@ FET를 가변 저항처럼 쓰고, 그걸 VCO로 제어하는 구조인데, 귀�
 혹시라도 그 시절의 앰프 사운드에 애정이 있는 사람이 있다면,
 이번 작업이 조금이나마 의미 있게 느껴졌으면 좋겠다.
 
-<iframe width="560" height="315" src="https://youtu.be/C9Kunk2zbAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rYW833pv1HI?si=7nh60M-W1R6wbZ6D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i-Ph571yyQk?si=GlbC7vxlKdwAIT5f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jBYOEKUjptk?si=zpeuI91fFj-H3Mjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C9Kunk2zbAg?si=VGpjmVo_F9yC6kFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
