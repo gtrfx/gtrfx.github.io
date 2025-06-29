@@ -61,4 +61,4 @@ FET를 가변 저항처럼 쓰고, 그걸 VCO로 제어하는 구조인데, 귀�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jBYOEKUjptk?si=zpeuI91fFj-H3Mjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C9Kunk2zbAg?si=VGpjmVo_F9yC6kFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iNzYjhwA-IY?si=N-hqrQPhAc1f7vJ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
