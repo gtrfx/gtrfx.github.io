@@ -5,6 +5,7 @@
 - Marshall
   - 1959SLP
   - 1959SLP for EVH
+  - 1959RR
   - JTM45 (100W)
   - JCM800 2203
 - MesaBoogie
@@ -20,6 +21,7 @@
 - MXR
   - Phase 90
   - YJM308
+  - Distortion Plus
 - Soldano
   - SLO100
 - Peavey
