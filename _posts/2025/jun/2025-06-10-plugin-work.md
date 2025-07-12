@@ -36,6 +36,8 @@ author: "Keith"
 - Marshall
   - 1959SLP
   - 1959SLP variac (for 90V AC input?)
+  - 1959RR
+  - 1959SLP Jose Mod.
   - JTM45 (100W)
   - JCM800 2203
 - MesaBoogie
@@ -43,16 +45,18 @@ author: "Keith"
   - LoneStar
 - Ibanez
   - TS808
+  - TS9
+- Boss
+  - SD1
 - MXR
   - Phase 90
   - YJM308
 - Soldano
   - SLO100
-
-아직 만드는 중인 것들
+- Horizon devices
+  - Precision drive
 - Peavey
-  - 6505: feedback loop랑 UI
-- ENGL
-  - Fireball: UI
-...
+  - 6505
+
+
 
