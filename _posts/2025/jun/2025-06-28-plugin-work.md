@@ -10,6 +10,7 @@
   - JCM800 2203
 - MesaBoogie
   - Mark IIc+
+  - Mark III coliseum head
   - LoneStar
   - MarkV
   - Dual Rectifier (2CH/3CH)
@@ -37,3 +38,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4kiPwyLgocM?si=kXKBwki_RTNjuQ8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+남은 과제들:
+- class A, simulclass power amplifier modeling
+- programable delay(TC2290), spring reverb
