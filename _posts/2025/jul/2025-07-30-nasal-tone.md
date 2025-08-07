@@ -19,3 +19,7 @@ Lead channel circuit을 보면 2개의 RC tank로 일종의 공진 특성을 내
 1차 필터가 두개 겹쳐져서 일종의 resonance를 이룬다고 하면, 양쪽으로 6dB/oct 정도가 되지만 그게 두번 겹쳐지면 12dB/oct가 되니까 resonance의 느낌을 내기엔 적당한 모양새라고 할 수 있을 것이다. 대략 이 주파수 대역의 응답 특성을 그려보면 소위 비음 이라고 할 수 있는 1kHz 근처 언저리에서 봉긋이 솟아있는 것을 알 수 있다. 
 
 거기에 특별히 bass를 크게 낮춰주면 1차 tone stack 자체가 중고역대가 부각된 resonating하는 스펙트럼의 모양새를 띠게 되니까 lead circuit과 결합하면 '오' 발음을 할 때와 유사한 공진음 - 그러니까 nasal tone이 완성되는 거다.
+
+아래는 실험결과인데, 그래도 앰프를 알만한 사람들에게 어필하려고 원곡과 가깝게 하려다 보니 EQ를 좀 강하게 댄 구석이 있긴 하다. 그 와중에서도 본연의 소리가 드러나고 있긴 하지만.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wDbht3T3vFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
