@@ -1,6 +1,7 @@
 ---
 title: "삶의 난이도.."
 tags: [difficult level]
+published: false
 layout: post
 author: "Keith"
 ---
