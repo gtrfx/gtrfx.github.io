@@ -1,6 +1,7 @@
 ---
 title: "차를 한대 샀다.."
 tags: [car, tesla]
+published: false
 layout: post
 author: "Keith"
 ---
