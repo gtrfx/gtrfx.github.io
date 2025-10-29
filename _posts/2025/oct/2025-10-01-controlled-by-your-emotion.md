@@ -1,6 +1,7 @@
 ---
 title: "감정에 지배 당하기..."
 tags: [life]
+published: false
 layout: post
 author: "Keith"
 ---

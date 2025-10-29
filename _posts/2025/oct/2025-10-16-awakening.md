@@ -1,6 +1,7 @@
 ---
 title: "깨닫음?..."
 tags: [life]
+published: false
 layout: post
 author: "Keith"
 ---

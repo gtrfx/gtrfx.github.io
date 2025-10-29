@@ -1,6 +1,7 @@
 ---
 title: "나는 누군가와 대화를 하고 있는 것일까?..."
 tags: [life]
+published: false
 layout: post
 author: "Keith"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "새로운 사람 만나보기..."
 tags: [life]
+published: false
 layout: post
 author: "Keith"
 ---
