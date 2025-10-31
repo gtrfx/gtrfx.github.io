@@ -21,6 +21,16 @@ author: "Keith"
 혹여 시험이라도 본다면 다 맞출 수 있어야 한다는 둥 말도 안되는 생각이 지배했나보다. 다 학교다닐 때 생긴 습관이지.
 
 대부분의 책은 주요 내용 대비 군더더기의 비율이 1:99는 되는 것 같다. 그런 책을 읽으면서 매 chapter마다 quiz 볼 생각으로 읽으면 
-지겹고 짜증날 수 밖에 없는 건데 말이다.
+지겹고 짜증날 수 밖에 없고 그래서 더더욱 펼쳐보기도 싫은 건데 말이다.
 
+그래도, 고속 connectivity - photonics (CPO) - 는 꽤나 재미있는 주제다. 
 
+나름 올해는 세상의 흐름에 너무 등지지 않으려고 다음과 같은 아이템을 꾸준히 섭취했다는 게 다행이랄까.
+
+- LLM (transformer)
+- MLIR
+- LLVM
+- HW/SW Co-design (compiler based HW/SW design)
+- SerDes/PCIe/CXL
+- CPO (Co-packaged optics)
+- ...
