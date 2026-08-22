@@ -2,6 +2,7 @@
 title: "주말을 바라며..."
 tags: [life]
 layout: post
+published: false
 author: "Keith"
 ---
 

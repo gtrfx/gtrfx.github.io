@@ -2,6 +2,7 @@
 title: "(네게) 작은 위안이 되어주고 싶어..."
 tags: [life]
 layout: post
+published: false
 author: "Keith"
 ---
 
